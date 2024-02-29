@@ -1,0 +1,836 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001237335",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001237335"
+    },
+    "text": [
+      {
+        "content": "남자분 제일 처음사진 겉옷 정보 주실분있을까요",
+        "writer": "UgzVmi7GwZQtFwtwLRp4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인트로 브금 아시는분",
+        "writer": "Ugz50_nrMJSh9oAdgW54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 개쩐다",
+        "writer": "UgzvhG0_2zlvgZXWgvN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐하는 가 적절하구만",
+        "writer": "UgwtDT-H8soMGQ5UoS54AaABAg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박, 비율이 165라니 말도 안돼 ,",
+        "writer": "UgyGna71QcTrhS2UxvN4AaABAg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 애가 창문에 그럼 남의집 문 앞에서 막 찍은건가",
+        "writer": "Ugz9TxYy8bPSPJti9fV4AaABAg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 표정 소름,",
+        "writer": "Ugwtzq5-iDT2vyq86Sx4AaABAg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분들 헤어지시면 우",
+        "writer": "UgyNiwsQRUqDyIGPmyh4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "165 헐, 더 클줄 알았는데",
+        "writer": "UgwwpxCWukRZvaUdDrV4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고개 드세요 쩡대씨. 당신도 한 기럭짓하고 분히 멋집니다. 신과 함께)",
+        "writer": "UgxX8ZfiXqCU1nbk0q14AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분다 비율 개좋네, 와.",
+        "writer": "UgxrRRvGOHZRHStJKIB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진 나올 때 브금 알려주세요",
+        "writer": "UgyOm9bmwfmLPRt0SZx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화보라고 해도 믿을거 같다",
+        "writer": "Ugx_wL8WaZvzJjqVtSV4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저언니 175일줄알았는데,",
+        "writer": "UgzqIy_5lvZXmKI9XQR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "창문 소름,",
+        "writer": "Ugz9qygvT_cO1s_D9zZ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저 여자분 다리, 내다리,흑))",
+        "writer": "UgxEatcQwdXrkwjsrCJ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 마틸다랑 레옹생각났나,",
+        "writer": "Ugzx_lVl-cEn03LOCaV4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳤다 .",
+        "writer": "UgyyStpFw0nr94_lcWV4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자친구 이런거 싫어한다했눈데 방송에 이렇게 여친얼굴 올려두돼나 . 여친이 영상보면우얌",
+        "writer": "Ugz2lWbiEltIF5XJ3dh4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기가 왤케 무섭니",
+        "writer": "Ugzlty41CtTvntmQb0l4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 친구는 딱 150인데 비율이 좋와서 멀리서 보면 160은 되보임 역시 비율이 중요해",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자분 빅히어로에 나오는 테디닮으심",
+        "writer": "UgwUHtjf37DMBQoXQHx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜1번째사진 짱구 어른제국에나오는 악당 스타일같다",
+        "writer": "UgwAE0b28Q6mp21bRHF4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 분위기 엠브로, 하핫.",
+        "writer": "Ugwq2dRgi0Uo5t8Gx2N4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 여자분 대박, 청청패션에서 너무 감탄함",
+        "writer": "UgxZVQwY4b0lS7G1RB54AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "및힌 다리봐,",
+        "writer": "UgwkGm_AV_jccriukCx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 옷 잘입고 싶다아아아아",
+        "writer": "UgxD8vuNMKp1gzlIzN14AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이웃집아이",
+        "writer": "Ugxjht5xmoj5HKPEdXx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다리 와",
+        "writer": "UgxA9Eeq_IOegnwj7Cx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "165거 저렇게 커보임.. 와진짜 부럽다",
+        "writer": "UgxE12WNC-UIF0CQsQR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리쩡때형은 결혼온제해, 여친도없구, 앜,읍읍,",
+        "writer": "Ugx5gdYMCglSwM8evZB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저분다리가, 내 팔뚝이야,",
+        "writer": "UgxY9yBgMd5IFLGepep4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 여성분 역시 패션 쪽 일하셔서 그런가 패션이.",
+        "writer": "Ugy1sZifKiMgRfw9USh4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가남자도잘입는데혼자있으면뭔가허전한느낌있을듯 여자가옷을잘입으니까뭔가남자도옷잘입는느낌이다, 그냥둘다개멋있다",
+        "writer": "Ugza14r90--YyENF(반사회적용어)t4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "되 돼",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS8sSioqx4hbl",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "160이면 씨 발 만하네 근대 실제키는 150이라고 애 미없네 (반사회적용어)언제한다냐",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS8tjDAI89iLp",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키3 진짜 을 전문으로 떠냐",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS8uE0NzquFSR",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우산 이 말투보면 답도 안나온다 니 맜제 비율 좋은 사람들 보면서 열등감느끼고있잖어",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS8wushfZRspC",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우산 걍 글삭하고 튀세요. 당신한테도 안좋고 왜 가만히 채팅 친 이분한테 상쳐주는 말을해요. 제 3자가 봤을때 님은 정신괴 상담 받아야 할 것같네요. 진심으로 권유합니다.",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS8xQFie7JVKB",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우산 지는 얼마나 크다고",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS8xxQB3GaiLB",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지들 부모가 (혐오표현)같은 몸뚱아리 물려준걸 정신승리질 하누",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS8xxhLezDHJo",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키210 키 크면 뭐 해 인성이 한데 니 부모는 얼마나 덜떨어졌으면 자식 키 외엔 아무것도 못 키워줬니",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS94grrEkquqa",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우산 엄청 꼬였네",
+        "writer": "UgxRp-Xra7mlOHKVEI94AaABAg.8l2xpetlcOS96CdZYPjvUG",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자분 적어도 170은 넘을줄 알았는데 165밖에 안됐네 의외다",
+        "writer": "Ugy0x0mMShP3agI9TEZ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 왜 여성의 다리를 예쁘다면서 평가하시지 (혐오표현) 한냄 그켬",
+        "writer": "UgwFbQmtQAQ9UQIMptp4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "170는 되보이는데 165라카네,",
+        "writer": "UgyNFDHG2YePAicSwtx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패션 평가는 언제 어디서 하시나용",
+        "writer": "UgyXeFQFRo2ygKhCXfB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유머고 있고 재밋게 잘하시네요",
+        "writer": "Ugy2SO7IbmikzUBB66F4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 여자 진짜 간지다 멋져",
+        "writer": "Ugz4ZUFh6vBCBh6QgiR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자분도 잘입으시는데 여자분이 느낌 장 살려서 잘입으신듯 어 동의",
+        "writer": "UgzqzH-eQfv0zpjWpp94AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 입으신 맨투맨 정보좀 알수맀을까요",
+        "writer": "Ugx0Q6bnRt0seQCOmFZ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 워커 신을때 바지넣는뻐요 롤업하는게 이뻐요 갠취인가요 연청바지에 대너라이트2워커거든요",
+        "writer": "UgwDtvjVcpO9wgwNlLt4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하핫 할때 (비속어)였다 진짜",
+        "writer": "Ugww7HOR2KH04jtVYl94AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제일 첫 사진에 나온 흰색 신발 머에요",
+        "writer": "Ugy29-sbFKWoH3pS7q54AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지난 영상에서 봤는거같은데 이번엔 여친도나오네",
+        "writer": "UgxHLj__4FIz1ai-N3l4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자 검은롱코트 입은 사진에 나이키신발 정보좀주실분",
+        "writer": "Ugwo2NQAL9aVYadFnaZ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자잘입는지도모르겟고 못생겼는데,",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 진짜 선남선녀네요 너무 잘 어울린다",
+        "writer": "Ugz9MwYGMuAvEj0uvOd4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로 (반사회적용어) 님들을 위한 댓글입니다. 드립치고 이러는건 보내신분도 알아요. 재밌는 컨셉으로 하는거기 때문에 오해마세용",
+        "writer": "Ugw2gjfBlpCXEeJcGIR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 보정한건 너무티나네, 저 키에 저 다리가 절대 나올 수없음, 사진과 실제로만나면 너무 다른사람이 많다.",
+        "writer": "UgwsQ1lakwVxbltYB0h4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대형 재밋어",
+        "writer": "Ugw-fAr2e2tRSTnTMH14AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 스타일리시하고 분위기있다 막꾸민게아니라 분위기가있음",
+        "writer": "UgwtRDTy6E2lWzwmQj54AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 (혐오표현)이에요 우와우 님은 저한테 무슨짓 하시는거에여",
+        "writer": "UgwFbQmtQAQ9UQIMptp4AaABAg.8eoeIw_6Yvv8eof7o5fKK9",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아프리카TV에서 월 수 금 저녁 11시부터 합니다",
+        "writer": "UgyXeFQFRo2ygKhCXfB4AaABAg.8dqwyda6Xrw8eofENI0ewf",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1년동안 적어도 341명한테 혔엌큐퓨픂",
+        "writer": "UgzqzH-eQfv0zpjWpp94AaABAg.8deBScy6hes90B3a5HvGZW",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sean Park 착하시넹",
+        "writer": "UgzqzH-eQfv0zpjWpp94AaABAg.8deBScy6hes9FFpR-opQNc",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니 미래 아내보단 옷 잘입고 더 예쁘심",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dTfCZigV8R",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부러우면 부럽다 해라",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dU1Jy4Xq0F",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강지훈 지훈이 집에서 밥먹으면서 거울보니 평생 저런여자는 못만날것같고 살은 계속찌고 질투많이났구나",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dUq-gP8bTE",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 옷 못입고 못생긴거면 님 눈에 문제가 있는게 확실한 듯 해요 가까운 안과 가셔서 라식을 하셔야 할 것 같습니다",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dUqCRfAHd2",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분히 이쁘고 우선 기럭지가, 비율이 좋으신데.",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dUtCy9RfFe",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈에 총맞았나",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dUul0i6lE_",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 10개 넘게 달렸다고 니 안에 다른 인격 소환해서 자랑해야지",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dV3ybn6_UJ",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지훈이 뭐하는애임 눈왤캐 높냐",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dVhc_W39qA",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소크라테스 너 자신을 알라",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8dWw57GcIVy",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저정도면 몸매에 얼굴 상타인데, 얼굴 각도만 잘 재도 연예인 정도 되보이는데",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8docIIvpEuA",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비율만봐도 진짜 개(비속어) 얼굴도 이쁘신데",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8e-L9htjjdi",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집에 거울 깨졌니",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8mLSXa6nYOw",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전지현 못생겼는데",
+        "writer": "UgwLaOo4wAeaSKylX0J4AaABAg.8dT3dGQN8Cm8pKfHQcwaDg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패션TV쩡대 (반사회적용어)들덕에 고생이 많습니다 ,",
+        "writer": "Ugw2gjfBlpCXEeJcGIR4AaABAg.8dSq24j8zdA8dXV1aXwMTm",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이상한 사람들이 많지요 , 신경쓰지 마세요 ..",
+        "writer": "Ugw2gjfBlpCXEeJcGIR4AaABAg.8dSq24j8zdA8dwOwtIC__Q",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오지게댓글달아버리기 밑에서저렇게찍으면다길게나와요",
+        "writer": "UgwsQ1lakwVxbltYB0h4AaABAg.8dSpgITcBbN8dT3XTGGzjD",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강지훈 밑에서 찍고도 좀 늘린것같이 보여서요,",
+        "writer": "UgwsQ1lakwVxbltYB0h4AaABAg.8dSpgITcBbN8dTSfAU6NLg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안늘림 옆에 사물을 보셈 늘리진 않고 각도가 좋은듯",
+        "writer": "UgwsQ1lakwVxbltYB0h4AaABAg.8dSpgITcBbN8dU1Opg8qYI",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱봐도 보정없네요",
+        "writer": "UgwsQ1lakwVxbltYB0h4AaABAg.8dSpgITcBbN8dUZPnP233x",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 좋더라 밑에서찍으면 내친구 길게나오는데 실제랑다름",
+        "writer": "UgwsQ1lakwVxbltYB0h4AaABAg.8dSpgITcBbN8iCB7n5YQE2",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "커플 싫어하시는 (이름)이 웬일로 감탄을",
+        "writer": "UgzBi_SLDJEcppdUumx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개멋있다 커플이라 부럽다 옷잘입어서 부럽다 주룩,",
+        "writer": "Ugy6uiKUk_DbjYmmRIx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 풀버전은 안올리는건가요",
+        "writer": "Ugzim2d4Z376iRtmM7V4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 여성분 무조건 170이상일줄 알았는데 대박,",
+        "writer": "UgwpzxRJiwpMlxQzXEB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엠브로 팩트",
+        "writer": "Ugz9iuibU4-0xc-gK_V4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 모델같다",
+        "writer": "UgzdxwxR00NZCE_VMEZ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조거팬츠랑 잘어울리는옷 있을까욥",
+        "writer": "UgyOhByjrPAfmsfvgFR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 방송 잼",
+        "writer": "UgyeptgJAnMLznXay5F4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신한규 죄송합니다 먼저 사과하겠습니다 왠 웬 저는 이만 갑니다 총총,",
+        "writer": "UgzBi_SLDJEcppdUumx4AaABAg.8dSaSmv7ayS8ejv-VU5lgX",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "권주형 오 감사합니다",
+        "writer": "UgzBi_SLDJEcppdUumx4AaABAg.8dSaSmv7ayS8ejvb8NCVqU",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정지훈 신박한 맞춤법 지적이네욬",
+        "writer": "UgzBi_SLDJEcppdUumx4AaABAg.8dSaSmv7ayS8l2rNnx6eHY",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가조쿠분들 전 조거팬츠이 가죽자켓입은것도 괜찮아보였어요",
+        "writer": "UgyOhByjrPAfmsfvgFR4AaABAg.8dSQa9_5PgD8dSRP5_NsOO",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후드종류가 무난하지않음",
+        "writer": "UgyOhByjrPAfmsfvgFR4AaABAg.8dSQa9_5PgD8dSXdnjNnAz",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가조쿠분들 항공점퍼 후드",
+        "writer": "UgyOhByjrPAfmsfvgFR4AaABAg.8dSQa9_5PgD8dSYWRwAZ6z",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가조쿠분들 가조쿠는 아디다스 바지윗옷모자(혐오표현)신발 전부아디다스",
+        "writer": "UgyOhByjrPAfmsfvgFR4AaABAg.8dSQa9_5PgD8dbo-RhDTZl",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항공점퍼 후드 올드스쿨 바람막이",
+        "writer": "UgyOhByjrPAfmsfvgFR4AaABAg.8dSQa9_5PgD8e0wS3kiCHl",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원채 아니지 보디다스지",
+        "writer": "UgyOhByjrPAfmsfvgFR4AaABAg.8dSQa9_5PgD8jbHsm0Ven8",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=viKBgIutqiE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

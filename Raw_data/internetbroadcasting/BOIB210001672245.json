@@ -1,0 +1,604 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672245",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001672245"
+    },
+    "text": [
+      {
+        "content": "햄(이름) 힘내여",
+        "writer": "UgyROBFNGTJwE8lGbAJ4AaABAg",
+        "write_date": "2021-11-03",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 찌모햄이 맞는거죠",
+        "writer": "Ugy4wYSSbD9yozYWFJ14AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 모짜햄님",
+        "writer": "UgyhddAY9FW1-jrpolR4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 갑니다 찌개모든햄 추가님.",
+        "writer": "UgwAsf1UAkYD_49TECF4AaABAg",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 알겠습니다 부대찌개님",
+        "writer": "Ugxv0A2_VSW4_sMX2sR4AaABAg",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닉네임 연성.",
+        "writer": "UgxL5HcTmVaNBhq36PJ4AaABAg",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제2의 우엉징이 되버린 햄찌개",
+        "writer": "Ugz3I0d_zhdtkBmLS_J4AaABAg",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)햄 따라하는거 개 웃기네 진짜",
+        "writer": "UgywyeGmXHVxYIHROUV4AaABAg",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닉네임이 다양하네요 햄치즈토(이름).",
+        "writer": "Ugz65kxRX4RFJ9s4L5x4AaABAg",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부대찌개모듬햄님 잘보고 갑니다",
+        "writer": "UgzxIk8p7C0CGH20csl4AaABAg",
+        "write_date": "2021-07-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닭도리탕당면많이님 재밌으시네요",
+        "writer": "UgwqvlLK-1hm7pPotnR4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 미미(이름)",
+        "writer": "Ugy96If5caQJ8NX_GUN4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 미령이었다고한다,",
+        "writer": "UgwoJFoJJk1gDDS1-Rh4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘봤습니다 햄 새밍턴님",
+        "writer": "Ugwu38Q03MvitiUv87p4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기억이 안나서 햄찌모로 검색해서 보러옴",
+        "writer": "UgzMyh4xUpXpl4p5ogZ4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄찌렐라치즈찌개님 이름이 참 많으시네요",
+        "writer": "Ugw_-337jh1tSGNyP2R4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군대 햄찌개 생각나네",
+        "writer": "UgzwBDZhGjCWsG2gUKF4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 별명 많은애들이 인싸담당이자나",
+        "writer": "Ugxc0tvEw2kOWDzEHNV4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 햄찌모님",
+        "writer": "Ugx7hZpREa-5SnuR7cB4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄찌개님은 찌개말고 제육은 잘 볶으시나요",
+        "writer": "Ugw0ztyKAYNNSJcCYnN4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄찌개 아니였어",
+        "writer": "Ugy6kbRm_rNx9upw0ut4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아인슈타인님 잘봤습니다",
+        "writer": "UgxbYFAC0cQay638uVR4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도대체 왜 제대로 부르는 사람이 한명도 없냐 화이팅하셔요 햄찌개님",
+        "writer": "UgypKYZk6kHoPRw6aIB4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따머시기 방송보다 유입되었습니다 앞으로 자주보러가겠습니다 기모햄님",
+        "writer": "Ugwo9_znkZyawOp8fLF4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄모듬찌개의 줄임말이다.",
+        "writer": "UgzH_TIz99b8kVYn_t54AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄치즈토(이름) 잘하시네",
+        "writer": "UgxCrGSthzYxs_CU1Lx4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘봤습니다 영오햄님",
+        "writer": "Ugwm-5P6lphloqGJblp4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 이거 동요로 불러봐 이름은 하난데 별명은 서너개 그런거있었는데",
+        "writer": "Ugxin7U5j-5pmGmhHg94AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 햄치즈모닝빵님",
+        "writer": "UgxUeUAuFg4Ho23GyC94AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피모햄 (비속어) (비속어)햄 햄찌개 햄치즈 햄모찌 햄찌모 햄치즈(반사회적용어)부대찌개 햄뉴뉴 이 중 하나일듯. 나는 햄모찌가 유력하다 봄.",
+        "writer": "UgxaWVmsuyqbT85lPBh4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄소찌님 잘봤습니다",
+        "writer": "UgwlP3XZza8Z89FNg014AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천원 도네로 하루종일 아이디로 (혐오표현)할 트수들 생각하니 벌써 정신이 아찔하네요 햄찌모님",
+        "writer": "Ugz6hd5papK2VmfCaDF4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 닉이 뭐라고",
+        "writer": "UgyNeicIvKtkS4LOWEF4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄치즈부대찌개가 맞답니다 글내려주세요",
+        "writer": "UgxaWVmsuyqbT85lPBh4AaABAg.9NzllMamud89O7I7VLgRjY",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우엉징거(이름) 이후로 닉이 계속 바뀌시는 그분이시군요",
+        "writer": "UgykO2-k21RF7pKI-ZR4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘보고 갑니다 테일러 스위프트님",
+        "writer": "Ugy8A_w0XLtyvGxWq4J4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티모행님 이쁘시네요",
+        "writer": "UgxqZN7XCGX3v2tDEc14AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 반갑습니다 순대(이름)",
+        "writer": "UgwIBRk0SMZbGCzXnRt4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄(비속어)님 클립올라왔네",
+        "writer": "Ugy1RlisCbvHONxOedB4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄찌개님 그래도 괜찮습니다 미닫이문 님이랑 미드미누 님이랑 미드누누 님도 있는데요 뭐",
+        "writer": "Ugzjc-YvLEVkaM_YcNF4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 햄모둠찌개님",
+        "writer": "Ugz0QI0CLfFNzden5X54AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글에 쌍베가 반이네 먼데",
+        "writer": "Ugy1H3-jvLO2TNRRSwB4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 기분 안나쁘다고 하면 악질들 신나서 하루 종일 이름 생각해온다고요 그, 스팸(반사회적용어)볶음밥님",
+        "writer": "Ugwy3zqurD7JzhyqJ3l4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄찌개님은 닉네임이 몇개신건가요",
+        "writer": "Ugyd3wrYSaRDfLsdfUB4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모찌(이름) 따뭐시기 방송 보고 들렸다 갑니다",
+        "writer": "UgxZWnp0m6b-bBZyoXJ4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄치즈(반사회적용어)찌개(비속어)님 자낳대 화이팅 하십쇼",
+        "writer": "UgwvbTlyH6R43jMYs1J4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄치즈 (반사회적용어)은 심하다, 딱 한글자만 바꾼 찌개햄이 마따",
+        "writer": "UgyK4YITmM4C6gAgjop4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "르건즈님 잘봤습니다",
+        "writer": "UgzRWU_QjbEiZDX5WL54AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뽀(이름) 응원합니다",
+        "writer": "UgyMNM7C9HfOEK-VkdJ4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌모햄님 예쁘시네요",
+        "writer": "Ugy6lXmOxDFIvoy4SqN4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부대찌개햄님 재밌으셔",
+        "writer": "UgwtmtbE_65giHgASGl4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 자낳대 최대 수(반사회적용어)인거 같은디",
+        "writer": "UgxLC0hjb-jkJAH_nEB4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훌렁이의 의(반사회적용어) 받든자,",
+        "writer": "Ugzd92cCbNt76PfFgHR4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈옳슈옳 이름이 많아서 그런듯",
+        "writer": "Ugzd92cCbNt76PfFgHR4AaABAg.9Npp5dOFLUC9Nqxek4Aoal",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 찌게모둠햄 님",
+        "writer": "UgyAzBk5ETR4IaTFw6p4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 부대찌개마렵네",
+        "writer": "UgzFFo8gvBDxoX1jaqx4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도네 올 때마다 오른쪽 위에 이름 바뀌는 거 (비속어)",
+        "writer": "UgxNmS5D71iTI9X-15l4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기모햄찌게님 잘봤습니다",
+        "writer": "UgxEIkXsVnN6mE7Xbz94AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자막 닉네임 계속 바뀌는거 (비속어)",
+        "writer": "UgzOigQWfuaVuZpaTL14AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄치즈(반사회적용어)부대찌개(비속어)님 너무 잘하신다",
+        "writer": "UgyOWR8gcX0A2NOExN54AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트최짧 햄찌개님 메모",
+        "writer": "UgyDIJ56gaQQKDsivUR4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌개용 모듬 햄 ,",
+        "writer": "Ugwr7CG71WqsWPg2SvV4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 갑니다 (반사회적용어)님",
+        "writer": "Ugyy_weSR4luvsnM9ux4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄뉴뉴님 여기 소속이셨군요",
+        "writer": "UgzhidxjBo8f4DhD46h4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 알겠습니다 햄치즈(반사회적용어)부대찌개님. 닉이 좀 기시네요 허허",
+        "writer": "Ugy_jwWa30QVWh5SvE94AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못질 행님",
+        "writer": "UgzNT0kCze-o_xwdf454AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대략 10가지가 넘는 무언가로 부르는데 한명을 떠올리면 성공한듯 그래서 저 분이 그 뭐냐, 햄찌개라고",
+        "writer": "Ugye_jc7lCWiX5kwfsl4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 진짜 닉네임은 개인 프라이버시라 알려드릴 수 없읍니다",
+        "writer": "UgxZawGswBjR8uwX9J54AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 닉넴이 뭐라고요",
+        "writer": "Ugxd0e86DPSQCOskoGp4AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌀국수를 잇는 햄찌개",
+        "writer": "UgzVY-yxK3oUSlItbN14AaABAg",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허허 알겠습니다 (이름) 앜..",
+        "writer": "Ugy_jwWa30QVWh5SvE94AaABAg.9NnhbDZlI2n9Nq2I7aBb15",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인이 P모햄이라고 하지 않았나요",
+        "writer": "Ugxd0e86DPSQCOskoGp4AaABAg.9Nnc98aS-OS9Nnck4dzbVm",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 뭐봤냐 햄찌개라고 아, (비속어)였나,",
+        "writer": "Ugxd0e86DPSQCOskoGp4AaABAg.9Nnc98aS-OS9NncnD2DK4s",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "UC8grExyq6pmy_PUOrFfWYYA 김호치라고",
+        "writer": "Ugxd0e86DPSQCOskoGp4AaABAg.9Nnc98aS-OS9Nncq52ZlrN",
+        "write_date": "2021-06-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=SQUNIyeBGA8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001658095",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001658095"
+    },
+    "text": [
+      {
+        "content": "안타깝다 공부도 진짜 엄청잘했다던데 성격도좋고 마음도 여리고 재밋기도 한사람 좋은데 가셨길 빌게요",
+        "writer": "Ugy9smeoOw2HqU_P0v14AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어느 분 댓글이 생각이 나네요 천국에 재미있는 천사가 없어서 일찍 데려갔다고",
+        "writer": "UgwVxzeGH331BANNL914AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아직도 보러 오고 있어요. 아푸지 말고 잘 지내요 )",
+        "writer": "Ugw_HMAI8zlCp3MZhM54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 울음참고있는거봐,",
+        "writer": "UgxhkkXrd92EUfLkOjp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박(이름)은 돌아가신거 아직도 못믿겠어, 그냥 활동 쉬는거 같아,하지만,",
+        "writer": "Ugx_dOvglNZPWyFaZE94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하늘에서 꽃이 필요했나보죠,",
+        "writer": "Ugy6_Bk1YhTbbmPr3ih4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그곳에선 평안하신가요 오늘따라 더 보고싶네요",
+        "writer": "UgzUrhQdZ5Hf_EHxjet4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희는 당신덕분에 웃을수 있었고 당신이 없는 이순간 웃을수 없었습니다.",
+        "writer": "Ugwe8sXMzTzROdjx6k14AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼가 고인에 명복을 빕니다. 부디 하늘에선 행복허길 바람니다.",
+        "writer": "UgwAlicc-jVKJBCj5Sl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)어머니 삼가고인의명복을빕니다",
+        "writer": "UgzLs9trmkOqr2xPhc54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 지선언니 납골당에 대상 트로피좀 놔주세요, 제발, .",
+        "writer": "Ugyacm5FuQSf4C104V94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생전, 여자로써, 예쁘게 화장할수 없어서가 아닌, 더 웃기게 분장할수 없음이 안타깝다던 그 말, 기억할께요",
+        "writer": "UgzJDm8XjXaXWupInw14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 불안정한 세상을 우리가 바라는 이야기로 바꿀거야 게임붕괴3rd 중에서 이 불안정한 세상 속에서 그대의 웃음으로 선한 영향력으로 우리가 원하는 이야기로 바꾸려 했던 (이름) 님을 잊지 않겠습니다. 하늘에서 편히 쉬세요.",
+        "writer": "UgykdQjRazPWnjN5ggF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼가 고인의 명복을 빕니다.",
+        "writer": "Ugym0c3M0wNti_-tAqB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 언니 하늘 에섭 행볻 하게 살아",
+        "writer": "UgyX_Pykf2KTwonPX3l4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 마음이 너무 아프네요, 그곳에서는 아프지않으시길,",
+        "writer": "Ugyri4HREfDRwqBtuVF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 (이름)이 별이 되셨다는게 믿기지가 안는데, 그곳에서는 편하게 지내시고 이 곳에서 하지 못 한 일 맘것 하세요",
+        "writer": "UgwZdHUD3dill0-8tWN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그가 좋아하던 HOT의 배경음악과 함께 소개해주는 모습 선한 영향력을 아름답게 뿌리고 간 그녀를 기억하고 추억합니다 (이름) 그 곳에선 잘 지내고 계시죠",
+        "writer": "Ugw8D0ePPrdawZwEwOp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마음은 정말 예쁜 친구죠 개그우먼으로 데뷔해서 하고 싶은 개그가 많았고 웃음을 잃어가는 사람을 하루(반사회적용어) 웃게 해 주고 싶어서 그 뜨거운 조명 앞에도 당당히 걸어 나갔죠 제가 기억하는 개그우먼 (이름)이라는 사람들을 웃게 하는 용기 있고 정이 깊은 사람이에요 웃는 미소도 정이 들 만큼 마음도 예쁜 지선 씨의 웃는 얼굴 뒤에 존재하던 아픔을 나는 왜 몰랐는지 너무 미안하다는 마음 뿐이에요 나이로는 나하고도 동갑이라서 아직 젊은 나이에 영원히 돌아오지 못 할 곳으로 갔다는 사실은 더 마음이 아프기만 해요 마음도 무척 예쁘고 착한 친구였으니 부디 어머님과 함께 좋은 곳에 가서 더 이상 아프지 않고 행복하기를 바랄 뿐이에요",
+        "writer": "UgyKTtY8_6mScCX4blR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제도 오늘도 기다렸건만 그녀는 자꾸 내일 온다고만 한다 잊지도 잃지도 못하고 어제도 오늘도 기다리건만 그녀는 매일 내일 온다고만 한다 원태연 시인의 시집 그런 사람 또 없습니다의 지평선을 인용 지평선의 지와선이 박(이름)을 생각나게하여 인용을 해봤습니다. 달라진것은 그를 그녀로만 바꾸었습니다.",
+        "writer": "UgwHfFRNrkzMnjgGyHZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 사람은 왜 늘 먼저 가냐고 내가 댓글을 달았으때 어떤 사람이 생각지도 못한 신박한( ) 대댓글을 처달더라. 니가 (이름)이 좋은 사람인걸 어떻게 아냐고 어떻게 알긴 가식과 편집으로 가릴 수 없는 삶을 보여줬으니 알지. 누군가를 위해 늘 다양한 방법으로 희생 하셨던 분 고 박지(이름) 그 분의 삶을 존경합니다.",
+        "writer": "UgwpgS8cWnHjbOSzbPd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 보았던 아무리 슬픈 영화 연속극 장면 에서도 좀처럼 눈물이 잘 흐르지 않고 실화를 바탕으로 당사자들 끼리의 리얼 프로그램 에서 조차도 흐르지 않던 눈물이 그냥 그녀가 그립다 라는 (이름)의 한마디에 터져 버린다 (이름)의 영향력이 나에게 깊었던건지 나이가 먹어서 더 그런건지 몇년전 신해철 형과 제작년 (이름) 형때도 이정도는 아니었는데 그녀가 너무 불쌍해서 연민으로 그렇다고 하기엔 그렇게 잘 알지도 못하는데 코로나로 힘들었던 마음이 시너지인 건지 모르겟다 그냥 소주한잔 하구 자야겠다",
+        "writer": "Ugwd0rUQPXWfvnc40ix4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 안믿기네요 하늘에선 정말 많이 행복하셨으면 좋겠습니다 건강한웃음 즐거운웃음 주셔서 감사했습니다 사랑합니다",
+        "writer": "UgwJkQ60sqiNiD7rOsJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 멋지고 아름다웠던 당신 잊지 않겠습니다. 웃음을 주셔서 정말 감사합니다.",
+        "writer": "UgwLCnAcpzRWlGrBZJF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋쟁이 희극인 (이름)",
+        "writer": "UgygvM_F7o6LVNu-DP94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하늘에선 아프지말고 따뜻한햇볕 맞으며 어머니랑 편히 쉬세요. 잊지 않겠습니다",
+        "writer": "Ugxrz5Jfwx3CtOCN5m94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니는 똑똑함은 당연이고 최고로 재밌는 사람이었어요 천국에서 행복하시길,",
+        "writer": "UgzdjWDMCB4lgrwWyGx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 슬프다,",
+        "writer": "UgyVR_uwqXBhUpb1NRZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 안 믿겨요, 어디서 활짝 웃으면서 나올거 같아 진짜,",
+        "writer": "UgxEtNZBXZIntJ4--Mt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제 (이름)도 박(이름)을 추모하셨었는데, 이제야 실감이 나서 눈물이 나네요,",
+        "writer": "UgxEW49TkK1OEiuPH3F4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에휴 아직도 너무 슬프고 믿기지가 않네요",
+        "writer": "UgwOnQT(반사회적용어)tQVdwhOazV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신인 우수 (이름) 마지막, 대상 하나 남았는데, 제맘속엔 언제나 대상입니다",
+        "writer": "UgxIvtbsVXm-zw5Vr0B4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 곳에서는 부디 아프지 말고 행복하세요",
+        "writer": "UgzK1RQdIcvEjsfs8h94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼가 고인의 명복을 빕니다. 당신의 아픔을 전혀 몰랐어서 죄송한 마음뿐입니다.",
+        "writer": "Ugy2n7spOtm9iCTXZfF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신인 우수 (이름) 까지 받았던 웃는게 아름다운 개그우면 (이름) 누님, 대상까지 받는모습 보고싶었는데, 천국에서는 꼭 못받은 대상까지 받고 행복하셨으면,",
+        "writer": "UgzErVGJODFEu-zvbkN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 좋아하는 박(이름) 보고싶습니다",
+        "writer": "Ugz-7aiGb7UAEQdAXlJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마음이 절대 좋지 않다,",
+        "writer": "UgyRulJ12DFPJCeOEYt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무나 소중한 사람을 잃었어",
+        "writer": "UgysBEvf0riXdAvqvh54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 여기에 있는 것 같아요, 아직도 믿기지 않아요",
+        "writer": "UgwE6OjhulWd0ooOtzN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 눈에 눈물이 가득,",
+        "writer": "Ugzr7hbejJKf3upi_x94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무슬프다 그곳에서는 행복하시길",
+        "writer": "Ugx1UG4B7yEEyeKRKnh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 믿겨지지 않는 소식이었어요. 그곳에서 맘 편하게 웃으세요",
+        "writer": "Ugwzfb2ncILBmOb9doB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하아, 눈물나",
+        "writer": "UgxefTe53us_j_ZZWCF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유일한 코미디언들 전부 실직자 만들어놓고 뭔 연예대상이냐",
+        "writer": "UgyInH61uy0OVxlBIlh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니가 뭘죄송해 친분있는것도아닌데",
+        "writer": "Ugy2n7spOtm9iCTXZfF4AaABAg.9HrJZN5WMzs9HuugfC6bk3",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히딩크 최근 댓글 (반사회적용어)하고는, 인생에 불만이 많니",
+        "writer": "Ugy2n7spOtm9iCTXZfF4AaABAg.9HrJZN5WMzs9I93VUqNPjA",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히딩크 사회 부적응자노",
+        "writer": "Ugy2n7spOtm9iCTXZfF4AaABAg.9HrJZN5WMzs9NRx_vTSZUf",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히딩크 에휴 남(반사회적용어)",
+        "writer": "Ugy2n7spOtm9iCTXZfF4AaABAg.9HrJZN5WMzs9NtSfXHol5A",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "존경하는 분이 었는데 지금도 울고있네",
+        "writer": "Ugz-7aiGb7UAEQdAXlJ4AaABAg.9Hr0zfm983R9TasQwvKb7F",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자는 은웃고있다",
+        "writer": "UgwE6OjhulWd0ooOtzN4AaABAg.9HowFUSxShW9K9xRD1a_s8",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 따지고보면 재미없다고욕한 우리들의 잘못도 있죠",
+        "writer": "UgyInH61uy0OVxlBIlh4AaABAg.9HfJRnp7SVe9Hp3FXE9Tzi",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가호 인정",
+        "writer": "UgyInH61uy0OVxlBIlh4AaABAg.9HfJRnp7SVe9HrFg2C8HK2",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가호 대중들도 이제 방송사 탓 프로그램 탓도 좀 작작해야함 프로그램이 폐지되는 데엔 시청자 탓이 젤 큼",
+        "writer": "UgyInH61uy0OVxlBIlh4AaABAg.9HfJRnp7SVe9HrHdeJDWW6",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두팔곽 재밌어야 보지 방송사에서 트렌드 맞추고 신선한 프로그램 계속 만들어가야지 뭔,",
+        "writer": "UgyInH61uy0OVxlBIlh4AaABAg.9HfJRnp7SVe9HtMRRCoDic",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정치색 드러낸게 잘못한(혐오표현)뭘",
+        "writer": "UgyInH61uy0OVxlBIlh4AaABAg.9HfJRnp7SVe9HusqQk-X_w",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가호 시청자들이 뭔 잘못이죠",
+        "writer": "UgyInH61uy0OVxlBIlh4AaABAg.9HfJRnp7SVe9IFdIePmpps",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 그립습니다,",
+        "writer": "Ugzmrm_Ml1WbNwNh4_54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 곳에선 행복하길 바래요",
+        "writer": "UgzBKGD_256Wfq8Wood4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5ZObd77xGjo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

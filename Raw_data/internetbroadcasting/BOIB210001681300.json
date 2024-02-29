@@ -1,0 +1,788 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001681300",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001681300"
+    },
+    "text": [
+      {
+        "content": "지금 봐도 (비속어)",
+        "writer": "Ugw1haicKM2GczVGTRx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자목소리 들리는건 저뿐인가요",
+        "writer": "Ugyx-AKNVe1zHcZyoEp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 너무 웃겼지",
+        "writer": "UgzD7gmk9soHkwO7ytl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똘악 호탕한웃음소리 조아",
+        "writer": "UgwvTXY7_zB7yNW9RCZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배그 예전 배경음악 조앗는데 웅장한 느낌",
+        "writer": "UgxqYDpaO2U7NSc2ncV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때는 초갈전인가",
+        "writer": "Ugz8D5DSHFgQvxqCaPt4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이지매당하느라 정신이 없어서 smg보정기도 제대로 못챙기네",
+        "writer": "Ugy1_BbShTI_LNZWZtV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이땐 (이름)이었구나, 초갈되기 전인가 보네",
+        "writer": "UgwoXz-es6BUdPwAibV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬의 위험한 발언",
+        "writer": "UgzRt6wpwh9r1Yu-A3J4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5성11개, (힘들다)",
+        "writer": "UgxhJlAA0iEEabauD_54AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배그가 현실반영 게임(이름), 점례씨 힘내세요",
+        "writer": "UgxRMu44Qn0Kp3gAFMh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 악녀 반응",
+        "writer": "UgxUWrgeuvpTH2sbzzR4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐찐버린이 또오",
+        "writer": "UgytYP3NdlQtqsq3O514AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬짱 너무 (비속어)자너 에헤에에에에에",
+        "writer": "UgxlxhvoMWciM2lRmV14AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬짱 귀엽자냐.",
+        "writer": "UgwNLmSK2kiF8o1RadV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심하게 당하셨는데",
+        "writer": "UgwxjAiy49ufbj50WjF4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "25분22초 브벸",
+        "writer": "UgyK9cpHHVIcz7-smm54AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬님 긔여엌",
+        "writer": "UgxxcumIG2JyAFtsXIl4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 백성들이 있사오니 걱정마시옵서서..",
+        "writer": "UgwJ1yVkqXWoZD-ompR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어)탱이다 진짜",
+        "writer": "UgzwPymeZld6tsto97t4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때가 백터덕후였나보네 5탄을 안 먹네",
+        "writer": "UgxnwR2V5eXIqj4dBx94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 컴퓨터 엄청 좋으시네 부럽다 저런 컴퓨터 갖고싶다",
+        "writer": "Ugwgd-Br1yDqH6dff994AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요겅 따로 목록 만들어주셨으면좋겠어요 허허, 묘하게 계속끌리는영상 재밌숴,",
+        "writer": "Ugy2tdTvaT3KjsQ-4pp4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃을때마다 마우스 흔들리는거봨",
+        "writer": "UgwlF1hKKFs3KIAFC8p4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찡찡하시는게 귀여우니 구독.",
+        "writer": "UgyyRP-H5l042R6SlLR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똘악서연보다 재미따",
+        "writer": "Ugz7ww1DeMHTHBmU21V4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽뿌니야 증말로다가",
+        "writer": "UgyfahKXgpV2PgL7PLx4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 착하시네요 저 같으면 빡종각인데",
+        "writer": "UgwUR73EC1UVj5LGRQl4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초쯤에 안녕하세요 란말이들리는거같은",
+        "writer": "UgyHi9O0JfFKYCDqmfh4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이땐 몰랐지, 탬쨩이 (이름)과 영혼의 초갈 듀오가 된다는걸,",
+        "writer": "Ugw9nxzQiZaBNCeid9p4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저분은 자꾸 단독행동 하시네 저럴꺼면 솔로하시지",
+        "writer": "UgxU8dcwRoofmmJ3Z114AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "X덕전선 하는 탬찐버린 궁금한 잉녀 X덕전선 싫다, 능 똘킹 묵묵히 캐리하는 갓지수",
+        "writer": "Ugz3fMgSQwuUAQ5la-F4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "투두두두두두.똘킹 우와아아아아. .하하하하하하 악녀 꺄아아아...아아핰하캌",
+        "writer": "UgyfnPzZH14V9luNSi94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 1화가 포텐이 개터짐",
+        "writer": "UgyYAuJQyy80YcQgZ5B4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬공듀 너무귀엽자너",
+        "writer": "Ugz72ABvZrOlJCGnVjt4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마음이 아프다,",
+        "writer": "UgyybwU1wcsfu7KTqp94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃을때마다 마우스지진",
+        "writer": "UgwXjhHbE-_e4TQ6zD94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 채널보다 여기왔음요",
+        "writer": "UgyW9OTEcZr9YUf_RUR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 언제 방송한거에요",
+        "writer": "UgySth5mgCIT72QGUCF4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 사는데 먼소리야 라고 들려서 순간 당황했다",
+        "writer": "UggA343OELSE53gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 소녀(이름)지만 저기시청자들 (비속어)뜨억들은 자기가 (비속어)뜨억인가 엄청티내네 좀 숨기는 티(반사회적용어)내라",
+        "writer": "Ugguh1G5wP3b4XgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으어, 탱탱버리님 귀여움에 녹아 구독뉴르고 걉니다아",
+        "writer": "UgiZ3UngsRmW-XgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난사 (비속어)",
+        "writer": "UgjYW5nTH_HnDHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고래싸움에 새우등 터진더구요오오",
+        "writer": "Ugjo4brKen24sngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬님이거재꺼에요 이거 저번엔 헤드샷이였지",
+        "writer": "Ughr566odeQD6ngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금, (혐오표현)쿼드라고하셧습니까....",
+        "writer": "UgjOa3Zz9YwfTHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무귀여워 저러니까 자꾸 괴롭히지",
+        "writer": "Ugh_ZndFI-HNFXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어쩔수없죠 마이크는 안쓰니 채팅을쳐야되는데 채팅치는시간이 너무오래걸리니 행동으로하는거죠 말투 개띠거운거아시죠",
+        "writer": "UgxU8dcwRoofmmJ3Z114AaABAg.8XUEecf_Bjn8XprLgxev30",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 하구요",
+        "writer": "UgxU8dcwRoofmmJ3Z114AaABAg.8XUEecf_Bjn8Y3H0EV-oHd",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대신 잘하심, 손자 4인스쿼드도 박살내는데 여유롭게",
+        "writer": "UgxU8dcwRoofmmJ3Z114AaABAg.8XUEecf_Bjn8_xVgA8VDlc",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 잘하시는건 영상 자주봐서 아는데 스쿼드인데",
+        "writer": "UgxU8dcwRoofmmJ3Z114AaABAg.8XUEecf_Bjn8_xWZnWnY3Q",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 너무 솔플을 좋아하시긴함",
+        "writer": "UgxU8dcwRoofmmJ3Z114AaABAg.8XUEecf_Bjn8a-41SeAdJz",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)의라 그런듯",
+        "writer": "UgxU8dcwRoofmmJ3Z114AaABAg.8XUEecf_Bjn8bjPo7D2h7B",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함힛키농 뜨억",
+        "writer": "Ugguh1G5wP3b4XgCoAEC.8Vhc6RDCOLe8Vi3Z680Bi0",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 왜 꼭 굳이 숨겨야됨 자기하고 싶은거 하는데",
+        "writer": "Ugguh1G5wP3b4XgCoAEC.8Vhc6RDCOLe8azq2DH_Aca",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네다(비속어) 너도(비속어) 나도(비속어)",
+        "writer": "Ugguh1G5wP3b4XgCoAEC.8Vhc6RDCOLe8b4kj2fVFcU",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머하러 숨기지",
+        "writer": "Ugguh1G5wP3b4XgCoAEC.8Vhc6RDCOLe8dJq_zcqkld",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)덕 하나가 분노한당",
+        "writer": "Ugguh1G5wP3b4XgCoAEC.8Vhc6RDCOLe8ebfzOkzfhj",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 울어버린,",
+        "writer": "UgjLhFeiGWUB1ngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히에에에헤에 저랑도같이 배그해요 후훗",
+        "writer": "UgjYkGL9TaQ6angCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군대에서 총기난사 사건이 생기는 이유",
+        "writer": "UgisVV8b8JG5-ngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나였으면 다 쐈다",
+        "writer": "UgjHqz6DdNVeYXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 얼마나 친해지고 싶으면 어떤 말이든 웃어주시네 흑흑",
+        "writer": "Ugik6WR74BVPtHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 몇일에 한 방송인가여",
+        "writer": "UgjvbS4vyWfnDngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이지매 스쿼드",
+        "writer": "UgiILKHVdf8MvngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬튜브 열일해서 좋아 7",
+        "writer": "UgiKs9t6nglJxXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하이라이트 시간 적을라고 추리다 보니까 드립이 분 단위로 계속 나옴 화면 끄고 라디오로만 들어도 존잼",
+        "writer": "Ugh7E30iUYtAmXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제너럴 탬,",
+        "writer": "Uggg3iYhqB2D33gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 같은 그룹없는 (비속어)버린,",
+        "writer": "UghHuPYkssUTDngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "템템이는 (비속어)미 때문에 귀여워.",
+        "writer": "Ugin-AmS_DKEGHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러 그룹한테 이지매 당하시네",
+        "writer": "UghRrtadJfNsXXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤에에에엥 할때 (비속어)",
+        "writer": "Ugi7EUPTiAqehHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구 생기는 영상 바로 다음이 (비속어)당하는 영상이야",
+        "writer": "Uggd6w6I5h21VngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "필사적인 고멘나사이",
+        "writer": "UggGqh9QUdwRp3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Myungwon Lee 프사 화면에머리카락 붙은줄알고 계속떼어려고했다",
+        "writer": "Ugh7E30iUYtAmXgCoAEC.8VNZt4SQlG98ViHP7TYxoE",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 탬 차키가져와",
+        "writer": "Uggg3iYhqB2D33gCoAEC.8VNTT0Ok_Gg8VQix0w0f9e",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하지만 지금은 탬두가 되었다",
+        "writer": "Ugin-AmS_DKEGHgCoAEC.8VNAl7w3RZU8h_Gl7v1uMo",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러므로 코렛트언팔하러갑니다",
+        "writer": "Ugin-AmS_DKEGHgCoAEC.8VNAl7w3RZU8jPiaJy97Bq",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)버린님 진짜 (비속어)인가",
+        "writer": "Ughu2BEI0BxIYXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똘킹팬이였는데 , 이친구 귀엽군,",
+        "writer": "Ugj-ojkGid1sR3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 나는 (이름)이 아니라 (비속어)님이라고 들리지",
+        "writer": "UgidNAKMjUPdC3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 매운맛에 빠져서 (혐오표현)만 입제,",
+        "writer": "UgiaQLS8dmCHB3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튀어야되는데 메딕킷먹고있다닝",
+        "writer": "UgjAPcrV9aL3NngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 그룹없는 (비속어)는 힘듭니다",
+        "writer": "UgjQMeVQnNfn5XgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 스트리머가 개(비속어)라니 흑흑",
+        "writer": "UghfxyrqckjfVHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿고보는 똘악연탬",
+        "writer": "UghSpCmqzwo1HHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (반사회적용어)가 (이름)급이네",
+        "writer": "UghhkYcvaVOsMXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 아직 바람직하오 (이름)",
+        "writer": "Ugjm3DbHLvOzq3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악녀 합방 이후에 대놓고 인성질",
+        "writer": "UggbkJLxmnUct3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 똘악(이름)랑 캐미좋다 헤에에에에에",
+        "writer": "UgiWANUGeqH-JXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 뭐라고하는지 보고싶다",
+        "writer": "Ugjc5HMo-LL7QngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 유튜브 업로드 영상 늘어나버린",
+        "writer": "Uggb(반사회적용어)ttKCrgrXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)버린 헤에에에에",
+        "writer": "UghiJ2Nw7VHv5XgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 당해버린,",
+        "writer": "UghX8NpYE7BUKXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 맛에 보는거죠 핡",
+        "writer": "UghfxyrqckjfVHgCoAEC.8VLtJWGfBXh8aSZYa7Wf75",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 댓글을 보셨다면 구독좀요",
+        "writer": "UghiJ2Nw7VHv5XgCoAEC.8VLj6oRdJ9t8VPm8Cgj3ac",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 요 여",
+        "writer": "UghiJ2Nw7VHv5XgCoAEC.8VLj6oRdJ9t8YHBjmNW3bN",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=wYj0EPbdF0w",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

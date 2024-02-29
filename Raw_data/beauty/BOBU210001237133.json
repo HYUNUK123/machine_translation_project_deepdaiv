@@ -1,0 +1,772 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001237133",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001237133"
+    },
+    "text": [
+      {
+        "content": "멜빵 잘입는다고 해서 잘입고 있어요 (이름) 키가 작으면 멜빵 입으면 안돼나요",
+        "writer": "UgzVxTBCXF-d96VIAP94AaABAg",
+        "write_date": "2021-10-01",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 류정란인줄",
+        "writer": "Ugz778dSJyE65NH3pIh4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "160 마른남자는,",
+        "writer": "Ugw6eYqNE_phYCJ_-dR4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멜빵머냐 신데렐라와 일곱난장이같노",
+        "writer": "Ugy_U5PscQWujuVvMGB4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멜빵 귀여운데",
+        "writer": "UgwC3fn78vLbzkGbSr94AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 때려잡는 정대현",
+        "writer": "UgxM3FKYiN55wm53ByV4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팩트를 꽃아주니 좋다",
+        "writer": "UgyRP4Zz5Udp_1jo68N4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 은근 정란이형인줄 알앗자나",
+        "writer": "UgypHIz_j59QdE1LDAR4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청 멜빵 어디서 사죠",
+        "writer": "Ugxm_seCCCwntBcT1VZ4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우앙 내꺼다",
+        "writer": "UgzUbjPYV_-3MgEUJJx4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 아웃트로 브금좀",
+        "writer": "UgwohVoT1GpSavq-EaN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 멜빵 넘귀엽자나요 갠적으로 멜빵 좋아해서 전, 좋아보이는뎅",
+        "writer": "Ugz42PFTPipOKz9w-Ml4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멜빵 얼굴 합성 아님.",
+        "writer": "UgyDGscJ98EXEE0ekup4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 멜빵나무웃겨가지고 오열중임",
+        "writer": "UgyDNPWH8z7wo5eesrl4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 멜빵 개귀엽잖아",
+        "writer": "UgyTk2luU_atzZElVRl4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대 왤케 웃기냐",
+        "writer": "Ugzu5YdePZuZp8amZ6d4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아웃트로 브금좀여",
+        "writer": "Ugy4AAmmCIYIjTwhd4x4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멜빵바지 얼굴만 동동뜨는느낌 커보여 합성인줄",
+        "writer": "UgxcC1oSnTYssCq4C7F4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 댓글이 없어 쩡대 사랑해 . 영상 (비속어) 잘 챙겨봐놓고 돈 많이 벌면 옷도 많이 사야지 읭읭 ,",
+        "writer": "Ugy8cK0ujXh3N8ewONZ4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대팩폭 사이단데 내옷(반사회적용어)보고 욕할거생각하면 개쫄림",
+        "writer": "UgyHG6HgWJsZQs8bL4h4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 형이 세상에사 재일 웃겨",
+        "writer": "UgyeiVWKhRWSy4dXM8F4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하리보 닮았다",
+        "writer": "Ugzx5k_WB1MzVdKef7h4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 잘봤어용",
+        "writer": "UgyxZfbL7gX5blmvrbp4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아디다슼시간여행자분 아니십니깤",
+        "writer": "Ugzs2_epylQ1V7S2GhF4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 류정란인줄 알고들어옴",
+        "writer": "Ugw2kJYgHH-PIj-tW8d4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(반사회적용어) 사진 속에 살말라면서 지가 더 사진 속에 더 잘사네",
+        "writer": "Ugy-Np-WkV4mtr-sGiN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 회색 티셔츠 어디껀가요",
+        "writer": "UgzYJE32Z3uyMUDXjTt4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처, 키.",
+        "writer": "Ugy6nLnLmscH_qDXwNJ4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 벨트 작년 판도라에서 본거 같은데",
+        "writer": "UgzKRprBNGeBba5LeF54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앉아있는거 가지고 머라하는건 좀 오반데 난 예쁘기만 하구만",
+        "writer": "Ugwrmw10GRFUUky48Gt4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멜빵 합성같아 (비속어)네",
+        "writer": "UgwykGQAGPncp1kBrTV4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘 아직도 27만이네깡이가 한참늦게나왔는데분발하자",
+        "writer": "UgxtzW7xsxZA9xLeeex4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멜빵저거 합성같은데",
+        "writer": "Ugzgy2n7HllKQwF0MRl4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 멜빵바지 나만 슈퍼마리오같아 보이나요",
+        "writer": "UgxwV746RDAi-1SgARx4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깔끔하게입는게 젤 힘들다,",
+        "writer": "Ugyc0XOXY3jGfd2h3BV4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 딱 깔끔하게 못입으면서 튀는거좋아하고 구제감성 처럼입으려고하는데",
+        "writer": "UgwzUd4wdfqDC6AxKox4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앉아서 다니냐곸 캔디 미쳤엌",
+        "writer": "UgwzEmHdQ2-VujGgWRd4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 키 작은데 특이하고 튀는거 좋아하는데 좀 줄여야겠",
+        "writer": "UgytOegvNzyASGe_6Mp4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김선우 알아 인마",
+        "writer": "UgyoIvwsuXMoL2OiGUV4AaABAg.93osbdkZ97U94wqXu31QLf",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kimdsa 네,",
+        "writer": "UgyoIvwsuXMoL2OiGUV4AaABAg.93osbdkZ97U94xTtNnsOtv",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이지은 아",
+        "writer": "UgzKRprBNGeBba5LeF54AaABAg.93atbR7nDB099gBsR6_100",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌 저두, 그래서 요즘 무채색부터 다시 시작하고 있어용",
+        "writer": "UgwzUd4wdfqDC6AxKox4AaABAg.93_78_otr4Q94B0MaSDa0y",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기본적인 옷 입는걸 잘하면 특이하고 튀는거 입어도 돼요.. 처음부터 특이한것만입어서 옷입을줄몰라서 그러는거에요",
+        "writer": "UgytOegvNzyASGe_6Mp4AaABAg.93_5HoO89iY93_6_I3O01W",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멜빵 아잉, 너가 미니언즈야 유딩 아이돌도아니고 무슨 멜빵이얔 (영상다본후) 너무 짜리몽땅햌",
+        "writer": "UgzEDVbCsPFaLnHtoYd4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페북에서 봣는뎅",
+        "writer": "UgzxpzxzMaLhAwmmWMB4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 티에 적힌 문구 이자너 보는 내가 고통스럽다",
+        "writer": "UgwpzZiv1kDskQu6Ho94AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신발 모델이 뭔가요",
+        "writer": "UgyBrdzcXlbuPIGoXNJ4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 재밌는데 썸네일이 넘 올드해서 들어오기 힘듦",
+        "writer": "UgzCUFl9sjZyt3lrdeR4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제부터 판도라 들어가는 사람들한테 지방시 판도라백 나눔 가자..",
+        "writer": "Ugz9HEohTMM0ShQ_RSF4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 외국 애들이 기본만 입어도 잘입어보이냐면, 일단 우린 모두 서양식 복식을 따르고 우리가 사는 보세 조차도 거슬러 올라가면 유행했던 명품의 컬러감이나 혹은 명품 카피가 내려오고 내려오고 내려온게 많음. 즉 어릴때부터 모나리자 보고 크며 레스토랑 갈때 tpo맞춰서 가고 부모때부터 자켓코트셔츠 기본템을 어떻게 소화하는(반사회적용어) 보고 배우는 유럽애들이랑 같을 수가 없음, 집에서 엄마아빠 어떻게 입으시는지 봐바, 옷 못입는건 대부분 문화적 유전임, 정 말 노력해서 잘 입을 순 있는데 한계가 있음, 보통 옷 깔끔하게 잘입는 사람들보면 1. (이름)에게 많은 문화적 유산이 많음 2. 본인이 문화적 컨텐츠에 관심이 많음 3. 전공이든 뭐든 해서 열정으로 노력함 이 셋이중에 하나임, 대부분 태어날때부터 잘입으려면 결국은 타고나야함.",
+        "writer": "UgxHfIomL29Ir-8QLER4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디네댓 양말 개애바",
+        "writer": "UgxOn_atQkKnwC6s84R4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닉네임 아디다스 판도라갔던 이상한(이름),",
+        "writer": "Ugy38AeeuTxfij6B3g14AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 멜빵이 제일 괜찬은데 너무 귀여운데",
+        "writer": "Ugw7sqHnra35DvMh7WN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대 형 의자 때문에 누가 뒤에서 옷 잡고 끌어 올리는 것 같음",
+        "writer": "Ugy4qGuOaypCmYt0OFR4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보라색 본인인데 옷입기 진짜 힘드네요 포기하겠습니다 다음생을 기약할게요 허허",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 사진찍어주세요 할 때가 좋았는데 이제는 엄마랑 같이 찍는게 좋다",
+        "writer": "UgyLKx9F0_yS46tWVvh4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분이 그 유명하신 패션계의 (이름) 이신가요",
+        "writer": "Ugx5-J6-6uyxeNzOGqJ4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나중에 결산으로 볼땐 또 괜찮게 보일거같아",
+        "writer": "UgylNPX03Sne7qc2p994AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 하고 계시는 반지 악세사리 소개좀 해주세요",
+        "writer": "UgyqJTT2M6giuVozwxx4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타일링 자체는 나쁘진 않지만 멜빵은 좀 많이 아니네요.",
+        "writer": "Ugx-K0d-reVOuC5uHTh4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 저 빨리왔쬬 그러니 하트부탁",
+        "writer": "UgyeKPBxpRWmAjpS1iR4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 앉아서 사진찍은거 올(반사회적용어)분 패티즘에서 패고소리듣다가 변천사 되신분인뎈",
+        "writer": "UgwtAWCi5PwsYG5IbrN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번째 분 그 아디다스 져지 그분이랑 같이 나오면 좋겠다",
+        "writer": "Ugzkcdvg72ZKIfYsSZF4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "존혁 넹그분 마자여",
+        "writer": "UgzxpzxzMaLhAwmmWMB4AaABAg.93_48Z_Wkbt93aP53x9kX1",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 본것 같은데",
+        "writer": "UgzxpzxzMaLhAwmmWMB4AaABAg.93_48Z_Wkbt93z1dbWIh_e",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날 영상인줄",
+        "writer": "UgzCUFl9sjZyt3lrdeR4AaABAg.93_09akQyt193_74a7VsDG",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)깨서 미적감각이 좀 부족하신듯",
+        "writer": "UgzCUFl9sjZyt3lrdeR4AaABAg.93_09akQyt193lf65GTXZL",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상은 웃김",
+        "writer": "UgzCUFl9sjZyt3lrdeR4AaABAg.93_09akQyt194AmEHGYORj",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 이 채널은 촌스러운 이미지가 있음 좀 시대에 뒤떨어지는 느낌",
+        "writer": "UgzCUFl9sjZyt3lrdeR4AaABAg.93_09akQyt194C49dUQM2b",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박진우 몇년 전 아프리카시절 느낌",
+        "writer": "UgzCUFl9sjZyt3lrdeR4AaABAg.93_09akQyt195kRBzYJ7kF",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박진우 방송 자체도 좀 옛날 스타일이라서 그걸 편집으로 살려야되는데 편집이랑 자막은 더 올드함,",
+        "writer": "UgzCUFl9sjZyt3lrdeR4AaABAg.93_09akQyt19Q(반사회적용어)8_4G1F0",
+        "write_date": "2021-08-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "열심히도 쓰셨네욬",
+        "writer": "UgxHfIomL29Ir-8QLER4AaABAg.93ZykMDru3M93_-2xw_TVI",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이거때문에 겁나 웃었네 너무웃겨",
+        "writer": "Ugy4qGuOaypCmYt0OFR4AaABAg.93ZuI6YMfRj93avEPXIBzm",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 현웃 터졌아요",
+        "writer": "Ugy4qGuOaypCmYt0OFR4AaABAg.93ZuI6YMfRj98BwNoyOnSG",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 느낌은 있어요 괜찮아요",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93ZqGGhc6CL",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남궁하영 아뇨 저 보라색 맨투맨 태울라구요",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93Zqy64sbpI",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨투맨이 아니라 바(반사회적용어) 태우세요, 바지 너무커요 일자바지로 입어도 괜춘할듯 싶네요",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93ZssVbGs8g",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연정 제 벅지가 워낙 두꺼워서 웬만한 바지는 다 끼니진마냥 핏이 안나와요 살부터 빼려구요",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93ZugEnuxLT",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 말씀하시는게 다 포기한 듯 해서 눈물난다",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93_-sT6ZxLE",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정민혁 보라색맨투맨은 이쁜데 바지가,",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93auKwUVRbO",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 맨투맨엔 무슨바(반사회적용어) 입어야될까요,",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93auk9xXSEy",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정민혁 청바지아니면 슬렉스여",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93axCs9m3pl",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상체에 살 많이 없으시면 저 일자팬츠에 그냥 아무것도 없는 흰 티or검정 티에 벨트만 잘 코디해서 입어도 예쁩니다. 반팔이나 슬리브 라고 하나요 하여튼 그런 거. 그리고 얼굴 안 봐서 모르겠는데 보라색 맨투맨은 본인 얼굴 피부랑 안 맞는다 하면 입지 마세요. 보라색 상의는 어울리기 힘들어요. 몸이 안 예쁘면 코디하기도 어렵습니다",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93eIV40CWkT",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인스타에 데일리룩 이런 거 치면 많이 나오니까 참고하면 좋을 것 같고요 남성 쇼핑몰에 피팅 돼 있는 옷들 참고해도 좋습니다. 자신한테 어울리는 옷 찾는 게 중요해요. 여러 스타일 시도해가면서 자신한테 무슨 옷이 어울리는지 생각해봐요.",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93eJ1mls_i_",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키랑 스펙은 잘 모르겠어서 겉으로만 봤을 때 체격이 좀 있으시고 키는 크지 않고 몸무게는 좀 나간다는 가정으로 말씀 드리자면 우선 구매하신 의류를 보니 캐주얼 스트릿 쪽 패션을 추구하고 싶어하시는 거 같아요. 저 경우에는 퍼플맨투맨에 이너 흰색 티 입고 레이어드 하시는 게 좀 더 예쁠 거 같아요 파스텔톤의 맨투맨은 레이어드 하는 게 별로인 경우가 많은데 원색감이 짙은 맨투맨은 흰티 레이어드만 해도 엄청 잘 받아 주거든요 그리고 아래쪽 시보리는 보이지 않도록 안쪽으로 접어 입어 보세요. 데님이 와이드핏인데 발이 안보여서 크롭인지 축 떨어지는 기장감인지 잘 모르겠네요 축 떨어지는 기장이 맞다면(참고. 와이드핏에 크롭한 기장은 잘 입기가 매우 힘들어서 비추합니다) 무난하게 받아줄 수 있는 신발로 반스 올드스쿨 블랙이나 척70 하이 블랙을 추천드립니다. 아이템들이 문제가 아니에요. 옷 입을 때 이런 세부적인 것들을 신경써주면 같은 옷이(반사회적용어) 스타일이 삽니다 이제 옷에 입문하시는 거라면 분히 잘 입으실 수 있어요. 누도 처음에는 못 입어요. 님에게는 패션 평가조언이라기보다 평가를 빙자한 비난 위주였어서 안타까운 마음에 몇 자 적고 갑니다",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93gVRVCWvDj",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 유익한 정보가 많은 정보 위주의 유튜브나 카페 및 사이트를 적극 활용하세요. 고아캐드 디매 나매 등. 코디와 다양한 아이템을 보시려면 또신사 또신사 하지만 무신사만 한 국내의 표준이 없어요. 랭킹순위에 있는 아이템들을 주로 누르셔서 스타일 후기를 추천순으로 해서 보시면 얼추 무난하게 잘 입는 사람들의 코디가 보일 거예요. 그걸 꾸준히 보세요. 정보가 매우 유용한 타 유튭은 정도 코디가 유용한 유튭은 이 정도 인 거 같아요. 조금만 찾아보면 나오니 이 이상은 언급 안 할게요 부디 즐거운 코디하세요 옷 입는 건 어차피 자기만족이잖아요.",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD93gXQthk7ZW",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "색감도 그렇고 꽤 괜찮은데 차라리 핏 예쁜 몸을 만드는 건 어때요 저도 만드려고 요즘 다이어트 하는데 .",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD94B0H70tiCc",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군만두 이제 봤네요 감사합니다",
+        "writer": "Ugzei6dB1vPtyul_8Kd4AaABAg.93ZpYsnuDhD94ZZXzhaDXy",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 패티즘 피플",
+        "writer": "UgwtAWCi5PwsYG5IbrN4AaABAg.93ZguEcabXG93ZhdOFKc-H",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초반 패고때 여러사람을 암걸리게 했다는",
+        "writer": "UgwtAWCi5PwsYG5IbrN4AaABAg.93ZguEcabXG93Zqdo9F2Vk",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 과거 패션을 보는것 같아 행복했어요",
+        "writer": "Ugzkcdvg72ZKIfYsSZF4AaABAg.93ZgtiiWD6V93Zltp6I25F",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남궁하영 엄훠, 대대대대대스타분께서 답글을, 그 아디다스 져지분 맞죠,",
+        "writer": "Ugzkcdvg72ZKIfYsSZF4AaABAg.93ZgtiiWD6V93Znc0nm-ug",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 네, 져지입은 시간여행자에요 대스타는 아니에요 반가워요",
+        "writer": "Ugzkcdvg72ZKIfYsSZF4AaABAg.93ZgtiiWD6V93Zp7Z0_tgn",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오 빨리왔다..(요)",
+        "writer": "Ugyz2RBIt4PX1HUoxaN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오옹 빨랐다",
+        "writer": "Ugz1hvejdeB30_GYp314AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=Fn4cdNKNYcM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

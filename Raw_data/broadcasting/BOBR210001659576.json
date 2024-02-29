@@ -1,0 +1,676 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659576",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659576"
+    },
+    "text": [
+      {
+        "content": "우리 하오 많이 사랑하고 건강하게 무럭무럭 잘 자라 줘 사랑해",
+        "writer": "Ugw2S7cGOJ51DITj4yR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 목소리 매일 들어도 매일 듣고 싶고 보고 싶고 하고한테 빠졌나 봐요 완전 빠졌나 봐",
+        "writer": "UgxV0sd64zsT6RMiLFN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강벽북로가 오디냐,",
+        "writer": "UgxGE0jZxam0kyZ7WU94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는상황파악을 아빠닮아 너무잘함 재치가있음",
+        "writer": "UgxNvwxKqeuXXfQu9bV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말투 넘귀여움 코로나로 하루종일 스트레스받고 하오로 힐링",
+        "writer": "UgwC9tcalCEzLQRAufV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오는 아빠 닮아 천재. 슈돌은 하오 나오기만 기다림",
+        "writer": "UgxGRzCDLmCN_F7pPrB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 하오랑 개리아빠 얼굴 투샷 에바잖아",
+        "writer": "UgxecW3n6HX5GPd6ljl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 매력덩어리 언능보고 싶당 우리 하오",
+        "writer": "UgwruKxFa33xwWFkcFh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 너무귀여워 이담에 큰인물될것같아요",
+        "writer": "UgxGRzCDLmCN_F7pPrB4AaABAg.95MyYqI773T95NTvekkDDn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 봐도 저 설탕과 틀은 달고나잖아",
+        "writer": "UgzPwAykgmtdhzxNtSR4AaABAg.95KZkmxfEaa95KZn610XzO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 달고나라고 생각한거 아니구나",
+        "writer": "UgzUo7gEnhbkpZTPNHd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹고나서 앙 더해죠요 각",
+        "writer": "UgxcfrYP6DMzpC_Bioh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 좋은곳 높은데 사시네",
+        "writer": "UgxIj-fmmLGRIA7gLOt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 착해",
+        "writer": "UgyvmOkTf9VtuWh3Ol54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 흰색에 파랑색만 봐도 설탕임",
+        "writer": "Ugz5RvwZNn51-4dBNUJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다칠까봐 안된다고하는거 너무 착하당",
+        "writer": "Ugy7DrIraXHrAGseJLx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 천잰가봐 난 강변북로가 어딘지 모르는데,",
+        "writer": "UgytUksPUnIwBHwq0VB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 인생 2회 차여,",
+        "writer": "Ugw_9WY8LM06ggmAsfN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리하오 왜울려요",
+        "writer": "UgzotuRmEG2XGzb_xR94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 너무 똑똑해.",
+        "writer": "UgxGnSYwRWALPXwbsuF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 진짜 천잰듯 다리 이름도 다 말하고 27개월에",
+        "writer": "UgwVJ_wGeGhV7lC7B4t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 알고리즘은 한국어 댓글을 위로 올려라.",
+        "writer": "Ugz6yG_b9stc5tRr04N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문어 장어래 타코야끼도 아니고 달고난데",
+        "writer": "UgwyyqJVtc4M9zUlX3d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 달고나 만드는거 보니까 갑자기 달고나 먹고싶어",
+        "writer": "Ugy2l4r0duY828DkW9p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 하오진짜 똑똑하다",
+        "writer": "UgyV7Ob3c2vbz0JeIWh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 달고나 만드는거 아님",
+        "writer": "UgwDL9mFmC-wUhrWEih4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나네 설탕 잘못녹이면 쉽게 탐.",
+        "writer": "UgzD1Mc20ogrjBwQT_h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나인거 바로 안거 나뿐인가 한국인들은 다 눈치 챘을텐데",
+        "writer": "Ugxb3QJs_hCjhcoWT7x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나하다가넘쳣나보넹 본방사숰",
+        "writer": "UgzJ3k-ew2KhS1Z_ro54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 안대여 하는거 (비속어)탱이다",
+        "writer": "UgxRPUphB4BcQGUtDth4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나 넘쳐서 놀랫나봄",
+        "writer": "UgydRaBAaA0GUv_9M_t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bgm너무 커요 목소리에 비해",
+        "writer": "UgzzBFwKrGiMWrQ19_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 생물이 구워지는 것 보고 저렇게 우는 거라면 그런 감수성도 재능이에요 정말 수많은 재능을 타고난 천재 하오",
+        "writer": "UgyRggOjGtDmaIuQzn14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘구여운거 아닝교",
+        "writer": "Ugw9CHPN9IFHsGwURfl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보아하니 달고나소다",
+        "writer": "UgwsmeH-pJUKbe68-Yx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나 같은데",
+        "writer": "UgwmcdN-1G1v38M-OF14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자세보니 달구나구만",
+        "writer": "UgzM5xMxz5e6HwCTfTZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 달고나 만드는 거 같은디",
+        "writer": "UgxYI8Hn1OrxJyZkaNt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 봐도 달고나",
+        "writer": "UgxsNDKcb7AU0281fER4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강병붕노에 차가 망네",
+        "writer": "UgzzHu2xtZtz_rvoEql4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 똑똑하고 귀엽다,",
+        "writer": "UgzBRY4l9gjerdVc_AB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 달고나 때문이었엌 귀요미 엉엉",
+        "writer": "UgyRggOjGtDmaIuQzn14AaABAg.95GRSx52oKV95QhzrdtJO_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 하오야 너무 보고싶다",
+        "writer": "UgxA_F1UkF2M7eLf2g14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 볼때마다 꼭 한명씩은 끌리는 애들있음 다른애들은 봐도 그만 안봐도 그만이어도 끌리는 애 때문에 다른애들까지 보게됨",
+        "writer": "UgzilWTbUG6EKDgLkIN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야생개리 오랜만에 보고싶다",
+        "writer": "UgzllamfTSKnnpyihDV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살아있는 뭔가를 아프게 하는가요 하오의 애원 하오 땜에 슈돌 다(혐오표현)거다 기대",
+        "writer": "UgyTDtu8V0RyyWEy2ip4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국사람들은 안봐도 달고나인거 눈치채는데 외국인들 octopus eel 이난리",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 짱귀여워 개리랑 똑같이 생겼네귀여워",
+        "writer": "UgzazMLswdsGk5AUERx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 하오는 아직 27개월이라고 개리 아빠 하오를 넘 큰 아이 취급하고 있어",
+        "writer": "Ugwd7QuxssReRbdnIgB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐케 귀엽냐...",
+        "writer": "UgyccI2R72wO1htx-rp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고난데 놀랬구나",
+        "writer": "UgwONFbjKZ8klo_9qm14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이거다 내가 딱 그럼",
+        "writer": "UgzilWTbUG6EKDgLkIN4AaABAg.95G4x0gFsPv95KPwi6reOL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 부계인가,",
+        "writer": "UgzilWTbUG6EKDgLkIN4AaABAg.95G4x0gFsPv95L8VhyiTIV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 뭔 망상,",
+        "writer": "UgzilWTbUG6EKDgLkIN4AaABAg.95G4x0gFsPv95Zt75Jf1D0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나 candy",
+        "writer": "Ugy1nM4FdjoyA(반사회적용어)v5y94AaABAg.95G4m1zq8_M95GMMQ2uMLu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타코야낀줄 아나봄",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95GHBIVAJft",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문어 장어",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95HgoUEuwRs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몰라서 물어본건데요, 달고나가 왜 무서워요",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95I0GVvlUmF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니면 탕후루 일수두 있어유.. 아마두, 큼 .",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95I0WyBlDA6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는문어 탕후루라고 보기엔 달고나 모양찍는 틀을 하오가 들고 있네요",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95Iz-QzPXoH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Fadhliza Nurfatihah Zulkifli 어린아이한테는 저런반응 보일수도 있는데요 달고나가 왜무서(비속어)는 아무도 모르지요",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95K0mwjyQtQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찬원지예 그렇군요 답해줘서 고마워요.",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95KOXb1pVPe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심쿵해보라 아",
+        "writer": "Ugy9Rk9E5837Pv5RT3J4AaABAg.95Fy-Pf7QeV95KpeOTkGMk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마 산낙지",
+        "writer": "UgxzLzKUKwdDZ374Vbt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오야아아아 누나 맘을 뺏아가면 어떡하오",
+        "writer": "Ugx3iHdgPHPhCkjowaZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리가 왼쪽에서만 들려요 배경음은 잘 들리는데",
+        "writer": "UgzGVWEmd-OJN_KCuop4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나 뭐가 안될까",
+        "writer": "Ugx0ImdJx9avugwGncR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 언어의 귀재 넘귀여워요 하오",
+        "writer": "UgwwRaKEOX6VGmQdRed4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달고나 다",
+        "writer": "Ugx2E1cKsE68xAu9sZB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 방금 악마의 미소를 보았습니다.",
+        "writer": "UgytCT84m2kIKLFbFep4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하오 진짜 너무 귀엽다",
+        "writer": "Ugzua0C_PhhaIKJ9N9R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 개리 너무 사악하게 나왔는데",
+        "writer": "Ugw8PNHbd-QKIKWEqSF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 넘 귀여워 누구 닮아서 이렇게, 귀엽니",
+        "writer": "UgwDvNC7AeZftRgA_xB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 왜 음성이 다 빠졌지,",
+        "writer": "UgyIQS-UyFYf6X5ScdB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오디오 채널 분리 실패, 조연출 연구동 옥상으로 와라",
+        "writer": "UgzGVWEmd-OJN_KCuop4AaABAg.95FihIzZqQe95G4tev2VUF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타면서 연기가 났겠져. 약한불에 해야하는데 센불에 해서 그렇것 같음",
+        "writer": "Ugx0ImdJx9avugwGncR4AaABAg.95FiOkT7fO_95FrQXstg2L",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이어폰으로 보셨어요",
+        "writer": "UgyIQS-UyFYf6X5ScdB4AaABAg.95FfcBB846u95GH8rds8Tv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강낭콩 그랬나바여. 한쪽으론 들리는거였네요",
+        "writer": "UgyIQS-UyFYf6X5ScdB4AaABAg.95FfcBB846u95GLT_95D1K",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 하오 보고 싶어서 슈돌을 본다.",
+        "writer": "UgxR3BK06SCnGIpybuV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑이 하오",
+        "writer": "Ugx30_9HXY7XqOOpmsB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여운것",
+        "writer": "UgyPAHd-oqNKxSHdApN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱보니까 달고나에 젤리 넣어서 폭발하는중임개웃기노",
+        "writer": "UgxAGcirawIPWS2maql4AaABAg.95FeJkaz3up95HCNgw4knx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 설탕 보고 달고나 갔았어요",
+        "writer": "UgxAGcirawIPWS2maql4AaABAg.95FeJkaz3up95LJy5t3pmQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=zg3iW1o_gks",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

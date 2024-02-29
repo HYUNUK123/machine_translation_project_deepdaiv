@@ -1,0 +1,684 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001691732",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001691732"
+    },
+    "text": [
+      {
+        "content": "신파는 국가를 떠나서 무리수고 참 쉽네 게으르게 만든 각본",
+        "writer": "Ugza3Ty0KxpYEqzJLYF4AaABAg",
+        "write_date": "2021-10-10",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 갑니다.",
+        "writer": "UgzI6z29a63Z7D7_4p94AaABAg",
+        "write_date": "2021-10-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마음을 울렸던 영화, 오쿠다 같은 마음이 있다면 아직 일본에 희망이 있다고 느꼈음. 일본이나 한국이나 비슷한 문제.",
+        "writer": "UgzREs90dEGThhEXGxB4AaABAg",
+        "write_date": "2021-07-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 원빈닮았다,",
+        "writer": "UgyG0Cm61TTtAmXYmrh4AaABAg",
+        "write_date": "2021-07-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공이 미쳤다",
+        "writer": "UgzhsrJ-xee1ZqbgSCJ4AaABAg",
+        "write_date": "2021-06-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 똑똑하고 솔선수범하고 잘생기고 마음이 따뜻한 이가 죽는 거임 나대서",
+        "writer": "UgzOZkkSYXooUzcnWl94AaABAg",
+        "write_date": "2021-05-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 일본은 이런 영화 좀 많이 만들어줬으면",
+        "writer": "Ugwb3CpENRxVvZp0sRl4AaABAg",
+        "write_date": "2021-05-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것 이 인생이다",
+        "writer": "Ugxwr04vYPG5KZbm3_54AaABAg",
+        "write_date": "2021-05-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 너무 멋있는듯,",
+        "writer": "Ugx8_MCFBB6DfkDukr14AaABAg",
+        "write_date": "2021-04-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "32살 백수 나와서 뜨금했넹",
+        "writer": "UgyhrY668eSJCGMRISp4AaABAg",
+        "write_date": "2021-03-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 일본영화중에 잘만든거같은데",
+        "writer": "UgwV2-2IPusAwOLnijR4AaABAg",
+        "write_date": "2021-03-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런영화 너무좋아 82년생(비속어)지영같은거랑 비교도안되",
+        "writer": "Ugx3t5x5IIrXW7BXF6p4AaABAg",
+        "write_date": "2021-02-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쿠타 토마 개인적으로 참 좋아하는 배우인데, 거의 1년동안 공백기였다가 이제 내년에 드라마 복귀하네요. 영화 두더지의 노래 1 2 도 참 재밌습니다.",
+        "writer": "Ugw_jYzhudt69VDsitN4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에서 번역된건가요 아니면 그냥 한글인건가요 (다리에서 누가 이벤트 한데 )라고 되있어서 요",
+        "writer": "UgwmaCSWy_64dY8JxJh4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞춤법 틀림",
+        "writer": "Ugx3t5x5IIrXW7BXF6p4AaABAg.9JG1qp-TWcC9MWFXXQhfhm",
+        "write_date": "2021-05-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국민 사형 투표였나 (혐오표현) 투표였나, 다음 웹툰의 개인지 팬더인지 가면쓰고 나오는 웹툰이 있는대요. 그거랑 비슷한느낌이 드네요",
+        "writer": "UgzJDSNwuhNkGTwuVdl4AaABAg",
+        "write_date": "2020-12-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본의 (이름)이다",
+        "writer": "Ugztr4a_EooWJo54INZ4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 시험기간에 젤 위험한 채널임",
+        "writer": "UgykRrBSt5ts28KNUvR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토다 에리카 살 너무 많이 뺀 거 같은데,",
+        "writer": "Ugwi6HGdCzWzUnfW3JV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)슬프네 (비속어)",
+        "writer": "UgwA9KgFslGvqswuBsV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오, 맨날 만화캐릭터 실사화만 하는줄알았는데 이런걸 알게됐네요. 잘 만들었다",
+        "writer": "Ugw9SR3akKL0ln7gQRF4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 리더같다.",
+        "writer": "Ugw0tSa39R6-LpNv-y94AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 마지막 모든 것을 떠안고 (반사회적용어)이라, 몬가 짠하네요",
+        "writer": "Ugw0ZPFoIYdSHJhqYtZ4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전의 아마네 미사로 돌아와",
+        "writer": "Ugwbn05SsjtbBOKenLd4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본사회도 한(비속어)하지",
+        "writer": "UgwQLQXvvFndlTf0K3l4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불편한 사회의현실을 잘꼬집어줬네 인맥이나 돈이나 가진거없으면 계약직 파견직 여러군데 떠돌다가 나이가 들어서 자리잡지못하고 결국 비참해지는게 현실,",
+        "writer": "UgxBqIHwFIRR1qGrg0F4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 띵작이네요 , 지금 사회비판하기도하고 ,",
+        "writer": "UgyjJEB8-K4tPECddQN4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시저 여자주인공 라이어게임 주인공아닌가요",
+        "writer": "UgwmCjPaM7Ma0R7eqoB4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람마다 생각하는것은 가지각색이고 낙이라고 생각하면 악인거고 선이라 생각하면 선인(혐오표현),",
+        "writer": "Ugz0_q4FIvAZ-rtQOW54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기대안하고 봤다가 오열한 영화",
+        "writer": "UgwBY49M_7YgWKD4iWN4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참고로 이 이후의 이야기를 다룬 드라마도 있는데 위의 4인조가 아닌 신문남을 모방한 다른 범인이 나오는 작품으로 드라마 또한 영화 못지않은 상당한 수작이므로 영화를 재밌게 보셨다면 한 번 찾아보시기를 추천드립니다.",
+        "writer": "UgwiFdzwrhR-PcU3s0d4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들 꿈을 숨기고 살수밖에 없다, 이 세상은 빡빡하니깐 현실은 그렇게 타겟으로 설(이름) 꿈을 말살한다",
+        "writer": "Ugxc5QlZHveQZSF4wzt4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우습게 보는 녀석들 다 고로스해도 좋다고 나도 그렇게 생각한다..",
+        "writer": "UgwCTh6HsneguPiRR0t4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘에 듭니다 좋아요",
+        "writer": "UgxlNSOxBZEVc9j6-g14AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 배우 어디서 나왔는지 생각해보니까 넷플릭스 드라마 주온 시리즈에서 작가로 나온 사람이구나.",
+        "writer": "UgxRn6ZAZYCY0kZllR54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타마키히로시 치아센바이",
+        "writer": "UgxpyzJEaih-g2FQO294AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 주온 드라마 주인공 아찌당",
+        "writer": "UgzAedzQa4V7wwmZMKV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본영화중에 제일 좋았던거같아여",
+        "writer": "UgztXdhou9g-o6fE7nR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이상 영화 예거밤이었습니다.",
+        "writer": "Ugxtx_edVSjLKpYJftR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 슬프면서도 같이 했던 동료들이 결국 죽은자의 이름을 팔았다는게 씁쓸하긴함,",
+        "writer": "UgyPmivNp8XEg7cETMN4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 신문지 뒤집어 쓴거보고 좀머 생각났네",
+        "writer": "UgwFsU58hxI8dFDrJ-h4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신문남 2 3 어디서 많이 봤다 했는데 중쇄를찍자에 나왔던 분들이군요",
+        "writer": "UgxCOukhdRoey7QYp7V4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 처음 봤을때 정말 뒤통수 맞은 영화 제목이랑 결말이랑 전혀 매치 안되는 정말 엄청 울었던 기억이",
+        "writer": "UgwLnrltyZkSNGDeJjl4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 목소리 (이름)이 일본어하면 저런느낌일거같음",
+        "writer": "UgwelFhB_mjqlgxYFNt4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내용도 좋고 다좋은데, 무엇보다 어우 주인공 (이름) 빰치게 잘생겼네요. 뭔가 일본인스럽지 않은 혼혈스런 외모,",
+        "writer": "UgxndHz_EOrleWflLfV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안쓰럽네, 열심히 살았는데 타인 때문에 꿈을 못 이루게 됬으니, 나같아도 (반사회적용어) 했다",
+        "writer": "Ugw5uhZxrSiQJRdGON14AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 기대하고 봐야지 해놓고 까먹고 있었던 영화 근데 그냥 그런 내용이네요 리뷰 감사합니다",
+        "writer": "UgyU92bxxr7vdcuh18F4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 하이킥 분노범 보구 왔는데 이건 예고범이넹.",
+        "writer": "UgxfIuMSq3Yiqy4HnBZ4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)32살이 뭐어때서..",
+        "writer": "Ugz4EzLj_hemuVnL0yh4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마 누구나 상상으로는 몇번씩 신문남이 돼본적 있을것 같아요 영화의 주인공에게 처음 직장에서 믿을 친구만 있었어도 신문남이 되진 않았을텐데 끝까지 참 안타까운 삶이네요 좋은 영화였습니다 잘봤습니디",
+        "writer": "Ugy0M8XZf5he1C007ZR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 원작보다도 재밌는 거 정말 드물지. 형사역 토다에리카 빼고 완벽함",
+        "writer": "Ugz_mWY02RrELafzeaV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "판게아니라 뜻을 아니까 헛되이 되지않게 말하면서 가슴속으로 우는거아님",
+        "writer": "UgyPmivNp8XEg7cETMN4AaABAg.9FE8f1ccEnm9FFSFUcp64t",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저걸 팔았다라고 받아드린다는거 자체가 공감능력 떨어진다는건데 공감 관련된 책이(반사회적용어) 한권 사서 좀 읽어야될거 같은데",
+        "writer": "UgyPmivNp8XEg7cETMN4AaABAg.9FE8f1ccEnm9FHFGTYJ1wA",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺼억 결국엔 동료들의 죄 즉 (혐오표현) 등 여러죄목을 뒤집어 쓰고 불명예를 안고 죽었고 동료들은 덕분에 죄값을 덜었는데 결과적으론 그렇게 된 꼴인거죠. 수사받을때 동료들이 다 주인공이 꾸민짓이라고 자백했잖아요.",
+        "writer": "UgyPmivNp8XEg7cETMN4AaABAg.9FE8f1ccEnm9FHGhzau2yB",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺼억 그리고 감상평이 다를수도 있는(혐오표현) 그걸 공감부족으로 보는건 의아하네요",
+        "writer": "UgyPmivNp8XEg7cETMN4AaABAg.9FE8f1ccEnm9FHHFPIJ0N3",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토다에리카 맞구나",
+        "writer": "Ugz_mWY02RrELafzeaV4AaABAg.9F6KcMlUglT9FE7IBWHBq0",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 좀 안타까운게 자기 복수는 안함. 자기 당했던 IT 회사에 복수할 줄 알았는데.",
+        "writer": "UgwZmWlAm3dNvRzdu1l4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예고범 일드로 재미있어요 일드는 예고범이 판사라니",
+        "writer": "UgwS6SIPwSyYXi2BuFF4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "담배 모자이크 안해도 되는건가",
+        "writer": "UgztORvNlMQnCXJlZF14AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리는 이런 의문을 가질수 있다 (혐오표현)은 정당화될수 있을까",
+        "writer": "UgyGmdcn86nS8yKNqLl4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키라에서 발전이 없노 범죄자 심판 그러면서 범죄",
+        "writer": "Ugyg4ngsAbvPgkFOehh4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마네 미사",
+        "writer": "UgzyCGTHSNm3EktzzfF4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 너무 멋있다, 생일축하한다 말할때 진심으로 애써 웃어주며 말하는게 슬프기도 하다",
+        "writer": "UgxJUbiHVDt-Kjs8J9t4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 장난감들만이 있는게 아니네요",
+        "writer": "UgxuJ0eTmIwPqb1k15d4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본야들 이런거 보고 중2병 걸려서 영웅심리때문애 헛짓거리하는 애들 많겠네",
+        "writer": "Ugzu1FBTtCVk1zA_VbZ4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상보다 더 좋은 떠번무비의 (이름)의 목소리에 완전 반했습니다,",
+        "writer": "UgwhJDvfQ-IvMyu2yi94AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피자먹으면서 보다가 울었다",
+        "writer": "Ugzrmol5ErP6mfwGJT54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 하이앤로우 씨리즈 리뷰해주",
+        "writer": "Ugzqkz-Tpfqf4XYacxR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본영화 리뷰 좋아용 잼있는거 많은데 알려지질못하니,",
+        "writer": "Ugxek3d26SyA7ezxtrR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 라겜 해주면 안대",
+        "writer": "Ugytakcr6xdEoGrPOsR4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 하이앤로우 씨리즈 해주라 너무 재밌었어",
+        "writer": "UgzpHkIweunDB04ocZp4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 생각에는 사적인 복수는 다른 사람에게 울림을 줄 수 없어서 그런 것 같네요",
+        "writer": "UgwZmWlAm3dNvRzdu1l4AaABAg.9F4FKX2qj4k9FWyUeh2UDK",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)아 멋잇는척 하지마라 뭔 그냥 사회를 처 풍자하는 영환데 여기서 (혐오표현)은 사회를 풍자할때 쓰이는 알고리즘이야 (비속어)한넘아 책좀 읽어",
+        "writer": "UgyGmdcn86nS8yKNqLl4AaABAg.9EvRaMRGrfT9EwLNzHEtV0",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 아이스크림 먹다가",
+        "writer": "Ugzrmol5ErP6mfwGJT54AaABAg.9EsWhJH4Qgs9FELzySBoKW",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액션씬 쩌는영화",
+        "writer": "UgzpHkIweunDB04ocZp4AaABAg.9EsQYTGo4kK9EsSWLqFiNc",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 하이앤로우 더 워스트가 풀려서 리뷰 몇개 올라옴",
+        "writer": "UgzpHkIweunDB04ocZp4AaABAg.9EsQYTGo4kK9Esb_ySJlWr",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 챙겨보고 있습니다 재밌는 영상 올려주셔서 감사합니다",
+        "writer": "UgxRrn8jVmJVmznPuV54AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내용 좋으면서 슬프다,",
+        "writer": "Ugz2UXZqdOxxrBTggy14AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라이어게임2에 나온 (이름)다 (비속어)가면",
+        "writer": "Ugx50y9ErnoO2TfRwFd4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "망 일본영화계에서 이거 그래도 나름 잘짜여진 각본대로 사회비판까지 담은 작품입니다 정말 좋은작품 소개해주셨네요 자신들이 처단해야할 사람들의 사회적 말살을 하고서 자신들도 역시 죄를 짓는 테러를 자행하고있다는 인식이 더 안타깝게 느껴지는작품입니다 한번씩 봐도 좋을듯 해요",
+        "writer": "Ugwxjx1mdFEf4nE6iIl4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본영화 보면서 이건 볼만하네 라고 생각한 몇 안되는 영화",
+        "writer": "Ugw83lsDruct5EBxMUp4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "통쾌하기도하면서 찝찝하다",
+        "writer": "UgwBuuP82ycxJYTaB_p4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 오늘은 이거다",
+        "writer": "UgywEEylkEGHF0OiBwV4AaABAg",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공이 일하던 회사 사장은 바람의검심 영화에서 봤는데 십본도 사도지마 호우지,",
+        "writer": "Ugx50y9ErnoO2TfRwFd4AaABAg.9EsGuLXIgQ99EuaV0whIXR",
+        "write_date": "2020-11-07",
+        "url": "https://www.youtube.com/channel/UCuJL8yqirNE-F8OdCcsOVLw",
+        "parent_url": "https://www.youtube.com/watch?v=SCDs43zoo9k",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

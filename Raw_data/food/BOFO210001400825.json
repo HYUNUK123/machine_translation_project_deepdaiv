@@ -1,0 +1,764 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001400825",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOFO210001400825"
+    },
+    "text": [
+      {
+        "content": "안녕하세요옹 감자매입니다 오늘은 알감이가 집밥 먹고싶다고 노래를 노래를 불러서 부족하지만 알감이가 좋아하는 게장도 신중하게 찾아서 (비속어)고 소소하게 집밥 차려서 먹었어요. 저는 게장을 엄청 좋아하는 편이 아니고 날것을 주문 해먹는게 신선할까 냄새나면 어쩌나 걱정이 많은데 여기는 진짜 맛있었어요. 애용할거 같습니다 인스타 보다가 알게 된곳이예요 (협찬 아닙니동.) 여수 청정게장촌( )인가에서 시켰어요. 집밥 먹고싶다는 알감이 덕분에 맛있는 저녁 먹었습니다 영상이 재미있으셨다면 구독과 좋아요 부탁드려요 오늘도 감사합니다",
+        "writer": "Ugyo2yDXlfYXMrI56rp4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장게장 시켰어요 좋아요는 꼭 누룹니다",
+        "writer": "UgxuGz0H-MfoDNHIVcZ4AaABAg",
+        "write_date": "2020-12-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샴푸엄마에요 간장게장 저기버린다리도 꼭꼭 (비속어)어먹으면 살많은뎅 밤인데 저녁도 먹었는데 밥먹을래요 넘 잘봤어여",
+        "writer": "UgyyRWaLTYYMRu2T9zl4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 랜덤으로 감자매의 영상에 빠져서 잠을 설치고 있네요 감자매가 구입한 음식은 믿고 저두 구입하고 있어요 근데 항상 궁금 한게요 영상에 자주 나오는 김은 어디꺼를 드시나요 구운김인가요 생김인가요 소금간한 김인가요 항상 두장씩 드시는 김 정보좀 알려주세요 요즘 잠 설치며 보게되는 알자매 꼭 지금보다 더 많이 성공하세요",
+        "writer": "UgyjFQSo1iYGnGqlIwx4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못본게 있었다니 이거슨 .... 뽀빠이에서 별사탕 다 먹은줄 알았는데 발견한 늬낌",
+        "writer": "UgwdAkSGRr_9VE-VpwV4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 신기한 일이재 영상한개만 볼라캤는데 벌써 세개째에 빠져드러뿟따 우아믄좋노 우리 집 아그들이 밥 달라꼬 난리데이 책임져라마 감자매 (비속어)들",
+        "writer": "UgzenoSJBdWIznw8Oyh4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감자언니가 짱이네예 동생 집밥묵고싶다고 잡채 미역국 맛난 게장도 시켜주고예 참 좋은언니입더",
+        "writer": "Ugz-IvbBlP-2fY76a0R4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감자언니 동생하고 싶당",
+        "writer": "UgwP0BDkdZzpAWeJGCJ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 부럽네요 언니있는거",
+        "writer": "UgymbJ7YfXrYx2E4h2h4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 예쁜 반응해주시는데 어떤 언니가 안뿌듯해할까요 넘 보기조은 자매덜",
+        "writer": "UgwrRtwJBtjP2cacCod4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감자언니같은 언니가 있었으면 좋겠어요",
+        "writer": "Ugy774sVP2zrKXDdfqp4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제 우연히 보구 넘 좋아서 구독하고 정주행하는 중이예요 이런 자매가 또 있을까요 마음이 푸근해지는 영상입니다.",
+        "writer": "Ugx9VyIyuOMiMvfB94t4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니야, 우리언니야랑 바꾸자,",
+        "writer": "UgyTtP9_t8Z9ldKcONt4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 언니 어디 가면 살 수 있죠 급히 구매하고 싶은데요,",
+        "writer": "UgwjtpVrBZ5UN6MzJ8t4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남매사이가 어쩜이리 사랑스러울꼬, 나도 이런언니 있었음 좋겠땅",
+        "writer": "UgxjLC6OLOL7dvjp_bN4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집밥은 늘 정답 입니다 집밥은 생각만 해도 행복이져",
+        "writer": "UgzNCeB96WBGtBtL6Up4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘도 이쁘심",
+        "writer": "UgyyX0lS67OEqY6bPGl4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이런 언니 있었으면 좋겠어요",
+        "writer": "UgzVEFj0JgbBq5V5CJ54AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 잡채를 해주다니, (이름) 참사랑 게 뚜껑도 까주다니",
+        "writer": "UgzXtytMqH6Hqn6SK3V4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중말 좋은 언니 (이름) 알감님도 좋은 동생",
+        "writer": "UgxfYRTfCveLx8k997R4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 싸이트 들어가봤는데 진짜 신세계인데요 공유 감솨해여",
+        "writer": "Ugyo2yDXlfYXMrI56rp4AaABAg.8tG2HOlYrfH8tIPZEGiy9n",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뽀빠이에 별사탕",
+        "writer": "UgwdAkSGRr_9VE-VpwV4AaABAg.93L8HFPcABe93Luk-Iwxbk",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다아 알감이랑 재미난 영상 자주 올릴게요.",
+        "writer": "Ugx9VyIyuOMiMvfB94t4AaABAg.8vvdQLesT678vxGJusEVyF",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 아무래도 감자매분들 제 잃어버린 언니들 같네요, 찾았다 내 언니",
+        "writer": "Ugx7JQk51E3gAQKar3h4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 친언니라면 고이 모셔오고싶네여, 탐난다",
+        "writer": "UgzawNTUvUgarPQvHO94AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상황극맨날 상황극보는재미가 간장게장 사장 시어머니 우리 큰엄마 보는줄",
+        "writer": "UgzrVTe1uXjemDOpj0h4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감(이름) 구해줘홈즈라는 TV프로그램에 사연보내시면 이사갈집 구해주고 이사지원금까지 주는것같아요 방송타시면 유트브시청자도 더 늘고 좋을것같아 오지랖 부려봅니당",
+        "writer": "UgxeSg83aQ8YJ3bIdep4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두형제많고싶다 혼자는외로워 부릅따",
+        "writer": "UgxT434bS2Jz9ovW2st4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 언니한테 집밥먹고싶다고 가야겠어요게장 너무.미쳤다 보는내내 행 복해요",
+        "writer": "UgwkIlL6Ryz0kLyNrzh4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감자언니는 진짜 요리를 즐기시는 것 같아요.",
+        "writer": "Ugy-omulrailSBqowLJ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 언니 보고싶다 맨날 틱틱해도 힘들고 어려울때는 제일 먼저 챙겨주는게 언니였어용 세상에서 혼자가 아닌 언니랑 의지할 수있게 태어나게 해주신 (이름)께도 감사드리고 언니가 있다는것도 감사하네요 오늘 영상 고마워요 생각난김에 연락해봐야겠네요",
+        "writer": "Ugwyh0t8jPjxMZ_Jr594AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 볼께요",
+        "writer": "Ugzys0F1R1GIWGZrsAV4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니들 요즘 영상 왤케 많아여행복해여",
+        "writer": "UgyxSufBRULxUqmDL6d4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 뒤에 가스렌지에 시금치가 이쁘게 플레이팅",
+        "writer": "UgyAaRwObkM9m_Lnn4Z4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 보고 가요",
+        "writer": "UgznQ2U204lLyqE0RVB4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비린거 진짜 못 먹어서 양념게장만 먹는 사람인데 잘 못 먹는 사람도 먹을 수 있을만큼 간장게장 안 비릴까요 , 이거 보고 너무 사고 싶어졌어요",
+        "writer": "UgyJA1wijjFViL79uDZ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알(이름) 부럽다. 언니가 최고지라",
+        "writer": "Ugyx8IyY0DxfRT3jjMV4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 어떻게 현실자매죠,",
+        "writer": "UgxHCSvxV5Jl_lvtgLZ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집밥 차려주는 친절한 감자씌 알감님은 정말 좋은 성님을 두신 오늘도 침대에 누워 침 흘리면서 봤네요",
+        "writer": "UgwszDjIUKD-riobP554AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니야 짱...",
+        "writer": "UgyCdp-l1pnVQ3JkTZZ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식당인줄 게장식당가면 감자언니야처럼 후라이랑 미역국이랑 김주던뎈 역시 감자언니가 뭘 좀 아시는분이네예",
+        "writer": "UgzIYwmvmsJnC3D57dB4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥도둑 밑에 애완인 계시니 저는 가사 도우미 지원해봅니다, 청소 빨래 자격증있습니다",
+        "writer": "UgwXtHXrW2uURRrR6jZ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안그래도 프로그램 봤어요. 한번 신청해볼까요",
+        "writer": "UgxeSg83aQ8YJ3bIdep4AaABAg.8tL4QDGbRog8tLC_AZnc0s",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리는 즐거워요.",
+        "writer": "Ugy-omulrailSBqowLJ4AaABAg.8tIlb-SOFfB8tKLnCCo0cE",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 마음이 따뜻해지는거 같아요 저도 어릴땐 몰랐는데 크면서 동생이 있고 자매라는게 다행이더러구요 혼자였으면 나름 또 살았겠지만 이것보다 재미있을까 좋을까 싶어요",
+        "writer": "Ugwyh0t8jPjxMZ_Jr594AaABAg.8tIO2mBLyPE8tKM27JG5Bu",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양념게장과 달리 간장게장은 게딱지가 있어서 거기에 내장이 호불호 갈리는거 같아요 저도 간장게장 몸통으로 잘 먹는데 게딱지 내장은 막 우와 맛있다면서 먹는편이 아(비속어)든요 그래서 내장맛을 비리게 느끼신다면 어떤 간장게장이던 비리다고 느끼실수 있을거 같습니다",
+        "writer": "UgyJA1wijjFViL79uDZ4AaABAg.8tH2eBUXtGA8tHnLmDwMPZ",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Gamja sister감자매 친절히 답글 감사합니다. 그래도 영상에서 너무 맛있어 보여서 함 무보자 . 하고 저 사이트에서 구매 했어요 좋은 정보 감사합니동",
+        "writer": "UgyJA1wijjFViL79uDZ4AaABAg.8tH2eBUXtGA8tMA-aojM-9",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 쪼매 먹을줄 압니더",
+        "writer": "UgzIYwmvmsJnC3D57dB4AaABAg.8tGW74m1ui88tHnb3eu9zw",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게장 넘나 먹고시퍼여, 넘 맛있게드시지마세여 눈물나여, 케케 오늘두 잘보구갑니동",
+        "writer": "UgySxFgPjbpS9OS4jPV4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알감이 애교봐,",
+        "writer": "UgxoKTggWP8Teshluk54AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상황극 넘 좋아요 감(이름) 사이 넘 좋아서 보는내내 엄마미소",
+        "writer": "UgxXG5Vb5LKcY-qLxlZ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번영상 역대급 입니더 진짜 침질질 흘리면서 봤으예 외국 나홀로 자취생은 알감님 느므 부럽네여 진짜 일가구 일감자.",
+        "writer": "UgwPxC_GAd3eTEXJdR54AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감자언니 뚝딱뚝딱 요리하는 매력에 치이고 갑니다 알감이언니 부러부",
+        "writer": "Ugz3VAZGtUnB-1Vu9k14AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타벅스에서 계란샌드위치먹을때 입으신 겉옷 상의 알려주실수있나요 .... 초에 나온거요....대답기다릴게요 오늘도 영상잘봤습니동",
+        "writer": "UgzCQ3czXf1z8RPoYnF4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마가 따로 음따, 영상 최근에 자주 올라와서 너무 행복, 아끼다아끼다 봅니다",
+        "writer": "UgxZyYhWn9Mv7vPoe3F4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 왜 감자언니 없어 흐어어엉 역대급 맴이 뜨뜻해지는 영상이네유",
+        "writer": "UgxRZBmeemoElI4uUqJ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성님이 (이름)상 차려줘서 기부니좋은 (이름)",
+        "writer": "Ugytn5EPAEoOV00G5Gh4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 언니 해주시겠어요,",
+        "writer": "UgzbZypRjby_SC0VuJJ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼형제라 알콩달콩 자매이야기 보면 참 부럽네요. 형제들은 야 라면 끓여온나 이게 다임",
+        "writer": "UgwDo6kQKg1yXPl_O-x4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 머리채가 아니라 잡채..",
+        "writer": "UgzHV2RSihszX4fkSMp4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저희집에 와주세요 저두 언니 필요해요",
+        "writer": "UgyGeCSPJL5AzgR1jLV4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배변훈련 (비속어) 짖지않고 물지않는, 애완인, 분양인하시나요,",
+        "writer": "Ugy6FkRMYTFhsBAfV6p4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나들 너무 재밌어요 영상자주올려줘서 너무 좋아요 올해는 꼭 구독자 10만넘으면 좋겠어요 항상 응원할게요.",
+        "writer": "UgzdwM0Y2B_pFeyh-wN4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 잃어버린 막내 셋째가 저에요 저 ,",
+        "writer": "UgxpxlpD7o0MXytuR8t4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 집밥먹고 싶다하면 저렇게 정성들여 푸짐하게 차려주는 감자언니 동생이고 싶어여",
+        "writer": "Ugwlq0gHnLbV80uCRq94AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시리가 켜졌어요",
+        "writer": "Ugy4-SgIMLYKSfBMj554AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타국에서 자취 한국 어서 들어오셔서 맛있는거 많이많이 드세요.",
+        "writer": "UgwPxC_GAd3eTEXJdR54AaABAg.8tGRtZsqPHr8tHnpaBfnZO",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니클로X이네스 제품입니다.",
+        "writer": "UgzCQ3czXf1z8RPoYnF4AaABAg.8tGMuizeWFf8tGNKAmue6k",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Gamja sister감자매 감사합니동",
+        "writer": "UgzCQ3czXf1z8RPoYnF4AaABAg.8tGMuizeWFf8tIrMXAIAqq",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알감이는 어떡해요,",
+        "writer": "UgzbZypRjby_SC0VuJJ4AaABAg.8tGKh6iHOc-8tHo-DDqdrE",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오우 라임 스웩.",
+        "writer": "UgzHV2RSihszX4fkSMp4AaABAg.8tGIOgfy-Jv8tHo3BVN8c-",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이렇게 다들 귀여우세요",
+        "writer": "Ugy6FkRMYTFhsBAfV6p4AaABAg.8tGFgruDMc58tHo6-i-Upj",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10만 가즈아아.. 저희도 감사합니다아",
+        "writer": "UgzdwM0Y2B_pFeyh-wN4AaABAg.8tGFeS4wG_z8tHo8FkcFih",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생일밥상인가여 . 라고 칠려고했는데 알감언니가먼저말했다",
+        "writer": "UgwgIDv-sakxVJ3Tw7J4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 저 세쨋딸, 기억안나요 ,",
+        "writer": "UgzDbLVLWecmV8S0UA54AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녀러분 진짜 친언니는 후 할말하않 감자언니같은 친언니는 존재하기 힘듭니다",
+        "writer": "UgyRtZXs9aB5VkEOR_d4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉 알감자 부러워",
+        "writer": "Ugz4mqV0SNiwIRG0OPl4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 애완인 거두실 생각 없나요, (이름), 짖으라면 짖겠습니다......너무 쩔어용, 거두어주십쇼",
+        "writer": "UgyCFIhW2pBPJwLAcwh4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동생 집밥 소리에 집밥 차려주는 언니, 동생 깰까봐 소근 거리는 언니, 일어나자마자 도와줄꺼 찾는 동생, 언니가 차려준 밥상 맛나게 먹는 동생, 세상에 어떻게 이렇게 예쁘죠 영상이 오늘도 잘 보고가요,",
+        "writer": "Ugwr3xVgmdy9fIVOoNN4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오, 저 저게장시켜먹어볼래요, 여수게장거리가서 많이먹어봤거든요,그래도 택배는 찝찝해서 못시켰는데 시켜보겠습니동, 알(이름) 진짜 복받은사람, 보통 니가 쌀씻으라고 머리채잡힘.",
+        "writer": "Ugwu4JvJpmeB_FS2JGB4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감쟈언니 포차차릴생각없으세여 언니가 만들어준 안주에 쐬주마시면 끝도없이 들어갈것같아요",
+        "writer": "UgyNg8Fn5bPiUZzpDUt4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감자 언니,",
+        "writer": "Ugy_0h5SkLwGXL6waDJ4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리언니 태그하고싶네요",
+        "writer": "UgwMAyakuHtv-hIkSq94AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 차려쥬세욤",
+        "writer": "UgwD6MfvVgNFsNPBPj14AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 이런 언니 있었으면, 우리언니랑 진짜 다르네요자매사이가 너무 부럽다",
+        "writer": "UgysbWxru5rh84R9WIR4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간장게장 미쳐따, 진짜 감자언니 내언니해......",
+        "writer": "UgyR7S0Y77KzWskC-Jd4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금까지 이런 언니는 없었다. (이름)은 엄마인가 언니인가",
+        "writer": "UgwH2ETvcOIwjaaA10p4AaABAg",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 잊고 살던 셋째들이 등장하시네요",
+        "writer": "UgzDbLVLWecmV8S0UA54AaABAg.8tG4asr17aZ8tHoIYLO29k",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애완인 저 알감자라고 키우는 애 있어요",
+        "writer": "UgyCFIhW2pBPJwLAcwh4AaABAg.8tG3q2OFKS18tHobqsbccl",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Potato sister감자매 좋아요",
+        "writer": "UgyCFIhW2pBPJwLAcwh4AaABAg.8tG3q2OFKS18tIipiWCwCQ",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다아 종종 집밥 맛있게 차려 먹는거 보여드릴게요.",
+        "writer": "Ugwr3xVgmdy9fIVOoNN4AaABAg.8tG3fLu7-X08tHogvtnN_9",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가게가 있길래 쳐봤었는데 꽤 인기있는 집이더라구요. 저희는 맛있게 먹었어요",
+        "writer": "Ugwu4JvJpmeB_FS2JGB4AaABAg.8tG3aCpiy2q8tHondv-1tN",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주위에서 위험하다고 하도 말려서 잠시 마음을 접었지만 언젠가 속닥하게 술 한잔 할수 있는 맛있는 가게 하고싶네요",
+        "writer": "UgyNg8Fn5bPiUZzpDUt4AaABAg.8tG3PRAtTgc8tHp0-Gp5tY",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜영 남 사랑입니다",
+        "writer": "UgwH2ETvcOIwjaaA10p4AaABAg.8tG1J6sbksp8tGcSaR0kiC",
+        "write_date": "2019-10-20",
+        "url": "https://www.youtube.com/channel/UCDiohkMMUnwCMz8ZCJFT-cg",
+        "parent_url": "https://www.youtube.com/watch?v=pld7VcMP9wQ",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

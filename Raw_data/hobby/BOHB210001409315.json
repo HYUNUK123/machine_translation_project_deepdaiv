@@ -1,0 +1,956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409315",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409315"
+    },
+    "text": [
+      {
+        "content": "사해는 왜 갔는데",
+        "writer": "UgzVfQ_Ozqytpzx4n7d4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 물고포증 젤 심한줄 알았는데 저 어른은 얕은데에서도 무서워하는거 실화냐 물무서워하는거 기네스북 오르겠다",
+        "writer": "Ugyh-3MFXAlhALCBXTZ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서는게 더 쉬운데 더 어려운걸 해냈네. 저기서 수영배우고 그담엔 지중해로가고 점점 자신감 키울 수 있기를 할수있다.",
+        "writer": "Ugw4f1WXwDZLntgKisx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만 좀 괴롭혀라",
+        "writer": "Ugwy44udJnPCZSlQPQd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교에서 봤는데 애들 다 터짐",
+        "writer": "UgyXTY69l7O3kXyTR7R4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물공포증은 뭔가 느낌이 물이 나를 뒤로 잡아서 넘어트리는 느낌이라 넘무섭",
+        "writer": "UgymzRuT1Cvpcg59tgl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사해에가면 물에뜨는사실을알고계십니까 그이유는 소금이 다른바다보다 더많이 있고 그런 부력때문에 물에서뜨는것입니다",
+        "writer": "UgyonCvllrkGRJKu-KV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)인가, _",
+        "writer": "UgyYLhm8w-tYiUgcI2Z4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나랑 똑같당",
+        "writer": "Ugwv1kJTcc2Q0dpHCG54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 너무웃겨 덕분에 오랜만에 웃고갑니다",
+        "writer": "UgzSrcDt1z9AdzaLMiJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 다시 봐도 재밌넼",
+        "writer": "UgyoMnMswcMmLvVtG7d4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 겁쟁이네 진짜",
+        "writer": "UgxtWhDmMByIFfrVZOp4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다녀온지 30년 다 되어 가는데, 나도 물속이 시퍼러 무서워 떨었는데 자유형할려니 몸이 뒤집어지고 둥둥 떠서 너무 재밌었어요",
+        "writer": "Ugy9ZuZki9R545ZSnA14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 이거우울할때마다 보는데 너무좋이여 편집자 누구신지 사랑합니다",
+        "writer": "UgyLgO8n60nbJ2rzr494AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자분께 말하고 싶다 저 태국가서 맨몸으로 바다에서 수영함 약3미터",
+        "writer": "Ugw8kYQbNgeSDrZhJVl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여행 (비속어)치다",
+        "writer": "UgxGlPPaDGGCFjiIj9Z4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 아직도 보러 오네요 세상에,",
+        "writer": "UgxU3J6bNslNkSMj6_54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 (이름)은 (이름)한테 인센티브 주셔야겠다 덕분에 여러사람 빵 터졌어요.",
+        "writer": "UgzoVf8ie36Qj6we_e54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 너무 웃겨요 잘보고가요 배짼다 진짜 레알",
+        "writer": "UgzRMKqyDyEvsvwTOmZ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조커 보고 다시 보고 싶어 재방문 했습니다",
+        "writer": "UgzexwKwdCWyidKZ57J4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우울했었는데 이 영상을 보고 다시 웃음을 찾았습니다",
+        "writer": "UgyZEk1kdQJYj7Uy7jV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과학 시간에 쌤이 보여주셨는데 단체로 뿜었습니다",
+        "writer": "Ugybf-SnzKhfjXTZ8fR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 아이다",
+        "writer": "Ugwhi6A39ZtN5I9R8JN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 (비속어) 그냥 손 확 놔버려 가라 앉기는 일어서겠구만 접싯물에 코박고 (비속어) 그러나",
+        "writer": "UgxXcHdO3NGAv3niSIB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고 또 봐도 너무 재미있는 영상이에요 , 웃음을 주셔서 감사합니다 (이름)",
+        "writer": "UgyxYdNKXbpmqnphS_N4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표정이무서워요 일부러저러나 너무잼나요",
+        "writer": "Ugw_T9KAQsgecOlPbz94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그우먼 인.",
+        "writer": "UgzNh2PotZXnrnhyurd4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 웃기네요",
+        "writer": "Ugy_u5WXG_oTXA3o08B4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이(이름) 볼수록 너무 착하시고 멋있는것 같아요",
+        "writer": "UgxHj1JQH-kEMYqlkOp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 저렇게 호들갑을 떠냐",
+        "writer": "UgzlPwl_nmrbOGlktD54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짴오늘하루 힘들었는데 여미덕분에 엄청 웃고갑니다",
+        "writer": "UgxahMT6m1-OaMryzDR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으, 아 .허지마.... 으,아, 흐지마. 으흐흐으으으 개웃곀 어니 그냥 일어서면 되잖아옄",
+        "writer": "Ugy6o_bu2aa40JgpxU54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(이름) 진짜루 무릎높이에서 그런거 실화입니까, 웃다가 침흘려본거 처음이에요",
+        "writer": "Ugxk6ylM8n8-eOz7KC94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타이타닉 브금뭐냐곸찰떡",
+        "writer": "Ugzgco4Yfmfze0D8QZp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요 근래 최고로 웃었닼",
+        "writer": "Ugy6irSPPVRLCSxcaBJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저분 개그맨이에요",
+        "writer": "Ugyf0IWHrKq78B5lRWN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완젼 웃겨 요근래에 이렇거 웃어본적처음임",
+        "writer": "UgwlyXeagzb6_cbVn5x4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 뜰때 자막 음악 너무웃겨요",
+        "writer": "UgzfxnypAW1z-Ay1CEV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)보러 또왔음",
+        "writer": "UgxOvl9gAN0QHpj0QL14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 물공포증은 있어도 그정도 얕은곳은 갈수있을듯, 큼( )",
+        "writer": "UgzHGruAq04h46TuAlF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여성분 웃기려고 저러는거죠",
+        "writer": "Ugw79waryHfVlNLH2FF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 이게 뭐야",
+        "writer": "UgwOD4nMQcjShpk93Bh4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 분이 그 포토샵 잘하신다는 그분 맞죠",
+        "writer": "UgyvIJ_1dwlB10wI_Zp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순간 비쥐엠이, 뭔가 이상한데, 하고 찬찬히 들어보니 리코덬",
+        "writer": "UgyCjea-zrHqtPYxB_x4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 보러옴",
+        "writer": "Ugx4SsLw3y6v4KgPIdZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 슬플때마다 보고 싶어요 거의 (반사회적용어) 우러따",
+        "writer": "UgyiXWOQkLTvEBIpmOR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "독서실에서 이걸 본 순간 모든건 잘못되었어요",
+        "writer": "UgyNL6Ahzi398fnUNiR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 과학시간에봤는데 너무웃겨욬",
+        "writer": "UgxJwrHz5T5tzgcKPWR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이여자 저희학교 육상쌤이랑 똑같이생김",
+        "writer": "UgxVOhB4195BKCuQyYl4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 비호감이다",
+        "writer": "UgzaHBfaYphKEOOwtal4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) ..아주 예전에 신혼부부 여행동영상을 한번 본적이있는데 그 영상을 다시 보고싶어서 찾아보는중인데 아무리 찾아도 안나오네요 엄청 인기 많았던 동영상이고 200일 동안인가 한 여행인데 하 너무 답답하네요 그영상은 어디간거죠 대체 남자분이 편집도 굉장히 귀엽게 잘하셔서 조회수엄청나왔던영상이였는데, 그 영상 bgm도 알고싶어요",
+        "writer": "UgyGKKv2jWdT1HxczsN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 웃어서 미칠것 같아요 아 웃을일이 이 영상을 통해",
+        "writer": "UgwqA15TGAceYikVC7p4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저 깊이에서 너무 오바하네,",
+        "writer": "UgxdIREZisi9ryQnWkh4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 리코더 소리",
+        "writer": "UgyKszSijkZqGiYGbsJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리코더 큰웃음 주셔서 감사합니다",
+        "writer": "UgyBi7a9DX7JlgoU5Dl4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 제일 웃겼닼 (이름)",
+        "writer": "Ugyrqe5ijma0oJ-a7_54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈은 왜 풀리냐구요",
+        "writer": "UgzwJzo-VHhjOuwPWlB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 접선한줄 알앗어",
+        "writer": "UgyGG5fk2M7SL-uKncR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 사약받기전 후궁, 그런 느낌이다 내 이(비속어) ...",
+        "writer": "Ugxn-i94dLVie-96Ml54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 눈물나게 웃었어요 (비속어) 사랑해여",
+        "writer": "Ugwjm6bLngCwpKgSW7Z4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃기닼물공포증은 뭔가요 세수나 씻는거 마시는건 가능한데 수영만안되는건가요",
+        "writer": "UgzZaYJ5LOWlp3L6iXx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빵빵 터지네요",
+        "writer": "Ugw6OX32tSujLq8CJ8F4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사해풍경은 어떤지 궁금하네요 영상 재미있게 잘봤어요 음악 대박인데요 물이 깊지않은데 몸이 뜨는것 같네요",
+        "writer": "UgyAUyGbJOUONu8hlW54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠아 웃겨 죽을 것 샅앙",
+        "writer": "Ugxj0AXWQiBbzHNKOAt4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 역대급이에욬",
+        "writer": "UgxAETeqc0GD_uHAFHZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌게 잘봤어요 리코더 중간중간 삑사리 난 브금도 킬링포인트",
+        "writer": "UgxDg1spRNiOzbgAa0B4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독취소하려고 들어왔다가 넘흐 웃겨서 다시 구독 눌렀어요 접신하는줄",
+        "writer": "UgwV33z-Utcviy_rTAJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고양이 같으세요 물리엔진 고장나서 오작동하는 고양이 장난이고 너무 재밌게 잘봤습니다. 귀여우세요 물공포증 이겨내신거 박수드려요.",
+        "writer": "Ugx8ML1tX_S5OMgw4MZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 접신 혹은 퇴마 영상인가요 컨텐츠 잘못찾아온거같은데, 하지마 훼쥐뫄... 어 어흐 으웨애애애..",
+        "writer": "UgxtpljtAY3npygQ5294AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남일 같지 않아서 마음껏 웃을 수가 없다큐큨",
+        "writer": "Ugxert4ROmRzpKht8p94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 힘들고 고되서 이 영상 다시 봄 기분 좋아짐",
+        "writer": "UgyEi4Ht4UEA8HGrfkZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고였습니다 큐",
+        "writer": "UgwIfb710fUnmpMVJzN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "접신한줄 알았자나, 하지마.",
+        "writer": "Ugwso_Gr361o2Lfe3Ct4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 근데 저도 물 공포증있어서 그 심정이 너무나 이해돼요 마치 저 모습이 내 모습,",
+        "writer": "UgxKFMZaEtt2Jgq4BhN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넹 맞아요, 그냥 수영을 못해서 무서운거에요 물에 빠질까봐 물에서 아예 뜨질 못해서 그게 무서운거에용 수영을 못해서",
+        "writer": "UgzZaYJ5LOWlp3L6iXx4AaABAg.8vLCII722V58vNr-CKjOeR",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지하철에서 보다가 웃겨 죽는줄 알았어욬당분간 웃고싶을땐 이거봐야겠다",
+        "writer": "UgwJ9kKsafNwivz3y_14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저정도면 목욕탕도 못가겠는데",
+        "writer": "UgxlVhPu8cNrFutHi8p4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이거 하나로 이렇게 웃음을 준다고,",
+        "writer": "UgxiAQWcWn-ZYFeesb94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 물에 빠지는 콜라병은 안다 저거 진짜인거 내 병은 사해가야 치료되고 사해벗어나면 재발함큐",
+        "writer": "Ugxz780NRudZ9wiJBDx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리잡고 흑백으로 사진찍은거 웃기네요",
+        "writer": "Ugyi7muNF5AAPZtYszR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상때문에 숨이 안쉬어져요 누가 고쳐주나요",
+        "writer": "UgzTlCCltO2a55M34VF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에는 영상이 너무 웃겨 브금을 몰랐습니다. 댓글을 보고 브금을 들으니 영상이 안보입니다 흐어류",
+        "writer": "Ugz4Am9Xh2fu2wW2WEt4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본격 퇴마에 미치다 엑소시즘 진짜 신들린사람 같앜",
+        "writer": "UgxBnDjxvI4ReO2iB8R4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 웃긴거 아니에요 이 영상 공개 안했으면 안됐어욬",
+        "writer": "UgxlslVA38Ob1dGrC7J4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 잔인하게 찍은거 아닙니까",
+        "writer": "UgyTytBO-g6Tf1I7tUl4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 첨부터 끝까지 (비속어)듯 웃었어요 리코더 비쥐엠 뭐냐고요",
+        "writer": "UgzgeAcjgAwPt-HWJxF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 (이름) 웃겼지만 지금까지중에 최고였어여,",
+        "writer": "UgwZY7rsJj-jVuEmgi54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "환자이동 자막미쳤닼",
+        "writer": "UgzSjjduO3A2l4l4VYJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "접신할때 돌겟넼",
+        "writer": "UgwhzgeEzSMy8F3EEmF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 개웃기넹",
+        "writer": "UgwrZXU0DA7Ea2G5qyp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 와중에 사진 찍어달래",
+        "writer": "Ugz9CO0CFhX9rieFRcR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜개웃겨",
+        "writer": "Ugxi7Sfpa_HRbwI6iAJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놔 진짜 10번 본거같네요 웃긴다",
+        "writer": "Ugx6iYXLgeYJvrpz3GF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜웃겨서 배찢어질거같고 콧(비속어)벌렁대는데 저도 물공포증있어서 공감가고 근데 너무 웃기고 근데 공감가고 환장파티",
+        "writer": "Ugx6FO7gy7MMPKuMF7V4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 백만 각이다",
+        "writer": "UgwJydKMl3YVRbI21Id4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브금 미쳤냐곸",
+        "writer": "UgxXNJ_x6RC9K0MY5ER4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많은 사람들이 몸을 담그는것 치고는 물이 깨끗해요 사해 근처 풍경은 어떤가요 혹시 풀 한포기 없는 삭막한 풍경은 아닌가요",
+        "writer": "Ugzczl1pDC_-MCuYFMN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 웃겨서 눈물낰",
+        "writer": "Ugye0g3V9_X283n0gIp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짴(이름) 사랑해욬",
+        "writer": "UgxdJ8RV8V3uSA4i4tJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리코더 연주부터 울었어욬",
+        "writer": "UgzD27fUF3IDx7Xmm4Z4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리코더 브금 뭐냐고진짴눈물나게웃었넼",
+        "writer": "UgwVTo24boIV4LPqQ2N4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글을 안달 수가 없다",
+        "writer": "Ugzo-9o7HwI5dMxGqhR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 오바하네",
+        "writer": "UgyZ_HHacjWd70VUq994AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬보고 뒤에 분들 cg인줄",
+        "writer": "UgzEVE6SgPXTk-9koDB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 배잡고 웃었어요",
+        "writer": "UgxcydH9yq94QnC0Sbx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느엌 밥먹다가 웃겨 죽을 뻔 했네욬",
+        "writer": "UgzwR2pJkeE0obkuQNR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놔 내배꼽 어쩔낀데",
+        "writer": "Ugzv2b-MgAkNg8itwPh4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1일 1사해하러왔습니다. 우울할 때 보면 기분이 좋아지는 만병통치약사해영상 ....",
+        "writer": "UgwVTo24boIV4LPqQ2N4AaABAg.8vEVO88NV4d8vJ1PwA7WTn",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 사해하러왔읍니다,",
+        "writer": "UgwVTo24boIV4LPqQ2N4AaABAg.8vEVO88NV4d8vSYxH1VNDx",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 명의는 명의십니다",
+        "writer": "UgwflIsBBm5s-7kJDP54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제대로 고장나셨네요",
+        "writer": "UgwaWyyvLutj3kGS-JF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이영상을 진짜로 올리냐곸 미쳤",
+        "writer": "Ugyo-X3gcgXnT_u8YPx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블랙팬서 이후로 한국어 능력테스트 처음이네요 진짜 너무 웃김",
+        "writer": "Ugz1Kq0J21DPh4Xhr_54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 리얼해서 웃기다",
+        "writer": "Ugw2BLL1im0_DfM_NUR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 치트키네",
+        "writer": "UgxtG5VZBMTOvVV_rvB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 웃겨라 노르웨이에서도 생연어 먹어주세요.",
+        "writer": "UgyuIi6JaTP1ho25TpJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순간 눈에 퍼런 빛 보인듯,",
+        "writer": "UgzX6zyFneNLe-wGLqF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 스윗하신 이(이름)과 귀여우신 (이름), 뒤에 나오는 노래는 뭐죠",
+        "writer": "UgwnkVy3TJ36c-C-hVp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=x3iDYTgVz-4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

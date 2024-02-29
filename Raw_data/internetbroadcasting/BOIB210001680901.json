@@ -1,0 +1,460 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680901",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680901"
+    },
+    "text": [
+      {
+        "content": "목소리가, 그냥 성우하셔도 되겠네",
+        "writer": "UgwZeYj_5OZB83VgzgZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아앗 인파가 왜 선각성기 쓰셨을까 눕히고 기상기 빠진다음 다시 눕히고 쓰면 이길만 했는데",
+        "writer": "UgxQgKbnHFWmX4n3t9Z4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)야 고마워",
+        "writer": "UgxcZZVYXHYjXQdDeRV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조 대기 중",
+        "writer": "UgyFHZFr4p1ZhRA50QF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이러기 아니고 기러기",
+        "writer": "UgzKqXTTdJQWC6iSVW14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그 만년설이 녹는 그 게임인가요",
+        "writer": "UgyGjaZYbCKrQRXM9t94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띠용 호크아이 피빕상위권아니에영",
+        "writer": "UgxtOafLRHZzfKf1yuN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막고라 알아듣는게 난 왜 더(이름)냐",
+        "writer": "UgywjCpa-pvVv1OAsW54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로아 아직도 대기열 조짐",
+        "writer": "UgzH_ZCNdD5FF-U_OV14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기저기 로아만 올라오네",
+        "writer": "UgzSQVrIpt51euL7ckl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐, (이름) 닉네임 견자희였어 전에 봤는데 짭인줄알고 와 레어닉이다 라고 챗치고 지나갔는데,",
+        "writer": "UgzR-2plhj4mlvJ-9XB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지, 이 저세상 귀여움은.",
+        "writer": "Ugy6of7MieKopxgniWx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 인밴에 있는 잡탬만 주셧어도 행복하게 가보로 삼을탠데",
+        "writer": "UgysJHTPPgSki2X40JJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배마 유저로써, 뭔가 슬프다,",
+        "writer": "UgwvdilLnbln6rPdMYV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "템렙이 다들 비슷하면 버서커가 원탑인데,",
+        "writer": "UgxxAv-WO7IDTSi9KiJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 아르카나였네",
+        "writer": "Ugz8j3I_gsWKAHzOw154AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 킹기옥 (비속어)..",
+        "writer": "UgwrxPlAr2DZ7lxxGh14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소, 소매넣기",
+        "writer": "Ugwud7HX8WrO3mfBTmR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멍짜희누나 커여워 .",
+        "writer": "UgxQjprCHZg5Y4_ilTh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워로드야 카운터스피어 어디다 버렸니, (주)워로드협회 회장",
+        "writer": "UgwFgpzRQTOi_4hazz54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순록 따쒸 먼뎈 귀엽",
+        "writer": "UgypRWIBVwpi_1zDYVJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 pvp에서의 호크아이는 해,",
+        "writer": "Ugz502D64VaL2MGBKLN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 궁극기(반사회적용어) 한방에 죽는 아르카나 당신은 대체,",
+        "writer": "UgyzwJwNRQ6PtgqdY6x4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘하는 헌터 직업군 만나면 오열할 수 밖에 없다는것이 학계의 정설",
+        "writer": "UgxNuszB23ClnSKUr094AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막고라 너무 재미있네요 어엌",
+        "writer": "Ugy8ejf82Y8rPJOND7V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 로아 pvp중계 자리를 슬쩍 탐내보는데,",
+        "writer": "Ugw_acz1n_0OWRFSa_V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워리어 아니라고.",
+        "writer": "UgyIPKiRQ1LuA6YElRN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서도 견밴토리가",
+        "writer": "UgwySbOq3xHtLVM6nqN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 버서커 버프좀 내친구 버서커라 마음아퍼요 난 서머너지만",
+        "writer": "Ugxd8EaFYgZyU_HnPZV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자희짱 기대가 되요 들어보세여, 지립니다,",
+        "writer": "UgyxtdFICSDkDnC1z0d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 무엇",
+        "writer": "UgzdhA-mo8aeWGlxYH54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 맞아도 한방에 가는 아르카나,",
+        "writer": "UgyzwJwNRQ6PtgqdY6x4AaABAg.8oVRkFJ-8Yt8oZUIZwNbOD",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잔비리 귤르카나 야캐욧,",
+        "writer": "UgyzwJwNRQ6PtgqdY6x4AaABAg.8oVRkFJ-8Yt8oZa50aFlqS",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 내고막이 (비속어) 궁안에 있는거같다",
+        "writer": "UgyxtdFICSDkDnC1z0d4AaABAg.8oVDls1qBqy8oZTpLxc6h5",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배틀(비속어) 좋아요 배마하세요,",
+        "writer": "UgxDuvwFZpB8pKtiMDR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨텐츠 넘치신다왜 이리 재밌지 허헣 짜히님한테 받은 거 아까워서 안 쓸 거 같은데",
+        "writer": "UgxXqJaut5EvwIYD5kJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜히님 커여워",
+        "writer": "UgxUkD2Uc2ZZz1zKp8l4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬부터 커여웠던영상",
+        "writer": "UgwA52KhNtplE02zb5N4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견벤토리(4렙가방), 0",
+        "writer": "UgxY9XD9IM-8je7RaTJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 리그전 콘텐츠도 진짜 좋을거 같은데 함 생각해봐봐요. 중계 넘나 좋은것",
+        "writer": "UgxYZLjMvy5El89pySh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워로드 그냥 방패 돌격으로 다밀어내면되는데 그러면 재미없어서 안하는건강",
+        "writer": "UgxMBkTjaIRKYi-of6V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인파이터 유저로써 업계포상 감사합니다 더 (비속어) 할게요.",
+        "writer": "Ugyfwphh_qz3J5dt-v94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 로아 컨텐츠 (비속어)이시네",
+        "writer": "UgxwKGqlv7J7zAVGb0R4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그냥 죽네,",
+        "writer": "Ugw_IPHpuWfOmMY43Nh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 포상은 두둑히챙기고 오셧군요.",
+        "writer": "Ugznf6NQjtTNkHIf9514AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견하 이게그 대기열이많은 로아군요",
+        "writer": "Ugx8F1DolLVmaCQZcip4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알카 (반사회적용어) 우럭",
+        "writer": "UgzRROKODFLqaP6Yu3V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글이 17개인데 조회수가 1인 기적을 보았다,",
+        "writer": "UgxXkw3iJl_Q06-AAHp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 커엽,",
+        "writer": "UgxKfYRjcosVOZJQlUt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 (이름)이 가지고 계시니까 값어치가 급상승하자너 게임 내에서 업계 포, 부럽, 아, 아닙니다 결론 (이름) 조아",
+        "writer": "UgxTiZ8BphAcBflIHl54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히힛 짜히 업계포상.",
+        "writer": "Ugx3ZoEN5aOfBHWqjaZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)에게 무수한 소매넣기의 요청이,",
+        "writer": "UgzvmNWr-uyXBU5gbSp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자 희 좋 아",
+        "writer": "UgxnLyB4Nw0TlgmrT114AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침부터 업로드해주시면 등굣길에 아주 오예입니다",
+        "writer": "Ugz02xKfcSj7LbfjDQV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "츤츤한 소매넣기",
+        "writer": "Ugy0Tw_hoiwDPMUAb614AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물건들고 멍하니 서있는 짜히님 모습 넘 커엽네요",
+        "writer": "UgzYwLSENYrPHhvHy5F4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=DfbXKP3O0LE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

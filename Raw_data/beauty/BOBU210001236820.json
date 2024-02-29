@@ -1,0 +1,844 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001236820",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001236820"
+    },
+    "text": [
+      {
+        "content": "저 입으신 셔츠 정보 좀 알려주세욤. 넘 예뻐요",
+        "writer": "UgwHs6iyqIcAZzEA96t4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 따라 입는거 싫어",
+        "writer": "UgyQKwAnsSYZte5RP954AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼륨 뭘봐",
+        "writer": "UgxluQEYgn5T_0LQ9dN4AaABAg",
+        "write_date": "2021-05-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵심만 딱딱 짚어주시고 빠르고 쉽게 알려주시니까 보기 편하고 너무 좋네요. 중간중간 깨알같은 자막이 너무 재밌었어요",
+        "writer": "Ugy6mb8JyGiGLa5zDFp4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 입으신 블라우스 너무 예쁜데 정보가 없네요 진짜 넘 잘 어울리세요..",
+        "writer": "Ugw9KtYMPjMZ0nLDfMh4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입고 계신 블라우스 너무 취저예요 정보 부탁드려도 될까요",
+        "writer": "UgyXivQodGdGeotFFjJ4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 진주 목걸이가 이번 시즌까지 유행할까요 사고싶은데 유행 지나서 못 하고 다닐까봐 고민중이거든요,",
+        "writer": "Ugxz96xxFv43WE9qCEN4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저좀코디해주시면 소원이 없을듯요.",
+        "writer": "UgwGV7SDMkYATdUc6bJ4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 오버핏 트위드자켓 넘 이쁠것 같아",
+        "writer": "UgxKYPkSlQZSAB7arx14AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착용하고계신 블라우스정보 아시는분",
+        "writer": "UgySumoJidbP8vZF7z54AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진보다 직접 착용요",
+        "writer": "Ugy1OySJLGiEr5ywIgB4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 목소리 겁나 좋아요 자면서 들어도 좋을듯",
+        "writer": "UgwWhSxDnY6b9_Kzfhl4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트렌드라고 츄리닝바지 입고 회사에 갈수는 없는 노릇이긴 한데 말이죠, 이것 참 트렌디하면서 TPO에 맞게 매치할 방법 없을까요.",
+        "writer": "UgxgmW2jmSJ-5cxrumB4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명을 너무 깔끔하게 잘해주시네요",
+        "writer": "UgyUUiJd71teoHWHvFJ4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞쪽에 초지점에 트레이닝복 정보 알수있을까요 아디다스 같긴한데 한벌을 따로 믹스매치 한거같은데 검색해도 안나와서요 넘 제 스탈이라서요,",
+        "writer": "UgyZGP6f-zduV6yDUBx4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 속 블라우스 너무 예뻐요 형광등 킨 느낌. 정보 너무 궁금해요)",
+        "writer": "UgwoXlc87XclhJ65CuF4AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간략하게 2021년 유행을 올려주셔서 많은 참고가 되셨을 거 같습니다. 스포티 캐주얼룩은 저도 참고하면 좋을 거 같네요.",
+        "writer": "UgwLeO7pN8Rw1qFQJ354AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펑크님 언제 한번 네트 룩 보여주세요. 저 룩이 제일 힘들 거 같은 느낌이,",
+        "writer": "UgzURqQpHpi0CT63nmR4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블라우스 너무 예쁩니다 상큼하고 여성스럽고.",
+        "writer": "Ugz7jjzRapEtZKeCxCN4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펑크님 새해 복 많이 받으세요 열일 하신 만큼 구독자 더 늘어나시길 바라요",
+        "writer": "UgwOUOPOhpdF6eVUiq94AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 정말 기다리던 주제에요. 항상 좋은 영상 감사해요",
+        "writer": "UgwgaYSVuBGon0Xtp4x4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쇼핑하는데 도움이 될거같아용",
+        "writer": "Ugxx5G0ppxLww02X6wN4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오분이라는 영상에서 2021년 유행을 다 알게 되다니 펑크님 매직",
+        "writer": "Ugw-K1E-BrH0pmPQwYJ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 팝콘에서 터졌넼",
+        "writer": "Ugy3LcQWNzf1J4NkiSx4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일목요연 심플명료하게. 너무 감사해요",
+        "writer": "UgyHSV94krqo5_bau-p4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유행만 콕콕 짚어주셔서 넘 좋아요 하핳",
+        "writer": "UgwW9y-lhk6KrmTwnHF4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펑크님 얼굴이 열일했다입고계신 옷 찰떡, 왜 다들 댓글로 남기셨는지 이해가 가요",
+        "writer": "UgxykXqddeDDJ_RznT14AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시스루 얼른 사야겠네요 한번도 시스루 안 입어봤는데 이번 기회에 도전.",
+        "writer": "UgwEUpnCY8mJGTBInz94AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 블라우스 정보좀 알려주세요.",
+        "writer": "Ugy5OaNLM6sI6d0yZ_p4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오버사이즈랑 와이드팬츠 유행 이어가는거 너무좋네용",
+        "writer": "UgyjMiqgF6zUBDJCsNt4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마전에 시스루옷도 사고 자라세일때 네트망 구두도 사놨는데 유행이라니 좋네요",
+        "writer": "Ugz8Osl4Y1qk8aAYZtJ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 일목요연",
+        "writer": "UgxUYxcOnOJ9M_nz9IZ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로우라이즈 유행한다는 말도 있던데 진짠가요",
+        "writer": "UgzoHlYZBLP5idXFgCh4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펑크님 오늘따라 더더욱 우아하고 화사하세요",
+        "writer": "Ugx_yH-dhOOtFIVrLbt4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상이 더 깨끗해져서 보기 좋아요",
+        "writer": "Ugz-uZIrXXWZfmCRr7Z4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해 유행하는거 배웠으니까 예쁘게 입을 일만 남았네요 코로나 끝나서 더 예쁘게 입는 기회가 왔으면 좋겠어요",
+        "writer": "UgyX0soZ7xnJNEX1imF4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펑크님 블라우스 왤케 예쁘죠, 펑크님이 입고 계신건 다 궁금해요",
+        "writer": "UgyJdxiwn3dP45FjjYN4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패션잡지로 보여주는것도 좋지만 잡지는 좀 과한 스타일이라 실제로 활용할 수 있는 패션 팁도 구체적으로 알려주세요",
+        "writer": "UgwACCusdSZV-oTJWM14AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블라우스 정보좀요 신상인가요",
+        "writer": "Ugz2P5eBhh4m7eXs3P54AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 쉽게 쉽게 알려주시니까 이해가 잘되네요 영상이 좀 더 재밌어졌어요",
+        "writer": "Ugy1dnbulFzRXRYN6fF4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 오늘 블라우스 너무너무너무 찰떡이에오 띠디 박(이름) 이후로 시스루 바지는 첨봐용 . 근데 키작녀는 오뜨케 하면 조거팬츠를 잘 입을 수 있을까용 입으면 키가 더 작아보여서 고민입니당",
+        "writer": "Ugx-Std7D6Yla9vFqjh4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 봤어요 언니 화장법 궁금해요. 물론 뽀얀 피부덕이겠지만 특히 립색상과 치크블러셔가 화사하고 넘 예뻐요",
+        "writer": "UgzI9cn_2unVWFvMb394AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상이 좀 더 트렌디해졌어여",
+        "writer": "UgyFIehxv_nHfyeuVEV4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 오늘 화장 착장 너무 착붙 너무 청초하고 이뻐요",
+        "writer": "Ugyi58kr5t7GF5fEYSF4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼륨저는 가디건만입어도 너무건장해보인다고 얘기많이듣던녀자라, 눈물.",
+        "writer": "UgwHLaGKzl1C-zMe6fR4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 네트스타일에 타이업플랫슈즈 너무 예뻐요",
+        "writer": "Ugzhvbc3mLWVYokNfYV4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "휴 다행이야, 오버사이즈드.",
+        "writer": "Ugx7IwgnnFJjz6Uh6RB4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 공부하는 자세로 보게 되네요 앨펑님 질문 있는데요 여름백 구매하려 하는데 바오바오 루센트 베이지나 화이트 로에베 바스켓백 미듐 중에 고민인데 택일 플리즈 바오바온 넘 뒷북인가요 키가 158인데 로에베 미듐은 제게 클까요 고견 기다릴께요",
+        "writer": "UgzBx_22uQQf35_r6KV4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금했었는데 고마와용",
+        "writer": "UgxT_g2mmPMQf89vIad4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 저 오늘 생일인데 저 고정 해주세요.",
+        "writer": "UgyqvywmRKVQsg005_Z4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니언니..학생들을 위한 체육복 코디나 교복에 어울리는 옷 추천해주세요오옹..",
+        "writer": "Ugwv0SIUHINtcT_qBgd4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인펑 ss도 기대기대",
+        "writer": "Ugw5oan7X6HFDOyUWQB4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조거팬츠 하나 살까말까 고민하다가 이거 보고 지르기로 마음먹었습니다.",
+        "writer": "UgyIOf8MrnkNtc3CSkV4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 유익한 영상 감사합니다",
+        "writer": "Ugyt4aH4inTcmbkfDsV4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유행하는 것에 뒤처지는 편인데 매번 떠 먹여 주셔서 감사해요",
+        "writer": "UgwWwLHxIEODJdAMiEp4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집에 옷이 너무 없어서 고민이었는데 이 영상보고 안입는 옷들 재활용 하고 있어용 집에 조거팬츠 겁나 많은데 입지도 않고, 사랑해요 언니",
+        "writer": "Ugw5KBvLofxh0osCCeN4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인펑ss도 넘나 궁금쓰,",
+        "writer": "UgxS2iJHXhJXRNA9X_54AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시스루에 도전해보겠어요.",
+        "writer": "UgxiPDCvoMtqlbCQWN54AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집이 엄청 웃기네요. 블라우스 입으신 거 너무 찰떡이세요 계속 쳐다보게 되네요",
+        "writer": "UgykN8MbIYwDnTg23EV4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕분위기가 벌써 봄이 온 것 같아요",
+        "writer": "UgxWwLPz6C1NahR1ljZ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시스루, 믹스매치.오버사이즈,다 제 취향이네염 감사해요 앨펑",
+        "writer": "UgygUY5cGyeiS8Up_wF4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꾸안꾸가 대세 ,",
+        "writer": "UgyVvGVEgNIcCtkKtpp4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 인펑 봄옷은 언제 나오나용 완전 기다리고 있어용",
+        "writer": "UgwCofRn4iusEclH36l4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흡사 구애하는 새, 팝콘 드실래요.잔잔바리로 나오는 드립들 왤케 웃기지",
+        "writer": "UgwP5hWyw4AYxfR_7Ud4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블라우스 정보 알려주세용",
+        "writer": "UgwpeypTn8A06DfAP0p4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전간결 오늘 너무화사하고 봄이 온거같아요 시스루는 완전 이쁘고섹시하겟당",
+        "writer": "UgwFoH1S_6QfNDrs9l54AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 영상 넘 유익하네요 봄을 맞이하는 룩을 준비 할수겠어요 쪼아 띠릿",
+        "writer": "UgzJxFD1pt1dHfzqbCZ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집 넘 조아요 _ 오늘두 꿀잼",
+        "writer": "UgzikfxZmZuKR2HNTJZ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼륨이 과하다고 생각해서 소매를 자른 옷이 있는데 아쉽네용 오늘도 유용한 팁 감사합니당",
+        "writer": "UgyY2q3AM7yRc9vg-h14AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트렌드라고 하니 그물 도저언..",
+        "writer": "Ugw3vA17RxUc-e-URBp4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤넬의 트위드 자켓들은 너무 이쁘지만 제가 입으몀 소화가 안될것같아서 한번도 시도를 해는 않았지만 샤넬의 핑크( ) 트위드는 엄청 이쁘네요, 언니한테 잘어울릴것 같아요.....",
+        "writer": "UgyQGNdg9Eab12Ljpbh4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인펑 ss 증맬루 목빠지게 기다리는중입니당 얼릉 보여주세요오",
+        "writer": "UgxdRL3yWHjXl5UWb_d4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 영상이 더 예뻐져요....",
+        "writer": "UgzV_NkStfHwBEdv1pd4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 나중에 시간되신다면 스포티캐주얼 믹스매치 동영상도 만들어주시면 안될까요, 자켓에 긴팬츠는 맞춰입기 쉬운데 숏팬츠는 힘들더라구요,",
+        "writer": "Ugw72NC-qlGFxLFQ-_14AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "온니 입고계시는 블라우스 정보 공유해주세욤. 타이식 블라우스 성인 저 지금 눈 뒤집어졌습니당 물론 언니 외모에도 눈 뒤집어진건 안비밀",
+        "writer": "Ugzr9HPWolfDetdjmYV4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "21ss트렌드 영상 중 제일 귀에 쏙쏙 들어오는 영상.",
+        "writer": "UgyaBldf5NyQDkBB_gB4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블라우스 완전 화사화사",
+        "writer": "UgwLG9NHgwDWxhyqPdp4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 입은 블라우스 정보 알려쥬세요",
+        "writer": "UgxeUjs61YLy07sLwcR4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집자 분이 바뀌셨나 영상 분위기가 예전이랑 좀 달라진거 같네요.",
+        "writer": "Ugz_HvyEAReGZQBIVSF4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 오늘 너무 화사하고 예뻐요 입은 블라우스는 어디껀지 알수 있을까요",
+        "writer": "Ugx7UZYUs1dD6JOoWUl4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 트렌드 완전 시크하고 캐주얼하네용 취저 탕",
+        "writer": "Ugwje-O1r6m9Ysg1I2V4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믹스매치하면 앨펑인데,",
+        "writer": "Ugxk9r9MWp3NcP44Bw14AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집 중간중간에 들어가는 드립 너무 웃김오 이게 유행이구나 하면서 집중해서 보다가 잔잔바리로 터지네",
+        "writer": "UgzTsF6SLuBH5sk_Bs14AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 유용한 영상 감사해여 남은 주말 잘 보내세요",
+        "writer": "UgxIJEliUlKAoXGUPTd4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앨펑님 오늘 화사한분위기 봄봄을 부르네요 상큼하고 올 패션트렌드도 간결히 소개해주셔서 감사해요 스포츠룩 편하면서 시크하게..",
+        "writer": "Ugw4KNSNHuc3hvxT4w94AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번에도 믹스매치.",
+        "writer": "UgyTtONJfb2xctvH7GB4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 덕분에 이번 봄 코디할 옷 구매하는데 도움이 되었어요. 특히 특징에 맞게 브랜드 룩북을 소개해주셔서 패션트렌드에 대해 이해하기가 편해요 다음 영상에서도 좋은 정보 기대할게요",
+        "writer": "Ugwwwxclg1qLqGb7LqN4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트레이닝복 유행 너무 좋아요. 아래위 다 박시한 정장은 이상하게 내가 입으면 왜 촌스럽지,",
+        "writer": "UgydoSRly9bzCODI0rZ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준비 많이 해주신 덕분에 눈 호강 많이 하고 가요 언니",
+        "writer": "UgzbEoa--_VH_CUofWR4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘입으신 블라우스 엄청화사해보이고 이뻐요.",
+        "writer": "Ugymml27UKsGg4fnvBJ4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤늦게 언니 영상에 꽂혀서 다 돌려 보고 있는 중인데 너무 유용해요.. 덕분에 인스턴트펑크 브랜드에 사고 싶어 진 옷도 많아져서 장바구니가 터질라 그러네요,",
+        "writer": "UgzZJ72ODF_oiKFmETN4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조거팬츠 입고 출근 편하게 하고 싶은데 아무래도 어렵네요 온니가 꿀팁 알려주세용.",
+        "writer": "Ugy8-wlt4ansy0sa_Zh4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상넘간결하고 좋아요씨스루, 네트,메모,",
+        "writer": "UgzfEDZFdXRq1UKO_eF4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 덕분에 올 해 멋지고 트렌디하게 입고 다닐 수 있겠어요. 집에 있는 옷들 잘 응용해서 입을게요. 영상들 다 진짜 참고하면서 맨날 멋지게 입고 다녀요 _ 덕분에 행복해요",
+        "writer": "Ugx5sFOmVZH4O4I1lw54AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "억 저도 궁금",
+        "writer": "Ugy8-wlt4ansy0sa_Zh4AaABAg.9JS9RPVniXO9JT5-mTDk9b",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이런거 궁금해요 출근 할 때 불편하게 입어서 힘들더라고요",
+        "writer": "Ugy8-wlt4ansy0sa_Zh4AaABAg.9JS9RPVniXO9JVKEkcykRv",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄 패션을 알려주셔서 앨리스언니도 봄 느낌이 나는 블라우스 를 입으셨네용 어떤 트랜드가 나올지 궁금했는데 언니 덕분에 어떻게 스타일을 할지 잔 해결 되었습니당 좋은 하루 되세용",
+        "writer": "UgyDXSwU14chsF3Fed54AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 이언니는, 옷 관련 일하시는 분들 특유의 허세가 없어서 좋음, 자부심이랑 다른 그 뭔가. 언니 진짜 고맙습니다",
+        "writer": "UgxMuhWpAJlLSMCYsXB4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언닠큐 볼륨발음왜케 기여우시짘 약간 캄토노 느낌이얔",
+        "writer": "UgwjZ2o5Pdfyegp-N4l4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상 너무 감사해요",
+        "writer": "Ugzxi_GIJ-e_mncu5Mx4AaABAg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아용 멋있는데 친근하기까지한 언니같아욤 그래서 더조앙",
+        "writer": "UgxMuhWpAJlLSMCYsXB4AaABAg.9JS8tdk0oVD9JSIfNsE_cg",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 맞아공감",
+        "writer": "UgxMuhWpAJlLSMCYsXB4AaABAg.9JS8tdk0oVD9JSRsfYBKra",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 진짜 이거네요, 너무 솔직담백하시고 약간 나만 알고싶은 언닌데 모두에게 허물없이 대해주는 인기많은 언니같은 분.",
+        "writer": "UgxMuhWpAJlLSMCYsXB4AaABAg.9JS8tdk0oVD9JSblLV7itk",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 펑크님은 친근한 매력이 있어요 그런데 너무 대단하시니 완전 (반사회적용어)캐..",
+        "writer": "UgxMuhWpAJlLSMCYsXB4AaABAg.9JS8tdk0oVD9JSd3-Qde_A",
+        "write_date": "2021-02-15",
+        "url": "https://www.youtube.com/channel/UCcRTcy_GuofiJLPLMlVcGxw",
+        "parent_url": "https://www.youtube.com/watch?v=B_xKGfuoqp0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

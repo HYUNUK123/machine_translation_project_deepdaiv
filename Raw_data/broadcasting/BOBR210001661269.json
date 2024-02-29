@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661269",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661269"
+    },
+    "text": [
+      {
+        "content": "대(이름)에서 젤로멋진 아빠에여",
+        "writer": "UgwgzgkST4kHBKpk-Gt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌렴 졸귕 120 사랑해",
+        "writer": "UgzXROs6UC-fmF1zW-V4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울애기 제발 드라마에 나오는거 봤음좋겠다 윌리엄 (이름) 사랑해요",
+        "writer": "Ugxt-ESh1-7GXlUj39J4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그콘서트 지금 집에 가고 가고 근데 근데 많이 마시지 않은 채 채 자세한 자세한 자세한 것이 것이 거 같애 같애 같애 좀 좀 좀 것입니다 것입니다 밥 밥 밥 이제 집 도착했어요 도착했어요 도착했어요 근데 나 나 이제 집에 가고 가고 이제 집에 집에 집에 나 나 이제 이제 가고 가고 가고 나 나 이제 집에 집에 있어요 이제 이제 가고 가고 이제 이제 가고 가고 이제 이제 집에 집에 집에 이제 이제 집에 가고 가고 가고 나 나 나 집에 집에 있어요 있어요 있어요",
+        "writer": "UgxqrmV-0o6VtT5XeTt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘 영화배우같다",
+        "writer": "Ugz4Qw4cW3y6xrX0YRV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄은아가속이안이고 바다갖은마음이예요. 벤(반사회적용어).똑똑이천재들두이가 들.하나도나무래가없는아가 들.사랑해.건강들해야해",
+        "writer": "UgzKOYCoyaDPVR5UXBB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아윌벤 넘 귀요워..",
+        "writer": "Ugx1iHV7VCsbcwFZfg94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 첫 키스를 동생이랑 .",
+        "writer": "UgxrcqXY2kE2LtQFjrR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 윌렴이랑 벤(반사회적용어) 서로 나중에 커서 사춘기 와서 예전에 슈돌 나온거 둘이 보면 어떤기분이 들까, 이런 수많은 추억들도 다 기억이나길",
+        "writer": "Ugy3tMtPIW0guMm5OBJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄은 연기두 잘할거야 엎으로",
+        "writer": "Ugy5lLV_QMESbrPaHax4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 드라마 이름 뭐에요",
+        "writer": "UgwSVkPwrpyla6pg15Z4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 둘이 뽀뽀하는거 왜이렇게 사랑스럽냐 정말",
+        "writer": "UgxGCIDtoYYAi0q6dTZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여려분 이거 이렇게 자꾸 연기를 하는 티가 나는것 같지 않아요 그 윌리엄이랑 벤(반사회적용어) 다 연기(반사회적용어)시는것 같아요,",
+        "writer": "UgyZmCW_ocbDRC_gPBp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "120은 점점 클수록 브래드 피트 얼굴 분위기 난다 , 타고난 미모",
+        "writer": "Ugyo-rMVV-eKNjvkhJF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴속 답변 기다림니다 이거.. 신속 답변해주세요..",
+        "writer": "UgyD-1QTOV6vr2X0fQh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄이 저 초코송이 머리 우주에서 제일 잘어율려",
+        "writer": "UgwSxffi1Ui8JEB6cyp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 입장에서 벤(반사회적용어)가 어찌그리 사랑스러울꼬. 윌리엄 일찍철든만큼 자라지말구 나이대루 이쁜짓하면대. 다만 벤한텐 형아노릇은 그대루 국민들 모두는 아니지만 일찍은 철들어서 나중에 고뇌하지말구 순수하게 무럭무럭자라요",
+        "writer": "UgwBs69M_cbhWrocfvl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 탐정 출연 샘 해밍턴 축하축하",
+        "writer": "UgzSVzUte2CFcpK6WpJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 귀여운것들",
+        "writer": "UgyYBfOjVlErz03SwYp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송을아는 윌리엄 Ok컷 나올때까지 참다가 아빠랑뽀뽀",
+        "writer": "UgxPfaSpFakV420ea_J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌렴 나오는 프로는 뭐든지 볼거야",
+        "writer": "UgwqxNbQVqD8EpkQDYl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)탐정 몇회에 나오나요",
+        "writer": "UgzV1ui3vsJHtA0AUTJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 안아줘.",
+        "writer": "UgzE4hIhMEl4d-3y9414AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런데(반사회적용어)탐정은 정육점 이나오지 않는데",
+        "writer": "UgyWkmjP_e66BLAZCKJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 너무 서러우게 불어",
+        "writer": "UgyvpeGVHPcm84cOYrl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 벤(반사회적용어) 너무 귀여워",
+        "writer": "UgzP2hgjpkL9S0Be4ux4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 카메오로 출연한 시간 몇분인지 아시는분 좀 알려주세요",
+        "writer": "UgyvJwneCs2aU0e8VHZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)탐정 완전 잘 보고있는데",
+        "writer": "UgyVsnNdXFaynKNY7KV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월리엄만 캐스팅한 이유 벤(반사회적용어)가 어려서 바름을 제대로 못해서 그나마형인 캐스팅 한뜻",
+        "writer": "UgzzsPX2ZlKBUN12NaV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇회에 나오나요",
+        "writer": "Ugyli2W3_X2hsknUXjR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)도 하고 싶겠다 진짜 않고 싶어나봐",
+        "writer": "Ugy6LOAqRxmg7VQs_HB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이더는 드라마가 아니고 양화야",
+        "writer": "UgzDhpj2KW-rgYpLxsR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 드라마 아시는분 있으세요 꼭 보고 싶어서요",
+        "writer": "UgylfSW8TigpSb2azhF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뽀뽀요정들 기여워",
+        "writer": "Ugw9OGc5xzldhsC19XR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목 대놓고 써 있는데",
+        "writer": "UgylfSW8TigpSb2azhF4AaABAg.9DV_FxwKp5G9EDhVD6yWNC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 우리 윌벤을 연예인으로 키워주세요",
+        "writer": "UgwRhKsC-a_GG8AwTzB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤져스 너무착해 감동",
+        "writer": "UgwR0uchhqwCqnIlXdZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘도 윌렴도 잘하네 우리 벤토리도 같이했음 더 빛났을텐데 드라마 꼭 봐야겠다",
+        "writer": "Ugy1xNyAsQ9Uq3rp4hN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 이렇게 된 이상 어쩔 수 없다 할리우드 가야겠다",
+        "writer": "Ugwrsu5sZOf9yfTZqyh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드라마데뷔 축하해요 짝짝짝",
+        "writer": "UgxrA8l3VtL5fGLeKCV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌밴져스는 닭살브라더스...",
+        "writer": "UgyF3u98QyX9GXKy7Ch4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 데뷔를 추카추카해",
+        "writer": "Ugw-UsW3003DWUI9IBd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄이라면 걍 묻지도 따지지도 말고 바로 OK",
+        "writer": "Ugx8594i31uJ6s4aDox4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 내가계속 연기도해서 드라마에나오길 바랫는데 진짜나오네요 우리아가 뭐든열심히하고 센스잇는거 알아줘야해.",
+        "writer": "UgyNYnJPGyJmUfVs-ex4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어느새 울 윌렴 의젓해졌어요..",
+        "writer": "UgzrWzRtFnkDRkFTZ_94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤트리 울음에 내가슴 무너지고 아퍼요",
+        "writer": "Ugw4_P-m07oK1M5XHHV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라 잘 받는 윌리엄뭘하든 다재다능 잘하는 듯",
+        "writer": "UgxIem21W4IrXFO5i9x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어) 윌리엄 귀여워",
+        "writer": "UgzOY7n_VYGtKoz-Kdp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘 살빠지니 훨씬 멋있네",
+        "writer": "UgyLQpxQREc1Iq8-Db14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘 해밍턴님, 사랑합니다,우리윌리엄벤(반사회적용어) 사랑합니다, (이름)과 사랑스러운 윌벤가족을 깊이깊이 사랑합니다",
+        "writer": "Ugz0Kg1XHHY_4pICMXd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄은 매번 느끼지만 공감능력이 넘 뛰어나다 엄마. 아빠 힘들다는걸 어찌 저렇게 잘 알아주는지, 벤은 사랑둥이",
+        "writer": "Ugw-ZYG9gGDdlxSvnqJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 드라마 데뷰 축하해 어쩜그리 잘하는고야아가때부터 표정부자였었지",
+        "writer": "UgyoYEOtsOOJt8Z_ovl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오우벤 아빠안아줘할때 눈빛이 너무 애절해서 심장 녹아 내리는줄",
+        "writer": "UgwH_FZtsaAzYORfzh94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ".벤 표정 보셨죠 울 벤도 데뷔시켜 주세요",
+        "writer": "UgxH_vHj4kjoOb4TOdt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 축하해 천재라서 잘 할수 있을꺼야",
+        "writer": "UgxzZKSNdZG3eMprnWt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)랑윌리엄은 큐.가아니라 큐트",
+        "writer": "UgxElllZdDEZjktZMuB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 한국 (이름)같은 샘아(비속어) 참 잘됐으면 좋겠어요 울 귀여운 윌벤져스 아빠라서,",
+        "writer": "Ugw3gxaSSemA_wso6b14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤인생 2회차 어머머",
+        "writer": "Ugz9pp6skiN--b1BlH94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "120은 이세상에 좋은말 좋은표현은 다해주고 싶어",
+        "writer": "Ugy0gPZnhwAYoWuBE6t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠하나 부르는 장면 인데도 저리 복잡한 수순을 밟는데, 슈돌에선 순간적으로 종알종말 내뱉는 단어가 수두룩 한데 그걸 어떻게 다 대본 처리하고 가르치고 연기 (반사회적용어)겠어아기들 옹알이 할 때나 자막으로 작가들이 마음대로 쓰긴 하더라",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 혼자 있어서 외로웠구나 나는 언제나 아가편",
+        "writer": "UgwuPsHpUzg7RnJvV4Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤 계속 배고프다 그랬는데 이제야 까까 좀 먹네",
+        "writer": "Ugw548njS8-bmdXbNDl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 맘으로 항상 벤(반사회적용어) (이름)고 있어. 아가 힘내",
+        "writer": "UgzTm-NWzbd4c3Ofz1N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우웅 벤(반사회적용어) 모니터 보며 아빠아아 애타게 부르며 울먹울먹 하는 표정으로 안아줘 하는 모습에 내 마음이 마음이, 벤(반사회적용어)에 감정이입 되네. 윌벤 형제애는 또 어쩜 저리 좋은지. 형한테 뽀뽀 퍼붓는 벤 정말 사랑스럽다.",
+        "writer": "UgzyKWzpb8ssa-r8xYN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벤(반사회적용어)는 감수성이 아주 풍부해요,",
+        "writer": "Ugz9c3aXHRTM2q2O5CF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌤 해밍턴 화이팅...",
+        "writer": "UgxrC9-OVzHIzG572Z14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 윌리엄, 어쩌면 이렇게 속이 깊지",
+        "writer": "Ugw-Y3ftJsUzj_6ncqh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 축하해요,",
+        "writer": "Ugwrl8b17EHCFvGGAj14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그래요 어떤좋은말로도 부족할(이름)요. 윌리엄 같이 밝고순수한 아이는 꼭잘살거예요",
+        "writer": "Ugy0gPZnhwAYoWuBE6t4AaABAg.9D8KClA8zrj9DRD0BCFeRK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불쌍하시다, , 좋은 병원 찾아보세요,",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9D8hS-K_-0T",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 무슨 (이름) 이리 심한말로 공격 하시는지 정확한 근거를 말해 보세요 사실이 아니라면 정확하게 반박 할 자료를 바탕으로 사실에 근거해서 말해 봐요",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9D8ioBaqelA",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 (애들이 너무 어리니까) 대본으로는 진행할 수 없을 것이라는 의미로 말하신 거 같은데 잘못 받아들이신 거 같아요 그게 아니라면 저런말을 하실 (이름) 없는듯",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9D9-tcHWzhf",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작진 숨 막히겠더라감동적이면 대본 시비, 조금 과격 하면 아동 학대,아기가 똑 부러지 않는다고 교육 부재, 절 한다고 미신조장 등등, 아(비속어) 할 말을 불러 주는 거는 한번 봤네요공항 에서 윌리엄이 나나랑 통화 할때 영어로 해야 하니 통역 돕느라 영어 귀뜸 해주는 거이거 대본 이라 억지 쓰는 것도, 이유없이 어린애들 한테 가해 하는 것에 대해서 아닌 것은 아니라고 말하는 것 인데, 불쌍하고 병원 갈 일(이름) 무슨 가치관이 그리 삐딱 해요",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9D9gLFby2k-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SO FA 잘 설명 해주셔서 감사 해요",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9D9gfITIWsl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이 분은 윌벤보고 대본이라고 하는 사람들을 비꼬신거에요. 아빠 한 마디하는 저 짧은 장면도 리허설하고 저렇게 복잡한데 슈돌에 나오는 말 행동이 다 대본이라고 하는 게 말이 되겠느냐 그 말이에요, 반대의 의미로 받아들이신 것 같은데",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9DEPcstPVLj",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 대본이라고 하는 사람들 바본가봐요",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9DLWT_CNJE2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오이총각 김서누 윌벤 팬으로서 제 생각에 대본은 아니지만 어느정도 상황을 만드는게 분명 있긴할거에요 그러니 방송이겠죠",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9EGZWXnXQbq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채priyanka 맞아요 아가들이니까 상황유도 정도는 하겠죠 어쨌든 우리 윌벤은 천사예요",
+        "writer": "Ugw4xl4DEUbtlh7GGz94AaABAg.9D7RL7akFIB9I0j0nJcSTa",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 하나만 달아주세요",
+        "writer": "UgxrC9-OVzHIzG572Z14AaABAg.9D4vvThmm3p9DDYHg1N2Cx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "William 은 나중에 슈퍼스타가 될거다",
+        "writer": "UgxWZBMGDvf0kDFuFKN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 벤(반사회적용어)도 잘할수있는뎅",
+        "writer": "UgzsNJ7XC8oJc8M_mYN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄은 Born to 효자.",
+        "writer": "UgwuckiQa4Of1TQCJLp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌤 아빠 화이팅",
+        "writer": "Ugwa9SrcfRvSUYZIKUt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 윌리엄 장하다 장해, 어쩜 NG도 없이 한번에 OK로 가냐.",
+        "writer": "UgyzGxI34ArQX24TCSp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄은 정말 그렇게 될고에요",
+        "writer": "UgxWZBMGDvf0kDFuFKN4AaABAg.9D4tbNu6DGW9DGLYLqKk5Q",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이미 슈퍼스타 윌렴 너 너무 귀여워, ,",
+        "writer": "UgxWZBMGDvf0kDFuFKN4AaABAg.9D4tbNu6DGW9DT_nn8SffZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울120 데뷔하는데 머리(반사회적용어) 한번 정리해주시지 그래도 울아가 넘예뻐",
+        "writer": "UgxxBpXxOl0sESA5HUt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "120 데뷔 축하해",
+        "writer": "UgxZ3Gmvc1jf_dSgvk54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌리엄 데뷔 추카추카 우리 벤(반사회적용어)도 잘할수 있는데",
+        "writer": "Ugzy8jtxq-J4Ex7RAxV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 우리 윌리엄 데뷔 축하해",
+        "writer": "UgxAgIBjIEmkGkm7yNB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=YTSJmzcZECs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

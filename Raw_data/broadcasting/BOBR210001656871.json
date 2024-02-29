@@ -1,0 +1,532 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656871",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656871"
+    },
+    "text": [
+      {
+        "content": "(이름) (이름)과 민이가 항상 건강하고 행복했으면 좋겠어요",
+        "writer": "UgyCPJccByrIdXeXf3l4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일보고 (이름)이신줄 알았어요",
+        "writer": "UgzPBu1bWIHSljZYYu14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤아님 민앙햐 행복하세용",
+        "writer": "Ugy5rvAsrJFhLP4mXjx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제는 민이 팬클럽 이름도 지어야 겠다",
+        "writer": "UgwLeBbV7TcIrg-_lhZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 자는거 볼살 봐 너무예뻐 애기힝",
+        "writer": "UgwBGymBWzYyQThebtl4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)님 말 조심하세요 먹던거 쬐금 던져줘서요 좀 그러네요 게그맨이라해도 할말있지,",
+        "writer": "Ugy3jHWpbuL7GYAFElx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마는 강하다는말 해주고싶네요",
+        "writer": "UgylshoT7F_sFa8m1cN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 (이름)씨의 지극 정성 사랑안에서 자라는 민이는, 훗날 사랑 베풀며 살아가는 귀한 아이로 자라갈겁니다. (이름)씨 민이 화이팅.........",
+        "writer": "Ugx-xD1bLsMCHXEeoIR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 진짜 너무 아름다우시네요. 민이 너무 귀엽고",
+        "writer": "UgzNb8SJNCNHusT61Jx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훌륭하다 엄마로서",
+        "writer": "Ugxv9EnZzkN0dEnYSVB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 고기로 미역국을 한다고",
+        "writer": "Ugwnmoxiqup_iALXmph4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영자 언니 감사해요 한우",
+        "writer": "UgwKzdETmN37ncMZMoZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워, 민이 민아 항상 응원해 .. 윤아님 늘 잘 보고 있습니다 . 재밌고 조아요 ..",
+        "writer": "Ugz2fdHzGoIDaDuUC8h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메뉴 소개하는데 미니언즈노래 웃곀",
+        "writer": "UgwSagWEgQwmMpEH9214AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미니 귀욤기욤 진짜 멋진 엄마",
+        "writer": "Ugy7Qf0BzEBmWiWjgVt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤아언니한테 키워지고 싶당",
+        "writer": "UgzK8YwJejM1Co135xB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들기름 참기름 같이 쓰면 향이 섞여서 맛이 떨어진대요 하나만 쓰시는게 좋아요",
+        "writer": "UgwKBM4e7l9EqLWw5MR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저케 먹이면 모하노몸이 (혐오표현)인데아무리 좋은 음식을 두고 먹는다 한들운동 안하면 저승이다거기에 장애인이라는 불치병도 있는데, 그래고기좋아하니깐실큰 먹고 일찍 가면되지.꿀꿀.",
+        "writer": "UgyQz7r7AzWlLMRZcIV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 가족을 보면 너무 사랑이 넘처나요 다른데서 나온 친정 어머니도 민이에게 일반 건강한 아이를 대하듯 진정한 사랑을 쏫고계신 모습이 너무 아름다워요 한국에서 그러기가 쉽지않은데요 너무 멋있고 깨어있는 가족이에요.",
+        "writer": "Ugwx_FqLhhzwFaX42IJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤아 멋있다.",
+        "writer": "Ugx6y5yEwi1dfu0WseR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘 나중에커서 살빠지고하면 잘생겨질거같은데",
+        "writer": "UgwzaVROHfzcMDRWHfZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섬네일 (비속어) 개귀옂넼",
+        "writer": "UgzkY_FFSuQLE0sXwyR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근디 민이는 무슨 병이에요",
+        "writer": "UgwK_oUijitzuydTdzR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 기야웡 민이 사랑해",
+        "writer": "UgxoRzkf9iu2Ry-28Dt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 넘사랑스럽다 히",
+        "writer": "Ugwst85Pd0UEiR4Wy3l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 (이름) 넘 이쁜 가족임.",
+        "writer": "UgwKgY8UYaPdJ-oRUDl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가오나시 민이 핵(비속어)",
+        "writer": "Ugy2hAIw_IK372u6uQF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천사 민이",
+        "writer": "Ugz7bWKAgWYzFpogKzV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠든 모습 너무 귀엽당",
+        "writer": "UgwjBsdLxrmdgwldQcJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 너무 이뻐 민이 동영상만 기다려요",
+        "writer": "UgyHNPGWTz_FK8EHAet4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애가 참 착한듯",
+        "writer": "UgwYP4ocpd-_imQ5udp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이는 그냥 사랑이다",
+        "writer": "UgxuKjXAj73gpY_KlQZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당신 입에서 나오는 말은 증말 (혐오표현)이네요 사람에 대한 스펙트럼과 (이름) 교육좀 받으세요 아니면 조용히(반사회적용어) 있던가 (비속어)에서",
+        "writer": "UgyQz7r7AzWlLMRZcIV4AaABAg.9AtYk-kIoMK9Fpy1cTe0yC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에휴 저런 (비속어)한 댓글을 5줄 쓰는것도 대단하다. 어떻게 배우고 자라면 이런 말을 할수 있는지 , 그냥 민이만큼 사랑을 못받아서 부럽다고 말해라 재환아 ,",
+        "writer": "UgyQz7r7AzWlLMRZcIV4AaABAg.9AtYk-kIoMK9JG3Wg0U_d4",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발달장애 자폐요",
+        "writer": "UgwK_oUijitzuydTdzR4AaABAg.99wGLveOZgR9DTJt9CQYUG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부지런한 엄마",
+        "writer": "UgzhdrcK25hYxmsXDEB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 보고 홀린듯 들어(반사회적용어), 가오나시 민이 뭐야 넘나 귀여워",
+        "writer": "Ugw0usUCKEKZcXiMh-p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콩고기가 뭐지 짜파게티에 들어가는 그거랑 같은 건가",
+        "writer": "UgyM6io0ndjWOiqZdGh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안 들어올 수 가 없는 썸네일",
+        "writer": "Ugzp4NZu_3EsPIr8VKJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 좋은 고기로 국을 끓(이름)",
+        "writer": "UgzZH21umc5qe9AfY0R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민아 유튜브 해죠,",
+        "writer": "Ugxe_V_XqjyB9MAs1zp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤아 언니 여배우 답지 않게 살림도 잘하고 아주 이뻐요",
+        "writer": "UgzJyPOL4eRp8Kg9sgx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬에서 민이 완전 귀여워",
+        "writer": "Ugw5_mwZxgkHMARGJ4F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠깐만여 평화롭게 시청중이었는데 갑자기 can t you see me 감사합니당 깜짝 놀랐네여",
+        "writer": "Ugwlv_7CxylJuSR04Ul4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬을 보고 안 들어올 수가 없었다.",
+        "writer": "UgxJFAi5InGtQpwJbEZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 귀염 밉살스럽지 않음",
+        "writer": "Ugwc_MQ5aWOUYtiuh_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봐도봐도 느끼지만 민이는 애가 인물이 정말 예쁜것 같아요",
+        "writer": "UgykgSV8L-76vyXj4gB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영자 언니, 의리찐,",
+        "writer": "UgyB5tuUD61af8htOqN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리도 잘한다",
+        "writer": "Ugy6aQWpiLRYzYj3DZR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크면 엄청 미남일듯요",
+        "writer": "UgykgSV8L-76vyXj4gB4AaABAg.99H03c1VFWF9G8(반사회적용어)U_EKLB",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둡칫땃쥐 그렇게 살고싶냐",
+        "writer": "UgykgSV8L-76vyXj4gB4AaABAg.99H03c1VFWF9H3THNUG-U3",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 닮았잖앙",
+        "writer": "UgykgSV8L-76vyXj4gB4AaABAg.99H03c1VFWF9H3mSiCxJpk",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤아님은 부족하신게 뭔지, 최고다 진짜",
+        "writer": "Ugy3LphPSBMNi-2QeOt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미역귀로 끓인 미역국은 첨보네 (비속어)히는맛이 맛있겠다",
+        "writer": "UgxO9uQ2r2VN8u9g11l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 민이",
+        "writer": "UgxFUU2lazvcFze5nTx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 너무 귀여움 윤아님도 멋지시고",
+        "writer": "UgyaAILaeqnu3BAfIHt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 침대에 누워자고있는거 너무귀여워 민아 항상 응원할께",
+        "writer": "UgwEKuWeu9ELMgSFdit4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 넘모 구여웡",
+        "writer": "UgydSRsHTACG9ixN0iR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 진짜 건강식",
+        "writer": "Ugz9s5qiwWmptOtMcHh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 표정봨",
+        "writer": "UgzY8DxYSoEARd24pbR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 부엌가면 엄마 등이나 어깨에 손대거나 얼굴 기대고 음식 (이름)는 거 지켜보는 거 귀여워",
+        "writer": "UgyKcln9FxAPuCgF0aF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민이 썸네일 가오나시 따라한 줄",
+        "writer": "UgwJ8TlFb-0TlfAcS2V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 아 귀여워",
+        "writer": "Ugw8UOv0igFzEqpwB-h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 민이는 사랑입니다",
+        "writer": "UgysIIgPhTtdWSzLI2J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민아 보고싶다",
+        "writer": "UgyGg6Hr4RPvpiVJQ_F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OhteGxVfLnI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

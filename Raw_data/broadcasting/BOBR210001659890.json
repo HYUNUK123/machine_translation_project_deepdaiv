@@ -1,0 +1,692 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659890",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659890"
+    },
+    "text": [
+      {
+        "content": "근데 겨울인데도 집에서 반팔입고 있을정도면 보일러를 빵빵하게 틀어놓나보네요, 돈 아끼실려고 하는것같은데 긴팔입고 보일러 좀 줄이시는건 어떨지,",
+        "writer": "Ugxw9TS7fGCscakWSxB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 보면볼수록 답답하다. 미려씨가 속터지겠다",
+        "writer": "Ugy0yF1H2wVzC6ida814AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별일 아니예요. 그냥 슬리퍼 안신고 바지 입으면 해결되는건데요. 뭘 그리 심각하게 받아들이시는지요. 애들은 크면서 원래 그래요",
+        "writer": "UgxFLFBJ1jx4ODcG9hJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모아 귀엽다.",
+        "writer": "Ugzt9xsJnQx-8t6ilCZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난왜 모아엄마가 안쓰럽단 생각이 들지 ,",
+        "writer": "Ugz5zlZ83052NQjRuIJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 아(비속어) 저런다고 창피하진 않았는데 오히려 남들앞에서 무뚝뚝한 게 좀 창피했음",
+        "writer": "UgzzIZ-iLUtRVH4VloR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염좀 미시길요",
+        "writer": "UgxXop7hc27rFI6Uemd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롱패딩에 반바지는 오바인것 같아요,",
+        "writer": "UgzXjQuoleCC2cpowNh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염 너무 잘어울리지않아요",
+        "writer": "UgyNgslam-xXwbvz3bh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 슬퍼하지 마시고 그냥 빨리 좀 깔끔하게 변신하세요",
+        "writer": "Ugy6Ah-XdbkOURWE1nN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 근데 양쪽 입장다 이해가서 웃끼다 아버님 몰랐던 거니까 발전된 모습 응원합니닼",
+        "writer": "UgzabbRoQXDMXrciChZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모아가 혼자 생각해서 그런게 아니라, 옆에 같이 등하원 하는 애들이 호기심에 물어봐요 애들이 처음엔 궁금하니까 호기심으로 시작하지만 나중에는 그게 장난으로도 놀려요 옆에서 저지하고 열심히 가르쳐줘서 알아요,",
+        "writer": "UgzeTeCQgWIYiVS8TUx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)잘생긴인물에 명색이 탈렌트니 신경좀쓰셔야할듯하네요",
+        "writer": "Ugwoy5aZO30sMh4uwON4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5살만 되도 특히 여자 아이들 외모 얼마나 따지는데. 잘생긴 남자 여쁜 여자 엄청 좋아하고 수줍어하고 잘 보일라 하고.",
+        "writer": "Ugzoe1k4J0W3ks6RCXZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른거 말고 긴바지만 입으셔도 갠찮을 것 같아요. 넘 걱정하지 마세요.",
+        "writer": "UgxfiNhPjusdnXFkZfd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애가 착하니까 엄마에게 저렇게 조심스레 이야기하지, . 일반애기들응 아빠 오지마.. 챙피해라고 당사자인 아빠에게 이야기합니다. 유치원 등하원시간에 (이름)들 다들 깔끔한 외모로 와요 지금부터 깔끔하게 입으심되어요",
+        "writer": "UgwaAheX3lbgCZsKVyx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠 나같아도 창피할거같앜 아(비속어) 창피하대서 나도 맘아팠는데 모아랑 나거는거보고 빵터짐 롱패팅에 맨다리 저 나이대 애라면 누구든 그럴 수 있다 봐요 피지컬도 좋으시구 훤칠하시곸 애기가 아빠 생김새가지고 그러는게 아니니까 그냥 계절에 맞게 옷만 챙겨 입으심 해결될 일인뎈 아 웃프닼",
+        "writer": "UgxjNJf1E4meab-VqHV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든 아내들의 잔소리 관리좀해",
+        "writer": "UgzpuCqUnntKgnJewtl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)에 반바지 슬리퍼 지저분한 수염. 아이들도 깨끗하고 깔끔한것 좋아함. 그리고 자신은 상관없었는데 친구들이 니네아빠 지저분해 라던지 겨울에 반바지에 슬리퍼 신는거 이상해라던지 한마디 하면 창피해함. 특히 모아는 주변에 예민한것 같은데 더 신경써 줘야지.",
+        "writer": "UgyxmHBxCJ5QLXAEYNx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 면도즘 면도하면 잘 생긴얼굴인데",
+        "writer": "UgyrAt94l3W6qbBrR5l4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알 나이지,",
+        "writer": "UgwmBP7QGdaZ(반사회적용어)aAvPV4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김미려씨가 남편보고 관리 안한다고 구박할 상황은 아닌거 같은데, 본(반사회적용어) 딱히 관리를 잘하는거 같지 않은데, 도찐 개찐인데",
+        "writer": "UgxQ7790rLtl4ux8KXJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린이집 애들등하원 시켜줄때만을 위해서 (반사회적용어)도 막입고 나가진않습니다. 애들도 알거든요",
+        "writer": "UgzbFzHNRgHRmuXBgMp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초등입학때 되면 애들도 보는 눈이 생겨서 주변이랑 비교가 가능해서 내부모가 너무 후줄근한 모습인 걸 창피해해요, 그리고 심각한 경우엔 다른 친구들의 놀림감이 되기도 하고요 나 편한 것도 좋지만 최소한 그 계절에 맞고 깔끔하고 단정한 모습으로 애를 마중하고 배웅하는 게 작은 일이지만 애 기를 살려주는 일이기도 해요",
+        "writer": "UgwNRpwQ1mZWXsE7QtJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국에서 수염은 지저분한 인상이죠, 아무리 잘생겼어도,수염(이름)시고 헤어스타일만 바꿔도 긴바지만 입으셔도 멋질듯요,꼭 그러시길,지금은 진짜 죄송한데 동네백수 같아요,",
+        "writer": "UgxXesrxDAyaGDtbfLt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 잘생기셔서 평타만 치게 입고다녀도 괜잖으심 집앞 유치원버스 태워다주러가는데 반바지에 쪼(반사회적용어)고 패딩은 뭐어떤가싶지만 아이들이니까 생각하면 그럴만하겠다싶기도 하구요 근데 배우다보니 잘생기셔서 창피하달꺼까지는 공감이안가넹",
+        "writer": "UgxcD2vmCXJO8KaBgSV4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버지 그런소리마시고 겨울 반바지 슬리퍼 수염덥수룩이면 딸 10명이면 거의 창피해 해요 저희 신랑 한번씩 유치원 등원 도와줄땐 무조건 깔끔하게 가라구해요 전,",
+        "writer": "UgyX6A7VcisPxi7i_YZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나가기전에 청바지(반사회적용어) 입고 운동화 신어주시면 창피하다고는 안할꺼같아요 그리고 아마 다른 친구들은 보통 엄마가 데려다주고 데릴러와줘서 그냥 엄마가 와줬으면 하는 마음도 있을듯 싶네요",
+        "writer": "UgziF669SBVieesQn9Z4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그쵸, 애기들도 외모얘기 많이한다던데, 너네엄마 뚱뚱하다는둥, 에공, 토닥토닥",
+        "writer": "UgxKAWBLvia0laXhxcd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 어릴때 저랬음 유치원때나 저학년때 선생님 저희아빠는요 집에서 (혐오표현)만입고다녀요. 해서 집에 전화오곸엄마한테 둘다혼남",
+        "writer": "Ugy0s3MrBE7pHyl82Cp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들은 수염난 사람을 굉장히 늙은사람으로 생각할수도,",
+        "writer": "UgzZMMl8vNL9Kwjul-N4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마가 이쁜거를 4살 아들이 알고 친구들한테 울 엄마라고 자랑함 엄마들도 화장해야돼요.",
+        "writer": "UgyPGlmguCuUhNr_JEd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모아 아빠 충격 받으셨네 그모습이 참, 제 눈엔 귀여우시네요",
+        "writer": "Ugxl-LMdtB8LQN-rqNt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜냐고 묻는게 충격, .",
+        "writer": "Ugzghx29J6MPGsZOH5x4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옷이(반사회적용어) 갖춰입지",
+        "writer": "UgzbWO_Was5o4SKbb9J4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 시조카는 남자앤데 형님한테 유치원 데리러 오지 말라고 했데요. 왜냐니까 다른 집 엄마들은 이쁘고 날씬한데 왜 엄마는 뚱뚱하냐고, 그래서 형님 충격 받고 다이어트 빡시게 하심 뭐, 한약으로 하셔서 3개월 가고 한달만에 요요 왔지만, 살면서 날씬적이 없던 분이라 그 정도 노력도 대단하다고 생각했어요. 애들이 예쁜거 못생긴거 더 기가막히게 알아요.",
+        "writer": "UgxsW1PWWTQ3aZ8pECR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가했네, 세상에 바바리맨같아요",
+        "writer": "UgzxIIXuqDTgs9yTSAN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맥락파악 좀,",
+        "writer": "UgxQ7790rLtl4ux8KXJ4AaABAg.9Kwdn0fsns99KxDlPHUcIb",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 공감가네요 잠옷입고 등하원 (반사회적용어)는 엄마도 있던데 그런거랑 같은건가",
+        "writer": "UgyX6A7VcisPxi7i_YZ4AaABAg.9KlUguOv-bj9LAQhr0ghbX",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠역할 하는게 쉽진않죠, 아무생각없이 살다간 아무짝 취급 받습니다,",
+        "writer": "UgywmESndv_9fVk53E14AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모아아빠 디게미남인데 수염(이름)시구. 긴바지입고 가시면됨. 어렵지않아요 화이팅",
+        "writer": "Ugy8pymKCd8xMliqVTN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 학생 때 엄마가 뭐 가져다 주러 학교에 왔었는데 슬리퍼 신고 오셔서 왜 이런 거 신고 학교 오냐고 그랬던 기억이 있네요 물론 학교가 아파트에 둘러싸여서 동네 오가는 느낌이긴 했는데 그래도 싫더라구요 그렇다고 걱정하시는 것처럼 엄마를 싫어하진 않습니다. 아이에 대한 예의만 좀 더 갖춰주심 좋을 거 같아요",
+        "writer": "UgwjizZ3SUQ8LubZVdJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 모아 조곤조곤 귀엽게 말하는거 너무 천사같다헉",
+        "writer": "UgxU9jnVXKKDKG1xCLt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "면도좀하고 이발도하고 마. 뭐하는기고 딸내미보기에 부끄럽지도않냐.",
+        "writer": "UgymrIsprUqi4Bg936V4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염만 미셔도 괜찮을 듯 나는 우리 아빠 수염 있는 거 싫어해서,",
+        "writer": "UgyyjbL-r-_AH72O4nF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차려입고 가길 원하는구나 모아가 아빠",
+        "writer": "UgwnrCfQiJgXUyNiN-t4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 입장에서 아(비속어) 창피하다고 느껴지는 부분이 정말 고칠 수 없는 부분(예를 들면 못 생겨서라든지 키가 작다든지 어디 몸이 불편해서 남들과 다르다든지)에 대해 그러는 것도 아니고 오히려 저런 타고난 것들은 평균보다 훨씬 웃도는 (이름)시잖아요. 최소한의 것들은 갖춰주셔야죠. (이름)에 (혐오표현)처럼 맨다리 발가락 다 내놓고 같이 하고 다니면 아(비속어) 원빈이어도 창피해요.",
+        "writer": "UgxOUd8MNsMQbQ5riaJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자신이 잘생겼다고 생각하는 사람들이 간혹 저렇게 다니더라구요 근데 관리 좀 하셔야 겠어요... 요즘애들 빨라서 다 보고 알더라구요 딸을 창피하게 하지 마세요 잘만 챙겨입음 유치원에서 최고로 멋있는 아(비속어) 될게 분명하잖아요",
+        "writer": "UgzKRceq-k2J4ozl5zd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금도 잘생기셨어요. 그런데 인상 자체가 조금 어두워진 느낌이 들어요. 전에 건강하고 밝은 (이름)가 기억에 남거든요. 외모는 타고나시길 잘생기셨으니 어떤일이든 본인이 즐거운 일이 생기셨으면 좋겠어요.",
+        "writer": "Ugw8eNvVMlZNck3i6kd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모아 아빠 넘 미남이신데 애들 입장에서는 수염난 사람 안좋아한대요 . 비하하는거 절대아니에여 , 미남이시니 수염 (이름)구 계절에 맞는 깔끔한 옷차림이면 모아가 충분히 좋아하지 않을까 조심스래 남겨봅니다.",
+        "writer": "UgytnjlfgAwVKU8bVDd4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 화이팅. 너무 좋아여",
+        "writer": "UgxB9p3meAQPO1b6Y3R4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 내가김미려펜이고시집갔다는소식은들었는데저번에아이이들하고아빠도나오고우째뜬김미려티비에나와서감사하고신랑도착하고잘생긴사람잘만났네요김미려씨반갑읍니다아가가돈이많이들어갈텐데힘내시그홧팅하세요서로더가까(이름)하시고예쁘게사세요국민들이켜주실겁니다",
+        "writer": "Ugy-TmdenWm-6Nea1yx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염이(반사회적용어) 좀 (이름)는게 , 깔끔할것같네요",
+        "writer": "Ugxd4C4WG21ckTWddAR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에, 옛날에 (이름)옆에서도 빛나던 박카스남인데. 모아가 아빠의 과거를 잘모르나봐요 다시 꾸미고 관리하면 멋진 배우얼굴로 금방 돌아오실듯..",
+        "writer": "Ugx9HzdabJ-_-knhBD14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회색티도 칙칙해요, 좀 밝고 화사한 옷좀 입으심이,",
+        "writer": "UgyjO4QVp0ga6pYK83B4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 집앞 마트가는 것도 아니고 딸 등원하는데 그렇게 다니시면 창피하죠. 왜 그런 생각을 못하셨는지 모르겠어요.",
+        "writer": "UgwGzT6TIvcduvnxw7t4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8(혐오표현)데 벌써저런걸느끼는구나. 요즘아이들이라 빠른건가 했는데 롱패딩에 맨다리는 좀 모아가 이해되네요. 바지는입으세요 아버님",
+        "writer": "UgwNEDvSS43PW6K12UN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 수염 안어울리셔요 그게 흉은 아니에요. 안어울릴수도 있죠 수염이 누구한테나 베스트는 아니니까요 수염 깎으시길",
+        "writer": "UgwrKF41S0BErWNvx8B4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 정말 미남이셨는데",
+        "writer": "Ugy1jyKbjAbvBSKriwB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 영상보니까진짜 , 그럴거같아요, .어린이집그래도 아이들 다 보는데",
+        "writer": "UgxOUd8MNsMQbQ5riaJ4AaABAg.9Jzydd_1DKu9KhIP5MP9Tj",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 수염깔끔히밀고 옷 잘입으면 해결되는 문제겠네요. 진짜 못생기거나 키작고 장애가 있으신것도 아니고 잘생기셨는데 충분히 조금만 가꾸면될텐데",
+        "writer": "UgxOUd8MNsMQbQ5riaJ4AaABAg.9Jzydd_1DKu9L4tO6Ut7ru",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요, 저도 어느정도인가 했더니 롱패딩에 반바지는 진짜",
+        "writer": "UgxOUd8MNsMQbQ5riaJ4AaABAg.9Jzydd_1DKu9LSYSNRcKKe",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 몰랐어요, 박카스남이셨구나,",
+        "writer": "Ugx9HzdabJ-_-knhBD14AaABAg.9JoneEFmj5k9L2plB5TaBR",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)인이 저렇게 풍성한 털 기르기가 힘들어요. 그래서 아마 좀 더 프라이드가 있으실듯.",
+        "writer": "UgwrKF41S0BErWNvx8B4AaABAg.9Jk1bq1HWID9K8TYd8A4FW",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉 엄청 잘 어울리시는뎅",
+        "writer": "UgwrKF41S0BErWNvx8B4AaABAg.9Jk1bq1HWID9KaIFANjHAJ",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염부터 깎으시는것이 어떠실지.",
+        "writer": "UgzV0MNPosulL1XCRFB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아들 훈육법 화난",
+        "writer": "UgygTmaPRke96Rz2_rR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패딩에 반바지는",
+        "writer": "UgzRCGjWO6zP0kxi1gF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜어려운것도 아닌데 좀 고치셔야될듯 저나이때 창피햇던기억 평생가여,",
+        "writer": "UgyItcVKdUAaBF9GAh54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반바지는 좀,",
+        "writer": "Ugx5uCEJn1e9DhGp3FB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염밀고 가운데 가르마 바꿔 보심이 죄송하지만 안어울리심",
+        "writer": "UgxtUEQNSMqJfVdEaOZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수염이(반사회적용어) 밀고 좀 깔끔하게,",
+        "writer": "Ugzwg27ZMq5qxKIJjOB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8살이면 다 알아요 말은 안해도 창피한거 다 알져 그래두 긴바지에 운동화 신고 수염만 밀고 등하원하셔도 좋늘거 같아요 예전에 저도 졸업식이나 행사때 엄마한테 이뿌게 하고 와 엄마 그랬던 기억이 있네요,",
+        "writer": "UgzF-NJUKP-_gXNCKJd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 아빠 저렇게 입어도 잘생겼네요",
+        "writer": "UgwOMnVRNZzxiilIsZl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당장 수염이(반사회적용어), 어케, 아 모르겠다, 혼란,",
+        "writer": "Ugx7DQxq4FJtNE9ytOx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄청난 관리를 말하는게 아니라 그냥 깔끔하게만 해달라는 건데,",
+        "writer": "UgzakSUqaoaZGzkFAy54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관리라는게 특별한게아니라, 잘 씻고 수염밀고하는거죠 언제 배역들어갈지모르는데 체중조금관리하시지",
+        "writer": "UgwHdR6pfaN0t48lFCp4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기자이고 배우인데 관리 하나도 안되어있고, 지금은 살림만 하니까, 자신도 슬프겠네.",
+        "writer": "UgwOeqiU9Q3FjTqOGAl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 (반사회적용어) 남자 스탈이에여 겨울되면 털 기르고 쿨하게 대충 입고 그런거",
+        "writer": "UgxSpS0QrUvWg-c85uZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관리좀 하고 밖에 일도 좀 해야 하는데 집에만 있으니까 그렇게 되는 (혐오표현)요 연기자인데 아무리 집에 있어도 기본관리는 해야",
+        "writer": "UgwpwsVJyKHdAc4IUm54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이집은 신박한 정리 한 집인데 다시 집안이 어질러 졌네",
+        "writer": "UgxudgxGI3PeI2txH5N4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 에 나오는거 알면서 구역질 나네요 시청자가 이런모습 다 보고 있어야해 딸이 왜 아빠 창피 하다는말 알겠네",
+        "writer": "UgxJ4d_oMWgQTn48eTl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관리안하고 살찌고 몸 안만든거는 다 자기탓이에요",
+        "writer": "UgwOeqiU9Q3FjTqOGAl4AaABAg.9JB5BR6Cexr9L65PSzRx3W",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애키우는집은 그래요",
+        "writer": "UgxudgxGI3PeI2txH5N4AaABAg.9IsVNEjvhQT9KuxQxFbKG7",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구역질이요 세상에. 구역질이란 말을 쓰면 남에게 (반사회적용어)하는거예요 어떤 삶을 살았기에.",
+        "writer": "UgxJ4d_oMWgQTn48eTl4AaABAg.9IsUzBNKfV89L6Hg1lerOy",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=TFA7TvKY0iQ",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

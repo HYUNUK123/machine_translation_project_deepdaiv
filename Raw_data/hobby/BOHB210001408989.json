@@ -1,0 +1,972 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001408989",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001408989"
+    },
+    "text": [
+      {
+        "content": "저는 만화를 공부하고 있는데 정말, 수업받는 기분입니다. 귀한 자료 공유해주셔서 고맙습니다.",
+        "writer": "UgxNIDFy-U56nnGUbOd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 학생들 단편영화 보면 겉멋 오지게 들어서 카메라 흔들어대죠",
+        "writer": "UgwU4X5RXMeVOPUPpHx4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퀄리티있는 강의를 해주셔서 감사드립니다.",
+        "writer": "UgxVNyp2O6qTR8qnneR4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 진작에 만났어야 할 분을 유투브에서 찾네요. 가르침 감사합니다",
+        "writer": "UgyrDv50pcTQJSpRjBN4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초보일수록 부족함을 감추기 위해 기본에서 벗어나고 싶어하지만 기본기없는 스킬은 없단걸 다시금 깨닫고 갑니다",
+        "writer": "Ugzn3cOmeFfOzllHCix4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상을 좀 더 일찍 접했으면 하네요.",
+        "writer": "UgxMMolbvoM97Abw-3d4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 좋은 공부가 되었습니다. 진심으로 감사드려요",
+        "writer": "Ugwyj4pednnFVOHawZt4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명진짜 기깔나게 하심",
+        "writer": "Ugx3c8_FTUaHzQfx1BF4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골룸을 넣으시다니 센쓰짱... 빵 터졌습니다",
+        "writer": "UgzpeGyci9KpmZgyxN14AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쯤 이렇게 AB AB 그리고 분위기가 냉랭해지면 다시 와이드샷 일정패턴을 만들어내 가 맞는것같은데 맞나요",
+        "writer": "UgwGTwMuZ-dNaLisvT54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우연히 지나가다가 들어왔는데 바로 구독을 누르고 갑니다 ) 친절하게 깊은 설명들 감사드려요.",
+        "writer": "UgwEVGK8dAPkikQGmfZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 유익한 내용이에요.",
+        "writer": "UgwWxSeyCZFap-a-hLR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 마음속에 가장 인상적으로 남아있는 영화의 한 장면들은 대부분 카메라가 움직이지 않는다, 좋네요",
+        "writer": "UgyKy7R8awtQCboPMLN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 하나보고 쭉 보고있네요 유익하면서 지루하지 않은 것 같아요",
+        "writer": "UgwlydwXRLSIC2-CzuN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "션 킴은 짱이시옵니다",
+        "writer": "UgzmOk1qabH1Wpjf4DF4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쯤 장면처럼 마주보며 대화하는 장면은 어떻게 촬영을 하나요 한 사람의 대사가 끝나면 카메라 위치를 옮기나요 대사가 끝날 때마다 카메라를 옮기며 배우들의 연기가 흐트러지지 않나요,",
+        "writer": "UgypeTY2eUP4q14nBvB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시네마토그래피는 파고들수록 신기합니다. 감정을 화면에 어떻게 담아낼것인가. 영화광고계에서 콘티작가로 활동하면서 스스로 얼마나 연출력이 부족한가 절감하게 됩니다. 이 채널은 시네마토그래피 공부에 탁월한 것 같습니다.",
+        "writer": "UgzS5OLrQ-bQXUvGKKJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 내용 감사합니다.",
+        "writer": "Ugz9vYqvRliqUC3V3j14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 사람 대사가 끝날때까지 쭉 다 찍고 반대쪽 셋업에서 쭉 다시 한번 촬영합니다. 근데 이건 정말 핀쳐처럼 완벽주의자 감독들이 사용하는 방법이고 예산이 충분하지 않으면 이 방법으로 진행하기 힘들겠죠.",
+        "writer": "UgypeTY2eUP4q14nBvB4AaABAg.97Yry4AOQQf97ZCXaXSokT",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 그러면 두 사람의 대사가 섞이지 않나요 두 번의 촬영이니까 두 번 녹음을 해서 그걸 합성하는 건가요",
+        "writer": "UgypeTY2eUP4q14nBvB4AaABAg.97Yry4AOQQf97_AQIt4J42",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김지현 그걸 양쪽으로 편집합니다. 둘이 말을 동시에하면 사운드 때문에 좀 더 까다로운 촬영이 될 수도 있습니다. 돌아가면서 대화하는 장면은 컷편집으로 충분히 자연스럽게 만들 수 있습니다.",
+        "writer": "UgypeTY2eUP4q14nBvB4AaABAg.97Yry4AOQQf97_BwtlUrwZ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 아, 실제로는 번갈아가면서 대사를 하는게 아니었네요 감사합니다.. 구독까지 했어요.",
+        "writer": "UgypeTY2eUP4q14nBvB4AaABAg.97Yry4AOQQf97_Ho5wQ7Tk",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 이 시퀀스에 국한 되서는 남1여1풀1 캠3대를 써도 가능한 포지션이네요. 렌즈값이나 앵글보면 맞은편 캠이 걸리지 않을듯.",
+        "writer": "UgypeTY2eUP4q14nBvB4AaABAg.97Yry4AOQQf9FcPpL68ySv",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 취미로 영상연출에 정말 관심이 많은 사람인데 정말 감명받고갑니다, 내용 뿐만아니라 영상자체에 빨려드러가는 힘이 있네요. 스토리텔링이 놀랍습니다. 잘 보고갑니다, 앞으로도 많은 팁 부탁드려요",
+        "writer": "UgxT9vgmYu6yWpmFzzh4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 말씀에 전율하고 갑니다.",
+        "writer": "Ugzi4WjtubNk-agjK954AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 다시봐도 명강의",
+        "writer": "UgzKFDPqwJwpjbTJCK14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 막 CG공부 시작한 사람으로서 이해하기 쉬우면서도 어디에서도 듣기 어려웠던 설명이라 진짜 유익해요 감사합니다..",
+        "writer": "UgyPbqmOi1gFSMtjLeN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카3의 2분32초 자동차충돌연출이 왜 서서히 앞무빙치는 연출을 사용했을까요 무빙하지않아도 됬을거같은데, 어떻게 추측하세요 watch vrC8dd3ZYNs",
+        "writer": "UgwQMyRtpdFZNxOdKBd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 전 컴공과라 애니메이션 수업이 전무한데 마야는 너무 비싸더라고요 혹시 블렌더로 애니메이션을 시작해봐도 괜찮을까요, Demo Reel 같은 건 마야로 만들어야 하는 것이지요",
+        "writer": "Ugz-Ij-VoDZMuGMJzHJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오와 이분 픽사 디자(이름)으로 인터뷰영상에 뵌적이 있는데 유튜브를 시작하셨네요, 너무 반갑습니다",
+        "writer": "Ugxkro8NdzvtUdmzA4F4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5분 36초부터 시작되는 가장 인상 깊게 남아있는 멈춰있는 영화 장면 의 예시들이 순서대로 어떤 영화들인지 알 수 있을까요 . 몇 개는 알겠는데 모르는 것들이 중간중간 있어서, 너무 멋있는 구도들이라 봐보고 싶어요.",
+        "writer": "UgyEnhE8BzAqFVbqDg94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상을보고 요즘 많이 촬영이 지치고 힘들었었는데 힘이되었고 공부가되었고 카메라워킹 포지션 등등에 영감을 받았습니다. 정말 감동을 받았습니다 자막 화질 내용 그리고 bgm 다 완벽한 영상입니다 정말 다시한번 감사하다는 말씀 올립니다",
+        "writer": "UgxUnj66j5ZQA1xLMXN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유익한 정보 항상 감사합니다 이제 막 CG에 입문 하려고 하는 취준생입니다. 원래 전공은 자연 과학 계열 이엇구요. 졸업 후에 뒤늦게 시작하려 하는데, 늦었다고 생각하는 만큼 열심히 하려고요. 아직 분야는 결정하지 못했지만 CG 영상 연출이라는 분야가 굉장히 매력적으로 다가오는거 같아요. 언젠간 함께 작업할 날이 왔으면 하는 바램입니다",
+        "writer": "UgzpgJw73mHkIK-Id0l4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 마지막 말씀 인상 깊네요. 정말 생각해보니 제 마음속에 남아있는 영화속의 감명 깊었던 장면들은 모두 카메라가 움직이지 않았네요, 영화를 굉장히 좋아하지만 이런쪽으로는 생각해(비속어) 않았는데 덕분에 좋아했던 영화들을 다시 한번 봐야겠다는 생각이 들어요. 좋은 영상 감사합니다.",
+        "writer": "UgzOXfoNenrFaYfdOLh4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분야는 아니지만 만화 애니메이션에 관심 많은 사람입니다 연출에 대해 다시 생각해보게 됬습니다 정말 감사드려요 정말 좋은 영상 입니다 많이 보고 싶은 마음에 구독합니다.",
+        "writer": "UgxurECycumvav__95R4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상에서 나오는 것 같은 애니매이션 제작 프로그램을 추천해 주실 수 있을까용,",
+        "writer": "UgxtIoZESO_p7MPRda54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희학교 (이름)이셨으면 좋겠네용, 그만큼 많이 배워갑니다 그것도 공짜로...",
+        "writer": "UgyqByDM2ssOty8woMR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋은 강의 감사드려요.. 다음엔 영화 추천도 해주시면 좋을거 같아요",
+        "writer": "Ugw49CyF8FrsZUPp-Xp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이형은 진짜다, 이 채널은 아무도 안알려주고 나만 봐야겠다,",
+        "writer": "Ugzh1oS1ToAz43ai4a14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공감이 많이 되는 내용입니다. 카메라를 무의미하게 움직이는 학생 작업들을 보면 씨네마 카메라 들고 10분만 야외 촬영해 보라고 하고 싶을 지경입니다.",
+        "writer": "Ugx7yrsGN3lF-RJH2wt4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 고급 교과서네요( )",
+        "writer": "Ugw94Ioez1y87ONpcjJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 학생때 마냥 영화를 좋아하는 마음이 컸고 거기에 참여하고싶다는 마음때문에 이리저리 유튜브를 찾아보던중에 이 채널을 보면서 cg영상에 대한 막연한 꿈을 키운 사람입니다, 할줄 아는건 없고 진로고민으로 너무 답답하기만 한데 항상 업뎃해주시는 좋은 내용의 영상을 보면서 많은 도움이 되네요 감사합니다 항상 눈팅만 하다 댓글 남기고가요",
+        "writer": "UgxU9cfZV3bIMr7vR-V4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞뒤 샷에 모두 카메라 무빙이 있는데 이 샷만 갑자기 아무런 무빙이 없으면 샷이 잘 안 붙습니다. 슬로우 모션이지만 샷의 에너(반사회적용어) 유지하기위해 최소한으로 사용한 샷이라 생각하시면되요.",
+        "writer": "UgwQMyRtpdFZNxOdKBd4AaABAg.93WBFY_D1ZY93YHd5xil25",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 넵 감사합니다 액션 자동차영상 보여주면서 분석하는영상들 더 부탁드려요. 머리가 넓어지는기분이에요",
+        "writer": "UgwQMyRtpdFZNxOdKBd4AaABAg.93WBFY_D1ZY93YOjlRVnam",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Raydria 조만간 롱테이크에 관한 에피소드 준비할 것 같은데 액션도 같이 이야기 해보더록 할께요)",
+        "writer": "UgwQMyRtpdFZNxOdKBd4AaABAg.93WBFY_D1ZY93YQ4-4wCDV",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 넵넵넵...",
+        "writer": "UgwQMyRtpdFZNxOdKBd4AaABAg.93WBFY_D1ZY93YQEgxPYnz",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블랜더로 시작해도 전혀 문제 없습니다. 그리고 학생 버전 마야는 무료입니다",
+        "writer": "Ugz-Ij-VoDZMuGMJzHJ4AaABAg.93SOAxBnjOw93T71TiAuRi",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kim 감사합니다)",
+        "writer": "UgxurECycumvav__95R4AaABAg.9-n2MFbCnxC9-nM6klZNIu",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)우 Maya로 만든 작품같네요) 아무 프로그램이나 상관없긴합니다. 무료 프로그램잉 blender로 시작하셔도 되요.",
+        "writer": "UgxtIoZESO_p7MPRda54AaABAg.8youByPrQkb8yp2HMNAD00",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 공짜로 보기가 미안해서 광고 나오면 링크 일일이 다 클릭해서 광고수익이(반사회적용어) 좀 더 드리려고 노력하다가 얼마전에 멤버십 서비스 시작하셔서 월 4 700원에 정기구독 했어요. 최근에 국내 영상 아카데미에서 좋은보수로 출강 제안이 왔는데 유튜브 제공을 우선으로 생각해서 거절하셨더라구요.",
+        "writer": "UgyqByDM2ssOty8woMR4AaABAg.8yghsrHIhzJ9IDMbvIuGIn",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TeleV2 엇 다른 사람들에게도 알려주세요.",
+        "writer": "Ugzh1oS1ToAz43ai4a14AaABAg.8yVJ6aGo0KS8yVTfiiI6Ek",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느루 정성어린 댓글 감사드려요.",
+        "writer": "UgxU9cfZV3bIMr7vR-V4AaABAg.8wglCLApQqq8wglx8JnNWn",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 도발에 바로 들어와버렸네요,",
+        "writer": "UgyFzmIyeQlYwjGKecR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상연출에 막 입문한 뉴비입니다 궁금했던 정보들을 이렇게 영상으로 알기쉽게 설명해주셔서 감사합니다. 정말 도움이 되었어요. 혹시 카메라 mm에 따른 화면의 차이에 대해서도 영상 만들어주실 수 있나요 실사 카메라를 다뤄본 기회가 없다보니 연출을 할 때 카메라 고르기가 어렵습니다. 꼭 알려주세요. 유익한 채널 구독하고 갑니다.",
+        "writer": "UgysktaNkryjt07tBTF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 마지막 한마디가 머리를 땅. 하고 치네요. 좋은영상 감사합니다.",
+        "writer": "UgyEm163hHal9rvG6aJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간결하면서도 정말 명확하게 카메라 연출을 어떻게 봐야할(반사회적용어) 느끼게 된 것 같네요. 이번 영상도 정말정말 감사합니다.",
+        "writer": "UgzcXAgKTZ7QBZtuRL94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 감사합니다 좋은정보 보고갑니다 단편영상 제작중에 매우 좋은 참(비속어)료입니다",
+        "writer": "UgyKQSroolNziljjyMZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와너무 좋은 영상 감사합니다.",
+        "writer": "UgzUxHWaQTQ_Fmvdmap4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모션 그래픽쪽에서도 충분히 활용 가능할까요 , 모션 그래픽 공부하고 있는데 저도 매번 달리는 기본으로 넣거든요",
+        "writer": "UgwXdq1Z5ziEv-XhvM14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 정말 좋은 정보네요. 이런 영상문법과 연출에 관한 교과서적인(모범적인) 서적이 있을까요 있다면 소개 좀 해주세요.",
+        "writer": "UgzSOGzpW9D4rXBim3R4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위플래시 장면연출이 그랬듯, 영상 주제의 펀치라(반사회적용어) 마지막에 나왔네요.. 좋은 영상 감사합니다",
+        "writer": "UgzcUK2hfE_j0_DFpFR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 정보 감사합니다",
+        "writer": "UgxC9wopnaXAW0ouSGZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 제 기억속에 남아있는 장면들은 카메라가 움직이지 않고 있는 장면이 많은 것 같아요 좋은 영상 감사합니다",
+        "writer": "UgwpysJ2nd5EvnKBFr94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 보고 배우고 갑니다 감사합니다",
+        "writer": "Ugw_GHWt2hKut5UFszx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 픽사에서 일하시는 아티스트분의 유튜브 채널이라니, 유튜브라는 플랫폼이 있으니 이렇게 좋은 이야기도 듣네요 괜찮으시다면 유튜브 채널 추천하는 제 컨텐츠에 이야기해도 될까요",
+        "writer": "UgxFZPCcZSZx84_KIsl4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한줄요약 겉멋부리지말고 기본에 충실하라. 스토리의 감정선에 집중하라. 스필버그도 그렇고 존 라세터도 그렇고 어린 감독들에게 하는 충고를 들어보면 고민없이 기본기를 가장먼저 꼽더라고요. 이 채널에 꿀정보들이 너무 많네요. 하루만에 이 게시된 영상을 다 봤습니다",
+        "writer": "Ugw2vz8x0CsMG_oRgGR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 유익했습니다.",
+        "writer": "UgwiuaEowAt4tZ7odwN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 기본이 중요한거 같아요 좋은 영상 감사합니다.",
+        "writer": "Ugx_25yOxKqcN9WHi8p4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘보고 가요 포인트 잘 찝어 주시네요.. 추천 구독하고 갑니당",
+        "writer": "UgxB5L8l_6TUI6Kcjwx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤습니다...",
+        "writer": "UgydReUZD1t0N89YJBx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제가 좋은 영상 감사합니다 저에겐 사막의 오아시스 같은 존재.",
+        "writer": "UgxaewaDc4qWObsJiyp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유익한 영상 너무 감사해요..",
+        "writer": "UgxKTTIJMPA_ORZK_NR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 가르쳐주셔서 감사할 뿐입니다.",
+        "writer": "UgyFzmIyeQlYwjGKecR4AaABAg.8wcfQ0pRMI08wcl_6QbAmw",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "LIGHT L 랜즈도 한번 다뤄볼만한 주제이긴하죠. 카메라 연출 이해하고 싶으면 미러리스 카메라 정도라고 사용해보시면 랜즈에 따른 느낌 차이를 더 확 느끼실 수 있긴해요)",
+        "writer": "UgysktaNkryjt07tBTF4AaABAg.8wMPFqKtvHa8wMoZOko8JW",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너부키TV 단편 만드시는 군요.",
+        "writer": "UgyKQSroolNziljjyMZ4AaABAg.8vXeivYm4Eq8vXi0eqvVI6",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4568 123 모션도 기본적으로는 디자인이 잘 된 스틸이 필요하겠지요. 그 중간을 모션을로 채워나가는 걸거고요. 하지만 영화쪽 보다는 템포도 빠르고 하기 때문에 영향이 덜 하긴 할 것 같습니다)",
+        "writer": "UgwXdq1Z5ziEv-XhvM14AaABAg.8vEZYUAt9128vFCRLVq4BF",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "책마다 장단점이 있고 해서 정답인 책을 추천드리긴 그렇네요. 연출관련 책 추천 컨텐츠도 기획해봐야겠습니다. 많은 분들이 물어보셔서요.",
+        "writer": "UgzSOGzpW9D4rXBim3R4AaABAg.8vCf6H9CBQN8vCkB9wpmhp",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 네 알겠습니다. 시각디자인을 전공해서 관심이 많아요. 제가 알고싶은건 영상언어 및 이론에는 어떤개념이 있는지 그 키워드만 알면 됩니다. 예를들면 교차편집 맥거핀효과 보이스오버 같은거요. 어떤 개념이 있는줄만 알면 그 키워드로 검색해서 공부하면 되니까요. 구독알림설정 해놨으니 앞으로 좋은콘텐츠 잘 보겠습니다.",
+        "writer": "UgzSOGzpW9D4rXBim3R4AaABAg.8vCf6H9CBQN8vDIDf3NBwl",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "류션이 피드백 감사합니다.",
+        "writer": "UgzcUK2hfE_j0_DFpFR4AaABAg.8t14dtpGWGI8t1JNZjQiaI",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세빵 맞아요. 뇌리에 딱 남는 장면은 대부분,",
+        "writer": "UgwpysJ2nd5EvnKBFr94AaABAg.8syy8bIxrCT8szgQP1TIAL",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펀팩 안녕하세요 펀팩님. 이제 3개월된 작은 체널이니 소개해 주시면 제가 감사하지요)",
+        "writer": "UgxFZPCcZSZx84_KIsl4AaABAg.8suaDRMHNam8suatJMGaq-",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 감사합니다 저도 6개월된 초보라서요",
+        "writer": "UgxFZPCcZSZx84_KIsl4AaABAg.8suaDRMHNam8sucOMI6N4H",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펀팩 같이 커가요 펀팩님 체널 구독 했습니다)",
+        "writer": "UgxFZPCcZSZx84_KIsl4AaABAg.8suaDRMHNam8sucoPDlzpa",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "John Us 이야 영상을 정주행 해주시다니 감사합니다.. 정확한 한줄 요약입니다 )",
+        "writer": "Ugw2vz8x0CsMG_oRgGR4AaABAg.8stWykAUJcf8suZZigTe8p",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Viewee s World 고맙습니다)",
+        "writer": "UgwiuaEowAt4tZ7odwN4AaABAg.8sCHWxS7TWk8sCJ-HpcBrY",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Jewan Lee 고맙습니다.",
+        "writer": "Ugx_25yOxKqcN9WHi8p4AaABAg.8s77rI7jcuF8s7M6ZB3NBe",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Dong kyu Yoo 엇 이런 과찬을. 계속 방문해줘서 고맙습니다)",
+        "writer": "UgxaewaDc4qWObsJiyp4AaABAg.8rdh_cwk4Ff8rdikykEVIM",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "rose .j 감사해요..",
+        "writer": "UgxKTTIJMPA_ORZK_NR4AaABAg.8rbxkZYoeNR8rc2C1X3DQl",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 공감되는 말씀이십니다. 요즘 릴 만들면서 카메라 연출때문에 엄청 힘들었었거든요 그런데 지금 딱 원하는 말씀을 해주시니 정신이 번쩍드네요. 정말 감사합니다. 많은 걸 보고 샷 연출을 많이 하는 게 중요하다는 생각이 듭니다.",
+        "writer": "Ugy34n7J8U70-oeS2EV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 감사합니다. 이리저리 카메라를 움직여놓고 의미부여하는게 아니고, 의미를 담아 움직일 수 있도록 참고 또 많이 연구해야겠어요.",
+        "writer": "Ugxj_EIPkbAzTmM3qvR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상하는 사람으로서 이런거 좋네요 저도 짐벌이 만연한 이때 픽스샷을 굉장히 좋아하는 터라 다만 너무 단편적이어서 아쉽습니다 시리즈로 부탁해요",
+        "writer": "UgwYawYauP6XAZkTPt94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이번 영상 너무 좋아요작업물 프로그래싱이 어렵던 차에 다시 불붙게 하네요..",
+        "writer": "Ugx-JRgiEcOfPW0t79h4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번에도 좋은 영상 감사드려요.. 영화 보면서 이런 요소들을 찾아보는 것도 재미있을 것 같네요.",
+        "writer": "UgzKSQWwyA0CFnBhtxp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞습니다 프리비즈작업물을가지고 회의에들어가게되면 다양한 부서 사람분들과 이야길하게되는데요 엄청난회의끝에 이하나로직결됩니다. 실제로이렇게찍을수 있냐없냐 프리비즈 작업자는 이부분까지 생각을하고 작업을해야합니다.",
+        "writer": "Ugyv8w2f7_Am8H2kI7N4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 정말 좋은내용이네요..",
+        "writer": "UgwtOVWFittJZlgo33V4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 작업한것들에 대해 생각해보게 되네요.",
+        "writer": "Ugym3l7mKDiF87FoeYF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 피와 살이 된다고 자주 남겼지만 이번편은 저 자신을 돌아보게 되는 영상이였습니다, 많은걸 느낀 영상 제작 해주셔서 감사해요",
+        "writer": "UgzccJA5-UHp1vE9Hsx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 성영샘. 이런 영상 너무 좋아요.",
+        "writer": "UgwEBwhUyB_bz6KS7Z54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘감사해요 꼭필요했어요",
+        "writer": "UgxwgQ4GS5vMTfcD4G54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명심할게용 감사합니다.",
+        "writer": "UgyiEHek0WTi7monwkp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 연출 분석하는 이런 영상들이 정말 유용하다고 느껴져요 다음 영상 기다릴게요.",
+        "writer": "Ugzz-ECuksPWx0mJV_J4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번에도 유익한 내용 감사합니다",
+        "writer": "Ugx-OVYlQ5VNG3dJDjN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "aram lee 잘하고있는데 멀 ) 릴은 계속 업데이트해주고 있나보네.",
+        "writer": "Ugy34n7J8U70-oeS2EV4AaABAg.8rb8Hb7qLv68rbA5ClOx0a",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JY92 화이팅..",
+        "writer": "Ugxj_EIPkbAzTmM3qvR4AaABAg.8rawG454Iic8rayqPFuYSY",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화따라 여행가기 Follow the FILM 감사합니다. 관련 주제 시리즈로 이어가는 아이디어도 생각중이에요)",
+        "writer": "UgwYawYauP6XAZkTPt94AaABAg.8rasdQ0kAyR8rayxQgPZpr",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "HyunJeong An 자극이 되었다니 제가 감사합니다.",
+        "writer": "Ugx-JRgiEcOfPW0t79h4AaABAg.8raa8hYwGtq8rai893WgH1",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중하 찾다보면. 나중엔 그냥 보이는 날이 올거에요.",
+        "writer": "UgzKSQWwyA0CFnBhtxp4AaABAg.8raVBsoCexV8rai4sB8cdx",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sokman min 실사 영화 촬영을 염두해두고 진행하는 프리비즈는 진짜 더 그렇겠네요. 좋은 의견 감사합니다 )",
+        "writer": "Ugyv8w2f7_Am8H2kI7N4AaABAg.8raRNG4xyiA8rai09qm-7z",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 맞습니다 최근에 진행한 롱테이크샷 에서도 화(비속어) 한번에 찍어도 될것같았지만 카메라 레일의 길이나 실제 구조환경상 끊어서 촬영해야하는 상황이라 이부분까지 편집선에서 교묘하게 트릭을 넣어 이어줄수있게 오브젝트 배치같은것도 고려해서 작업을했었죠 답글 감사드리고 앞으로도 좋은영상 부탁드립니다.",
+        "writer": "Ugyv8w2f7_Am8H2kI7N4AaABAg.8raRNG4xyiA8raiv8osNSH",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토이리 오 토(이름). CG맨 잘보고 있어요)",
+        "writer": "UgwtOVWFittJZlgo33V4AaABAg.8raFm_MAOgm8raP0cNKmMC",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hakjong Yu 앗 그런 피드백을 주시니 제가 감사하네요.",
+        "writer": "Ugym3l7mKDiF87FoeYF4AaABAg.8r_w5fX0MEG8raPACvxaOt",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Minwoo Park 항상 열심히 피드백 해줘서 고마워요.",
+        "writer": "UgzccJA5-UHp1vE9Hsx4AaABAg.8r_vqvtXBfy8raOoVxj0Dl",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Maya 101 마야 101 구독했습니다.",
+        "writer": "UgwEBwhUyB_bz6KS7Z54AaABAg.8r_vQwrryMA8raOrOtuy88",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 우왓.",
+        "writer": "UgwEBwhUyB_bz6KS7Z54AaABAg.8r_vQwrryMA8raYqLz05uH",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우경애 제가 딱 필요한 시기에 영상을 업로드했군요.",
+        "writer": "UgxwgQ4GS5vMTfcD4G54AaABAg.8r_sXjDwlwC8raP6kV8wqV",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 답변 감사합니다.영화애니메이션연출에 관심이 많은데 혹시 추천해주실만한 서적이나 강의가 있을까요",
+        "writer": "UgxwgQ4GS5vMTfcD4G54AaABAg.8r_sXjDwlwC8raRAo1-KXY",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우경애 가장 기본이되는 영상 법칙((비속어)0도 법칙 샷의 종류와 사용법 기본 카메라 움직임 등)이 포함되어 있는 씨네마토그래피 책은 어떤책이든 큰 차이가 없고 그 이후는 직접 만들어가면서 유튜브에서 씨네마토그래피 관련 체널들 참고하시면될 거에요.",
+        "writer": "UgxwgQ4GS5vMTfcD4G54AaABAg.8r_sXjDwlwC8rb215UIx-3",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 너무감사합니다 정말감사해요",
+        "writer": "UgxwgQ4GS5vMTfcD4G54AaABAg.8r_sXjDwlwC8rb2fa3Lz5N",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sori kim 감사해요. 영화 관련 영상도 한달에 34개는 포함되도록 하려고요)",
+        "writer": "Ugzz-ECuksPWx0mJV_J4AaABAg.8r_rrh9ALaX8raOyAN1fsR",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "NE JU 감사해요.",
+        "writer": "Ugx-OVYlQ5VNG3dJDjN4AaABAg.8r_qq9QxJxZ8raP2K6kidZ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=FeYqzoZyjG0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

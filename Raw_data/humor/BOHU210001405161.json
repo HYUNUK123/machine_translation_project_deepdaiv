@@ -1,0 +1,764 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001405161",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHU210001405161"
+    },
+    "text": [
+      {
+        "content": "(비속어)식당 어때요 아침은 메뉴 하나 (아침조)(비속어)",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8lteJOdNPcK",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)밥 도사",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8lteU8Ixw1F",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보물섬 식당 이름 원래는 래퍼를 할려고 했었다.",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltebph4urU",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집밥도사 보다 밥사준래로 짓고 나서 (이름)들이 밥 얻어먹고 싶을 때 식당이름 대서 준래님 식당서 얻어먹고 오기에 적당한 식당네임인듯( )",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8lteo068sRs",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)생의 (비속어)밥식당",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltf4Lc7RYj",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검정색 스타킹 으로가시죠 형",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltfHGh2Jcu",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보물섬 준라 맛있는 식당",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltfl0RTcRS",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준래 맛있는집",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltgDbTSFSu",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준밥 어때염",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltgSmkCz29",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보물섬 준래반점",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltgr3upicL",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준래형 랩 망하면 식당해요",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8lthC77U1YJ",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 왜 식당할때 식기가 청결해야좋잖아요. 더러우면 막 손님들이 안좋아하니까. 그래서 청결한곳이라고 식기가 청결한곳이라고 식당이름을 이식기(이끼)어때요",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8lthR_55rBc",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오줌 조준 잘하라고 조준 잘할 래",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8lti6JGO6qe",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조씨의 잣밥집",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltiqRjsQjT",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JJR이니깐 장조림",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltmDQFECV4",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 같네 그냥 쳐먹어 괜찮은듯",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltnGziwKnS",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YONAMZA라고 전에 있었는데 YO남자 어때요 (지금 접었어요)",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltnZBpgXCq",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스윙스가 인정한 돈까스",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltogzhNlCt",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전Hp1이 좋은데",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltpXgidBJK",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 밥 먹어준래",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltrUZmXxQs",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 준래 잘하는집",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltsXyn6k7B",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 좀 달라는 뜻에서 밥좀준래 어때요.",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltsa8gHVU9",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)치맛있는 식당",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltto88Y-Xb",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에(비속어) 어떰",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8lttxSpqSp2",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 맛있어서 몸은 통통 튀어오르고 마음은 날(비속어) 거 같다해서 힙합천국 어떨까요",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltuEdVDs9w",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩으로 성공하고싶은 밥집",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltusa4NIJH",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장례식장을 본떠 만든 준레 식당",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltvILe2Wlo",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JOT(비속어) 말고 개(비속어) 이 어떨까욬",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ltvyAetVDd",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준래형의 골목식당",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8mDGGoAsK0s",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥파는데 와준래",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8mE7BdfaHSo",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조준래 (비속어) (비속어)랩 딕랩",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8mbN80GmO4a",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기묘한이야기 봣어",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8mwlKdfVK_I",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준코식당 어때욬",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8n3qr6ejht-",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준래씨가 밥 (비속어)를 챙겨준다는 뜻에서 준래씨밥(비속어)는 어떤가요",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8nOKcWi6V44",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Idex로 하세여",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8noI-jCSFZE",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보물섬 오래되서 않 보겠지만, 음 없지롱",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8oQrBku-Nyb",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JR GUY 어떰",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8olGfaEtR4B",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스윙칩 잘하는 집",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8ouxawannjo",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조 밥",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8qFlkY0FAOh",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뽀식이네 감자탕",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8qO7eCBtq6Y",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국수 나무도 있으니까 준래형 식당은 조팝 나무어때요",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8r5Lu6QB8id",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저이름이 준래에요, 김준래",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8r9vV1JfPXN",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조준래형님이 멀리 있는 사람들을 잘보라고 (이름)",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8rarUWhjqjG",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든걸 다 준래",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8wWvu9eL1nh",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파파준래 s 아니면 밥퍼줄래",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8wvGdlHX4wd",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준래형의 삼포(삼구포)",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8xw-KHWPR67",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼포 (삼구포차)",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8xw-Odra2iD",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)(비속어)라 노래방",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8y0fGJYuAWh",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준이어네이버 맛집",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8y7IRjuY73G",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강식당의 이름을 따서 조식당",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp8yc-nbo3E4L",
+        "write_date": "2019-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mc (비속어)까스",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp91WagSbrtkW",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집밥 준선생",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp96w9RDft8gX",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고생끝에 낙이온다 라는 뜻으로 고진감래라는 말이 있듯이 고진감래주라는 폭탄주도 있으니까 조준감래",
+        "writer": "UgycdNMSIKcqKT1ck2d4AaABAg.8ltawi19qFp9DiH5uxbM0u",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조팝 좋당",
+        "writer": "Ugxtg6T0P8cdvJT2w0V4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 53 좋아요 130 역시 보물섬",
+        "writer": "UgxBSfqtPlReVZ4QaTF4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아령하세요 아룡하세잇.",
+        "writer": "UgyQaofb_p574l3qtoF4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골드버튼 개봉기 언제 할거에요",
+        "writer": "UgzJfByleF5_MbHA-id4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아 이런거 기다렸습니다오늘도 꿀잼이군요,",
+        "writer": "Ugx65eur1HgnsOEbtaN4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 같은방",
+        "writer": "UgwLDzYwlPLM27M1eu54AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 커서 어른되면 남자 네명이서 같은 침대에 눕는 짓은 안할꺼임",
+        "writer": "UgyQ04s5_3kaZphI4RZ4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜아 배 아팤",
+        "writer": "UgyAPhRFhOHfZCD0BNB4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 예전에 자식이름 지어주기 생각난다,",
+        "writer": "Ugx2LxJICMU0cyDvZNx4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번에 자녀 이름 지어주기도 재밌었는데 이 시리즈 많이 만들어줘요",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놔 바로왔는데.",
+        "writer": "UgwbflAlJC3A6CqnUih4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이런 시리즈 개재미있어서 계속 찾게됨,",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltb13fgKvo",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너는 보물섬아니잖아",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltbm6jprue",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영정 무, 무엇",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltbnaukVNZ",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우우흥 JJR좀 해봄",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltbqRxNGi9",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)(비속어) 자매쓰 그거 실화인줄",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltbsns6iNA",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영정 (비속어)(비속어)임 신조어 못알아먹겠,",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltbyMII6oB",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우우흥 보물섬이 제작 신조어임 영상 다 보셈",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltc4mQyILx",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영정 영상 시청중",
+        "writer": "UgyYn_DH3Olu-iexwbp4AaABAg.8ltap8sABJr8ltcVAz6iU2",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한침대레 넷이서 누울수가 있나",
+        "writer": "UgxvDhI00WkLKhHG4C14AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 50인데 좋아요가 60 와우",
+        "writer": "Ugytc8PYqqIdNwbC6qJ4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20빠 형 누나들 구독 해줄꼬지",
+        "writer": "UgwnFEyeUmdIsYYWG1N4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나플라 짝퉁 나뿔나",
+        "writer": "Ugwdnm1RtqWibOBWc7x4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녹화가 끝나면, (음흉)",
+        "writer": "Ugx2oYc4VhWSqEKLKoV4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 기머",
+        "writer": "UgzmYq507Nr0tkxK50N4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흥해라 흥",
+        "writer": "UgxgEIpX1v4VLwHlXbN4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 지어 주기 2탄 첫 2 탄 이넼",
+        "writer": "UgwrBsGxPA9D1hZG7Rh4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 빨라 사람들,",
+        "writer": "UgwaNf7iPyinzGBpret4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 처음에 뭐가 올라온단거야",
+        "writer": "UgxjTU_NTkMfUSo0xx54AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 어디서 이영상 많이받는데",
+        "writer": "Ugx9pmNMR-Zf7zFoPk54AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무름이 롤렉스는 안돼야 촏딩아",
+        "writer": "Ugwdnm1RtqWibOBWc7x4AaABAg.8ltanfebJT_8lu2AnZkXsb",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보물섬 팬 수",
+        "writer": "UgxSDV08IbQfhWYPRBh4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름지어주기 개잼",
+        "writer": "Ugy0WVjGvby2XvInyU14AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "50빠 댓글 20빠",
+        "writer": "UgzLzqgYCkgs_BsrPqN4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓸데없이 노래 웅장해",
+        "writer": "UgxkzSv2BIjufQf2PcJ4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 (비속어)도 않았는데 벌써 웃겨",
+        "writer": "UgzNE1lxaEI93mi4CZ54AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보물섬 넘재밌네 보물섬 구독자10000000000가즈아아앙아",
+        "writer": "Ugxxd_Kmtbv_P3ZOcE54AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같은방 (비속어)",
+        "writer": "Ugyq6ji1BWDBYi9mkW94AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘나 재미있는것",
+        "writer": "Ugz8G9haXTGW0mPBpmt4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚜둔 빨리왔따",
+        "writer": "UgyAvsO_u8FL9hcCePh4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름짓기 완전 웃기네요",
+        "writer": "UgxoJJ9swyYoKW4OOCV4AaABAg",
+        "write_date": "2018-10-22",
+        "url": "https://www.youtube.com/channel/UC9ZLv1m7QDLv991X1-p50AA",
+        "parent_url": "https://www.youtube.com/watch?v=QkQQf67yVzY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

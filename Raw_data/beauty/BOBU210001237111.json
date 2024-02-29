@@ -1,0 +1,452 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001237111",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001237111"
+    },
+    "text": [
+      {
+        "content": "말투나 욕하는건 옆집형인데 인성은 거의 교회오빠급 오빠 잘부탁해요",
+        "writer": "Ugwiq7rl-xzIqn46MS14AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "널디 100만원 하울 광고 아닌가요",
+        "writer": "UgwzM8-A5Ky0ol0q-o54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리는 어떤색인가요 너무 이뻐서 궁금해요",
+        "writer": "UgydWkzULVUfs9rvxPp4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 화팅 다치지마세요 코로나 조심,",
+        "writer": "UgzQHpKQ2en-xP86LiF4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 성격 너무 시원시원해서 좋아요 욕도 찰져",
+        "writer": "UgxTSV8gx9lgegLPWe94AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리형 그정도는 아니다 이들아 뒷광고 의심하지마라",
+        "writer": "UgzMCwfb8jTIhBALE0J4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 형님.",
+        "writer": "UgytQTJ3As00A9OFfTh4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대형 멋잇어요",
+        "writer": "Ugzvj7QYW5cUNJdFmFN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대형 아무런 사건사고 없이 이대로만 쭉 이어 나갔으면 좋겠어요 항상 응원할게요.",
+        "writer": "Ugyn3dxoHOnvnKSl74p4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내돈 내산",
+        "writer": "UgzOmZAJYakWKKi_aEt4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 진짜 사랑해요",
+        "writer": "UgzIIvZQdkxYSRGSDn54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 복귀 축하드려요.(이름) 친구폰으로 계속보다 이번에 폰 바꿔서 다이어트 성공해서 패션평가 제출하고 싶은데 어떻게 하나요",
+        "writer": "UgxagGoMap82cb-_QVB4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 별명이 패션테러리스트였는데 방송 보고 좀 나아졌어요 앞으로도 응원할게요",
+        "writer": "UgyVZdw982XOhHvTvLd4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형은 광고나 협찬들어오면 좋아서 자랑하느라 바쁜형이야,",
+        "writer": "UgxxjM9QhwSLW52392t4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일엨 (의외로 사고 안치는 스타일) 의욐",
+        "writer": "Ugz2MM3gE_fddSTCeF54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번에 모발이식 댓글쓴것때문에 영상올린거깉아 무안해지네, 힘내 형..",
+        "writer": "UgwPeIBeYphUTWZ_Cyl4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형은 왜 캠이랑 다른캠에서의 느낌이 사뭇 다른느낌이 들지",
+        "writer": "UgzcOE3jpcdKppl3btN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 (이름)..",
+        "writer": "Ugw60dBZVV1_s11UB9N4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개노무는 여전하네 쩡대형",
+        "writer": "Ugwq1zqhF9LL4IVaWJl4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전신사진 3장이상 찍으셔서 jjd2로 보내시면 되요. 아프리카tv로 오시면 생방송에서 즉석으로 해드림",
+        "writer": "UgxagGoMap82cb-_QVB4AaABAg.9CF27jW6BGQ9CNdEFada-U",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의외라는걸 아는게 더 웃곀",
+        "writer": "Ugwp8qKWhIBYkHjfdF54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "30만 축하드려용",
+        "writer": "UgzSebuOUIcfJqXx8f54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소리싱크가 안맞는 느낌",
+        "writer": "UgzdbJJN--8b56sST1R4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이정도면, 뒷광고 논란 있길 바랬던거 아니야 슬프다.",
+        "writer": "Ugw4K378N6HS4P58j3F4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의외로 사고안치는 스타일",
+        "writer": "UgyX895lO6s-wF6AB6F4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 이형 첨 봤을때는 별로였는데 보면 볼수록 호감이네 진짜너무 맘에 든다",
+        "writer": "Ugx3ILWp6BkBBzLpU9d4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿고보는 bj",
+        "writer": "Ugw5j056n68A9oYSYX14AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대 젤 좋음",
+        "writer": "UgxFsHm2pxwausDu64B4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 인스타그램 스토리보면 많이 힐링하는거 같아 보여서 다행이네 사랑해",
+        "writer": "Ugx3DhXG6V0SKxD5au54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6학년때부터 3년째 잘 보고 있어요",
+        "writer": "UgzLjiuX5V5zb7zuKK94AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여운데 술을 너무 잘먹어",
+        "writer": "UgxEIf1b3kWlgzCFom94AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가끔 말이 좀 매정하고, 음 아주 조금 사납지만 진짜 괜찮은 bj",
+        "writer": "UgwakNWFOeeC-B6Ai5l4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아냐 장난치는게 더재밌어 형",
+        "writer": "Ugy3b-CICBXasbb5aB54AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 최고",
+        "writer": "Ugzt8QnqENwV84IJZgt4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 셔츠정보 알 수 있을까요",
+        "writer": "UgxeGFlKYWontMRQAVV4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의외로 사고 안치는 스타일",
+        "writer": "Ugz0BLEaJLyy-Y2StlN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒷광고로 나락 많이가드라 요즘,",
+        "writer": "Ugx_rUidbQswJD65KMV4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분들 아프리카 방송도 한번씩 보러와주세염 형 노가리 방송도 재밌답니다",
+        "writer": "UgwDj-vzTR6nWtUzemt4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대의 패션하우스 얼마나 사랑해요",
+        "writer": "UgxEIf1b3kWlgzCFom94AaABAg.9CD_MwxYc2u9CDhkwYZ6Dk",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐이신데, 왜 댓글이 올라가십셔.",
+        "writer": "UgxEIf1b3kWlgzCFom94AaABAg.9CD_MwxYc2u9CQWqjC-emG",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 짱대덕이지",
+        "writer": "UgwakNWFOeeC-B6Ai5l4AaABAg.9CDZCmSbVeG9C_Ryq_BH98",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 사고치고 다니게 생긴건 아는구나 형",
+        "writer": "Ugyk1rRjeYtt6ZN55kp4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 말을 저렇게 해서 그렇지 나쁜사람은 아녀, 그리웠어,찰진 개노무,",
+        "writer": "Ugy2mzs-oweJ3mR72Xd4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 오빠 아프지 마여",
+        "writer": "UgzF4xEnBvjczbj06HZ4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜 시간동안 봐온 유튜브 구독자로서 제가 봐왔던 (이름)은 믿을 만한 사람이신 것 같아요 (이름) 항상 응원해요.",
+        "writer": "Ugz5ptb3ibG1PR6BOpl4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말하다 어이없어서 웃는거 (비속어)",
+        "writer": "UgyWK6E_B4px15RZ9F94AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿고보는 쩡대",
+        "writer": "UgzvOmGui54hqrJrhwx4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 (이름) 시청자 애끼고 세금도잘내고 재미난 유튭bj니까 모두 걱정 (이름) 하띵",
+        "writer": "Ugwq-vz6GDKaJV_MG_R4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여우신데 호감형",
+        "writer": "UgxIcVp2fHeFlo6veWZ4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의외로 사고안치는 스타일은 뭔뎈",
+        "writer": "UgyrANp_yO1yh0GIsTN4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 믿고보는 (이름)",
+        "writer": "Ugx94_AT2JckL-of-yF4AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 오랜만이에요",
+        "writer": "UgyAHdjP0Rk69Cu99I14AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 오랜만이에요",
+        "writer": "UgzPfmFSnWij2h6C_114AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 형..",
+        "writer": "UgwXmhkkDhERsOsBaA94AaABAg",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의외로는 뭐여",
+        "writer": "UgyrANp_yO1yh0GIsTN4AaABAg.9CDKZymJhgq9CFMx4Xg2UG",
+        "write_date": "2020-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=um1tTzkymhs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

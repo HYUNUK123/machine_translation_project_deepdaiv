@@ -1,0 +1,852 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001236695",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001236695"
+    },
+    "text": [
+      {
+        "content": "요즘 옷에 관심 생겨서 영상 다 챙겨보고 있는데 앤더슨벨이 저기 위치한 가게인지 몰랐네요 맨날 그 옆에 있는 카츠바이콘반가서 돈까스만 먹었는데 앤더슨벨도 가봐야겠어요 영상 잘 봤습니다.",
+        "writer": "Ugyug8q7I8yK4iulG0V4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 셋업 정보좀요.",
+        "writer": "Ugzhp6Wq08MF4rYXiYJ4AaABAg",
+        "write_date": "2021-07-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리도 좋고 잘생기고 스타일 좋아서 눈이 즐겁네요",
+        "writer": "Ugwcd8eMiPov4KbDxSh4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리도 좋으시고 영상도 재미있네요 구역별 매장 소개 좋습니다",
+        "writer": "UgzYU8b7uHkGgY0iCvJ4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 더워서 못 입는 셋업,",
+        "writer": "Ugw7xFdXEo2r4O1_fnl4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가방 코스껀가요 .",
+        "writer": "UgzXypKTAAXj0KwLPhx4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이오빠 재밌네",
+        "writer": "Ugy_kKhTN0fqHZOnrUF4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘보구 있습니다. 셀카봉 어디껀지 궁금해요",
+        "writer": "UgxE6afN18rmSFsVo_R4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 신발 커스텀이었군요, 판매처 물어보려했는데 완전 이쁘네요.",
+        "writer": "UgzXeRuIc5edmqOo2o94AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아크네 스튜디오 블레이저 링크 제품 링크 알고싶네요",
+        "writer": "UgyJ1BWIRpnaY9URCi94AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군인이라 서울 못가는데 대리만족하고갑니다",
+        "writer": "UgzagUSdhJjy_aMyV-14AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 하체가 얇아야 핏이 좋구나",
+        "writer": "Ugx8yWvUC9iGB3v_hzB4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나 제스타일의 새로운 패션유투버 발견. 꾸준히만 하신다면 천천히 떡상하실것 같습니다 정말루요 구독하고 응원할게요. 셋업 이너로 입으신 티셔츠 마저 센스 느껴집니다. 어디 제품인가요",
+        "writer": "Ugwc80_Ht-x1hQYLtJ94AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리는 얼마나 기르신거에여",
+        "writer": "Ugy2JLfKBiBlUi-PQOl4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 요즘에 맛들려서 너무 잼있게 보고있습니다.",
+        "writer": "UgxVnxeGjwrsRhFNhd14AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 (이름) 모델 버전 같아요 무튼 넘 까리하시고 브이로그 꿀잼입니다 짝짝",
+        "writer": "UgxgWxQZL8Vgk2-Xxnx4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "체력이 엄청 좋으신 건지 영상 막판에도 지친 기색이 별로 안 보이네요. 대단하신 것 같습니다. 좋은 채널 찾은 거 같아서 기분 좋아요",
+        "writer": "Ugygi0y0fZD0A5tzZrl4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 저 고등학생인데 (반사회적용어)에서 이번주 주말에 혼자 서울투어 가려하는데 어디어디를 꼭 가볼까요. 서울 가본적 없어서 추천해주세용...",
+        "writer": "UgwIi_jtFj_Sq7tqrJp4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신발 페인팅 커스텀 마르지엘라인줄 , 진짜 진짜 이쁘다",
+        "writer": "Ugx4WxkyNsuZfgUPoF54AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JUNSOO 함준수 감사합니다.",
+        "writer": "Ugzhp6Wq08MF4rYXiYJ4AaABAg.9Oqs-wpeTyQ9OrGWOLwd4R",
+        "write_date": "2021-07-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgzYU8b7uHkGgY0iCvJ4AaABAg.9ODQ31o2iI_9ODSEMcL4GD",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgzXeRuIc5edmqOo2o94AaABAg.9NytmDGePtC9O-6BbyNbwr",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgzagUSdhJjy_aMyV-14AaABAg.9Nuj34Hr-sj9Nv6Hd8MqLX",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 감사합니다 이거 필루미네이트 블랙 라인 제품이에용",
+        "writer": "Ugwc80_Ht-x1hQYLtJ94AaABAg.9NrNxfIVzjd9NrShMJCrOQ",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "Ugygi0y0fZD0A5tzZrl4AaABAg.9NqgtvybC0K9Nqtz6NJLTT",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한곳만 추천드리면 잠실 롯데월드 타워는 꼭 가보세용",
+        "writer": "UgwIi_jtFj_Sq7tqrJp4AaABAg.9NqTd9GO5Yg9NqtxKc295V",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JUNSOO 함준수 옷 구경은 어디 매장 가볼까요 더현대 타임스퀘어는 갈 겁니다 ..",
+        "writer": "UgwIi_jtFj_Sq7tqrJp4AaABAg.9NqTd9GO5Yg9Nrc309gBlE",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "J DG 제가 쇼핑하는법 영상 올려놨는데 거기 오프라인 매장들 추천해놨습니당",
+        "writer": "UgwIi_jtFj_Sq7tqrJp4AaABAg.9NqTd9GO5Yg9Ns8ooApV9N",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "Ugx4WxkyNsuZfgUPoF54AaABAg.9NqLbUrPUnQ9NqtqmXJD4n",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조용해서 보기좋음",
+        "writer": "UgyAa7njHEuH5gkaesN4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 브이로그 길다.. 너무 좋아욯",
+        "writer": "Ugx1xIesRyPAHRoWlOF4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 혹시 디앤써 블레이져 사이즈 알 수 있을까용",
+        "writer": "Ugz4nXGCfdfvzIw1Dud4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상이 조잡하지않고 심플해서 보기 편하네요",
+        "writer": "Ugx08Ww7n-waEUZ91dF4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브이로그 너무조쿠요",
+        "writer": "UgzAQ-k_Rh_jyLMhsXN4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 브이로그 너무 잘봤고 재밌어요. 주말에 성수가는데 하우(비속어)이 매장 가봐야겠다",
+        "writer": "Ugx8ssZWbWpmOgY1X9p4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤습니당",
+        "writer": "UgyPa_GAltjzpWSkznB4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 나온 앤더슨벨 니트반팔 제품명알수있을까요 아무리찾아봐도없네요 이번시즌제품이아닌가요",
+        "writer": "UgyiDR5CDdB8H0zCyjt4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 (혐오표현)지다",
+        "writer": "UgwHJualZiYIUtDwiEJ4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 잘보고 갑니다",
+        "writer": "UgwiG6aF-U9F2ISB2614AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 브이로그는 브이로그다 아웅 하루 마무리를 (이름) 영상으로 해서 너무 행복해요 (이름)은 어떻게 이렇게 매번 멋져지시구 잘생겨지시는지 처음에 카키 블레이저랑 크롭데님 보고 너무 멋있어서 실제로 우와 했어요, 아 그리고 하루종일 부슬비 맞으신거같은데 옷들 그냥 걸어놓으면 저처럼 곰팡이 필수도있습니다.. (이름) 2만명 너무 축하드리고 오늘 하루도 너무 감사합니다",
+        "writer": "UgyOJ_nzAHkhEoL1YhZ4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입으신수트 살까말까 하다가 결국 품절이네요 수트진짜 잘어울리시고 이쁘시네요 항상 잘보고 갑니당..힘내세용..",
+        "writer": "Ugz3L8AKTdNnHueAzBp4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금까지는 지나가다가 보고 그랬는데 오늘 영상미랑 모든게 다 좋아서 앞으로 자주 볼거같아영. 항상 파이팅하세용",
+        "writer": "UgzW6GLKh5pWxGSlSyh4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세여 알고리즘으루 우연히 영상 정독중입니당 궁금한게 있어 송구하지만 질문 하나 올리겠습니당. 예전부터 옷을 잘 입고 싶단 바램에 옷을 잘 입으려면 어떻게 해야 할까 라는 막연한 생각속에서 실질적으로 내가 그러기 위해서는 어떤 행동들을 해야 좋아질 수 있을(반사회적용어) 고민을 많이 하다 패션잡(반사회적용어) 많이 보면 되지 않을까 생각이 문득 들어 1년반 정도를 잡지책을 사서 옷을 잘 입는 사람들이 어떻게 옷을 입는(반사회적용어) 많이 보았습니당. 그러면서 제가 지향하는 스타일로 꾸미신 분들이 입고계신 옷과 제가 가지고 있는 옷들로 비슷하게 맞춰 입어보곤 했었는데여 근데 또 막상 처음에는 괜찮아 보였지만 시간이 지나니 그저그런 느낌이 들어서여, 그래서 정말 궁금한게 옷을 잘 입고 싶다면 이론적으로 서적으로 공부하는 방법이 있을까요 아니면 옷을 잘 입기 위한 공부 방법이 명확하게 있다면 조언 부탁드리겠습니당.",
+        "writer": "UgzAjkWTedn4clt2EEB4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최근에 보기 시작했는데 너무 재밌어요",
+        "writer": "Ugxd_BCIKy3L-B3i6rV4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독자 2만명 축하드려욤...",
+        "writer": "Ugy_kQ-XHdk9uYe0jRh4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조만간 성수동 갈건데 오늘 영상 참고해야 겠어요 브이로그 속도랑 나레이션이랑 편집도 좋아요.",
+        "writer": "Ugx74sCQqOGWY990GN14AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 준수한 하루였네요",
+        "writer": "UgycgvDv27R8zBv_DON4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 넘넘넘넘넘넘 멋져요.",
+        "writer": "UgzVAetIqlmB97T2f254AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgyAa7njHEuH5gkaesN4AaABAg.9NqAuxaND379Nqtq7YKbNa",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우터 M 하의 M 입니당",
+        "writer": "Ugz4nXGCfdfvzIw1Dud4AaABAg.9Nq3mnOXk1t9Nqo95CedlY",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "Ugx08Ww7n-waEUZ91dF4AaABAg.9NpgVbk4wAb9Npto5XAK3d",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgzAQ-k_Rh_jyLMhsXN4AaABAg.9Npbu2OwTyr9NptnAGH_Ag",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으응 헨도 성수 자주가나보다.",
+        "writer": "Ugx8ssZWbWpmOgY1X9p4AaABAg.9NpRyBLuaAM9NpthycvfEL",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgyPa_GAltjzpWSkznB4AaABAg.9NogjeW_7Vy9NptamGvR3g",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "appgoods17722500 요거용",
+        "writer": "UgyiDR5CDdB8H0zCyjt4AaABAg.9NoYA_XjK7y9NogPyrAiWR",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgwHJualZiYIUtDwiEJ4AaABAg.9NoWf6TiGzL9NqtmrJT1Wl",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgwiG6aF-U9F2ISB2614AaABAg.9NoVsON-s1N9NqtmKqgT57",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 현준아 오늘도 너무 고마워 항상 예쁜 댓글",
+        "writer": "UgyOJ_nzAHkhEoL1YhZ4AaABAg.9NoUUFjk3l_9NqtlLm2UTu",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "Ugz3L8AKTdNnHueAzBp4AaABAg.9NoSN6eMvsx9Nqti-0kit8",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히 감사합니다",
+        "writer": "UgzW6GLKh5pWxGSlSyh4AaABAg.9NoNz76saOO9NoQYuCpijT",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이론적이고 서적으로 공부하는 방법과 명확한 방법은 없어요. 지금까지 하신 방법또한 좋다고 생각하는데 계속 그 방식에 머무르기보다 자신의 색을 찾는게 좋은 것 같아요 내가 사고싶은 제품을 평소 내 스타일과 다르지만 시도해서 나만의 새로운 스타일로 만든다거나 그런 방식으로요",
+        "writer": "UgzAjkWTedn4clt2EEB4AaABAg.9NoNwJ2TXrT9NoQW7KlWOr",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허허 (이름) 반가워요",
+        "writer": "UgycgvDv27R8zBv_DON4AaABAg.9NoJolB67dv9NoKergDlas",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 감사합니다 히히",
+        "writer": "UgzVAetIqlmB97T2f254AaABAg.9NoJLLvg5Ag9NoJbrnto9t",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마치 제가뒤에 졸졸따라다니면서 구경한 느낌이네요 . 오늘도 잘봤습니다",
+        "writer": "UgzMrS7BTL7qMTbirB94AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2만명 축하해요",
+        "writer": "UgzqWenBqbM5tKm7eDp4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로데오에 이런 곳이 있었군요.",
+        "writer": "UgzMZ7iZXuFmje55tgd4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 잘생기셧다",
+        "writer": "UgzhhvVqDbyqfBRIWNZ4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 비맞지마내가 우산 챙겼어 엇, 하나뿐이네 같이,쓸래,",
+        "writer": "UgwGUlq2PM0YBdauBKF4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함(이름) 착장이 더 궁금해요 정보 좀여 __",
+        "writer": "Ugwt2sM-z5NF24OHaHJ4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 멋있음,",
+        "writer": "UgzzdVovgBMKnF_u2v54AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지방이라 서울쪽 매장 잘 모르는데 (이름)이 소개해 주셔서 장소나 옷 많이 알아가는 것 같아요. 항상 감사합니다.",
+        "writer": "UgxpKfnRkRM_SYIoNsl4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 잘보고가요",
+        "writer": "Ugz95naiiOapzzRr8L54AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 뭐입니 영상보고 구독했어요. 장발 넘 잘어울리세요 .. 영상 잘봤습니다 ..",
+        "writer": "UgwJpDCMtj0UEDzaEVd4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성수 로데오 자주 가는데 새로운 매장 많이 보네요.",
+        "writer": "UgyDZdGMM2IwneHQBEZ4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 너무 사랑합니다.",
+        "writer": "Ugx-r7qs6AcVwwNTJi94AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브이로그 너무 좋아요.",
+        "writer": "UgzJpfu0KgrVR7gPLzV4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앤더슨벨 사샸나요",
+        "writer": "UgzL45J53zCh-h7qp3Z4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "업로드 달달 하네요. 10만 가즈앗",
+        "writer": "UgzkFRrOFhypbZSNvtN4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앤더슨 벨 니트 진짜 이쁘네요",
+        "writer": "UgzUYdO3BVTckA0tdsh4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어플릭시 갔다오셨네요 저만 알고 있는 리스토어 샵 였는데 이렇게 알려지니 좋네요",
+        "writer": "UgxinRYAix_sxovifqR4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스투시 앤더슨벨 매장 메모. 이쁜곳 진짜 많네요 .",
+        "writer": "UgzOFE__HLuYsXvvUtt4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 감사합니다 )",
+        "writer": "UgzMrS7BTL7qMTbirB94AaABAg.9NoJIFgBwsV9NoJ_l4LI5h",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "향님 처음으로 축하해 주셔서 너무 감사합니닿",
+        "writer": "UgzqWenBqbM5tKm7eDp4AaABAg.9NoFwitFhHA9NoG15uJwBA",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옷 보기 정말 좋은곳이죠",
+        "writer": "UgzMZ7iZXuFmje55tgd4AaABAg.9NoBPjY9VZs9NoJh2qQ9pc",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 감사합니다",
+        "writer": "UgzhhvVqDbyqfBRIWNZ4AaABAg.9No7_z63RVL9No8IIB8SM4",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 항상 컨셉 너무웃겨",
+        "writer": "UgwGUlq2PM0YBdauBKF4AaABAg.9No5EojWvBy9No8HD2GWMg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디앤써 셋업입니당",
+        "writer": "Ugwt2sM-z5NF24OHaHJ4AaABAg.9No2Qan5jkC9No3P8duKyr",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 (이름) 감사해요",
+        "writer": "UgzzdVovgBMKnF_u2v54AaABAg.9No-gXP8yIs9No0oxVQ_jd",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도움이 됐다면 다행이네용",
+        "writer": "UgxpKfnRkRM_SYIoNsl4AaABAg.9Nnzv96E2s69No0npWSmWg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다아 )",
+        "writer": "Ugz95naiiOapzzRr8L54AaABAg.9NnzuUTIZvY9No0mtToWHR",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히 감사합니다 )",
+        "writer": "UgwJpDCMtj0UEDzaEVd4AaABAg.9NnzpjuwuMa9No0SAyiPCy",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgyDZdGMM2IwneHQBEZ4AaABAg.9NnxmCdTRX29NnzhChrYQE",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 사랑해요",
+        "writer": "Ugx-r7qs6AcVwwNTJi94AaABAg.9NnxQZxhs7O9Nnzgd2D4vi",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다아 )",
+        "writer": "UgzJpfu0KgrVR7gPLzV4AaABAg.9NnwROcfimv9NnzfdqKxOU",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JUNSOO 함준수 (이름) 영상 보고 앤더슨벨 니트베스트 샀어요 엄청 기대됩니당",
+        "writer": "UgzJpfu0KgrVR7gPLzV4AaABAg.9NnwROcfimv9NqGMM1yEEh",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀더 고민해 보려구용",
+        "writer": "UgzL45J53zCh-h7qp3Z4AaABAg.9Nnw8ctDeqa9NnzefRegiG",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 항순님 )",
+        "writer": "UgzkFRrOFhypbZSNvtN4AaABAg.9NnuKJSLYkC9NnzdZS-bQe",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 품절됐던 제품.",
+        "writer": "UgzUYdO3BVTckA0tdsh4AaABAg.9NnuDI96YYL9NnzcKnTzzY",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네네 여기 가격대도 괜찮고 좋더라구용",
+        "writer": "UgxinRYAix_sxovifqR4AaABAg.9Nnt4eYmZ3q9Nnz_uKrh9J",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쇼핑의 성지 압구정.",
+        "writer": "UgzOFE__HLuYsXvvUtt4AaABAg.9NnsO3RMFGT9NnzZjh83FE",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌는영상 언제나 잘 보고갑니다",
+        "writer": "Ugzsvy1Hdj3ZgoZFLm94AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 예전 영상들 정주행중이었는데 새로운 영상 올라왔따",
+        "writer": "Ugyt3EMLotbAHzFGCAR4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 출석 완료",
+        "writer": "UgzVaS7h3NWKfJ27wH54AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 (이름) )",
+        "writer": "Ugzsvy1Hdj3ZgoZFLm94AaABAg.9NnsD8f9uy79NnzYrI223l",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승식님 감사해요 )",
+        "writer": "UgzVaS7h3NWKfJ27wH54AaABAg.9NnrVHzDh_q9NnzWf5TaT_",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCV-U1crQo6iW7F-7xsuUnFg",
+        "parent_url": "https://www.youtube.com/watch?v=_NsVG78bQCU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1164 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001423374",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001423374"
+    },
+    "text": [
+      {
+        "content": "def add( args) result0 for i in args result resulti return result print(result) 이렇게하면되는거맞나요",
+        "writer": "UgwAqIc3uosAiucqLUl4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "def add(a b) print( s s의 합은 s이다. (a b ab)) print(add(3 4)) 이걸입력하면답이안나오는데 이유가뭘까요",
+        "writer": "Ugyxm25GALTshqRJOX14AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 lambda 함수에서 def가 꼭 필요할때도 있죠 맨날 lambda만 쓸순 없는거죠",
+        "writer": "UgzY-MQBWEQb08Dv3Gh4AaABAg",
+        "write_date": "2021-09-27",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐, 헐, 집에서 코딩 스스로 독학을 하면서 여러 강의를 찾아봤었는데 이 강의가 제일 이해도 쉽고 차근차근 알려주는 것 같습니다, 앞으로 코딩 열공해서 저도 개발자,한번 해보고 싶네요,",
+        "writer": "UgyKB99xlCSgLK0n6Xd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "File line 4 f.close() SyntaxError invalid syntax 이렇게 계속 뜹니다. 왜 이런거죠",
+        "writer": "UgxA_OiLUutStrFfm8p4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파일 쓰기모드로 열어서 출력값 입력 예제를 아무리 써봐도 계속 에러가 뜨네요, f.write(data)여기서 SyntaxError invalid syntax라고 계속 뜨는데 왜 이런거죠",
+        "writer": "Ugzt52LmBIpCdt_gI7h4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 저는 계속 에러가 떠서요, 왜 그런거죠",
+        "writer": "UgxYeOZJ2ivROVkcfHh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1.append가 출력이 없는 메소드여서 print함수를 써서 출력 시켜봤지만 출력시킬 내용이 없다의 None이 나왔다. 제가 제대로 이해한게 맞나요 2. (이메일)()만 실행해도 결과값은 같지 않나요 print를 쓴이유는 단지 앞선 append와 비교하기 위한건가요 3. 입력값 출력값이 다 없는 함수는 어디에 쓰는건가요,",
+        "writer": "Ugzw98zI2E4_Q_EVXCB4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 파일 읽고 쓰기 응용하면 파이썬이 파이썬 파일을 작성할수있게 만들수있겠네요.",
+        "writer": "UgxJ8lYmd3RgC9tPqPZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 유익한 강의 감사합니다 열심히 배워서 응용할게요.",
+        "writer": "UgxTO470CaVetNXAXgh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 친절한 강의 감사합니다.. 이해가 안되는 부분도 있지만 여러 번 반복해서 공부하면서 열심히 익히겠습니다.",
+        "writer": "UgyYq8_XkuFsXckBiOR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "vs code에서 그냥 첫줄에 abs(3) 이런식으로 작성하면 PS C Users MAIN Desktop PythonWorkspace C(이메일) c(이메일) 이렇게만 뜨고 값이 출력이 안되는데 오류인건가요 아니면 변수로 지정하고 변수를 프린트하는 방식으로 해야하는건가요",
+        "writer": "Ugye7GlIbimbWXT5A-p4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 작은 오류가 있는 것 같아요. 4번째 줄에 k가 아니라 kwargsk로 해야 value값이 프린트 되도록 할 수 있지 않나요 .",
+        "writer": "UgzURKUYqq4KpnJDMHx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "d는 개수를 나타낼때 쓰는 변수인가요",
+        "writer": "UgzWqd-OhdyBjPG5QGN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 실행 시킬때 단축키가 따로 있나요 실행 버튼을 클릭하는 것 말고 없나요",
+        "writer": "UgwvusifvcNNroFdiS94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "11분쯤부터 설명하시는 내용 중에 print( 나의 이름은 입니다 .format(name)) 이라고 하면 안되는건가요 자료형에 맞게 s name 해주면 좋은 점이 뭔가요 ..",
+        "writer": "UgzRZCqqvmaqBxI6qoF4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "return result 부분이 들여쓰기가 되어있어서 for 문을 한번 돌고 바로 종료되어버립니다. 한칸 안쪽으로 넣어주시고print(result)도 한칸 안쪽으로 넣으셔서 def와 같은 레벨로 맞추어야 합니다.",
+        "writer": "UgwAqIc3uosAiucqLUl4AaABAg.9TOlFyLNfza9TPGr9kVJn2",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 오 감사합니다",
+        "writer": "UgwAqIc3uosAiucqLUl4AaABAg.9TOlFyLNfza9TPR6g6jfIR",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "print(add(3 4))의 들여쓰기를 제거하셔서 함수 밖에서 실행해보세요.",
+        "writer": "Ugyxm25GALTshqRJOX14AaABAg.9THAhSM2E759TJWoLnRY5q",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 lambda만으로도 쓸 수는 있긴 합니다.",
+        "writer": "UgzY-MQBWEQb08Dv3Gh4AaABAg.9SkegEkHwkR9SkkrIiy1Wg",
+        "write_date": "2021-09-27",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 오 그럼 전 lambda 함수도 엄청 쓸것같네요. 답장 감사합니다.",
+        "writer": "UgzY-MQBWEQb08Dv3Gh4AaABAg.9SkegEkHwkR9SkmHhLSnh3",
+        "write_date": "2021-09-27",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SyntaxError는 문법 오류입니다. 99 확률로 오타가 발생했기 때문이에요. 오탈자 괄호 띄어쓰기 들여쓰기 를 체크해 보세요 )",
+        "writer": "UgxA_OiLUutStrFfm8p4AaABAg.9RebdhLxHqW9SzA4lxbc0z",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "invalid syntax는 문법적 오류가 있는 것인데 오타가 있는 것은 아닌지 들여쓰기가 잘못된 것은 없는지 확인해보세요.",
+        "writer": "Ugzt52LmBIpCdt_gI7h4AaABAg.9RXX1aadk_W9RYw-3MKem7",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에러 메세지가 어떻게 되시나요",
+        "writer": "UgxYeOZJ2ivROVkcfHh4AaABAg.9RXWnuDUmsl9RYvxPNozW_",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding File line 4 f.close() SyntaxError invalid syntax 이렇게 계속 뜹니다. 왜 이런거죠",
+        "writer": "UgxYeOZJ2ivROVkcfHh4AaABAg.9RXWnuDUmsl9ReAVYeli_D",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 맞습니다. 네 비교를 위한 것입니다. 입출력 없이 내부적인 처리를 할때 쓰입니다. ex) 경고 메세지 출력",
+        "writer": "Ugzw98zI2E4_Q_EVXCB4AaABAg.9QteBH04J7D9QzyvlcHr-v",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다.",
+        "writer": "Ugzw98zI2E4_Q_EVXCB4AaABAg.9QteBH04J7D9R5bV_OAubg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "print를 해줘야 볼 수 있습니다.",
+        "writer": "Ugye7GlIbimbWXT5A-p4AaABAg.9QZmBdIS_709QhR0odZbV0",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 그러네요. 자세히 봐주셔서 감사합니다.",
+        "writer": "UgzURKUYqq4KpnJDMHx4AaABAg.9QV4IgL_CM19QYfURtOWuC",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정수를 넣을 수 있는 자리를 만드는 변수입니다.",
+        "writer": "UgzWqd-OhdyBjPG5QGN4AaABAg.9QI4km7noV99QQP86w0nwj",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 감사합니다.",
+        "writer": "UgzWqd-OhdyBjPG5QGN4AaABAg.9QI4km7noV99QQQllDEHWl",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ctrl F5 로 실행할 수 있습니다.",
+        "writer": "UgwvusifvcNNroFdiS94AaABAg.9PwLxrDIAvx9Sz9wfyz2eR",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 왜 result a b에서 result a b 랑 return result에서 result가 흰색이 아니라 파란색으로 나오죠 작동도 안돼요",
+        "writer": "UgyrzhpSdtw5dhftXol4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글로벌을 쓰게되면 출력값과 마찬가지로 입력값도 없어지는 건가요",
+        "writer": "Ugwk3cAWVqG3Uvoi5g14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "break로 반복문을 빠져나온 다음에 코드의 맨 처음으로 돌아가는 방법이 있나요",
+        "writer": "UgwtDqt58m78kL52XHB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1번째줄 끝에 슬픈표정",
+        "writer": "UgzUDV1DJqFD10K0tfl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문제 위 영상에서 요기까지 아시겠나요 가 나온 횟수는",
+        "writer": "UgzpGrL2X90VBEM98qd4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인코딩 개념 자막에 설명하시다가 안나오네요 가르쳐주세요..",
+        "writer": "UgxOqtws4wajDMu1sal4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 (반사회적용어)인데 파이썬 공부를 통해서 파이썬을 많이 알게 된것 같습니다.",
+        "writer": "UgyrvFYQ0KH87hyrgkB4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 배운거함수 오늘 머리에 남은거 여기까지 아시겠나요",
+        "writer": "Ugxtc-HKbFjTkBlFyX14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명이 너무 빠릅니다.",
+        "writer": "Ugy752UbrmgDAtyduAp4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점프 투 파이썬 도서 구매했어요",
+        "writer": "UgxIJK5GGvAG8i1CWup4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 잘 듣고갑니다",
+        "writer": "UgxTgY1LgB741MbZhZB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 영상 그동안 잘보고 있었습니다. 여쭤볼게 있어 댓글답니다. (1)제 파이썬에서는 fopen( 새파일.txt w )를 실행(비속어)면 해당 프로그램이 있는 곳에 파일이 생기지 않네요 항상 지정 장소를 슬래시로 나타내 줘야 생깁니다. 그리고 (2) 수정할 경우 한번 입력하면 안되고 한번씩 밀리는 현상이 발생합니다. 어떤 말이냐면 예를 들어 fopen( Cmepython새파일.txt a )를 사용해서 1을 추가하는 코딩을 실행(비속어)고 해당 파일을 열어보면 1이 안나와있고 다시 fopen( Cmepython새파일.txt a )로 2를 추가하는 코딩을 실행하고 해당 파일을 열면 그제서야 1이 보이고 2는 안나옵니다. 3 4 5,계속해도 이번에 입력한 것은 안나오고 이전에 올렸던 것이 뒤늦게 나오는 현상이 나옵니다. (3)마지막으로 input함수로 대화형에 한글로 글을 쓰면 하한한 그글글 이런 현상이 일어납니다. 구글링해봤는데 ms에 문의했던 20(비속어)년도 글 이외에는 글이 없던데 뭐가 문제일까요 비주얼 스튜디오 2019년 버전으로 사용하고 있는데 (파이썬은 또 따로 파이썬 홈페이지에서 다운 받았습니다. )1 2 3번 문제는 혹시 설치를 잘못해서 그런걸까요 아님 제가 amd 라이젠 노트북을 쓰고 있는데 그것땜에 호환이 안되는 걸까요 아무리 찾아봐도 해결책이 없어서 두서없이 긴 댓글 남깁니다",
+        "writer": "UgxZkl-D48vO1KDvwXl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 선생님 질문있습니다. 질문 1 f open 절대주소하는경우에 open함수는 code실행으로 해당 드라이브안에 폴더가 생성되는것이 아니라 이미 폴더는 만들어져있고 폴더안에 제가 txt파일이나 등등을 넣는것인가요 . 질문 2 f open( 바탕화면오예새파일. txt w ) 하고 f.close() 하면 바탕화면 오예라는 폴더에 새파일. txt가 만들어져야하는데 왜 안만들어지는건가요 .",
+        "writer": "UgxcsBTYEnCuvu5l5l94AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 선생님 질문있습니다. a 1 2 3 4 5 여기서 출력값이 있는함수는(pop) a.pop() 하고 print(a) 이렇게 하거나 print(a.pop()) 이렇게 해도 값이 같은데 출력값이 없는함수는 a.append(7) 을 해주고 print(a) 이렇게 해야 출력이된다. 이렇게 이해해도 되나요 .",
+        "writer": "UgxcVIAXLiOihV9lL0t4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "413 4강 학습 완료 오늘도 잘 배워 갑니다.",
+        "writer": "UgxZX3dA5dc2_LdBp-J4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 목소리가 좋으시네요, 귀에서 빠져나갈수가 없는 목소리,",
+        "writer": "UgxxgrPE4lHqPCfiC8h4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파일이 안돼여",
+        "writer": "Ugx2OY8A0Ucv0hS1a2p4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번건 좀 어렵내요",
+        "writer": "UgzqLzEfTm5wirYC7vp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함수의 리턴 값이 여러 개일 경우 항상 튜플 값으로 나오나요",
+        "writer": "UgyF2HPDA2oxzhPWPih4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비전공자인데도 너무 설명을 잘해주세요. 그래서 구독자가 이렇게 많은가봐요. 잘 들었습니다.",
+        "writer": "Ugwz2DDE0SQgA_WKmq54AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 파일(.py)로 만들어 주지 않았거나 2. VS CODE 파이썬 확장프로그램을 제대로 설치하지 않았거나 3. 들여쓰기 (띄어쓰기 4칸)을 하지 않아서 생기는 문제일 확률이 높습니다.",
+        "writer": "UgyrzhpSdtw5dhftXol4AaABAg.9PPvTvu68t49SzANDj8nEF",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "break대신 continue를 쓰시면 반복문 맨처음으로 돌아갑니다.",
+        "writer": "UgwtDqt58m78kL52XHB4AaABAg.9Ostd1KBm_k9OttrT9TJ8I",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 반복문 위의 코드로는 못돌아가나요",
+        "writer": "UgwtDqt58m78kL52XHB4AaABAg.9Ostd1KBm_k9Oud3JkuH-f",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding",
+        "writer": "UgwtDqt58m78kL52XHB4AaABAg.9Ostd1KBm_k9P2RIv50cM2",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함수로 구해.",
+        "writer": "UgzpGrL2X90VBEM98qd4AaABAg.9OgFovI_EQq9PqbGddyUze",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "74 위 문서를 참고해주세요.",
+        "writer": "UgxOqtws4wajDMu1sal4AaABAg.9OdJuQx11ei9OhFXF1ez-5",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 넘 웃기네여 클립을 너무 강렬하게 만드셨어요",
+        "writer": "Ugxtc-HKbFjTkBlFyX14AaABAg.9NvXbBaPSEq9Sz9DFTlgmw",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "playlist listPLU9uwewPMe2L7dC2us_C3LLwDL9vHQIx 천천히 진행되는 라이브 풀버전도 있습니다.",
+        "writer": "Ugy752UbrmgDAtyduAp4AaABAg.9NHe5LCWeP59NMBoW-tXc8",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 감사합니다",
+        "writer": "UgxIJK5GGvAG8i1CWup4AaABAg.9NCNmVtL83Y9NFOs104MLJ",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질문 1. 폴더가 생성되는 것은 아니고 파일을 만드는 겁니다. 질문 2. 경로 설정을 잘못 하셨어요. f open( CUsers자신 컴퓨터 이름Desktop새파일.txt w ) 이런식으로 경로를 잡아줘야 합니다.",
+        "writer": "UgxcsBTYEnCuvu5l5l94AaABAg.9MaKVlVh_3L9Sz9rIFDiYD",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아래 블로그에 해당 내용이 정리 되어있는데 참고해주세요. 함수의 return 값의 차이입니다.",
+        "writer": "UgxcVIAXLiOihV9lL0t4AaABAg.9MRTea8ESkq9MWvcebo0ed",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 안되시나요 . 오류 메시지 나오신 것이 있나요",
+        "writer": "Ugx2OY8A0Ucv0hS1a2p4AaABAg.9LNU9pfop7t9LO31Dn764d",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금 어려운 파트인데 반복 학습을 권장드립니다.",
+        "writer": "UgzqLzEfTm5wirYC7vp4AaABAg.9Kwo_n897C89KxP39MSGMG",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 맞아요.",
+        "writer": "UgyF2HPDA2oxzhPWPih4AaABAg.9KtvbFsWEFY9KuhXljNFqT",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ainput( Enter your number ) aa4 print(a) 로 프로그램을 해봤는데 a에 3을 input했을 때 7이 출력되지 않고 a가 string이라는 오류가 떴는데 a를 int 형으로는 못하나요",
+        "writer": "UgxmmG4-SNXloxr7-nx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 데 보고 무작정 따라하다가 여기로 오니까 친절하게 잘 설명해주시네요. 까먹었던 명령어도 팝업해서 넣어주시니까 배우기 편해요.",
+        "writer": "UgxuZvO1hAkjbZld59p4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주피터 노트북으로 공부중인데 역슬래쉬 입력 하는 방법 한자 말고 다른 방법 없나요",
+        "writer": "Ugys_ge37v1VikmgTqx4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큰 도움이 되네요",
+        "writer": "UgzqEDIIpfDlUeA4HJB4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음 공부 중인데 너무 큰 도움을 얻고 있습니다. 진심으로 감사합니다. 강의 중에 명령어 넣으실때 보면 자동완성기능이 있던데 저는 안 뜨는데 왜 그런걸까요",
+        "writer": "UgwHvMBFpEWSc3TaF4F4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모드 적용할때 다른건다 w r a (따옴표)이런식으로 사용하는데 with문 사용할때에는 w (쌍따옴표)로 사용했어요. 혹시 with문을 사용할때는 (쌍따옴표)로 사용해야하는건가요 아니면 둘다 상관없나요 (read나 readline 사용할때도 상관없나요 )",
+        "writer": "UgzZB4aULIK1l67WWMF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에서는 앞서 했던거랑 조오금 다르게 def vartest(a)로 안쓰고 ( )로 해야만 돌아가는 이유는 뭐에요 a를 넣으면 Syntax에러가 뜹니다",
+        "writer": "Ugzd9j8xptPV-tjtmL14AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처럼 따라해봤으나 아웃풋이 이상하네요. def your_name( kwargs) for k in (이메일)() if (k name ) print( 당신의 이름은 k) print(f 당신의 이름은 k. ) your_name(name 지방이 ) 이렇게 치면 당신의 이름은 name. 이라고 뜹니다.",
+        "writer": "Ugzpazp7LxROPdRAmBZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "print( 당신의 이름은 k)에서 오류가 뜨는거 같은데 어떻게 해결해야 할까요,",
+        "writer": "Ugww3TRWwX6JTFfOLYd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아시겠나요 이게 너무 많이 반복되네요 특히 영상 초반에는 6분만에 3번 나온 거 같은데, 너무 집중이 흐려져서 아쉽,",
+        "writer": "Ugz1tGINMW9zNSM6zLR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 예를들어서 새파일. txt에 자기소개서 이름 아무개 나이 20대 성별 남 잘하는것 뭐뭐 이렇게 작성해둘때 여기서 나이만 뽑아온다거나 성별만 뽑아온다거나식으로 원하는 줄만 뽑아올려면 어떻게 해야하나요",
+        "writer": "UgwtFuCRLr3gD-3WDiB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "f open( CPython새파일. txt a ) for i in range(1 11) data d번째 줄입니다. n i f.write(data) f.close() a 를 써줌으로써 a 는 add 추가하다여서 f.write을해도 그전의 1번10번째줄이 사라지지않고 그거 포함 10개의 줄이 더 써진다",
+        "writer": "UgzHXJZTv57EmfwC_tF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "f open( CPython새파일. txt r ) data f.read() print(data) f.close() f open을 했으면 f.close()로 꼭 닫아 줘야함 이것은 통째로 읽는 read 함수 f open( CPython새파일. txt r ) lines f.readlines() for line in lines print(line) f.close() 이것은 리스트 형태로 가져와서 출력하는거 여러줄 읽는 거임 f open( CPython새파일. txt r ) line f.readline() print(line) f.close() 이건 한줄 읽는거임 근데 readline으로 여러줄을 읽으려면 반복문 while을 써야함 f open( CPython새파일.",
+        "writer": "UgzlNeZ396x61fE4L_h4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑같이 타이핑하였는데 아래와같이 안됩니다, 방법을 찾지못해 댓글드립니다. Traceback (most recent call last) file line 1 in TypeError int object is not iterable 어딘가, 설정(비속어)거 같은데 해결이 안됩니다",
+        "writer": "UgxsFnd-42qfeEc6XSh4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "f ( 새파일. txt w ) f.close() Traceback (most recent call last) File c kimcodiing (이메일) line 3 in f.close() AttributeError tuple object has no attribute close 이런 오류가 뜨네요",
+        "writer": "Ugz0tccVKNZOCi6HQM54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 물어볼게 있습니다 조(이름) 파일 읽고 쓰기 할때 line f.readline() 을 치셨는데 d번째 줄입니다 가 왜 나온거죠 원래라면 아무것도 안나와야 정상 아닌가용 (내가 아무것도 안나와서, )",
+        "writer": "Ugx3O0wOOahFTbwkUId4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교 과제로 유용히 쓰고있습니다 항상 감사합니다.",
+        "writer": "UgwyowxTN7WcWk0exDV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 선생님 덕분에 실력과 관심이 늘고 있습니다. 언제나 도움을 주셔서 감사합니다. 앞으로도 건강하시고 유튜브도 잘 되시길 기원하겠습니다. 나이 들어서 공부하기 힘든데 조코딩 강의는 너무 쉽고 설명을 잘 하셔서 나이 먹은 사람도 이해하기 쉽네요. 너무 고마운 강의 같습니다. 그럼 건승을 기원드립니다.",
+        "writer": "Ugx6AfxQA4sl_tqpibV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "fopen( Edoit새파일. txt w ) 이게 왜 multiple statements found , 이라고 나올까요",
+        "writer": "UgztA_jhUV8wHjJjbU14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "input은 string 형으로 받아져서 int(a) 이렇게 int 형태로 변형해주어야합니다.",
+        "writer": "UgxmmG4-SNXloxr7-nx4AaABAg.9KbjH7ZiK9d9Kd572rVR1s",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding int(a)input( Enter your number ) aa4 print(a) 로 했는데 error가 뜨는데 int(a)를 어떻게 써야하나요 혹시 코드를 써주실 수 있나요",
+        "writer": "UgxmmG4-SNXloxr7-nx4AaABAg.9KbjH7ZiK9d9KdrbHpv9tc",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다.",
+        "writer": "UgxuZvO1hAkjbZld59p4AaABAg.9KaEoSOhv9r9KaR4mnn0Go",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 댓글 감사합니다",
+        "writer": "Ugzbq7td_iRaAWwcelN4AaABAg.9JeqhtLPXin9Jheait84pq",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한번 써놓고 복사 붙여넣기로 쓰는 방법도 좋을 것 같습니다.",
+        "writer": "Ugys_ge37v1VikmgTqx4AaABAg.9JM_XADUPYn9JNQJpFmfQ7",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 처음에 설치하고 환경설정 하실때 pylint가 설치 안되셨을 수도 있어요. pip install pylint 로 설치 진행해보세요.",
+        "writer": "UgwHvMBFpEWSc3TaF4F4AaABAg.9J08CzrQgGP9J0sJs-IU6t",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과거에는(C언어에서는) 단일문자는 ( ex. a b ) 문자열은 ( Hello World. ) 로 구별해서 사용했었습니다. 하지만 파이썬은 와 구별하지 않습니다. 다만 나 이런식의 사용은 불가능하고 와 를 문자열 내부에 사용할 경우 i am ironman i am ironman 이런식으로 사용하면 됩니다.",
+        "writer": "UgzZB4aULIK1l67WWMF4AaABAg.9IoFL15GF-v9IryDQ918KD",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아하 감사합니다....",
+        "writer": "UgzZB4aULIK1l67WWMF4AaABAg.9IoFL15GF-v9IsSqk57v8O",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 전역변수와 지역변수에 대한 내용인데요. def vartest(a) global a 라고 작성하시면 파이썬이 a가 매개변수(지역변수)인지 전역변수인지 몰라서 발생하는 에러입니다. 매개변수 이름이나 전역변수 명을 바꾸시면 작동하는걸 보실 수 있을거에요.",
+        "writer": "Ugzd9j8xptPV-tjtmL14AaABAg.9IngNHNKXjR9IrxWrSEM42",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "k 대신 kwargsk 한번 넣어보시겠어요 이게 딕셔너리라 키값으로 호출을 해야합니다",
+        "writer": "Ugzpazp7LxROPdRAmBZ4AaABAg.9IlPNPEdzmX9In6mTkweJU",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한건우 당신의 이름은 k부분을 kwargsk로 바꾸니까 되네요 감사합니다.",
+        "writer": "Ugzpazp7LxROPdRAmBZ4AaABAg.9IlPNPEdzmX9InQCKCKEYC",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "k 대신 kwargsk 한번 넣어보시겠어요 이게 딕셔너리라 키값으로 호출을 해야합니다",
+        "writer": "Ugww3TRWwX6JTFfOLYd4AaABAg.9Ibz-qQd8Yj9IeUnmnL3xd",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한건우 아 해결됐습니다..",
+        "writer": "Ugww3TRWwX6JTFfOLYd4AaABAg.9Ibz-qQd8Yj9IeWoGtRh6E",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점프투 파이썬 교재 보면서 이해했네요 lines f.readlines() 로 lines 리스트를 만들어서 그 리스트에 해당하는 값을 주면 출력이 나오네요 name lines1 print(name)하면 이름이나오고 (비속어) lines3 print((비속어))하면 성별이 나오고",
+        "writer": "UgwtFuCRLr3gD-3WDiB4AaABAg.9IF5at0HElX9IF73ScUKWG",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 해결되셨다니 다행입니다.",
+        "writer": "UgwtFuCRLr3gD-3WDiB4AaABAg.9IF5at0HElX9IHlybhB7s3",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정확히 코드를 따라쓰셨나요 들여쓰기를 실수하지는 않으셨는지 확인해보세요 만약 정확히 일치하는데 오류가 난다면 설정에서 오류가 있는것 같습니다",
+        "writer": "UgxsFnd-42qfeEc6XSh4AaABAg.9I5B3mQYxrF9IBmzGjUAVg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 반복문도 쓰셨나요 이문제는 int정수는 반복문에서 사용이 불가하다 라는 오류입니다 정확하게 코드도 알려주시면 감사하겠습니다",
+        "writer": "UgxsFnd-42qfeEc6XSh4AaABAg.9I5B3mQYxrF9IBnFNprEj9",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괄호 앞쪽에 open이 빠졌어요. f open( 새파일.",
+        "writer": "Ugz0tccVKNZOCi6HQM54AaABAg.9I2XyFaubPz9I2hrImuELs",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 선생님 화면에 보면옆에 explorer 밑으로 보시면 (이메일) 밑으로 새파일이 생기는데 제화면에는 아예 새폴더. txt라는게 생성되지 않아요 오류는 않뜨구요",
+        "writer": "Ugz0tccVKNZOCi6HQM54AaABAg.9I2XyFaubPz9I2odicARO4",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오예 해결 했당",
+        "writer": "Ugx3O0wOOahFTbwkUId4AaABAg.9GUrn7Dgxdq9GUsuoX4is1",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 . 해결되셨다니 다행입니다",
+        "writer": "Ugx3O0wOOahFTbwkUId4AaABAg.9GUrn7Dgxdq9GXKE9DEykR",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도움이 되셨다니 다행입니다",
+        "writer": "UgwyowxTN7WcWk0exDV4AaABAg.9G9nOlVdMgj9GCe4TEhkGX",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도움이 되셨다니 다행입니다. 좋은 말씀 감사드립니다 )",
+        "writer": "Ugx6AfxQA4sl_tqpibV4AaABAg.9G8bIBemowf9GCa5EAEMm7",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "questions21226808syntaxerrormultiplestatementsfoundwhilecompilingasinglestatement x 5 y 6 SyntaxError multiple statements found while compiling a single statement 이런식으로 한줄에 한 명령어가 아닌 2개의 명령어가 들어간 것 같아요. x 5 y 6 위와 같이 되어야합니다.",
+        "writer": "UgztA_jhUV8wHjJjbU14AaABAg.9G43hD7_D2W9G4DE48pm2S",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백준 8393 참고",
+        "writer": "UgwYRxshlUGnhLHOqeF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에서 name int 조수 인데 여기서 name은 key값이고 int 조수 는 value 값이잖아요 딕셔너리니까, 그러면 name은 string이니까 따옴표 처리 안해도 되나요 key값에 변수가 들어갈 수 있나요",
+        "writer": "UgyNVEIxByni_x3gCxR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딕션이 참 좋네여 귀에 쏙쏙",
+        "writer": "Ugx2NeTcGJNKP-N2PG94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 세상, 피 토하는 음악,",
+        "writer": "UgyRDrBY6suWE0mN23Z4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입력을 int로 받을 수 있나요",
+        "writer": "UgxQPX0cRYFVuz1Xbsp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이 썬, 3.1415926535897932384626433832795(전화번호)93993751058209749445923078164(전화번호)6280348253421170679 8214808651328230664709384460955058223172535940812848111745(전화번호)9385211(전화번호)94895493038196 442881097566593344612847564823378678316527120190914564856692346034861045432664821339360726(전화번호) 7245870066(전화번호)88152092096282925409171536436789259036001133(전화번호)665213841469519415116094 33057270365759591953092(비속어)61173819326117931051(비속어)54807446237996274956735(비속어)85752724891227938(비속어)301194912 9833673362440656643086(전화번호)952247371907(전화번호)37(전화번호)71762931767523846748(비속어)467669405132 0005681271452635608277857713427577896091736371787214684409012249534301465495853710507922796892589235 42019956112129(전화번호)344(비속어)1598136297747713099605(비속어)7072113499999983729780499510597317328160963(비속어)59 5(전화번호)469083(전화번호)825334468(반사회적용어)5261931(비속어)8171(전화번호)875288658753320838142(전화번호)47303 59825349(전화번호)3115956286388235378759375195778(비속어)5778(전화번호)066130019278766111959092164201989,",
+        "writer": "UgwkrrEvPrkzE2c9fE14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 혹시 파이썬이 서울 경기쪽에서는 이미 기업에서 쓰이고 있는 프로그램인가요 제가 지방에 있다보니까 기업에서 어떤 프로그램들이 많이 쓰이고 유행 인지 잘 모르겠어요",
+        "writer": "Ugwstpsz5UEegcnKPld4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 해보니까 재밌네요 잘보고 있습니다",
+        "writer": "Ugy66nj1vfHrjN_97rt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 이런 것을 만들었는데요 랭크 학생 번호 점수 여기에 있는 딕셔너리 안에 있는 리스트에 값을 추가하고 싶은데 방법을 모르겠어요 딕셔너리 (딕셔너리 명)key 값 (value 값) 리스트 (리스트 명).append(추가할 값) or (리스트 명).insert(추가할 위치 추가할 값) 각각 딕셔너리와 리스트에 값 추가 방법인데 딕셔너리 안에 리스트가 있으니까 어떻게 딕셔너리 안 리스트에 값을 추가할 지 모르겠어요",
+        "writer": "UgzCf5fK6uctz9lGKFp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해요 조코딩",
+        "writer": "UgzIBpgLiO3ZSHpiRXh4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 잘 보고 있습니다",
+        "writer": "UgxXo7BVnyGIrTsuy0h4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름) 장마가 계속되는 8월 건강하신가요 조(이름)의 수준 높은 영상 잘 보고 있는 구독자입니다. 다름이 아니라 제가 비개발자인데 제 앱을 만들고 운영하고 싶어 리액트 네이티브를 공부하(비속어) 합니다. 일단 앱개발부터 공부하고 싶은데 이런 경우에도 예전에 조(이름)이 코딩 시작할 때 공부 순서로 정리해주셨 듯이 HTML CSS JS순으로 하는 게 맞을지 궁금합니다. 앱을 무작정 따라만들며 공부를 해보고 싶은데 리액트 네이티브는 HTML CSS 공부가 선행되지 않으면 저렇게 공부하는게 불가능한건가요 바쁘시겠지만 답변 주시면 큰 도움이 될 것 같습니다.",
+        "writer": "UgyV88HbzBqTJgMtOlx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점프 투 파이썬과 함께하는 파이썬 입문용 코딩 기초 강의 5강으로 프로그래밍을 전혀 모르는 왕초보도 누구나 쉽게 코딩을 배울 수 있도록 강의를 진행합니다. 목차 첫째마당. 파이썬 기본 문법 익히기 04장 프로그램의 입력과 출력은 어떻게 해야 할까 인트로 041 함수 042 사용자 입력과 출력 043 파일 읽고 쓰기 조코딩의 파이썬 기초 강좌 (점프 투 파이썬) 재생목록 playlist listPLU9uwewPMe2AX9o9hFgvnRvOcBdzvP5 5강 라이브 풀버전 ehdsh6nJhyc 라이브 풀버전 재생목록 playlist listPLU9uwewPMe2L7dC2us_C3LLwDL9vHQIx 책 구매하기 bDJBfK (위 링크는 쿠팡 파트너스와 연결된 링크로 구매에 따른 일(비속어)의 수수료를 지급받을 수 있습니다. ) 이 영상은 이지스퍼블리싱 출판사의 협찬을 받아 제작되었습니다.",
+        "writer": "Ugw3uku36cEezSc-JQV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름)이 설명해주시니까 책으로만보는것보다 더 잘 이해가되는것 같아요 감사합니다 (_ _)",
+        "writer": "UgwrG7aSQKG04DZD-nd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3등 1등분정말로 대박이시네요",
+        "writer": "Ugw7LLNPuUmUvHbCk714AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 왔어요 근데 편집",
+        "writer": "Ugwi2xm_P17QbTgrvlt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 name은 함수의 인자의 key 값으로 변수와 같아서 따옴표를 쓰지 않아야 합니다 . 추가로 보다보니 제가 잘못 쓴 것이 있네요 당신의 이름은 하고 kwargsk라고 써야지 이름이 나옵니다.",
+        "writer": "UgyNVEIxByni_x3gCxR4AaABAg.9E9OL3xdBLc9EBl4wEO7_-",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입력으로 들어온 값을 int()로 감싸주면 될 것 같아요.",
+        "writer": "UgxQPX0cRYFVuz1Xbsp4AaABAg.9ConRFGa-aT9CpPaVhPxSj",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어마어마하게 많이 쓰입니다. 서울 뿐만 아니라 글로벌로 구글 페이스북 등 글로벌 기업에서도 엄청나게 많이 쓰고 있습니다.",
+        "writer": "Ugwstpsz5UEegcnKPld4AaABAg.9CNd7g3GxGc9CPdD02h6Rm",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데이터 분석 AI 머신러닝 분야는 거의 파이썬 쓴다고 보시면 되고 많은 서비스들이 파이썬의 웹 백엔드 (반사회적용어)워크인 django를 이용하고 있습니다",
+        "writer": "Ugwstpsz5UEegcnKPld4AaABAg.9CNd7g3GxGc9IBm_K7Nhnb",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 재미있게 봐주셔서 감사합니다",
+        "writer": "Ugy66nj1vfHrjN_97rt4AaABAg.9CFj_zGulRR9CFtVNtUQ24",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단계적으로 생각하시면 편합니다. 학생 번호에 값을 넣는다고 하면 그 리스트를 선택해줍니다. 랭크 학생 번호 2. 그 리스트에 값을 추가합니다. 랭크 학생 번호 .append( 추가할 값 )",
+        "writer": "UgzCf5fK6uctz9lGKFp4AaABAg.9CD87sV2iir9CD8WKtIOMA",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 일반적인 것에는 잘 되는데 제가 판다스 모듈을 넣은 랭크 (이메일)( 학생번호 점수 ) 이런 것이였는데 똑같은 방법으로 하니까 오류가 나네요 혹시 다른 방법 없나요",
+        "writer": "UgzCf5fK6uctz9lGKFp4AaABAg.9CD87sV2iir9CIDpl-OSwc",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오류 내용은 다음과 같습니다 File d채현민파이선랭킹2.py line 34 in 랭크 학생번호 .append( 번 .format(수)) File C Users tatan AppData Local Programs Python Python3832 lib sitepackages pandas core (이메일) line 2688 in append return concat( File C Users tatan AppData Local Programs Python Python3832 lib sitepackages pandas core reshape (이메일) line 274 in concat op _Concatenator( File C Users tatan AppData Local Programs Python Python3832 lib sitepackages pandas core reshape (이메일) line 359 in _init_ raise TypeError(msg) TypeError cannot concatenate object of type only Series and DataFrame objs are valid 칸이 안 맞아 내려진 곳도 있습니다 양해 부탁드립니다",
+        "writer": "UgzCf5fK6uctz9lGKFp4AaABAg.9CD87sV2iir9CIDzMyT3Lj",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참고로 모듈은 넣었습니다",
+        "writer": "UgzCf5fK6uctz9lGKFp4AaABAg.9CD87sV2iir9CIE42z5tZN",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 홍드로이드님.",
+        "writer": "UgzIBpgLiO3ZSHpiRXh4AaABAg.9CAgwCxe3NN9CD0SU5CQ2I",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 감사합니다 한(이름).",
+        "writer": "UgxXo7BVnyGIrTsuy0h4AaABAg.9C86jPQI5Pv9C8B1JB6rAm",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 웹과 앱이 있다면 웹 개발을 먼저 하는 것이 더 쉬워서 이런 기준으로 설명을 드렸는데 앱부터 만들(비속어) 하신다면 바로 React Native로 시작하셔도 괜찮아요. 그러나 JavaScript나 (이메일)의 개념이 어느정도 필요할 수 있어서 처음 접근하기에는 웹보다는 난이도가 높을 수 있습니다. 그래도 선행 관계가 꼭 있는 것은 아니라서 React Native 공부부터 진행하셔도 괜찮습니다.",
+        "writer": "UgyV88HbzBqTJgMtOlx4AaABAg.9C85T49AtLd9C8AzzkMqr_",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 바쁘신 와중에 답변 주셔서 너무 감사합니다. 많은 도움이 되었습니다 .. 다음주도 내내 비소식이던데 항상 유의하시고 행복하시길 바랍니다 ________",
+        "writer": "UgyV88HbzBqTJgMtOlx4AaABAg.9C85T49AtLd9C8Tvk0xl7l",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 YOONJOON YANG님 반갑습니다 항상 라이브 참여해주셔서 감사합니다.",
+        "writer": "UgzUQ_838fem1Fq-_8d4AaABAg.9C83e780T6u9C84PE60Pr0",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 반갑습니다 (이름).",
+        "writer": "UgxERDhrkfSlQ2KJc1R4AaABAg.9C81ywQylqF9C82OGuW5oV",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 다행이네요. 그렇게 말씀해주셔서 감사합니다 )",
+        "writer": "UgwrG7aSQKG04DZD-nd4AaABAg.9C81wKR9F669C82NIAD5mT",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3등 축하드립니다. 댓글 남겨주셔서 감사합니다 )",
+        "writer": "Ugw7LLNPuUmUvHbCk714AaABAg.9C81rQMAxER9C82LX43Mit",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 잠꾸러기님 빠르시군요.",
+        "writer": "Ugwi2xm_P17QbTgrvlt4AaABAg.9C81ed_c03q9C82IqKvHWA",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 빠른 댓글 감사합니다",
+        "writer": "UgxqdWfPeHanuTfMDHx4AaABAg.9C81aPgku8d9C82Ha1h9LR",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=jRsXLEPnd6Q",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,940 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680573",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680573"
+    },
+    "text": [
+      {
+        "content": "이맛에 (이름) 놀리시는듯하네요 바능너무재미있스십니다",
+        "writer": "UgyFhAOlsV0A8IAYZ214AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그자리 제가 타겠습니다아아아아.........",
+        "writer": "Ugy9OxvpK0dYhYe4H7J4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜희 나랑 차 탈래 아니면 (비속어).",
+        "writer": "Ugz5Lgu4mpl96sYm7Jp4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타조를 타죠",
+        "writer": "Ugw_0OTjKwNsKktjLR54AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 미래의 남친분이 조수석에,",
+        "writer": "UgwOfw-G-ROwFOonVUZ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상에서 브금이름 뭐에요",
+        "writer": "UgzGVJvPGjDbvXXIKKR4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조수석에 앉으면 목적지는 어디인가요 설마,",
+        "writer": "UgwxfswtY13hgjUjb4p4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지 무료 전생인가요",
+        "writer": "Ugyv9W8D8Nd8Ua9Po-h4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 차 타면 바로 요당강행",
+        "writer": "UgxtQ2cF9U-HENASr8x4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타고싶다 목숨두개에여",
+        "writer": "UgzZwdSJ49EQN2fHqV54AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠, (이름) 조수석에 타면 황천길 하이패스 인가,",
+        "writer": "UgzwEmK7QbRpAyzuX3N4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫어요초홍 (반사회적용어) 가그, X",
+        "writer": "UgyuST11tGIG1wsBbXF4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고보니 베스트드라이버인거임",
+        "writer": "UgzNlxSxfPl1ssMeZph4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차 사드릴테니 . 절 태워주시죠 그리고 예식장은 호텔이 좋다던데, 음",
+        "writer": "UgwOnRA7QByD7s_yNTR4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도네없어도 되는뎅,",
+        "writer": "UgwLkhaS2nBSGLufPjh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 탈래요오.",
+        "writer": "UgxXgKZPJAddf-87vsN4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희쪽에서는 굉장한 포상입니다만",
+        "writer": "Ugw3CMJvZ2pwSCxdeTt4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목숨 대출받아야겟네",
+        "writer": "UgzO9VHwHWu4yxdPFnJ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 커여워",
+        "writer": "Ugxc7EohDtyz2kMqb3h4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 목숨걸고 타보겠습니다.",
+        "writer": "UgwlAqBbnlL1TCnTdOp4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견덕은 무료로 타드립니다",
+        "writer": "Ugx06cOh9rfX33PnsB94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "442가 왜 잘자요인지 설명해주실분 저도 같이이해하고싶어요",
+        "writer": "Ugz_Ww9esxiYuakIxY14AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발할라행 내선 순환열차입니다",
+        "writer": "UgyR3tJAcm2Bf_aG4Zh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부터 나오는노래는 망상감상연맹 이라는 노래에여. 안물어봤다고요 그냥 참고하시라고, )",
+        "writer": "UgwARQPuGeTANlRF5-h4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "협상의 고수 (반사회적용어)",
+        "writer": "UgwwF2wEJIVKynqsywN4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈받는거보가 병원비가 더많이 나오거나 가족에게 사망위로금이 지급되니 그런거 아닐까용",
+        "writer": "Ugwg0_LYHRzThKxpXcp4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야기좀 들어볼까",
+        "writer": "UgzGUsc8SixzD2VzoIB4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목숨값으로 만원은 너무 싼거 아니오",
+        "writer": "UgxEqD2Z7Dfj1tbGUTh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분 21초때 노래 뭐에요",
+        "writer": "UgwOCKbPlPxO3ttk6kR4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그옆 제가 타겟습니당",
+        "writer": "Ugxzusbg3j8c5YwF3_l4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 탈게요.., 잠시만요 보험 좀 들고요 ,",
+        "writer": "UgzHoypwFTL0AI8kUf54AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요당강 건너는 거임",
+        "writer": "Ugwm-GGzJkLZoXGQvd14AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죽을꺼면 혼자죽, 아니 (이름)이랑 같이 죽는것도 나쁘지는,",
+        "writer": "UgxIaIROnixKhvYOrT94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저좀 태워주세요 오히려 4만원 드릴테니까 태워주세요",
+        "writer": "Ugw8o2eo8yoiQvdMK0V4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송열심히보고있어요 화이팅하시길",
+        "writer": "UgzmtfLAZCdxVgsRg5R4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출첵 b",
+        "writer": "UgzNefuv40s3FK4Lb_V4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패딩 여러겹 입고 타야될듯,",
+        "writer": "UgyLu4Zhh8QL5Q4Lhwl4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자본주의력은 위대하다",
+        "writer": "UgwdJxiqWDRicnp2xsJ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집자 입니다 D 442(사사이)가 잘자요랑 발음이 비슷하단 (이름) 생긴 말장난입니다 오래 전부터 쓰고 있어요.",
+        "writer": "Ugz_Ww9esxiYuakIxY14AaABAg.8iUMIF-zkoo8iUUoM_2fHz",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카노 님께서 부르셨네요. 망상감상대상연맹( )",
+        "writer": "UgwARQPuGeTANlRF5-h4AaABAg.8iUC15KKn3P8iUXLCHHW9D",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "망상감상대상연맹 아니던가, 잘 기억이",
+        "writer": "UgwARQPuGeTANlRF5-h4AaABAg.8iUC15KKn3P8iZn9kd_bb5",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 트위터에 올라온게 견카였어요",
+        "writer": "UgxwCfP7y7IUvvUV1rh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫어요 0실화",
+        "writer": "UgwtfEYAlroE2Y01TqJ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 일단 차부터 뽑아야.",
+        "writer": "Ugy0VwS5EGql8ltm7pB4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어서 탈주하세요..",
+        "writer": "Ugz0UBqx4XHwTjOofqx4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다려봐요, 사망보험 체크 눈물젖은유언장 체크 뻐꾸기파일삭제 체크, 자 갑시다",
+        "writer": "UgzHIQx1Vh2ptjaobZh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생명보험 들었으니 타드리겠습니다",
+        "writer": "Ugyz57YC2-koraGPjfZ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫어요가 0개 .",
+        "writer": "UgyycZ5zuQ2Iys6TTfd4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈 주고 타고싶습니다.",
+        "writer": "UgxqoNgLK1JS7SgrkZV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 난 얼마든지 타줄수 이써",
+        "writer": "UgyQ8Y3WD-HwBdHzvRB4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가탈게요 헉헤",
+        "writer": "UgxgUspso9Ron9_5PId4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그돈 집어넣으시구 제가 낼게요 타면 되는거죠",
+        "writer": "UgxAks1O6EOGQC0c5kp4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갈 땐 가더(반사회적용어) 차 타고 같이 가는건 좀 아니잖아",
+        "writer": "Ugwr8AEz1BaIhDLPkH94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫어요 0개 짱",
+        "writer": "UgwQK6L6aQ3OO8feaGV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 노래제목좀알려주세여",
+        "writer": "UgxCHAiocDaTC1UW7jp4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제가 누군가가 (이름)이 될수도 있는데",
+        "writer": "Ugy-moVTdbg04cEahL94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쨔히 커여워",
+        "writer": "UgzdJqTAnSe3_E6l0hV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 트수들이 말은 저렇게 해도 다 타고싶어하는 거 알죠",
+        "writer": "Ugy9bWE7ItiO5SQn8054AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 탈래요..",
+        "writer": "UgxdYcvEyKyoc_3ZAhh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈받고 목숨줘야대 다들 도망가",
+        "writer": "UgyUHCrBbfKkKmNIkmJ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 저 태워주심면 고칠때 공짜로 고처드릴게요",
+        "writer": "Ugwr2CxXojWcfXid5Ix4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미리 묵념을,",
+        "writer": "UgxuHT_Qs5jc2o27Kbl4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타는순간 초보 GTA 스타트",
+        "writer": "UgwuqFszkEHuB8t_BP94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타면, 죽어",
+        "writer": "UgwTnnYzUatTLDzSHRZ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미션임파서블을 찍어야할지도,",
+        "writer": "UgycXIu630HwqpydVcd4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견덕이 타면 안되나요( )",
+        "writer": "UgzFuTa2Sh_PdSMzTLl4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 타고 후기 올리겠습니다",
+        "writer": "UgxzrDlhoLGUihT1VVR4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일단 차를 뽑고얘기를하시는게",
+        "writer": "Ugx_RJ0m3_4up_lO6BF4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신체포기각서 쓰고 타야하는 거 아닌가요",
+        "writer": "Ugw6LUxhyGdYRRTySl54AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안전 운전 합시당당당",
+        "writer": "UgxixxxRLJaPX1ddgNB4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누군가는 꼭 타게 될꺼지만 그 누군가가 앉을 자리가 운전옆좌석만 아니길 빌게요,",
+        "writer": "UgzHVjKiEhDPGGRITFh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님아 그강을 건너지마오",
+        "writer": "UgyBwKbw_TddqYV6ASd4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목숨값으로 만원은 너무 싸죠 풉키풉키",
+        "writer": "UgwqLyzstwgZitYmM0h4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈 안받고 돈 드리면서 옆에 타고싶은 사람은 많을듯하옵니다 쨔히마마,",
+        "writer": "UgyvJ6y_LgFDDVkBOfR4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트수들은 차사고나면 막 문열고 몸던져서 낙법으로 탈출할 수 있다구 근데 난 못하겠으니 p(비속어)",
+        "writer": "Ugxkl4jZCP99s9fAbbR4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 따따블이요.. 조수석이 아니라 짜히님이 조수석에 타시고 제가 운전할까요",
+        "writer": "UgxlwsM337oxzD_f7DN4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라바나이 가바 가그 바이라는 뜻",
+        "writer": "UgzHVjKiEhDPGGRITFh4AaABAg.8iT4FACuBR88iTEwdOQfOh",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이분은,",
+        "writer": "UgxHMODslvdN4ZSDQzx4AaABAg.8iT0QogdDjl8iThMwWdzTf",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 (이름) 옆자리 아야, 삼도천",
+        "writer": "UgxHMODslvdN4ZSDQzx4AaABAg.8iT0QogdDjl8iVQ05M43RP",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스읍, 그건 아닌거같슴다.",
+        "writer": "Ugy9_u6eSoaQYq5NKsN4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누군가, 가그 가바",
+        "writer": "UgzZ9ZsHR_q-wPcrrbd4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태워주신다면 저는 트렁크(반사회적용어) 상관 없습니다만,",
+        "writer": "UgxBxo4I5zNnEoC5OCF4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기, 읍읍, 하지만 죽어도좋으니 탈수만있다면,흐흐흐",
+        "writer": "UgyKkryeEbWzugZqq2x4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살고싶다고 외쳐.......",
+        "writer": "UgzKq9Lywe-jexQQCIx4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 택시는 타면 돈을 줍니다. 대신 목숨을 받,",
+        "writer": "UgxvapDAA-vV5z6uj9t4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 (이름) 넘모귀엽공 제가옆에 타고싶내요",
+        "writer": "UgxwJoapkZhTPD37Yg94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신종 고문 방법이다",
+        "writer": "Ugx0gnMwQ8VuUuL1dzF4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타, 타겠습니다",
+        "writer": "UgynCdO2qu-Pa76KFk54AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가그 옆에 태우자",
+        "writer": "UgwqS-b2tQaCPM4ugjF4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼도천 흐어엥",
+        "writer": "UgzgjeETWOh-AnyVfiZ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오래 살고 싶은걸",
+        "writer": "UgzYMwynIZfXsDtuOLN4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 데리고 가는 것 은 어떨까요",
+        "writer": "UgzQRVydB9DTueJa2Ct4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트렁크에 묶여도 좋습니다",
+        "writer": "UgwFqqjxqBBdwMvV09V4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 가그쿤은 어떤가요",
+        "writer": "UgxFTFSQ8ytcSj7lp3N4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 옆자리는 좋지만 차 옆자리는 생각해봐야겠는걸,",
+        "writer": "UgzeR8fOtMKMLH7QVFd4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 천상의 목소리",
+        "writer": "UgwKorJjTarA9P8xqu94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 조수석에 개를 태워보시는건 어떠(이름)",
+        "writer": "UgwRUrHxO0ttXjvneTh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가그는 돈안줘도 탈테니 태우고 보내버리자(어딘지는 말 안함)",
+        "writer": "UgyOeDsAzlIwZu--fWd4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안전벨트 메고 자희 누나랑 손 잡고 탄다면 얼마든지 탈 수 있습니다",
+        "writer": "Ugy4g3B2bSwaYOiDpHl4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쨔희횽 하트주세요",
+        "writer": "Ugx7oNEtfR1zB_SjeIZ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신뢰도 바닥인 견드라이버 그녀는 대체,",
+        "writer": "Ugz2A(반사회적용어)TR5-saltS6Tx4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 돈 없이도 타고 싶은 사람 많습니다만",
+        "writer": "UgwuYOmobtPCrUelEk14AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조수석에서 442가 낮잠일까 영원한 잠일까",
+        "writer": "UgxAjTblgPPAITjeush4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자희누님 너무 귀여워요",
+        "writer": "Ugz_02wBc-5GrJ1IvrJ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 자본의힘은 대단해,",
+        "writer": "Ugz37pglsIyDuPwrahh4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마크개고수 천살의 목소리는 천 사의 살 살녹이는 소리입니까,",
+        "writer": "UgwKorJjTarA9P8xqu94AaABAg.8iSm00vn0pJ8iSnsSGMXzS",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아니요 하늘 조차 죽이는 목소리입니다",
+        "writer": "UgwKorJjTarA9P8xqu94AaABAg.8iSm00vn0pJ8iTU-t9MbP2",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저세상,",
+        "writer": "UgyOeDsAzlIwZu--fWd4AaABAg.8iSlqdyb0fH8iTvD8sbSL9",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (반사회적용어)",
+        "writer": "UgyOeDsAzlIwZu--fWd4AaABAg.8iSlqdyb0fH8iTx3My0nfc",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조용히 하세연 들키면 안된다구욧.",
+        "writer": "UgyOeDsAzlIwZu--fWd4AaABAg.8iSlqdyb0fH8iTxQfA7Fer",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가바 x",
+        "writer": "UgyOeDsAzlIwZu--fWd4AaABAg.8iSlqdyb0fH8iUM6xDkiqS",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태워서 하늘로 보내버리는 건 어떻습니까 , 승천",
+        "writer": "UgyOeDsAzlIwZu--fWd4AaABAg.8iSlqdyb0fH8iUYnvfKc24",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어선에 버리고",
+        "writer": "UgyOeDsAzlIwZu--fWd4AaABAg.8iSlqdyb0fH8iVwKyAhKYT",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카노티아 큼",
+        "writer": "UgwuYOmobtPCrUelEk14AaABAg.8iSlTMEj-zT8iTxFG4CM8Y",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오히려 돈내고 타고싶음",
+        "writer": "UgwuYOmobtPCrUelEk14AaABAg.8iSlTMEj-zT8iWKlYyJo8R",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타고 싶드아아",
+        "writer": "UgwuYOmobtPCrUelEk14AaABAg.8iSlTMEj-zT8iwuou2Tkat",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=sUsHbdSum94",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

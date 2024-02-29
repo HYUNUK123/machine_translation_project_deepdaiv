@@ -1,0 +1,532 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409561",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409561"
+    },
+    "text": [
+      {
+        "content": "진짜 쉽게 잘 설명해주시는 것 같아요. 업무 배우는데 많은 도움이 됩니다 )",
+        "writer": "UgwVGdFeyYtZ25eMNcV4AaABAg",
+        "write_date": "2021-10-10",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 교육 영상 감사합니다. 그런데 화면 녹화프로그램은 무엇을 사용하시는지 알 수 있을까요 .",
+        "writer": "Ugy079spWatwn0fDt894AaABAg",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은강의 감사합니다, 유용한 팁 감사합니다,",
+        "writer": "Ugx79g6BjsjkeX8m6_l4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 보고 바로 실행해보는 꿀팁 감사합니다...",
+        "writer": "UgzXle_7I4t7x9V9Ex54AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 꿀팁도 알려주셔서 넘나 좋네요... (이름) 최공",
+        "writer": "UgyY8HCsMU7NzJDRdWp4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우디쌤 컴퓨터 바꿔야 하는거라는 말에 바로 컴터주문하고 왔습니다 늘 우디쌤 덕분에 포토샵과 프리미어프로를 쉽게 배우고 있습니다 그럼 오늘도 즐거운 시간 보내세요",
+        "writer": "UgwAgbRcn8xSXPM9edF4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우디쌤 왜 저는 컨(비속어) 콤마를 눌렀는데도 환경설정 창이 나오지 않는걸까요,",
+        "writer": "Ugzys_itrVOmV4y0nAl4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 렉걸려서 편집할때마다 애먹었는데 완전 유용한 꿀팁이네요..",
+        "writer": "Ugz1mCezOVDKscHzu7N4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리뷰는 알고 있었는데 미디어캐시는 몰랐어욤 캐시제거하면서 해야겠네욧",
+        "writer": "UgzA-um69MIJHCbQaeN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 덕분에 영상편집이 생각했던 것보다 더 재미있네요 ) 근데 영상 편집 후에 마지막에 렌더링할 때 저는 encoding이 0로에서 진전이 안되고 있어요, 이거는 왜 이러는 것일까요 그리고 영상편집 도중에 갑자기 영상재생되는 것이 완전히 멈춰버릴 때가 있어요, 아무리 기다려도 재생이 안돼서 그냥 껐다가 켜야 한다는, 왜 이럴까요",
+        "writer": "UgwvE9c0S80WQyre0U14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전공자가 아닌 마케터인데요 툴을 사용할 줄 아는 마케터가 되(비속어) 포토샵부터 일러스트까지 공부하여 포트폴리오를 작성하는데 롤스토리디자인연구소 강좌가 많이 도움되었어요. 자격증도 따구요 최근 트렌드인 영상편집까지도 도전하고 잇는데 영상이 참 주옥같아요 혼자서도 공부하기 편하게 예제파일까지, 나중 프리미어 프로뿐만 아니라 애프터이펙트까지 볼수있었음 합니다 ) 감사합니다.",
+        "writer": "UgzEjyhZl1aogME9dIp4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 방법도 있군요.",
+        "writer": "UgxNfTQR1vkCbu1dJ_Z4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리미어프로로 영상 편집을 하는데 계속 버벅입니다. 알려주신 방법대로 다 해보고 제가 아는 방법도 다 해봤지만 영상이 계속 버벅입니다. 그냥 영상본으로 재생(비속어)면 버벅임이 없지만 프리미어프로로 넘어가면 버벅입니다. 몇시간째 작업을 못할정도로 버벅입니다. 무슨 방법이 없을까요,",
+        "writer": "Ugzh3tt0EQJEanO0U2h4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 이 주옥같은 팁..",
+        "writer": "UgwOqaGiXq0g640uJ_x4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어느날 눈떴을때 컴퓨터가 업그레이드되있길 기도하며,",
+        "writer": "UgxjJ__yd0G0Nf7dB6t4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상에 모자이크나 얼굴에 캐릭터 대신 넣는 그런것도 알려주세요",
+        "writer": "UgxoQcGvqAJCpSP4V_B4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 정말 잘 보고 있어요 혹시 인디자(반사회적용어) 해주실수 있나요",
+        "writer": "UgwKMQwrCkMpoNyLlAx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 재밌게 공부하세요",
+        "writer": "UgwVGdFeyYtZ25eMNcV4AaABAg.9T9j8GRXlbR9TA2yjDt1-S",
+        "write_date": "2021-10-10",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 맥용 기본 프로그램인 퀵타임플레이어를 사용하고 있어요 윈도우도 검색해보시면 화면 캡쳐 유무료 프로그램이 많이 있습니다 )",
+        "writer": "Ugy079spWatwn0fDt894AaABAg.9SnGT4F8A199SpHjXVnwfX",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 열공이군요 파이팅 ).",
+        "writer": "Ugx79g6BjsjkeX8m6_l4AaABAg.9RqmSXk_QtN9RrFUbEfi73",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "답글 다 달았는데 왜 지워졌지 또르륵 , 재밌게 공부하세요 )",
+        "writer": "UgzXle_7I4t7x9V9Ex54AaABAg.9QhKg5rPJOt9QpjmRBhE-m",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금이(반사회적용어) 더 쾌적하게 편집하세요",
+        "writer": "UgyY8HCsMU7NzJDRdWp4AaABAg.9PRzBQAyzEm9PSIK_axXqb",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하 이왕 컴터 바꾸신김에 더 쾌적한 환경에서 작업하세요 ..",
+        "writer": "UgwAgbRcn8xSXPM9edF4AaABAg.9NJVvxpJYZj9NJiUVWFpKN",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단축키 안먹으면 항상 메뉴로도 들어갈 수 있어요 Edit Preference General 로 들어가보세요 )",
+        "writer": "Ugzys_itrVOmV4y0nAl4AaABAg.9NHKyHEDJI09NJ-IeSqxPt",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소소하지만 누군가에겐 엄청 큰 도움이 될 수 도 있는 팁이죠 )",
+        "writer": "Ugz1mCezOVDKscHzu7N4AaABAg.9JzRiHcBE9o9Jz_W6zSYRA",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 종종 하고 있답니당 ) 야호",
+        "writer": "UgzA-um69MIJHCbQaeN4AaABAg.9HRJ9HhGxKq9HRKJlr9FJ9",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 시스템 적인 문제는 저도 알기가 힘들어요 컴터 스펙에 따라서 문제가 생길 수 도 있고 운영체제가 문제될 수 도 있고 그렇네요 ( 기술 문의는 어도비에 문의해보는것도 도움이 될 수 있어요 ).",
+        "writer": "UgwvE9c0S80WQyre0U14AaABAg.9Gt8vCyYzPV9GvQmIa0n2G",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와앙 ) 마케터 일 하시면서 디자인 능력까지 갖추시다니, 이렇게 혼자 독학하시면서 배우는 열정이면 뭐든 할 수 있을꺼예요. 생각보다 많은 사람들이 디자인업이라서 배우기보단 비전공자들이 이렇게 배우는 경우가 많이 있답니다 앞으로도 계속 같이 열공해 봐요 우리 )..",
+        "writer": "UgzEjyhZl1aogME9dIp4AaABAg.9CZfeW_JrHi9Ca-pbbsW08",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사소한것들이지만 혹시 모르니까,",
+        "writer": "UgxNfTQR1vkCbu1dJ_Z4AaABAg.9ATcH1hpNlK9AVkQJIN5od",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화이팅 )",
+        "writer": "UgxEUnX_3eET64Lbg-F4AaABAg.98-08opV3ke980KCadA87u",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야호 반가워요 ). 자주 오셔서 공부하고 가세요",
+        "writer": "UgwLL_gUHUq1poCHB-F4AaABAg.97F4107YfPd97F_vjPTrmL",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로그램 자체적인 문제는 제가 알기가 힘들답니다, 물론 프록시 편집 방법등 다른 방법이 있기도 하지만 제가 보기엔 뭔가 자체적인 (비속어)거 같아요 어도비에 문의해 보시길 바랄게요 )",
+        "writer": "Ugzh3tt0EQJEanO0U2h4AaABAg.96Kl2IQY6c396KtttF_Lx0",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿀 팁.",
+        "writer": "UgwOqaGiXq0g640uJ_x4AaABAg.95r1PTyDxzH95rCKcuAwgq",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 아주 열공 중이시군요..",
+        "writer": "UgwiWeMvdbnbsgXMW9x4AaABAg.95UaIWh6_Zg95VdUTLDFra",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 맘 같아선 최신 맥시리즈로 확다 바꿔버리고 싶네요 또르륵 하지만, 고수는 장비를 탓( )하지 않죠",
+        "writer": "UgxjJ__yd0G0Nf7dB6t4AaABAg.94NDLTCE8hE94NPeJwp1Ek",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오홍 안그래도 강좌 리스트에 작성해둔 내용이네요. 조만간 알려드릴 수 있도록 할게요",
+        "writer": "UgxoQcGvqAJCpSP4V_B4AaABAg.94Hh6v8f6yB94HnJbKYst_",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 그럼요 지금 당장은 힘들지만 언젠가 어도비의 모든 프로그램 튜토리얼 하는게 목적이랍니다",
+        "writer": "UgwKMQwrCkMpoNyLlAx4AaABAg.94HMKEj2TWi94HcjD70fit",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 D 포토샵 강좌부터 정주행하고 있는 구독자입니다. 디자인 실력만큼 강의랑 편집 실력도 좋으셔서 영상 보고 잘 배우고 있습니다 감사합니다 꾸벅 (_ _) 구독자 쑥쑥 늘어나시길 바라고 늦었지만 새해 복 많이 받으시고 건강도 챙기세요 D ..",
+        "writer": "Ugw4HFFhVEtyoB9uSJV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 (게임제작) 강의영상을 찍고싶은데. 마우스커서 확대라던지 키보드누른거 자막처럼 뜨게한다던지 어떻게 하는지좀 알려주실 수 있나요 _",
+        "writer": "UgxE4IUX7Uw9butIRUl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우디쌤 새해복마니 받으시구 올해두 승승장구하세요...",
+        "writer": "UgyoxLklufEhklGg8Pl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 프록시 편집하면 이 두가지 방법보다 더 쾌적하게 편집 하실수 있어요. 자세한건 제가 올려둔 영상 있으니까 한번 보러오세요",
+        "writer": "UgzhlEVWjThCQGnCdAl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짧다, 더 배우고 싶은데(T T)",
+        "writer": "UgzQF5XnWzNx4oxMZbB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말 오랫만에 프리미어를 올려주셨네요 감사합니다. 자주 좀 부탁해요",
+        "writer": "UgxLUX-4BqX3KIYTrnN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 보고 많이 배우고 있습니다 .감사합니다.",
+        "writer": "Ugzq_ciuqS8hyT1qmfB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유용한 방송 늘 감사합니다.. (이름) 즐거운 설 새해 복 많이 받으세요..",
+        "writer": "Ugxyza_oWLe3wa3mOxt4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 감사합니다.",
+        "writer": "UgyckCPbotlBKwsR5A54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 편집하는데 도움이될거같아요...",
+        "writer": "UgzdyUagSn1B6A8_Mvh4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 나의 마음의 소리를 들으셨오요",
+        "writer": "UgwtcNlFLaS7etxOfj14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캉(이름)도 새해 복 많이 받으시고 올 해도 변함없이 같이 열공해 봐요 . 저 또한 더 디자인 실력을 늘려서 여러분들에게 더 퍼드릴 수 있도록 노력하겠습니당.",
+        "writer": "Ugw4HFFhVEtyoB9uSJV4AaABAg.94GG1gPE5cs94Hca3RFI1S",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞서 알려드린 강좌중 사진을 영상으로 만드는 강좌처럼 키(반사회적용어)을 이용해서 영상등의 크기를 키웠다 줄였다 할 수 있어요 자막이 보이게 하는건 저는 맥용 mousepose 라는 앱으로 하는건데 윈도우도 비슷한 기능을 가진 어플이 많이 있답니다 ) 나중에 강좌로도 알려드릴 수 있도록 할게요",
+        "writer": "UgxE4IUX7Uw9butIRUl4AaABAg.94CXf54deEc94DAiqiuD9U",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 검정동그라미로 하면서 확대하는게 영상편집하면서 하시는거군요. 자막은 그런 프로그램이 따로 있는거거고. 이해한거맞겠죠 알려주셔서 너무 감사합니다..",
+        "writer": "UgxE4IUX7Uw9butIRUl4AaABAg.94CXf54deEc94DC7jvl3vj",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 맞아요 ) 화면 확대 축소는 프리미어 자체에서 키(반사회적용어) 줘가며 직접 하는거고 자막이 나오거나 스포트라이트 효과는 개별 프로그램이 있답니다 )",
+        "writer": "UgxE4IUX7Uw9butIRUl4AaABAg.94CXf54deEc94DFTdQd7eM",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야호 핑쿠냔님도 새해 복 많이 받으시고 올 해도 같이 열심히 공부해 봅시다",
+        "writer": "UgyoxLklufEhklGg8Pl4AaABAg.949IO536WXD94AimUP1BJ0",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 프로시 편집도 좋죠 ) 하지만 매 영상을 변환해야하는 귀찮음이 ,",
+        "writer": "UgzhlEVWjThCQGnCdAl4AaABAg.9486Ve8427r949BR045wrT",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 카메라 촬영하실때 프록시 촬영 기능이 있으면 프록시 촬영 기능 활성화 하시면 원본영상과 프록시 영상 같이 저장되요.",
+        "writer": "UgzhlEVWjThCQGnCdAl4AaABAg.9486Ve8427r94AfW2cAqlH",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼른 다음 강좌도 준비할게요..",
+        "writer": "UgzQF5XnWzNx4oxMZbB4AaABAg.947YkcC-tHH94838vWN9Z9",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 강좌는 항상 깔끔하고 알차네요 감사히 잘보고있습니다... (이름) 화이팅...",
+        "writer": "UgzQF5XnWzNx4oxMZbB4AaABAg.947YkcC-tHH96R5j013zaM",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일주일에 최소 하나의 튜토리얼 강좌는 올리고 있답니다 다른 강좌들도 있다보니 , 조금 늦더(반사회적용어) 이해 부탁드릴게요",
+        "writer": "UgxLUX-4BqX3KIYTrnN4AaABAg.946gMIYi9gK9482mbQjrf1",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 넵 감사합니다",
+        "writer": "UgxLUX-4BqX3KIYTrnN4AaABAg.946gMIYi9gK949qJIds7pR",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼른 다음 강좌도 준비할게요 고마워요",
+        "writer": "Ugzq_ciuqS8hyT1qmfB4AaABAg.946dMzYysfw9482hz213FQ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짝짝짝 )",
+        "writer": "UgyELR4ixTENq6bP90N4AaABAg.945Q2eVpNfB945WC0ryhHK",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쿠 벌써 설이 다가오네요, 언제나 감사합니다 .",
+        "writer": "Ugxyza_oWLe3wa3mOxt4AaABAg.945LgbuxyYM945W5PU4nGQ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금더 빠른 편집 속도를 위해,",
+        "writer": "UgyckCPbotlBKwsR5A54AaABAg.945JxbOrWt5945VwyFDMCb",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나중에 꼭 설정해 보세요 그나마 조금이(반사회적용어) 더 쾌적한 편집이 가능할거예요.",
+        "writer": "UgzdyUagSn1B6A8_Mvh4AaABAg.945AiDLhtX4945VnxfBG6T",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오호 ).",
+        "writer": "UgwtcNlFLaS7etxOfj14AaABAg.945A7pe8d4b945Vl0I7wjL",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=djEs87i_Zqk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

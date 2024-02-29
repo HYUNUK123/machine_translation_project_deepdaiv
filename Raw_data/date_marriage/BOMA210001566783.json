@@ -1,0 +1,2420 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001566783",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOMA210001566783"
+    },
+    "text": [
+      {
+        "content": "웃짜가족처럼 재밌게먹으면 더맛있어요 웃짜님들은 어떻게 재밌게 먹나요 늘웃짜",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 하나는 제가 너무 좋아하는 히히는",
+        "writer": "UgzdmJqlW_UUb-ajj894AaABAg",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하 그리고 (비속어)같이 한 내요",
+        "writer": "UgzAkqPEIz36SjQkLQp4AaABAg",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘째있죠 그리고 이름은 푸딩이 미래의",
+        "writer": "UgzMwLBS9GsqPpxJcKB4AaABAg",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜 가족은 멀 봐도 재밌있어요 재미있는거 울려주세요",
+        "writer": "UgxvRJK4yC-ODy2anUF4AaABAg",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸름이 찐짜웃겨",
+        "writer": "UgwMsM4Z8CfSjS4YH8t4AaABAg",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "40초때 벗겨지는거 넘 웃김",
+        "writer": "UgzYJ7Ww5IXTw220l3l4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요로 힘을 주자.",
+        "writer": "UgyHuhHZFncafKPG1-B4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌다 진짜 진짜 진짜 재밌다",
+        "writer": "UgyitZDnrxA_X3vEKUR4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌어 재밌다",
+        "writer": "Ugwnj1ioYJxd1IuuZMx4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 간장치킨이에요",
+        "writer": "UgwPXcsrgySv7S03fx54AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨 맛있게다",
+        "writer": "Ugyejvk8dZmBkemr72x4AaABAg",
+        "write_date": "2021-06-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 많았던 치킨이 다 사라진",
+        "writer": "Ugw6_aijD5Wnfvdkc-Z4AaABAg",
+        "write_date": "2021-05-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨 먹고 시픈데 짜증 나 니 깐 안 보야지",
+        "writer": "UgxZwNLChDRT--8D4YZ4AaABAg",
+        "write_date": "2021-05-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족이님 근데 왜 구독자수가 천명이에요",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4694_73-Objfs",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카틱틱(이름) 틱톡에 비하면 적은 수지만, 다 사랑하는 구(이름)이죠 구독자 수 팍팍 늘어나게 열심히 잼나게 만들겠습니다.",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4694_9Gq3fGWL",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 네....",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4694_JH5SwF8Y",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 사실 틱톡보고 왔는데요 너무 재밌어서 구독누르고 좋아요도 누를려고 영상 많이 찿아서 눌렀어요 비록 오늘 팬이됬지만 영상 올라올때마다 좋아요 누르게 습니다",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4694bQzsFzu0B",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6057 aqua 와 감사합니당. 오늘도 웃짜가족 촬영했어요. 더재밌는 영상 올리겠습니다.",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4694bhOyeWkU3",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "틱톡보고 왔어요.......",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4695lL-eHXWNQ",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초코웃짜님 환영합니당 오늘도 웃짜",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4695lRGpy48CA",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "틱톡 글쎄요 그냥 재밌게 찍으면 되는것 같아용",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS4695lUhLZoUpw",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 전 엄마가 치킨사오면 그냥 먹어요 콜라 필쑤.",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469BHdpPxQmze",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카틱틱(이름) 이제만명됏어",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469C6vCFV8RKK",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재희와엄마의동영상 반말 하지 말아주세요",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469C6vm9wc62G",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재희와엄마의동영상 반말 하지 말고 재빠르게 사과하세요 지금 1분 지났어요",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469C6vuVYMJr3",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카틱틱(이름) 어릴때영상보셧어요",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469C6wxGNmUsl",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사과하라구요 그건 됬고여 얼른 사과 해두세요",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469C6xUJO_0HB",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카틱틱(이름) 아니껀요.",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469EYHjNgu_wI",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 웃짜가족은구독자가100000000만천까지돼야(이름)데 .",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469EkrtmJsYne",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "햄스터 뭐가요",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469EksJqNHu1u",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 맛있겠다, 쓰,",
+        "writer": "UgwqPn1Ap1ZtWztcOc94AaABAg.94SvZ8-mS469JNoJ9NRH1u",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 웃자(이름)",
+        "writer": "UgwMsM4Z8CfSjS4YH8t4AaABAg.9RSFctsO5JL9RSOgk0QrHi",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히 고마워요 오늘도웃짜",
+        "writer": "Ugwl1phcQjXHo7MuJCp4AaABAg.9NBRve-WMGS9NBSnMVSFE3",
+        "write_date": "2021-06-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 갑자기 배고파 죽겠어",
+        "writer": "UgxxokDw9KhY5TYR2jJ4AaABAg",
+        "write_date": "2021-05-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨 어디 꺼에요",
+        "writer": "UgzBFeOdp5PJb6_S33t4AaABAg",
+        "write_date": "2021-05-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 못하는 뎋",
+        "writer": "UgxiKtP4toD12SGfbCd4AaABAg",
+        "write_date": "2021-04-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠 고무장갑도웃기곸 글씨에서 먹바이써저있엏",
+        "writer": "UgyHGzfY8guRrTeamZF4AaABAg",
+        "write_date": "2021-04-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽉 끼오.",
+        "writer": "Ugy-N_KgC8oxMewaFOh4AaABAg",
+        "write_date": "2021-04-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹바 이렇게됨",
+        "writer": "UgyCx85fsQlRe7apdG94AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마는 달이에요",
+        "writer": "UgwpLNN95dp0_bfE7CZ4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리에 고무장갑 뭐예욬 흐흐흫 재밌어욥 ) 웃짜가족 사랑해요",
+        "writer": "Ugzu-SWcv1mj6fLaDnB4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸짐님은 치킨 닭다리 먹을때 너무 입에 한입으로 크게로 너무 가볍게 들어가는데",
+        "writer": "UgzNB0favr2G62emYvx4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치면 눈알젤리치킨 몰티져스치킨 다조합이다 너무 맜있어보여서 오늘도 웃짜........사랑사랑해요",
+        "writer": "UgxKMiVJNnI4wlv3VFl4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐짜에요 찐짜히",
+        "writer": "UgzmV1Svfod4RvZyAOd4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닭싸움이아니라 닭뼈싸움인거같은데요",
+        "writer": "Ugw7OYfjBl4z4GZ2o5l4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 1번만 본사람 없제",
+        "writer": "UgzeVN3jCZ45sOtqfjx4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨을 먹었으니 오늘도 웃짜",
+        "writer": "UgwIO-frqM5kzHnpLtp4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃자 (이름) 그거 다 먹을 수 있어요 웃자 가족 화이팅 1억명대 겠네 그럼 이만",
+        "writer": "UgxckyzudLxB0cj_B854AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 나머지도 너무 잘먹는거 아님",
+        "writer": "UgzNB0favr2G62emYvx4AaABAg.9KLUCmxte1O9KLUpXdHNjU",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히 고마워요 맛있게 치킨먹어용",
+        "writer": "UgxKMiVJNnI4wlv3VFl4AaABAg.9KKegzpWP2p9KKfSn7IhLe",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크크 웃겼다면 성공.",
+        "writer": "UgxiBXEFIvPqFONd9Gd4AaABAg.9K68Ik-H7Mb9K7MRy0Xo9_",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히 고마워요",
+        "writer": "UgzeVN3jCZ45sOtqfjx4AaABAg.9Jx2PcUR2yL9JzTDdKCSBw",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 너무 팬이에여",
+        "writer": "UgzeVN3jCZ45sOtqfjx4AaABAg.9Jx2PcUR2yL9JzTM_9aJnW",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 우리친구해여",
+        "writer": "UgzeVN3jCZ45sOtqfjx4AaABAg.9Jx2PcUR2yL9JzTNVpzoUZ",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히 고마워요",
+        "writer": "UgxckyzudLxB0cj_B854AaABAg.9JuBFM14lYq9K-cUntlR9V",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨 맛있겠당,",
+        "writer": "UgzKvC4UAxO8fPuAb7h4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸르이 ......",
+        "writer": "UgxkEWgxfABkZvtFvdd4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건우 내가 왜 그렇게 많이 써서",
+        "writer": "UgymgeSLJg4aWRhNIX94AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 (반사회적용어)",
+        "writer": "UgzkqNwOUS5LdmjiFBB4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "42초푸름이 푸짐이 장갑빠지는거 머리커서 아냐 넘 재밌으니 오늘도 웄자",
+        "writer": "Ugw1kj9f-aYtU3Ad72V4AaABAg",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃 웃짜 웃짜가 웃짜가족 웃짜가족사 웃짜가족사랑 웃짜가족사랑해 웃짜가족사랑해요 웃짜가족사랑해요오 웃짜가족사랑해요오늘 웃짜가족사랑해요오늘도 웃짜가족사랑해요오늘도웃 웃짜가족사랑해요오늘도웃짜",
+        "writer": "Ugyf1I0grXSRsal-GWN4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 진짜제미있어 몰폰중 12살여",
+        "writer": "Ugyqw0qWQufSMUNtOJh4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 모두 웃짜",
+        "writer": "UgxNrJcVDFx-QsshJF14AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족은 항상 웃어서 웃짜가족 인가보다 웃짜가족 처럼 재밌게 먹어야징",
+        "writer": "Ugw66TveYQMSir45icd4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넹 굿...",
+        "writer": "UgzKvC4UAxO8fPuAb7h4AaABAg.9JtHGRsiCNJ9Jvyh2efvzZ",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크크네에에에 ..크크크",
+        "writer": "UgwL6d4FNKLvlZoLH454AaABAg.9Jgl_lwQmXY9JhYyJ9M9oE",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "42초에 푸짐이가 아니라 푸틈이에요,",
+        "writer": "Ugw1kj9f-aYtU3Ad72V4AaABAg.9JbjsKp_JUN9JevZzcv8Sb",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 좋아용",
+        "writer": "UgyrA-0_X2LGojqqxxl4AaABAg.9Jb5SFH5OPH9JcG__nD3Rt",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌게봤나용 친구들에게도 웃짜가족 소문많이내주세요",
+        "writer": "UgxraQDILH3YVsteRGx4AaABAg.9JQNcXm7_ad9JSnc9xCpaL",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크킄 감동댓글 너무너무 고마워용.. 크크 오늘도 웃짜",
+        "writer": "Ugyf1I0grXSRsal-GWN4AaABAg.9JQ1UPyEZB39JSG7WjRUHL",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 넹..... 저 (이름)이너무 좋아용 .... 그나저나 여다름 2화는은 언제 나오나용",
+        "writer": "UgwrLdYGbPQ54wFCKc94AaABAg.9JNSIZMZpLa9JP63tewVCs",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몰폰, 에구구. 하지만 웃었다면 성공.",
+        "writer": "Ugyqw0qWQufSMUNtOJh4AaABAg.9JDbUqeS8zg9JFxo_1LEV_",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헤 오늘도웃짜",
+        "writer": "UgxNrJcVDFx-QsshJF14AaABAg.9JB1HIR1Efb9JC2CyDYY0l",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네네 항상웃어야 하는 가족이죠",
+        "writer": "Ugw66TveYQMSir45icd4AaABAg.9J8TNYrk6Nj9JAUd3SDD_9",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜님들 치킨더하기 면는 짬봉 인이 짬봉램덤 먹방 찍어주세욥",
+        "writer": "UgwTJJ1YSFXHbV7eIYp4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치 면 맛궁금하다",
+        "writer": "UgwFBGNH7s6XPrRu7rR4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치떡치떡도 엄청맜있던데",
+        "writer": "Ugzo1b-5j1av3ZQUeVZ4AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박대박 재미있슴",
+        "writer": "UgwaS2dn8r-kfHLcpR94AaABAg",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있게다추릅 저도하나만",
+        "writer": "UgwXZVczO3uRrZcvZ7h4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨을 맜있는 법 알려주셔 감사합니다",
+        "writer": "UgxaoBeRGow9oKGHs094AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상에나온 치킨 어디서 사셨나요 맜있겠당,",
+        "writer": "Ugw8fsMQFJUGg7iQSop4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨이 후라이드면 어떻게요",
+        "writer": "Ugx_vAcFhfwW-PAQHWh4AaABAg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쁘링클좋아해요 웃짜가족은무슨치킨이좋아요 그럼제뎃글에달아주세용",
+        "writer": "Ugx498aAEEk7O7_meNV4AaABAg",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리엨설(혐오표현) 장갑꼈다가 빠진거 뭐임너무 웃겨욬",
+        "writer": "UgwVlrpYQ9SztTookzB4AaABAg",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸름이 완전 귀여워요 근데 급식걸즈에선 밥통이 똑같지만 둘다 귀여워요 두분이 한사람",
+        "writer": "UgyaNm7ebhhmanykHtV4AaABAg",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저때 제 생일이였는뎅 그때는 노느라 저녁쯤에 봤네용",
+        "writer": "UgwdC0XYs04XS13YDQF4AaABAg",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네엡 크크",
+        "writer": "UgyCZVAEmxu1kT3Qhvd4AaABAg.9J5RJITQ3Hs9J7fubsUwSk",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헤헤 고마워요",
+        "writer": "UgwaS2dn8r-kfHLcpR94AaABAg.9IdXQFMfn_M9Ie5OrUMy4x",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 친구들에게도 웃짜가족 소문많이내주세요",
+        "writer": "UgwaS2dn8r-kfHLcpR94AaABAg.9IdXQFMfn_M9Ie63ssduc4",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 오늘도 웃짜",
+        "writer": "UgxnGvGWZ2mFt64_MbR4AaABAg.9IEyw5U4_V49IKdmRYP3oQ",
+        "write_date": "2021-02-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨은 언제 먹어도 맛있죵",
+        "writer": "UgypEHb0nvNZHXp9-6l4AaABAg.9HsseSBygKB9HsxwR9zC4H",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히 오늘도 웃짜",
+        "writer": "UgxpZxSHrsiEnPn_Hfd4AaABAg.9HfbVrwfhf89Hg2f1cQDNg",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처갓집 양념통닭이요",
+        "writer": "Ugw8fsMQFJUGg7iQSop4AaABAg.9HEHMyvlyan9HF2kVqq3VZ",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 감사합니다 넘 재밌어요.",
+        "writer": "Ugw8fsMQFJUGg7iQSop4AaABAg.9HEHMyvlyan9HF3nUrBcFh",
+        "write_date": "2021-01-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕저두치킨좋아해요 저는 황올...",
+        "writer": "Ugx498aAEEk7O7_meNV4AaABAg.9GgJ38ZCcsd9GgJzyzsnNZ",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 히히히히히히히히히히히히히히히히히힣",
+        "writer": "Ugx498aAEEk7O7_meNV4AaABAg.9GgJ38ZCcsd9Gkru7T8RSM",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 별 말씀을요",
+        "writer": "UgyaNm7ebhhmanykHtV4AaABAg.9GgAZNQBhGS9GlTHG-3MUt",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크크곧 돌아오겠네욥...",
+        "writer": "UgwdC0XYs04XS13YDQF4AaABAg.9Gai-ZHFQt89GavpNQKd-f",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재, 밌 .다 _",
+        "writer": "UgxhZtsgdc_1W6Vgm1d4AaABAg",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 들 귀여워요",
+        "writer": "UgxXZ5zPgbx6FV2coml4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 들",
+        "writer": "Ugw4rhMjjxDWdkxHEHF4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 입만 주세요 웄자님들 네....",
+        "writer": "UgzpBSskhKa1KOxSrFB4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해 1000",
+        "writer": "UgzFgLYUW6iXHQFXgRR4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸름이 너무 귀여워요푸짐이는 이(비속어) 치킨 좋아하는데 보길 잘했네용 재밌어요",
+        "writer": "Ugz2I9RONDRbXH1dgmZ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 눈알젤리 21세기에서 사면 2천원이던데",
+        "writer": "UgxZ2Ke9G52nAIyYNC94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 충만치킨이죠 푸짐이 푸름이가 흔(비속어)매 에 출연 하면 좋겠어요 간장 치킨 이예요",
+        "writer": "Ugx76TEelT7bXyoDuMN4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칠면으로 2행시 해 볼게요 칠 칠면는역시 치킨이랑 같이 먹어야 제맛 면 칠면은역시 면치기지.....",
+        "writer": "Ugzx3UKZeaW1VQxvBC94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸짐이님 저도 후라이드 치킨이랑 그리고 양념치킨 간장치킨도 좋아해요",
+        "writer": "UgylxU3jZiatVkBVEwh4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쉽지만 어쩔수없죠",
+        "writer": "Ugx55C2dJAKKm3eeZLF4AaABAg.9Fne0BBwdYF9Fp-ms4g6pT",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히 고마워요",
+        "writer": "UgxhZtsgdc_1W6Vgm1d4AaABAg.9FndapKL1R49Fp-ebaDws0",
+        "write_date": "2020-12-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히 그러고싶어용",
+        "writer": "UgzpBSskhKa1KOxSrFB4AaABAg.9EphLidWl0w9Er3Iqb9ysB",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히 흔(비속어)매 너무좋지요",
+        "writer": "Ugx76TEelT7bXyoDuMN4AaABAg.9DtYkhv5dcY9DthyrTDIzn",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출연 꼭 해주세요",
+        "writer": "Ugx76TEelT7bXyoDuMN4AaABAg.9DtYkhv5dcY9DtiGZfm8nA",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역할은 푸짐이가 흔(비속어)매 친동생 푸름이는 친동생 의 여동생 으로용",
+        "writer": "Ugx76TEelT7bXyoDuMN4AaABAg.9DtYkhv5dcY9DtiUKbzj3T",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키키키 역시 면치기지....",
+        "writer": "Ugzx3UKZeaW1VQxvBC94AaABAg.9DfQCd5qxTw9DkKNAKft6t",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워용 우린소중하니까 오늘도웃짜",
+        "writer": "UgyUEYD1-zDdXc4EJLx4AaABAg.9DYR8bXRYlQ9DYVpXP-KKM",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨은 진리에욧",
+        "writer": "UgylxU3jZiatVkBVEwh4AaABAg.9DSC7fRIeyT9DSRAXTbpq1",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 인정 이요",
+        "writer": "UgylxU3jZiatVkBVEwh4AaABAg.9DSC7fRIeyT9DYSoml_M1j",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸짐님 신기해요",
+        "writer": "UgxnNcIVzxGJY6Iw6J14AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "북침 카톡 친추 침 (비속어)침",
+        "writer": "Ugw88_MuYnHFBMJmBOR4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저희 집에 바퀴(반사회적용어) 이만큼 있는 바퀴(반사회적용어)가 있어 가지고 오늘 아빠 방에서 자야 될 거거든요 제가 안 하면은 또 나와야 되고 다른 집으로 이사 가야 돼요 치킨은 맛있겠네요 유튜브 좀 매일매일 볼 거니까 오늘도 웃자",
+        "writer": "UgzxGufmK4LugvoMyXd4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 치킨 재밌게 먹었으면 좋겠다",
+        "writer": "UgwW8OGTaPfnq9qPNTt4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃 웃짜 웃짜가 웃짜가족 웃짜가족",
+        "writer": "Ugwk7rnTXJoIoHqnY-R4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 밥통이다 ............",
+        "writer": "UgzXSiuip6N4P4wwhNp4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재미있어 구독 해야지",
+        "writer": "Ugxwt-dkzHxyKOU6Z9J4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃 웃짜 웃짜 가 웃짜 가족 웃짜 가 웃짜 웃",
+        "writer": "Ugw2y3z8F23H6FN98Fh4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강추 강추",
+        "writer": "UgzqxeQO0mvLk8WxcDZ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 구독자만명도 많지만 틱톡이 더많네요재가 친구들한테. 재밌다고 구독누르라구말하게여",
+        "writer": "UgyknQ39MpH7YwTxGKl4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닭이 자라서 엄마가 됀건데",
+        "writer": "UgypucHE-AgpNDH03Xh4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 고마워요오늘도 웃짜",
+        "writer": "UgyF6KfxZAyPXj6Jta94AaABAg.9D8c0Tbrdw89D8kVPXDNC6",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 머가신기한가욥",
+        "writer": "UgxnNcIVzxGJY6Iw6J14AaABAg.9D0ifXxWbQe9D0tZ9djvwO",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "급식걸즈보다 더욱 재미있게 만들게용.크크",
+        "writer": "Ugwy170sr-dvvlix_IV4AaABAg.9CyEtWo65ho9CzlOniDIfP",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 우앗.크크",
+        "writer": "Ugw88_MuYnHFBMJmBOR4AaABAg.9CvqB3uXCIH9Cz72uqYyk8",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바퀴(반사회적용어) 무서워요 앞으로도 우리 자주 봐용.오늘도 웃짜",
+        "writer": "UgzxGufmK4LugvoMyXd4AaABAg.9CvpxC_Avaf9Cz6vq8QdaV",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 치킨먹을때 랜덤먹방어떨까용 크크",
+        "writer": "UgwW8OGTaPfnq9qPNTt4AaABAg.9Cvpn6FDh1r9Cz6qbP_E8S",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃 웃짜 웃짜가 웃짜가족 웃짜가족 웃짜가 웃짜 웃",
+        "writer": "Ugwk7rnTXJoIoHqnY-R4AaABAg.9CtOeDuqV8U9CtOmIwVuwv",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무고마워용 피라미드",
+        "writer": "Ugwk7rnTXJoIoHqnY-R4AaABAg.9CtOeDuqV8U9CtTQriBa4a",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 푸름이가 깜빡엄마 역할도하구요. 급식왕 급식걸즈에 나갈때 밥통이란 이름써요.",
+        "writer": "UgzXSiuip6N4P4wwhNp4AaABAg.9Cp6F46OXza9Cp6taqyJRa",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 재미있어",
+        "writer": "Ugxwt-dkzHxyKOU6Z9J4AaABAg.9CcCGKHm82Z9CcCSlLpWPz",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구들에게도 소문많이내주세용",
+        "writer": "Ugxwt-dkzHxyKOU6Z9J4AaABAg.9CcCGKHm82Z9CcFRCr1_mm",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 오늘도웃짜",
+        "writer": "Ugw2y3z8F23H6FN98Fh4AaABAg.9C_QF130vL79C_RwSjGZmx",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 오늘도 웃짜",
+        "writer": "Ugw2y3z8F23H6FN98Fh4AaABAg.9C_QF130vL79C_ThyiL3bc",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 오",
+        "writer": "Ugw2y3z8F23H6FN98Fh4AaABAg.9C_QF130vL79C_U26dARdV",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구들에게도 웃짜가족 소문많이내주세용",
+        "writer": "UgzqxeQO0mvLk8WxcDZ4AaABAg.9C_PtFlMhos9C_QyUfVrse",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 우왕 고마워용... 영상 재미있게 보셨나용 크크 오늘도 웃짜",
+        "writer": "UgyknQ39MpH7YwTxGKl4AaABAg.9CHCnsB1Pjb9CHoeJgjj8x",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워용 오늘도웃짜",
+        "writer": "UgyxE7aLfHM2ETbQejN4AaABAg.9C6u6d7-UU59C748Gnztfb",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 내",
+        "writer": "UgyxE7aLfHM2ETbQejN4AaABAg.9C6u6d7-UU59C77jdKCGgq",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 고런가요 크크 그럼 닭이 먼저에요 달걀이 먼저에요",
+        "writer": "UgypucHE-AgpNDH03Xh4AaABAg.9C4uPWYy3Tk9C5Ff0WpZ-x",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 닭이요",
+        "writer": "UgypucHE-AgpNDH03Xh4AaABAg.9C4uPWYy3Tk9C5GSRfO5HO",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜냐면요 달걀은 닭뱃속에서 테어나고 (반사회적용어)리는 거의 자란거고 닭이 다자란 어른이예요 근데 푸름이예요 아님 푸짐이예요",
+        "writer": "UgypucHE-AgpNDH03Xh4AaABAg.9C4uPWYy3Tk9C5Gp-mFixb",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 푸짐이에요",
+        "writer": "UgypucHE-AgpNDH03Xh4AaABAg.9C4uPWYy3Tk9C7597UIJTd",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸름이랑 같이있어요",
+        "writer": "UgypucHE-AgpNDH03Xh4AaABAg.9C4uPWYy3Tk9C79V_Ben19",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이따가 회으하러.",
+        "writer": "UgypucHE-AgpNDH03Xh4AaABAg.9C4uPWYy3Tk9C7BsZtM_CY",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님은 새로운 구독자를 찾았습니다. 오늘 저녁은 치킨이닷..",
+        "writer": "UgwHkiR32WKJp46FCfR4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 웃짜",
+        "writer": "UgzpcTtpnoL8I4l_3SR4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무웃겨서 구독했서여. 처음엔 그냥 봤는데 그 이후로 중독성이 있어서 너무젛아여 .",
+        "writer": "Ugx_hk7NZHV62LwAlJB4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃자 가족 최고 대박",
+        "writer": "Ugy_ilQ61UhoDhhGk2l4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닭장속에는 구독이.. 외양간에는 좋아요..",
+        "writer": "UgxoSMikTsbRUjrvXz54AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있는 치킨....",
+        "writer": "UgyRasvL4cOSdP91OZp4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1.52 재미",
+        "writer": "UgyIKwCgmLuJ8dRXSh54AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 눌렀다",
+        "writer": "UgxJ38H371AfQct0_Wp4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 저렇게 잘 먹지",
+        "writer": "Ugwsrsp-7KcP2UdAq1t4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 비비큐 치킨 좋아해요",
+        "writer": "UgzJZYPp9DSaxOkwVth4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미없어 으",
+        "writer": "UgywtwCJ5w8zaeWByoN4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저녁에 봐 (반사회적용어) 가는 중 (반사회적용어) 가는길에 웃짜가족 보는 중",
+        "writer": "UgxDInQhkGEYYWTeGeF4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 소고기 완전 맛나겠다 부러워용 맛있게 드시고 웃짜",
+        "writer": "Ugw9GpuSBuOIN8wfRwh4AaABAg.9C1SCyyhf_h9C1sC8VlW21",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 맛있겠당.크크",
+        "writer": "UgwHkiR32WKJp46FCfR4AaABAg.9BxCrYkI50y9BxT-M5XKfz",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 갑자기 배가고파진다",
+        "writer": "Ugz8uZtX8kAunl-RZs14AaABAg.9Bv8zLGCwG99BvDcRxuGtC",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히히히히 그런중독이라면 환여합니당",
+        "writer": "Ugx_hk7NZHV62LwAlJB4AaABAg.9BlAwI8zQ5r9BlatjCdGzX",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왓짱짱 여기까지오셨네욧 제키팡팡웃짜님",
+        "writer": "UgxoSMikTsbRUjrvXz54AaABAg.9BjU-5utvCW9Bjaj-oyG1-",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨은 늘 맛있어용",
+        "writer": "UgyRasvL4cOSdP91OZp4AaABAg.9BP8wxUOWlS9BPu-fu7Ji3",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 저는나경이에요.",
+        "writer": "UgyRasvL4cOSdP91OZp4AaABAg.9BP8wxUOWlS9EbgPr0lGHq",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는매워요.음, , 하하하",
+        "writer": "UgyRasvL4cOSdP91OZp4AaABAg.9BP8wxUOWlS9EbgfrXD4MR",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크크 재미있었나욥",
+        "writer": "UgyIKwCgmLuJ8dRXSh54AaABAg.9BKCUY10Wdd9BKF40_3zet",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨은 언제먹어도 맛있어요",
+        "writer": "UgyM0i2Td7v9Vm1N9sV4AaABAg.9BKC5oUjOf_9BKF4sybfoG",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 태균웃짜님 고마워용",
+        "writer": "UgxJ38H371AfQct0_Wp4AaABAg.9BHbsxOlFz09BHcdbGS_Yk",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 오늘저녁 치킨어떤가용 크크",
+        "writer": "UgwXM4YjaDP-E74kOoh4AaABAg.9BHbqIE9_D_9BHcegYgpox",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히 잘먹습니당",
+        "writer": "Ugwsrsp-7KcP2UdAq1t4AaABAg.9BFTqJf_8499BFU5xDIyPV",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알림까지 꾸욱",
+        "writer": "UgxWNawjXLOicfaJrD94AaABAg.9BDFVAeUTRm9BEYadDx5ql",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 비비큐 치킨도 맛있죵",
+        "writer": "UgzJZYPp9DSaxOkwVth4AaABAg.9BC8NciIylH9BCNuBvi5h4",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 금빛웃짜님 재미있게 보셨다면 오늘도 웃짜",
+        "writer": "UgzLfp1iAhE4etG4jOR4AaABAg.9BC4GEXquOb9BCNnkA9Rpq",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 웃짜가족도오늘도 웃짜",
+        "writer": "UgzLfp1iAhE4etG4jOR4AaABAg.9BC4GEXquOb9BCOY8ECzor",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른영상은 재미있을거에욥.크크",
+        "writer": "UgywtwCJ5w8zaeWByoN4AaABAg.9B1zJatGu--9B2H5V1W1Qi",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 1959년에",
+        "writer": "UgzF8RqkXtvxcMt7rEh4AaABAg.9AyqN_D99Td9AyqkQMGMHd",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 보셨나용 크크",
+        "writer": "UgzF8RqkXtvxcMt7rEh4AaABAg.9AyqN_D99Td9B-7bLqlgPY",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 재밌게",
+        "writer": "UgxDInQhkGEYYWTeGeF4AaABAg.9Ata_d5Mh0g9Auj_onqTcB",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃 웃짜 웃짜가 웃짜가족 웃짜가족영 웃짜가족영원 웃짜가족영원히 웃짜가족영원히구 웃짜가족영원히구독해 (웃짜가족영원히 구독해)",
+        "writer": "Ugx6YJWe6VcooNWhR9B4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 웃짜",
+        "writer": "UgyCmHR9cqs5bBSy7Dl4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃 웃짜 웃짜가 웃짜가족",
+        "writer": "Ugw1Qz8u2p6iZhV4yIB4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃 웃짜 웃짜가 웃짜가족",
+        "writer": "UgwerX8sH9MYCDWrPYx4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 푸짐이랑 푸름이 더 자라고 있는거 같아요 어떻게 자라냐면요 옆으로 자라요",
+        "writer": "Ugyk4Q02MnTwEgB610h4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 만나 보는 거랑 웃짜가족이 답글달아주고 하투 주는거 소원 오래 전부터 팬이에요 소원 들어줘요",
+        "writer": "Ugxx6jMhNlXPs41FF9F4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와침이센다침이고여요 다이어트중인데와이거항상봐야겠다 먹방또맛있게또찍어주세요...",
+        "writer": "UgwVSNLTFF_7b1Tf_9J4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)라고 할때 진짜 닥치라는줄",
+        "writer": "UgxYkm98Tv4sFJZfEzZ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있겠당 맛있겠어서침홀련네 나랑똑깟은기분인사람",
+        "writer": "UgwwdrpsRIQATLu113t4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 눌렀어요....",
+        "writer": "Ugy101ggHQY-6ll8_oB4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나치킨 좋아하는데",
+        "writer": "UgwmnsBfA3kg2yu0mVR4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네당연하쥬구독 좋아요 안누르는 사람 없겠죠 (인정 )",
+        "writer": "Ugx2MHAfsk6JU7sya054AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁뎅이가 지켜보고있다면,",
+        "writer": "Ugz5_Ade8f4o-kGzaf94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 영원히 구독",
+        "writer": "Ugx6YJWe6VcooNWhR9B4AaABAg.9Ata6cHLytp9Atb7JTRNx7",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 선영웃짜님 고마워용크크 오늘도 웃짜",
+        "writer": "UgyV9keY_1RDParO3XB4AaABAg.9AqLUmx2N7x9AqomlLFrKV",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 넴..",
+        "writer": "UgyV9keY_1RDParO3XB4AaABAg.9AqLUmx2N7x9Aquauzc_z6",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 우리 나중에 꼭 만나요..",
+        "writer": "Ugxx6jMhNlXPs41FF9F4AaABAg.9AqFTuDQnwI9Aqn24uBoeI",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으악 꿈이야 생신이야 고마워요 네 못만나도 꿈에서(반사회적용어) 만나요 그럼 저는 자러 이만",
+        "writer": "Ugxx6jMhNlXPs41FF9F4AaABAg.9AqFTuDQnwI9Ar-Vse9ejY",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 님 오늘도 웃짜",
+        "writer": "Ugxx6jMhNlXPs41FF9F4AaABAg.9AqFTuDQnwI9Ar-_4RnHTQ",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙긍렁뎅용 정능 앙깅영 성 긍장릉 몽성요",
+        "writer": "Ugxx6jMhNlXPs41FF9F4AaABAg.9AqFTuDQnwI9D0k2DBlwbD",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹방 또 찍어볼게용.. 재미있게 보셨다니 고마워용.. 크크 오늘도 웃짜",
+        "writer": "UgwVSNLTFF_7b1Tf_9J4AaABAg.9AloN7Xufkg9Am1hARBnNe",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 아니에용크크 재미있게보셨나용",
+        "writer": "UgxYkm98Tv4sFJZfEzZ4AaABAg.9Ag9saO_NAA9AgXNLnprzT",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크크맛있어용...여광웃짜님 오늘도 웃짜",
+        "writer": "UgwwdrpsRIQATLu113t4AaABAg.9AaYKR8AC1B9Ab3ntxTgTQ",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족이 잘먹긴해요",
+        "writer": "UgwPkn67LcDyJkZbwDl4AaABAg.9ARZBbZI9v09ARe-yw5agb",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨이요 먹구싶당",
+        "writer": "Ugw_jGc5hTJ3BW6F6gl4AaABAg.9AFJZfPS-Ma9AFbN54fT7O",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌었나요 우린소중하니까 오늘도 웃짜",
+        "writer": "UgxgHiiNgWxcqMD2VW94AaABAg.9A50Q6MUlY69A6SDFW1pNh",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당잔이용 크크",
+        "writer": "UgzpKSvv8gJY5ZV3qql4AaABAg.9A2oaUwReXd9A2uTX0bouv",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨은 항상 맛있어용.",
+        "writer": "UgwmnsBfA3kg2yu0mVR4AaABAg.9A2Ykg8Yd0Q9A2tlz7lhWZ",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헛, 글쎄요",
+        "writer": "UgwAylWLi8uuXH_C-g54AaABAg.99yMbYvbhKZ99zXwDchdYZ",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 6월17일(이름)",
+        "writer": "UgwAylWLi8uuXH_C-g54AaABAg.99yMbYvbhKZ99zhPZFSoKP",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집계 우와 오늘이네요.. 생일축하합니다 생일축하합니다 사랑하는 두부웃짜님 생일축하합니다",
+        "writer": "UgwAylWLi8uuXH_C-g54AaABAg.99yMbYvbhKZ9A-NI6qwWQd",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 졍답.",
+        "writer": "Ugx2MHAfsk6JU7sya054AaABAg.99d6rZNQf6t99dHqgJ3KYa",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음엔 그냥 치킨먹방인줄알았어요,",
+        "writer": "UgyEYrcQ1kieFzlvcd14AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸짐이랑푸름이 먹을줄아네",
+        "writer": "UgwAjbx1nueQUAqHgot4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜(이름) 개속 댓글 다라주어서 감사합니당",
+        "writer": "UgwKL3Vp5-G9TvoJ0EZ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 발굴 아닌가 발골이인가",
+        "writer": "UgzMbXyspQ4r1BaOAbZ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 맛있어요",
+        "writer": "Ugy4_ZO3C2inSntou2l4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛이 겟다",
+        "writer": "UgywUU57EzwEE7VtNo14AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아맛 이 게 다",
+        "writer": "Ugzk22asHxWbyvIXy6l4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 먹구싶당",
+        "writer": "Ugz6g8W1M1mg0NAWky54AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교촌치킨 아니면 교촌 추천해 드릴게요",
+        "writer": "UgxBfqnwBgCqtm7494t4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 교촌치킨이에요",
+        "writer": "Ugz_5xPqkJWI9jbL6LJ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있겠다 꿀께 침흘링",
+        "writer": "UgzbCMwxlGXrZu9r3qN4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살이 괜히붙는게 아니죠",
+        "writer": "UgwAjbx1nueQUAqHgot4AaABAg.98Ye1RpIjWy98ZDoTgoaFg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한비웃짜님크킄 재미있게 보셨다닝 감사합니당",
+        "writer": "Ugx61l0Dz1CVTNCNMdZ4AaABAg.98QgbXMrphM98Qu6jKNOAI",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현호웃짜님을 웃겼다니 성공 오늘도 웃짜",
+        "writer": "UgxxEANP_6YMRLl8NSR4AaABAg.98HClE_p_T898HI4ohbb3k",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨은 늘 진리죠",
+        "writer": "Ugy4_ZO3C2inSntou2l4AaABAg.98ETyVzvO-U98GAJxVWhh4",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교촌은 아니구처가집양념통닭이였어용 담엔 교촌으로",
+        "writer": "UgxBfqnwBgCqtm7494t4AaABAg.97iPfyu14S-97iWPhQD-Mt",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있겠나요 다음 랜덤 먹방도 기대해 주세용 오늘도 웃짜.",
+        "writer": "UgzbCMwxlGXrZu9r3qN4AaABAg.97h1QNfbvdk97h1oQ0M7Hi",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 웃짜1",
+        "writer": "UgzbCMwxlGXrZu9r3qN4AaABAg.97h1QNfbvdk97sXyt2OHxk",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜(이름) 다음엔 피자먹방해주세요 오늘도 웃짜",
+        "writer": "UgzbCMwxlGXrZu9r3qN4AaABAg.97h1QNfbvdk97sYT_nqitT",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(너무 귀엽잖아 )",
+        "writer": "UgzbCMwxlGXrZu9r3qN4AaABAg.97h1QNfbvdk97s_-SE7tan",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 화이팅하세요 10000만가즈아",
+        "writer": "UgzbCMwxlGXrZu9r3qN4AaABAg.97h1QNfbvdk97s_926tXb_",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜가족 여러분 모두 즐거운 주말 보내세요 오늘 하루 잘 마무리 하시고 행복하세요",
+        "writer": "UgzbCMwxlGXrZu9r3qN4AaABAg.97h1QNfbvdk97sbpTZqt0a",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸짐이 대단하네요",
+        "writer": "Ugx9-ItulVMWwhKJmJF4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵 꿀잼",
+        "writer": "UgyVv5F3yybnYx88wU54AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밋쪄여... 헤헤헤 푸름이 짱...",
+        "writer": "UgxmNiu6gu3AVeLYfG94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 웃짜 가족 먹방은 달라. 너무 재미있게 봤어요.",
+        "writer": "UgwhVfb2WT_uAlSp8o94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목이 (반사회적용어)셧네요,",
+        "writer": "UgxDCHvZEzNgaNf85054AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 사겨여",
+        "writer": "Ugx9b8KOn7XPbasJ6dN4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부먹 파다",
+        "writer": "UgynQcgKG--agHkN_nZ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이좀 많이 닮았네",
+        "writer": "UgxXlvCSta-z7wCXW2t4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "때 (비속어) 말해서 진짜 웃겨요",
+        "writer": "UgwE63prQAiUIdIorMx4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 치킨 뭐예요 진짜 맛있어",
+        "writer": "UgzmokdCMLCwCg29EJ14AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃음소리가 저랑 똑같네요 , 흐흐흫 헤헤헤 흐흐흫",
+        "writer": "UgzjCWgjgDGdksW_xEx4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4042 꿀잼",
+        "writer": "UgxQP_kfh54snZ_wQfp4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)님 (비속어)탱",
+        "writer": "UgwYyoK1711AZgVzlrB4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸름이 너무 귀여워요 푸짐이 이영잨 치킨 조아하눈데 보길 잘 했어요 꿀재미에영",
+        "writer": "UgwKkFjjhpCLczavGiV4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 웃었다면 성공 친구들한테도 무한공유",
+        "writer": "UgyVv5F3yybnYx88wU54AaABAg.97UvIb5LmGf97Uw5BkFBRL",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 유라웃짜님 고마워욧",
+        "writer": "UgwhVfb2WT_uAlSp8o94AaABAg.97PjlX4nB1s97PqYaAx7Qi",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃짜 (이름) 다음에 오(비속어) 잘때 얼굴에 얼음 한 바가지 부우고 점토 부수기 오빠 손에 올려주세요. 웃짜 웃짜",
+        "writer": "UgwhVfb2WT_uAlSp8o94AaABAg.97PjlX4nB1s97Pr9Ec01NH",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여유라 . 우린소중하니까 오늘도 웃찐",
+        "writer": "UgwhVfb2WT_uAlSp8o94AaABAg.97PjlX4nB1s97QSQyLjdIp",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처가집 양념 치킨이에요 맛있어용",
+        "writer": "UgzmokdCMLCwCg29EJ14AaABAg.95p4WvCNttF95pBLySm5jA",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸름이랑 웃음소리가 똑같나요 그럼 인기인",
+        "writer": "UgzjCWgjgDGdksW_xEx4AaABAg.95mXFACogSD95mab6dNhTk",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예름웃짜님도 최고",
+        "writer": "UgxQP_kfh54snZ_wQfp4AaABAg.95I6aSp1VSa95L5n6cXDID",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주연 웃짜님 감사합니다. 다음엔 어떤 재밌는 먹방을 해볼까요",
+        "writer": "UgwKkFjjhpCLczavGiV4AaABAg.95CvrPw3k-395DfGGl7gmF",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓이 왜 별로 없지",
+        "writer": "UgywnincU1PKmGjc1wd4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작부터 웃겨",
+        "writer": "UgwQbwsxeITDx6Bf9ZB4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "틱톡영상 보고 보러왔어요",
+        "writer": "UgyoF6urXvCOmBT21hN4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿀잼인 사람 출구",
+        "writer": "Ugy6y7I5_DqTZLsw8Ld4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 눈알젤리 먹었어요.",
+        "writer": "UgxJrUT6-V4aFJTOk0h4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸짐이가 좋아요 내스타일",
+        "writer": "UgyWXUU9k6oNsfmTv194AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔까 저 남자분 레몬도 잘 먹을듯",
+        "writer": "Ugxs0KrPpdFpgBXOxpx4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 틱톡은데렐라에요 구독 눌럿어요",
+        "writer": "UgwKo5Ey-ogxGrVXt9t4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 오늘 치킨 먹었는뎅.. 완전 잘 드시는듯 해용",
+        "writer": "UgwaFi1MnJBxh1nx9Wd4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 매워요.",
+        "writer": "UgwZACIjtb_L6rd14uh4AaABAg.94lG_to0Yh59Ebgm0Spjqn",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고네요 늘웃짜",
+        "writer": "UgwpoQd5PJc1ktuhn4B4AaABAg.94gi95rNH6R94gjb95EY71",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루스웃짜님 환영합니다 늘웃짜",
+        "writer": "UgyoF6urXvCOmBT21hN4AaABAg.94g6mclLwTl94g7xp8mxnN",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 맛있었겠다",
+        "writer": "UgxJrUT6-V4aFJTOk0h4AaABAg.94dVMk4Goz194df0aCpt7o",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네, 정말 잘먹습니다.",
+        "writer": "Ugxs0KrPpdFpgBXOxpx4AaABAg.94Yh0Euszwd94bthE6AaMl",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은데(이름) 환영해요 틱톡에서 와주셔서 감사감사 친구들에게 입소문 많이 내주세요 늘웃짜",
+        "writer": "UgwKo5Ey-ogxGrVXt9t4AaABAg.94WrFIl_Gbk94btm7VPApi",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 너무 재밌고 너무 재밌고 저가 국도 눌러줄게요",
+        "writer": "UgwaFi1MnJBxh1nx9Wd4AaABAg.94Stf-m4dxJ9JXU9Bgsqu9",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정금자 구독입니다",
+        "writer": "UgwaFi1MnJBxh1nx9Wd4AaABAg.94Stf-m4dxJ9KW8zGcwCaR",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌어요.",
+        "writer": "Ugw0e60fXIxp4zKgjnx4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는촬영이 짱이쥬 (반사회적용어)갬성 좋네요",
+        "writer": "UgzQUxbS3uk67LMdH2d4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠 안좋아요 하나도 없엌",
+        "writer": "Ugx78eJMlLD_Hm4egt94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄청나게 꿀잼이에요.",
+        "writer": "Ugy0aPeGIpKLSfz1nBR4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요 좋아요 좋아요 좋아요 좋아요.",
+        "writer": "Ugyi4usHIegddo2MaM94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵 귀욥따 웃자가족 대(이름)아아",
+        "writer": "Ugy2Yv3wi1g52OxdRz54AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고무장갑 현웃",
+        "writer": "Ugy9ysKVAUptNDa0ORl4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오른쪽 친구는 치킨 10마리는 먹을듯",
+        "writer": "UgybSWn7-_BDo0UfBkV4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸짐이 마우스피스 내 웃.",
+        "writer": "UgxapJQW26LxnkHPxud4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몰티져스 맛있겠당",
+        "writer": "UgyQlxqqZYf0ZycyxAN4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌네요 후,",
+        "writer": "UgwMIIXyngZBnGoZzfJ4AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연떠찡웃짜님 재밌게 봐줘서 너무 고마워요. 구독과 좋아요 해주시고 홍보도 부탁해요 늘웃짜",
+        "writer": "Ugw0e60fXIxp4zKgjnx4AaABAg.94Spv4XwcgP94btwecI6rM",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉬지않는 드립의 연속스킵이불가능한 영상이에요",
+        "writer": "UgzQUxbS3uk67LMdH2d4AaABAg.94SkIpCLFSA94SkRnO-pyf",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안좋아요가 생기긴했네욬 안좋아요 없게 더 잼나게 만들어볼께요 늘웃짜",
+        "writer": "Ugx78eJMlLD_Hm4egt94AaABAg.94SitnRn3ru94btzdI22HL",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 뮨달웃짜님 쵝오..",
+        "writer": "Ugx2HlcVN4GacEdI-bt4AaABAg.94Shd45X6gZ94bu0Jp_Jum",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 8",
+        "writer": "Ugx2HlcVN4GacEdI-bt4AaABAg.94Shd45X6gZ9CcBr34woD6",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽게 봐주셔서 너무 좋아요 감사합니다. 늘 웄짜",
+        "writer": "Ugxj6saEVbioA-xxFKZ4AaABAg.94ScfwJ9qrT94bu3LXyYIC",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕 나는 민서엄마야",
+        "writer": "Ugweek1gwhdQlAbTEEN4AaABAg.94SIbgXNx9h9D0kKiv3aZJ",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 재밌게 봐줘서 고마워요 늘웃짜",
+        "writer": "UgzYDspfsOVp6ghE2Sd4AaABAg.94SHdgtnkyn94bu5KamyR4",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실재 남매 아니라 실재 어른일껄",
+        "writer": "Ugy2Yv3wi1g52OxdRz54AaABAg.94S1C9tz4bO9K5uOSCBvDG",
+        "write_date": "2021-03-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼬끼옼너무 웃기닼",
+        "writer": "UgxFU1mH9bVxWQ6A0B94AaABAg",
+        "write_date": "2020-11-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=hC0scja_abs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

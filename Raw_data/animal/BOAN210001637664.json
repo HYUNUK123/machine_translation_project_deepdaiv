@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001637664",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001637664"
+    },
+    "text": [
+      {
+        "content": "달래가 많이 자랐네요 넘 귀엽고 똑똑해요",
+        "writer": "UgxafOJnZQEknX1wGaN4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(어이 없음) .",
+        "writer": "UgwnDpsNSTSuzTErqW14AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 레이저 빛 금방 쫓아가네요 신기해서 눈을 못 떼는 달래 귀엽네요",
+        "writer": "UgwuU6R2r0cqwT5PqNx4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄 달래야 안녕 오늘도 니네들 보고 있단다 하루도 니들 안보면 눈물났용 고맙다 봄달래",
+        "writer": "UgwDFuP-p-Mgi0Ojgf14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 넘귀여워 가족도 안건드리공 짱귀엽",
+        "writer": "UgzJc2RXqDIed9Ec5X94AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 봄이는 시크한게 매력포인트야",
+        "writer": "UgwhvlX43DN7zeumMBF4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래는 원래 귀여운데 레이져로 굽는 간식과 손도 귀여우세요",
+        "writer": "UgwiypRkZdfksV-L4654AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸 (비속어)꼬발랄 신기함 호기심많음 지치지 않음 엄마 귀찮음, 먹을 것 가지고 장난 치지 말고 그냥 줘",
+        "writer": "Ugw6YTRgxb3S_o4vlvt4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 뒷걸음질 너무 귀엽다",
+        "writer": "UgzkrdznOlSG7Vt87IV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄아 달래야 너무 귀엽고 예뻐 (이름) 늘 영상잘보고있어요",
+        "writer": "Ugz97C0frx64EnRnFa54AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이는 내사랑",
+        "writer": "Ugyd0t1ySBP5l6-AuJx4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 귀여어 .",
+        "writer": "UgxPVrVSaMr8F-P8gH14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 궁뎅이 귀염 만지고 싶다 (비속어) 아님",
+        "writer": "Ugz4i6VUqxz3Zdf5Um94AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 달래가 눈 레이저로 보고있어서 놀랐네",
+        "writer": "UgytI5I-XywnMKZdrLp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실수라 하더(반사회적용어) 레이저빔으로 장난치다가 안구를 비추게 되면 시신경이 파괴됩니다, 그리고 시(이름) 파괴되면 재생이 안됩니다, 레이저로 장난하는 것은 (비속어)들이나 사람 모두에게 너무 위험한 일입니다, 염려가 되어 적습니다",
+        "writer": "UgwjeNS9oCZKbhHoVBJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 봄이 작은 오빠랑 놀아 주는 듯한 이 느낌적인 느낌",
+        "writer": "UgwfDAhKM6Kphs283cV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 달래보며 행복해 집니다,",
+        "writer": "Ugy1pWi2wADQw__ltHB4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래야전생에야옹이었니 숨숨도잘하고넙 귀엽잖아. 봄이는고기다굽고식혀서먹고봄 달래예쁘게키우시는(이름)행복하세요.",
+        "writer": "UgwcKe0sQRj2Ofjt0xJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠는 어쩜 이리 재미나게 놀아줄까 이러니 봄천재. 달래발랄한 창의적이쁨댕이들로 (비속어)수밖에",
+        "writer": "UgwxuHAJyagG4zInYe54AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여움은 한도초과가 맞는거같아요. 그리구 울 달래의 날쌘 몸놀림은 가히 LTE급 수준입니당. 봄이역시 달래못지않은거 아시지유",
+        "writer": "Ugx7is5Noy1DBskYqSl4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 이뻐...",
+        "writer": "UgwEh1WF23xKIrfrRDp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울집 가을이랑 넘 똑같이 생겼다 하는 짓도",
+        "writer": "Ugy_6yDY056wtHp2QEp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 옹동이 올리고 달다다닥 너무 귀여워 역시 봄이는 짠밥이가",
+        "writer": "UgzG6zw3o66cAh6YYLd4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 어이가 없어서",
+        "writer": "UgwehgQSkUehEW_VjwR4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람 같아요, 흰털옷 입은 귀여운 여자아이",
+        "writer": "UgxwOKjAq-g36iSu3CR4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이저 놀이로 처음엔 속았다가 나중엔 레이저로 구운 간식 먹어서 천만다행 이네요",
+        "writer": "UgwwW3PHGSt3Zuurd3N4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이저에 간식굽기 정말 재밌겠네요 봄이랑 달래가 행복한 (이름)이랑 같이 지내니까 너무 좋네요",
+        "writer": "Ugy9NV1b0LXaQrPffVJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄달래야 너무너무 사랑헤",
+        "writer": "UgyY8_TRAToreG9OW2N4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀요미들 오늘도 힐링잘했어요",
+        "writer": "Ugw5CfB2mtshy5yVPH14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 신기한놀이 아가들 진짜 좋아하겠네요너무 재미있네요 봄 달래 너무 귀여웡",
+        "writer": "UgzW21tpVLinckhnjjd4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 시작전인데도 귀엽고 사랑스러운건 머죠",
+        "writer": "UgxUYfhYOysWqgWa3wV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이저 구이 설익지 않게 빠싹 구워주는 정성에 감동했어요",
+        "writer": "UgztWM1bu9wvScz-b2l4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 진짜 착하네요 엄마한테 잘배웠구나",
+        "writer": "UgyS8Rz9-BMt3y6JDQ14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분명 달래라했는데, 봄이같기두하구 또 웃는다봄달래 덕분에 부디 지금처럼 늘함께하자",
+        "writer": "Ugxd7ef9Blj9450k5tl4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄달래 엄마 아빠랑 즐건 주말 보내.",
+        "writer": "UgwA99bKwRaAsESjXIJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 웃겨요, 항상 즐겨보는 구독자입니다 요즘 웃을일이 별로 없는데 즐거움을 주셔서 감사해요 봄.달래는 정말 보기만해도 행복하네요 영상 마니마니 올려주세요",
+        "writer": "UgyskWe_FGAgDq63bB14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역쉬 봄이야 내 딸 하자, 아이 아이 아이 너무 이뻐서 달랜 손주",
+        "writer": "UgxXaEwRLHOMCbatZwp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜달래야 순딩이 봄이야 항상 이렇게만 귀여워",
+        "writer": "UgwetH8CPg3NMT6vEX94AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 마카롱처럼 납작하게 눌려있는 거달래 레이저 너무 좋은가봐요, 표정이 호기심 그 자체..",
+        "writer": "UgycwQqHXYheaMtqrKt4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 표정이 진짜 어이없어 하는 것 같아 귀여워",
+        "writer": "UgwbXS5gROi3AqZN7TJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄달래도 이쁘지만 편집실력이 참 대단하셔요",
+        "writer": "UgyDt3a0W8q1Ap79d9V4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이저로 구운건 어떤맛일까나",
+        "writer": "UgyjuvJRzpaLhwV2SvR4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄달래랑 같이 놀아보고싶다, 저사랑스러움을 눈앞에서 보고싶다,",
+        "writer": "Ugwfk_xUYGHN_GHTet94AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표정 넘 귀여워요 레이저에 푹 빠졌네요.",
+        "writer": "UgzivCGTIYUMWr8HVsF4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 발은, 아는거죠. 달래 smart",
+        "writer": "UgzC5GncjuYwjOLwzZ54AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 직화구이 금방 파악 하고 안속는데요",
+        "writer": "UgzvluYza0aVE7CzcSB4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦은밤 웃음짓게 만드는 유쾌한 영상 잘봤습니다. 볼적마다 너무 귀여워서 꼭(이름)고 싶어요.",
+        "writer": "Ugyz7fPU3nlhZ33-6FZ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고냥이 쥐잡기놀이 잽싸고 날쎄고 쫌하는데 모녀살이는 행복하개",
+        "writer": "Ugxw5oAoEZWg8_woYJ14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 겁나 빠르네",
+        "writer": "UgydEZjEsAOCX707pjx4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄 달래넘사랑스럽고 귀여워요",
+        "writer": "UgyAYU8SZW4NYUDavDp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복메이커 달래와 봄이오늘 밤도 햄볶는 밤 만들어 주네요, 우리 꿈에서도 만나 잼나게 놀아보자꾸나",
+        "writer": "Ugz-fyLHuKCGl0N2Xkl4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 방석 밑에서 노는거 정말 귀여워요",
+        "writer": "UgzKIJXPeOIn4hoBKeB4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 진짜 봄달래 영상올라올때 요즘은 보기도전에 썸네일보고 진심으로 힐링됩니다, 30년넘게 40년안되게 연예인에 빠져본적도없는데 봄달래 앓이 심각하네요진짜 너무좋앙",
+        "writer": "UgzRhj7Y7T7zA4B-54d4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄달래 귀여운것도 적당히 해야지 너무 귀엽잖아 ...",
+        "writer": "UgwQq--i8HAlA2od4Yl4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간식 익히는 중에는 먹으라해도 먹지 않아요 맛있게 구워주세요 (이름)",
+        "writer": "UgzzCwincZwVCpexxGl4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈으로 어이없다고 말하는중",
+        "writer": "UgyTnyTNK4GN9KlBn2V4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 웃겨요. 달래는 너무 귀엽고요. 봄이는 눈치 백단이네요. 둘다 너무너무 귀여워요. 왜 이렇게 재미있을까요 너무 재미있네요. 둘다 너무 사랑스럽고요",
+        "writer": "Ugzphx92NzaOAOr--Mp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄아 하는것마다 사랑스럽고 귀여운겨봄이 달래",
+        "writer": "UgwbfGtyNq00KSNpSsd4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아하하하하 달래 착하기도하지 엄마발이라고 물지도 않네. 봄이는 뭔가 다아는것같아요, 봄이랑 달래 덕분에 많이 웃게됩니당",
+        "writer": "UgzseCdSU1QtEqw5HT14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이저 오래하면 스트레스 받는다던데.",
+        "writer": "UgzMoQ-31sC0YsLio9N4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에구이쁜것들자주좀얼굴봤으면좋겠내요 맨날찾아서보면몇달씩된거아니면작년거보고있드라구요자주찰영해서좀올려주세요",
+        "writer": "UgwuDRz7ixDgTqLmTfd4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 달래 사람한테 레이저 쐈을 때 가만히 있는 거 넘 귀여워요 그리고 봄이랑 달래 반응 차이 역시 연륜 있는 애들은 달라요( )",
+        "writer": "UgyeuP7IqXf-H_mtfrJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 뚱띵이 생각보다 날쎄네",
+        "writer": "UgzFKbagpL8Ei9KjvyJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸내미 곧 생일이네요. 모녀 언제까지나 건강하길 계속 관심가져줄께.",
+        "writer": "UgyZlAdF_wUDylgKh414AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 볼수록 더귀여울까요 봄달래",
+        "writer": "UgyaC6xTxJ-n-LILrPR4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엉뚱한것이 너무 귀엽네욬",
+        "writer": "UgxZCv2T14nZeeY_3B14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이져로 구워줄께 봄이 표정 찐당황 봄 달래 넘넘 귀염귀염 이뽀이뽀",
+        "writer": "UgzN59Y3qPdBh_G6-XV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 달래는 심심할겨를이 없겠어요. 두오빠랑 살뜰히 챙겨주는 (이름)이 있어서 마냥 행복할 것 같네요.",
+        "writer": "UgxVSHJkGJkOaxs6w9F4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래네집은행복이가득찬 잼잇는가족 봄달래가족화이팅.",
+        "writer": "UgxPo353_X_LPd1DwHF4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 봄이는 심심하지 않겠어 가족들이 항상 잘놀아주네 견성까지 바른 우리 이쁜 봄달래",
+        "writer": "UgzdlCkCnAGynHJL_-V4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우씨,역시봄이는 무시못하는 짬밥을가진멍뭉이",
+        "writer": "UgyWAlra-JqEiXjWyvJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느미 귀여워",
+        "writer": "Ugz8nfD2NuY9_DU6PRh4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한도 초과 달래는 진짜 (반사회적용어)라는 표현이 너무 어울려요",
+        "writer": "Ugzez92nAlVY3E3qB9V4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 역시호기심 짱 레이져쫒아디니는 모습귀여워봄달래 가족과노는모습 행복해보이네착한아가들",
+        "writer": "UgwwPifvYoUBZ3_ieTJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착하게 기다리지만 눈은 완전 한심해하는 그래도 이쁘죠",
+        "writer": "Ugz0d06lBwKm92KfB1t4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고양이같은 달래, 고래,",
+        "writer": "UgzvNigZkVbtTmR31E94AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 진짜 봄달래 사랑하나봐,",
+        "writer": "UgwENDtlwTxN0ql5b2p4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달래 달래 봄이 너무 귀여워요",
+        "writer": "UgyWnvKxFk0ha80Z6Lp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워라 봄이는 눈치 짱이당",
+        "writer": "UgzE76OoqwOUjkeLaZx4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 가족 안건드리는게 너무 기특하네여 달래",
+        "writer": "Ugz4fawu2FZ1W5V-0lp4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄 달래야 아프지말구 건강하게 (이름)래효도하면서 살아야해 삼촌이 응원해 이쁜이들",
+        "writer": "Ugxy49mPJzgqVmB12M14AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이는 좋겠다 막내 오빠야가 직화구이도 해주고",
+        "writer": "UgzNkUOKxHXjVZ2S5pd4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이는 나이도 아직 애기인데 저희 (비속어) 한 10살 때 나오는 반응잌",
+        "writer": "Ugx3D93u08culgfuFiN4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 봄이 어이없어하는 표정 찐임....",
+        "writer": "UgyoTZszVmSIajCR_Yt4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 봄이가 엄마랑 으(비속어)해달래는 아직 아기라 천방지축",
+        "writer": "UgzUGvBxUaFwrIwXhDJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 , 오늘도 귀엽쟈나",
+        "writer": "UgyKMtjUYB54nGcNPpF4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오구 오구 봄 달래 어쩜 이리도 귀엽고 예뻐요.",
+        "writer": "UgwucvEvsx5psZSQujV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 봄이는 연륜이 있어서 금방 알아차리네여",
+        "writer": "UgxcDF09nv8VLBJYweR4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 봄이 달래 보러옴",
+        "writer": "UgzRzk2PHeov14_RlZN4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일찍 왓슴다.. 오늘두 넘 기엽네여",
+        "writer": "UgzFEm8AYBgtUp-3ViV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=qdwXs_NhpMI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,884 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001273545",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOGA210001273545"
+    },
+    "text": [
+      {
+        "content": "달걀에서는 81확률로 닭이 태어나고 2561 확률로 (반사회적용어)리가 4마리 태어난다.",
+        "writer": "UgwKphYm1cV92Jd6nCB4AaABAg",
+        "write_date": "2020-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블레이즈는 강설에 대미(반사회적용어) 안 입는걸로 알고 있습니다",
+        "writer": "UgzDo0YYF-6stGjr1vB4AaABAg",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 5인데 중 2걸 약간 알것같단말이지 주기율표나 중성자",
+        "writer": "UgxyUOblHEPD6twhYyV4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화학 쪽 관심",
+        "writer": "Ugx7Gs7b5mzACm3jbzZ4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 과학자가 꿈입니다",
+        "writer": "UgwzWC-dhSKujjg6nG14AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "19분 50초쯤에 원조 나야나",
+        "writer": "UgwqwFvC_Mj35DJtsxl4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블레이즈는 눈덩이에 뎀(반사회적용어) 받습니다",
+        "writer": "Ugz4a7O6zPTBz12EjvF4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주민옷은 많이없어요",
+        "writer": "UgxdG-_sq--sqQspxL54AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘밤 도찍신은 나야나.나야나.",
+        "writer": "Ugw(반사회적용어)lQ8XAxfO_Kp2Hd4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양치기 있는뎅",
+        "writer": "UgiPEVqn51NVHngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 재미있음.",
+        "writer": "UghA-X3LSrHSiXgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈덩이는 다는데 강설이 안다나 보네",
+        "writer": "Ugikp-ngg9PnQHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날씨는 모르겠네요",
+        "writer": "UghjjdxhdrfeOHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블레이즈는 물 눈덩이 맜으면 죽어요",
+        "writer": "UgjCMdsco_PVGngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헤 안녕하세요 (이름)",
+        "writer": "UggYKnExcmCHCXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 어어 라고 하셨을때 제 배터리가, 방전됐었어요.",
+        "writer": "UgjuPzTb6ITihXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블레이즈 강설이 틀렸어요 어제 실험",
+        "writer": "UghkNR-cMXy7wXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 옛날에는 눈덩이로도 죽일수있다네여 블레이즈가",
+        "writer": "UgiGchUpu5mNc3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 양치기한테 양털 32개 주니까 다이아 줬어요",
+        "writer": "Ugi-th7Ekvc5yXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늑대를 보면 슬픈게 생각나염",
+        "writer": "UggnZgxC_sI1yngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마크에서 고양이가 침대에서 뛰어서 침대뿌시고 잘못해서 삽 갓고 흙 캐서 죽었어요 물론 스카이 블럭에서",
+        "writer": "UgjqPxQ2Wp0L5HgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저는 아 천문학자라 자주 봤어요 제주도에도 많아요",
+        "writer": "Ugg9tKKSncoaKngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 과학을 참 좋아한담니다 그래서 과학자가 되고 싶습니다",
+        "writer": "Ugg5JmIE-U23s3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블 래이즈눈사람눈에한6방맛고죽엇어요",
+        "writer": "Ugik6PQpSrB3_3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "철, 할말이, 업다",
+        "writer": "UggXY06ulGpnuHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "DDotty이(가) Sleepground에게 살해당했습니다 DDotty이(가)Sleepground에게로 순간이동 했습니다",
+        "writer": "UggK5ShJnX2mJngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 전 과학은 70정도 영어만 100이네요 다른것은 의 8090 인데",
+        "writer": "UgjQFQVOwniUCXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔더맨이 왜 호박을 못들고 가냐. 그것은 호박을 쓰고 엔더맨을 때리거나 눈을 마주쳐도 엔더맨이 떼리지 않습니다. 정확한 정보는 블루(이름) 채널에 가보세여",
+        "writer": "UgjAO1GpCbOtFHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름은 박진한 진한포션의 재료죠",
+        "writer": "UgjUKPn7JyjS-HgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠뜰은 (혐오표현) 사람을 밥먹듯이 죽임",
+        "writer": "UgjPAfyZjWQjDXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "togoone1 저도요,",
+        "writer": "UggnZgxC_sI1yngCoAEC.8D9yusmLofA8O5q2Vf_bp1",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 신고함",
+        "writer": "UgjPAfyZjWQjDXgCoAEC.88cUyn0OFgk88tv7lav5NC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 신고",
+        "writer": "UgjPAfyZjWQjDXgCoAEC.88cUyn0OFgk88ypDCYTFia",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설정을 잘못 잡아서 그렇지만 왠지 도티 빼고 팀 다그렇게 설정을 잡은듯한 아주 (혐오표현)같이 설정을 잡은듯 쉽게 말하자면 인정하기 싫지만 인정",
+        "writer": "UgjPAfyZjWQjDXgCoAEC.88cUyn0OFgk89v2LfCk5rQ",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 과학 좋아하는데",
+        "writer": "Ughj0S38YITaongCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현미경 아닌가요",
+        "writer": "Ugi_FpaXPgIqTHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블레이즈 아마 눈이 내릴때는 대미(반사회적용어) 안입어요 눈덩이는 데미지 받아요",
+        "writer": "UggBl1BMtILkXXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 (이름)이 장난꾸러기 학생",
+        "writer": "UggY0rPERdRaO3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 화학 좋아하시구나",
+        "writer": "UghbOeV73bGKWXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하지만 그 녹색주민은 게임상에는 없으니 주민옷색은 총 5종류 입니다 주민 직업은 농부 어부 양치기 화살제조인 성직자 (반사회적용어)업자 대장장이 사서 그리고 직업까지는 아니고 알려지지않은 주민 녹색주민이있고 이것도직업은아니지만 아실만한 주민(반사회적용어)가 있습니다 주민(반사회적용어)는 보통 이상 난이도에서 주민이 (반사회적용어)에게 물려죽거나 5확률로 자연(반사회적용어)이 되고요 아실지 모르지만 스플래시 허약의 물약을 던지거나 황금사과를 먹이면 35분후 치료가 됩니다. 치료중인 과정에도 공격하려고하니 9블록 이내 철창이나 침대가 있다면 4 더 빠른속도로 치료가 됩니다 꼭.알아두셨으면 하네요.",
+        "writer": "UgjWIQrvy4yCA3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녹색옷인 주민은 있습니다. 그 주민은 평소 마크에 잘 알려지지않은 주민이기 때문에 모르실수도 있는게 당연합니다",
+        "writer": "Ugg9quXz-9rR93gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘 재미 있어요",
+        "writer": "Ugjxu_YZjDiUmXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마녀 잡을때 (이름) 다이어몬드 사용함",
+        "writer": "Ugj8A1KPrlCj_ngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3개다 제가 좋아하는 과목.",
+        "writer": "Ugie22vxZ6m9ZngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 옆집에 살아요 왜이렇게 과민반응을 하죠",
+        "writer": "UghB9ZHp_PSYbHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녹색주민은 마을이장이라고 하던데",
+        "writer": "UgjWIQrvy4yCA3gCoAEC.826Qfx6N5NZ89v2XnFAvgi",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 허약의 포션 먼저 던지고 황금사과 던져야지 치료됩니다",
+        "writer": "UgjWIQrvy4yCA3gCoAEC.826Qfx6N5NZ89v2dBl05yu",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이어진 아.네감사합니다 저도 그건 몰랐어요",
+        "writer": "UgjWIQrvy4yCA3gCoAEC.826Qfx6N5NZ89v3VrOt5qj",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이어진 그런가요 저는 그 부분의 대해서는 잘몰라서",
+        "writer": "UgjWIQrvy4yCA3gCoAEC.826Qfx6N5NZ89v3uLrLYpX",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "텍스쳐팩 이름좀 알려주세요",
+        "writer": "UggVnvaL6gIfaXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마, (이름). 옆집에서 신음소리가, (음흉) 장난입니다 무슨 신음소리야",
+        "writer": "Ugh9fjM7fVb9HngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약한 모금 응앜",
+        "writer": "UgjVH0pw2L3UoXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기후에데미(반사회적용어)안입는거예요 눈덩이로3의공격피해를줍니다",
+        "writer": "UgjQTz1TXuRsR3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이착각하신게생물몬스터에서 진술을고르라는거였는데착각하셧네욬 블레이즈는눈덩이애더2인가4의피해를입습니다.",
+        "writer": "Ugi2qkYTlIb9M3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 역시 재밌으세요",
+        "writer": "Uggb0gWfg23czXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 마녀는 자신피가 없으면 즉시회복포션을 먹어서 피를 채우기 때문에 주먹으로는 못죽여요 맷집이 좋은게 아니구요.",
+        "writer": "UgimL1fZy_AqMXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블레이즈는 눈덩이에 3에 대미(반사회적용어) 받는다",
+        "writer": "UghX04pC6v3AR3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스쿨오브브레인 영상이 내용이 길다지만 너무 끄는것 같다.",
+        "writer": "UgiF4R6H3QJMGngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로건강하시고좋아요 구독 꾹누루고가네요 칭찬해주세요.",
+        "writer": "UghgAR3c7oAyFngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1주일만에 (이름) 방송봄(핸드폰을 뺐겨서)",
+        "writer": "UgjB8z8SZMRicXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오셀로가 맟아요",
+        "writer": "Ugh-mS4H46TSqHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 (이름) 재미지네요",
+        "writer": "Ugj8_YVGsL3y-HgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방으로 봄",
+        "writer": "Ugi8SNQ4W4Gvi3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몬스터 나오면 철창으로 다시 가두면 되지않나요 (이름)",
+        "writer": "Ugh7QH0cFjC6h3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)과 (이름) 모자 같은 것 써서 쌍둥이 같아요..",
+        "writer": "Ughpaqn9VSFbGngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독버튼 꾹 좋아요버튼 꾹",
+        "writer": "UggLXE_JqvRjkXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이사가서 친구들땜 슬퍼요 (이름)보고 힘을, 낼꺼같앙요",
+        "writer": "UghNYrHN8kz5mHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하트는 피2며 다이아 칼이 데미지8인 이유는 손1다이아칼7데미지8",
+        "writer": "UghX04pC6v3AR3gCoAEC.7-H0Z7-5gIy7-H11jQeTkO",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그 도찍신을 저에게 나눠주시면 안될까요,",
+        "writer": "UghABowqKYrGwXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제로 주민들 옷중 초록색은 없구요, 어, 괴담으로 초록색옷이 왕이였다, 라는 루머만있을뿐 실제로는 없는걸로 알고있어요",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물리 과목 쥐약인 1인",
+        "writer": "UghOLgelSi4s7ngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬이에요 구독 눌렀어요 탈출맵 많이 올려주세요",
+        "writer": "Ugj2EWmAhFO-YngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 야광별자리커튼같은거줬어요",
+        "writer": "UggRnsN9P7oCG3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전, 쌤이랑 잠안자고 별 관찰하자 하면 볼듯 졸업햇는데 쌤이 너부 보고싶습니다",
+        "writer": "Ughlih9biMUwwHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화학 쌤 최소 랑또 작가",
+        "writer": "UgiAWj02HY7xcngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사회영역에서 정글에서 비가 안내린다고 나와있는데 정글에서는 비가내리고 사막에서 비가안내리는거에요. 스오브 (이름)이 잘못아셨나봐요.",
+        "writer": "Ughh7Y1_IxMRcHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옆집 뭐하나 보고",
+        "writer": "UghveO8eJi9n-3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 (이름) 마인크래프트 설치하는법 핸드폰아니면컴퓨터설치 알려주세요.",
+        "writer": "UgjXKj4pTOSpfXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들이 불쌍하다",
+        "writer": "UggFsqNYrOhWtXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 저 신청할래여 천문대가고파여",
+        "writer": "Uggb7YcPA_9oHHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 많은이유가 (반사회적용어)때문이에요 (반사회적용어)도 주민이었다가 감염되서 그런거니까 주민(반사회적용어)도 주민인(혐오표현)요",
+        "writer": "Ught2Dv4rbqLGngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 블래이즈는 눈덩이로도 데미(반사회적용어) 입어.",
+        "writer": "Ugho6IkryHcW73gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주민들옷은 더 많은게 아니고 초록색은 없습니다",
+        "writer": "UghMkrw235A2UngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과학은 제가 제일 좋아하고 잘하는 과목이에요 이번건 같이 풀면서 할 수 있을것 같네요 3편까지 잼있게 보겠습돠",
+        "writer": "UgjP-k28jEJ23HgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 그 마지막 철골램 철블럭 알려드렸어요 열심이 방송하세요",
+        "writer": "UgiacxdmGyMkdXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 알기로는 인게임에서는 앖지만 게임 파일에서 있다는 걸 들었어요 아닐수도있지만",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC.7-H0Z7-25sF7-HD4-Jz-DY",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초희귀 한 NPC로 정보가 적습니다",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC.7-H0Z7-25sF7-JsWZgoDcT",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검은 앞치마가 없음니다",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC.7-H0Z7-25sF7-JtyyUVM76",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오상혁 검은앞치마있고요초록이없습니다검은앞치마직업은 도구제조인 무기제조인 갑옷제조인등이있습니다.",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC.7-H0Z7-25sF7-LFzHBjKqj",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오상혁 초록이 없고 검은 앞치마는 대장장이임",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC.7-H0Z7-25sF7-Np3-rKcPC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김규민 있다고하던대 마인크레프트가이드에 혹시 1.8에추가 되는데 알려지지않은건가",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC.7-H0Z7-25sF7-xSiROU0rq",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오상혁 없는디",
+        "writer": "Ugi2P51XXQ-RjXgCoAEC.7-H0Z7-25sF7-xSpISS0tE",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 졸업했는데 선생님이 우시드라구요, 마음이 좀, 그랬습니다,",
+        "writer": "Ughlih9biMUwwHgCoAEC.7-H0Z7-8dcc7-Jl_e7OJsk",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중학교 생활 잘해",
+        "writer": "Ughlih9biMUwwHgCoAEC.7-H0Z7-8dcc7-TOIKP1Y5S",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복돌쓰시지 말고 정품사세요",
+        "writer": "UgjXKj4pTOSpfXgCoAEC.7-H0Z7--IAw7-HT4tFh4ch",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직업은 농부 성직자 사서 양치기.어부.화살제조인 갑옷제조인 도구제조인 가죽세공인 (반사회적용어)업자등이있습니다",
+        "writer": "UggcnZs2(반사회적용어)HZgHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미녀는 맨손으로 못잡아요",
+        "writer": "Ugi-hkJ35rHGrHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와.드디어 조회수 100 안에 들었다.",
+        "writer": "Ugjkiuy8x5jk2ngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 싸랑해여",
+        "writer": "UgjQV2PrLBMs43gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 싸랑해여",
+        "writer": "UghhSZxGSlKhi3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 생방본거라서 알지만 (이름)이, 스포는 안돼져",
+        "writer": "UgjYrxU7wrems3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 (이름) 카톡 답장해쓔세요 제발 궁금 (이름)과 카톡주고 받고 하규싶은뎅",
+        "writer": "Ugi_DsIQXagAiHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간식었지만 (이름) 영상은재미있다 도티TV채널 화이팅.",
+        "writer": "UgjdZXIcYVi0NHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왓 5분전",
+        "writer": "UggE2FdvSsn2Y3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수가7인건기분탓이겠지 쨋든잘보고갑니다",
+        "writer": "Ugh2dP1TkpIRP3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3분전.난 행운아",
+        "writer": "UghCJqFhCZAlfHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오1분전이닷 완죤 따꾼떠꾼",
+        "writer": "UgjALeCVtxN8KngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 핸드폰이 마녀라 치면 마누라라고 나오고 좀 이상해요.",
+        "writer": "Ugi-hkJ35rHGrHgCoAEC.7-H0Z7-8GYq7-HjYRnP0J7",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 미녀도 맨손으론 못잡아요",
+        "writer": "Ugi-hkJ35rHGrHgCoAEC.7-H0Z7-8GYq7-J8b9jVe2I",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=337y9nSD-MY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

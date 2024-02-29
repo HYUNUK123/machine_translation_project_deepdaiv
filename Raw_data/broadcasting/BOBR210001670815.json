@@ -1,0 +1,796 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001670815",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001670815"
+    },
+    "text": [
+      {
+        "content": "우리 몽구 (이름)래 행복하게 살아",
+        "writer": "UgxF-hq7YLjd2PFx9MZ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 몽구로 살아봤으면 소원이 없겠네.",
+        "writer": "UgzICYuei4AnCq60TIR4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 추천에 뜬 카이춘 영상보고 입덕했자낰",
+        "writer": "UgwDWz-964akJmpLljJ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이 몰랐는데 나혼산보구 완전 팬됨, 귀여워요",
+        "writer": "UgyV8wPhSNtEZxFsev54AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 부럽다",
+        "writer": "Ugy0riuwxnfZ7mh8bbl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)가 (비속어)를 안고 있어",
+        "writer": "Ugx5ukyJdq4L39SWbvF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠 임경이도 착해 ,",
+        "writer": "UgznuiU4RrLeQJRP5BZ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 몽구 할래요",
+        "writer": "UgwsDvXFYoqqCugh0k94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "Ugxgj6YUDWxh4jM_VrJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "UgydlwqTs4EEp4QFcSl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "Ugwc5WmJXCZu53chMVl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "UgwOthTQVitpbyP_Ybt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "UgzfqG6DIah3Xa_jhEJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "Ugw31vFUvJ3KBTvHVER4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "UgyQhuLFMfFMMz-Aeg94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "UgxS5IX9vB9BXsbRLPp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "Ugwwotq_ILuFojVZCQJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "UgxgSx7LXSvcNnHqWnN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "Ugw9OKMVzam5fYWYauN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "Ugxv1KSBmHc_j8euLRt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KAI 카이 음 (Mmmh) MV Fcfa6cAe2c",
+        "writer": "UgzxZVuwaMEmaLL3T3V4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이 속에 안기고 싶다.",
+        "writer": "UgyTJgG1EuzzjYFWzeV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 소파 탐난다",
+        "writer": "UgwlgDYGMNk3GkQ_8Nt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 개보다도 못한인생, 어쩌냐,",
+        "writer": "Ugyzyq35XaqNZOi8B6t4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 몽구 벌써 10살이구나 쇼탐에서 본게 엊그제 같았는데",
+        "writer": "UgzHWaMsy42pcv94AgJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집 몇 평일까, 내가 가면 길 잃을 듯 갈 수도 없겠지만,",
+        "writer": "UgyASqZsccSAdbriOYl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 80살이네",
+        "writer": "UgykgyvShmRzzG0PO9p4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크리스탈이랑 헤어짐",
+        "writer": "Ugx20LDFIFUsYLuns6R4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우앙 너무귀여웡,",
+        "writer": "UgwPqHVybidT4q9xX994AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구아빠카이 내 초(비속어)절 (반사회적용어)고 닉넴, 흠칫했네",
+        "writer": "Ugyaua2lADYMIg6UQaN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음생은 몽구로",
+        "writer": "Ugz4gzf-pZnkw0D5Yb54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 곰돌이들 너무 귀여워요",
+        "writer": "UgwB-TC9OeBHuw5mC194AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 평소에 카이 하면 그냥 (비속어) 잘생기고 말도 없고 되게 시크할거 같았는데 이거보고 생각이 바뀜 개만도 못 한 내 인생 부럽다 몽구야,",
+        "writer": "UgzFoq3SFqlBKXSQxVp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 사람이 어떻게 저러지 와 신기해, 나 같음 귀차나서 저렇게 못해",
+        "writer": "UgzZ8h4CXyjzj1vM4z14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 왜 아무도 나한테 카이 예쁘다고 말 안 해 줬어, 진짜 (비속어) 배신감 든다 왜 몰랐지, 왜 몰랐을까, 좀 알려주지 왜 이제서야,",
+        "writer": "Ugzp8nXq2ziW-j3uHW94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 날씬해졌네",
+        "writer": "Ugw8-prsbVYYRPuvhol4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구야, 언제 이렇게 자랐니,",
+        "writer": "UgyuoP93-F3kweBEJdV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엑소팬은 아니어도 몽구는 안다",
+        "writer": "Ugx-ubckIhmZa4DRceR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나혼산 집중해서 끝까지 본 건 처음인데 재미있어용",
+        "writer": "Ugyx1oJpldzcAhiev5J4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개만도 못한 인생",
+        "writer": "UgwzGH6wyTuEKZxt6qB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구야, 내가 널 본게 너 엄청 애기때인데 벌써 10살이 된거야, 짱구 짱아랑 같이 쇼타임 나온게 엊그제같은데 엉엉,",
+        "writer": "UgxIZJkb3CBWo7-oTYF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저래서 태민이랑 친한듯 둘이 성실한게 똑같네",
+        "writer": "UgzRmXBVwvGhO4mDKkx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 몇년전에 쇼타임에서 봤을때는 진짜 손톱 만했는데 지금은 대빵만해",
+        "writer": "UgxIdovExFz8Qcg3U4Z4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 하루에 손님이 몇이야",
+        "writer": "UgyPC1CkB3DkfOg8uql4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이가 진국이었네",
+        "writer": "Ugwtp3rux2_GOLv8w-V4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 진짜 오랜만에 본다",
+        "writer": "Ugxblqyk0NC8xNopaJl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 쇼파 뭐임 탐난다",
+        "writer": "Ugy6oS2iUWOAHK-BU5x4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 다음생에 몽구",
+        "writer": "Ugwdx6CLD5XylAEHRXp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 만져야쥐",
+        "writer": "UgwN5VEEVPb8INx_tAx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 귀여워 (이름) 사랑해,",
+        "writer": "UgwkczvHg5cXha_F9aR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠시만 첨에 곰돌이 얼굴이 안보여서 (비속어)가 뜯은줄 알았어",
+        "writer": "UgxI7Ri-tifmRj8W-kl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면서 지짜 티비 속으로 들어가고 싶었다",
+        "writer": "Ugw5v2Dx8pGObPYyVHl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화목하고 사랑이 많은 가족들 사이에서 자란것 같아요. 저게 연기라면 평소모습 나올만도 한데 누구한테나 진짜 다정하네요 보통 가족들이랑 통화할때 좀 무뚝뚝하게 받는데 목소리랑 말투가 진짜 스윗, 이거보고 입덕해버렸나봐요",
+        "writer": "UgyDGIIzbW1w1KqP67J4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곰인형이 소두네",
+        "writer": "UgzmYPjEdbWC5FvsnL54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이네 몽구 진짜 귀엽다 가족들이 얼마나 사랑으로 키웠는지 알겠어요",
+        "writer": "Ugzs4DYzvuYVvuc2mvh4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구야 솔직히 말해줘 너 사람이지,",
+        "writer": "UgwC18xhKd2AdLhqinR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구가 10살(이름), 그래도 여전히 애기야",
+        "writer": "Ugxgu6fV-TxUKb3cEUJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이집 인테리어 완전맘에 듦",
+        "writer": "UgxXgnugsDLAf7EkUfx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이 차가워 보였는데 너무 따뜻하고 착한사람 같네여 화이팅.",
+        "writer": "UgztY2nSVOWUSi6V_St4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음생엔 몽구로.",
+        "writer": "UgyC6Ada3U4mvEmho0l4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱구 짱아도 보고싶다 잘크고있지 얘드라",
+        "writer": "UgxJyae-bBvljxqh-ep4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입덕 환영해요. 그런데 울 종인이는 출구가 없어요. 빠지면 못나와요. 그 점 유의하세요.",
+        "writer": "UgyDGIIzbW1w1KqP67J4AaABAg.9GUF0db3qG99GXOLP_KEh9",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전생에 그럴 수도 있지 뭐,",
+        "writer": "UgwC18xhKd2AdLhqinR4AaABAg.9GTnCfGs7pT9H3-NqRqgFZ",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 그냥 카이가 맘에 듦",
+        "writer": "UgxXgnugsDLAf7EkUfx4AaABAg.9GTZjN-Cev-9Gd4OK0mn-X",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시우민이랑 매우 흡사함",
+        "writer": "UgxXgnugsDLAf7EkUfx4AaABAg.9GTZjN-Cev-9Gf_02udPF4",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 들어가서 살려고",
+        "writer": "UgxXgnugsDLAf7EkUfx4AaABAg.9GTZjN-Cev-9J5HgMKlKtF",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종인이 무대 밖에선 정말 소녀 그 자체, 찐사랑둥이에요찐말랑이",
+        "writer": "UgztY2nSVOWUSi6V_St4AaABAg.9GSOia2ZVs-9GbFqLHbCWo",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회의 (혐오표현) 될거라고",
+        "writer": "UgyC6Ada3U4mvEmho0l4AaABAg.9GSGzPpDseo9H3-JMMfKGo",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 몽구 애기때 봤는데 벌써 저래 나이를 많이 먹었네",
+        "writer": "Ugyu5xk0C8Y7-SCH4QR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 진짜 넘 반갑네. 쇼타임에서도 보고 소시랑 화보촬영할 때도 보구. 넘 반갑네. 짱구 짱아도 봤음 좋았을텐데,",
+        "writer": "UgyHleCRaIGTwGcCVkF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음생은 빠꾸없이 몽구로 태어나게 해주세요,",
+        "writer": "Ugw240AoJ_wMslWqcJV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)도, 되게 오래 살아있고,",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kim Jongin 음 Mmmh KAI 카이 zkdlin",
+        "writer": "UgxjMx3SzKx-VHyzCdF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "켠이오빠 음성지원",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9GTYcKzUfy6",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 살고 싶은(혐오표현)..",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9GZXbof7jKU",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 어디서 나온거에요 혹시링크좀주실수있으신가요",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9GZeLiOCKEP",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "규름 라디오스타에서 나온 장면이에요 엑소 라디오스타 라고 치면 나올거에용",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9GZhuFHaHFO",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "A(이름) 나라의 앨리스 감사합니다.",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9GZj5MvRDVz",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "규름 넹",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9GZjqMzx6f4",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미니언 아 이거 왜케 웃기지",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9GaNJUlN6qO",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 왜 여깈",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9Gf8g_HbSHr",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놔 변백현 음성 지원된다고욬",
+        "writer": "Ugzmr_3HO9x2eV6mOPF4AaABAg.9GPb6ixgL5a9Ghjfn9JoNx",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Even 몽구 looks like a bear.",
+        "writer": "UgzAEfSR_rAXUqaBN_F4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표정 무엇",
+        "writer": "Ugw8-YtRiDNl8-UFwCt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랫동안 당신의 개는 모두 갈색이기 때문에 곰 인형처럼 보입니다",
+        "writer": "UgynV_Ith_jwC_td5OB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 종인이랑 몽구 투샷 대체 이게 얼마만이야",
+        "writer": "UgzptiXfJ8xMmwCYdh14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 당신의 잠옷을 좋아했습니다. 매우 편안하다고 확신합니다. 그럼 난 잘 수 있었어.",
+        "writer": "UgwDi3UIG5h21NoTyJN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 착해 우리종인이도 착해. 몽구도 귀여워고 우리종인이도 넘 귀여워",
+        "writer": "Ugw4JH2stPjxCe7EtMV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이 is releasing a solo on November 30th please support and preorder his album Follow his Instagram zkdlin",
+        "writer": "Ugyf2wB6wV8XVwwXprl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구야 보고싶어 어이구 진짜 귀여워. 몽구 데뷔를 exo showtime 맞이",
+        "writer": "UgzM6RqPJEMHpidYeu94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 데뷔를 wlive photoshoot",
+        "writer": "UgzM6RqPJEMHpidYeu94AaABAg.9GI2c9jGLV49GJB8IrOGYW",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카이 야 힘내세요 화이팅 몽구 야",
+        "writer": "UgzCtq5UHD8Tm-CR0XN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(카이 솔로 11월 30일)",
+        "writer": "Ugy-xoQXp9HdFILIdTx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몽구 보고싶다 오랜만 반가워",
+        "writer": "UgyBETdVldngbUifSWN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kaichun 고마워.",
+        "writer": "UgzPQUdeT_fertpyzS54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엑소 카이 솔로 가수 데뷔 11월 30일 (Exo Kai solo singer debut 30 November)",
+        "writer": "UgyqFK31pfzhPmYXEzJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엑소 카이 솔로 가수 데뷔 11월 30일",
+        "writer": "Ugwp7jsBN82eSNueOO94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엑소 카이 솔로 가수 데뷔 11월 30일",
+        "writer": "Ugx1OIovK802WGuJ29J4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCiBr0bK06imaMbLc8sAEz0A",
+        "parent_url": "https://www.youtube.com/watch?v=MAZGWqk-pGU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

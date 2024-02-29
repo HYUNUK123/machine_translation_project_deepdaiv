@@ -1,0 +1,564 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001461033",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOLI210001461033"
+    },
+    "text": [
+      {
+        "content": "전화카드 주인공입니다. 재밌게 편집해 주셔서 대단히 감사합니다 제 수집 유튜브 방송, 땡그리의 모두다 수집 함께 봐주시면 감사하겠습니다",
+        "writer": "Ugw8Tfd9ED1alnC4vX94AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 정남이 30년만에 친구 얼굴을 이렇게 보는구나. 조만간 서울에서 선생님하고 한번 보자,",
+        "writer": "Ugw1cCLM_plDPtEGwDR4AaABAg",
+        "write_date": "2021-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아내분한테 안죽으셨죠,",
+        "writer": "UgzpmtuCwWD-9R7o6It4AaABAg",
+        "write_date": "2021-08-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아내가 따지는 말투로 말하면서도 웃음을 잃질 않는 거 보니 아내가 성격이 좋고 둘 사이도 참 좋은듯.",
+        "writer": "Ugz2EpAToEquFDk9jdN4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전화카드 디따 이쁘다.. 요즘 공중전화 부스도 없어지고 옛날 감성이랄까 그런게 없어지는게 좀 슬프네요",
+        "writer": "UgwRLR7YpFV8zd_vTaB4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진지빠는거 하는대 이체널 썹내일맨날왜 애니케릭보고 (너이분못이김)이런글쓰냐 걍만화일분인대",
+        "writer": "Ugzns8sli7k0BDCxANJ4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 함정카드 음악생각나네",
+        "writer": "UgwseXL_x8W8v61ALOV4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반갑다 어치야",
+        "writer": "UgzNaGagVuO-kBgDVcd4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공개 댓글 추가,",
+        "writer": "Ugxqk99T2SMinJed9ih4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 과장이 심했는데 이건 진짜인듯",
+        "writer": "Ugyz7-APiTLLWdcosvJ4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금도 전화카드 나오는데,",
+        "writer": "Ugx4AvafvT1nKkgAd0p4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 (비속어)( )",
+        "writer": "UgyjESYwJYtHepz2gql4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)헤헷 나에 소중한 보물. 아줌마어휴 내가 미치겠네 갔다 버려. (이름) 뿌에에에에에에에엥유",
+        "writer": "Ugx_zsItYo15JkZ93W54AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "창조주를 홀로 숭배하십시오 알라 (우리의 창조주) 외에 당신이 부르는 우상은 당신과 같은 생물입니다. 가서 그들을 부르십시오. 당신이 옳다면 그들이 당신에게 응답하게하십시오. 고귀한 꾸란 7 194 그들은 그들에게 해를 끼치거나 그들에게 유익을 줄 힘이없는 알라 (우리의 창조주) 우상 옆에서 숭배하며 이들은 알라 (우리의 창조주)의 중보자들입니다. 라고 말합니다. 당신은 알라 (우리 창조주)에게 그가 하늘이나 땅에서 알지 못하는 것을 알리고 있습니까 라고 말합니다. 영광을 받으십시오. 그는 가장 높으 십니다. 파트너가 필요한 것보다 훨씬 뛰어납니다. 고귀한 꾸란 10(비속어) 알라 (우리의 창조주)는 우상 숭배 (죽을 때까지 유지된다면) 를 용서하지 않으며 그분이 원하시는 사람에 대한 더 적은 범죄를 용서합니다. 알라 (창조자) 옆에서 우상을 우상화하는 사람은 누구든지 떠났습니다. 고귀한 꾸란 4 116 그 전에 우리는 아브라함에게 그의지도와 이해를 허락했습니다. 우리는 그를 완전히 알고 있었기 때문입니다. 그는 그의 아버지와 그의 백성에게 당신이 자신을 바치는이 조각상은 무엇입니까 라고 말했습니다. 그들은 (이름)이 그들을 숭배하는 것을 발견했습니다. 라고 말했습니다. 고귀한 꾸란 21 5153 우상으로서의 예수 이교도들은 참으로 (이름)이 마리아의 아들 메시아라고 말하는 사람들입니다. 메시아 자신이 이스라엘 자손 이여 당신은 (이름)을 경배 할 것입니다. 나의 주와 당신의 주입니다. (이름) 옆에 우상을 세우는자는 누구든지 그를 위해 낙원을 금 하셨고 그의 운명은 (반사회적용어)입니다. 악인에게는 조력자가 없습니다. 고귀한 꾸란 부활의 날 뿔이 나자 하늘과 땅에있는 모든 사람이 의식을 잃게됩니다. 그런 다음 두 번째로 날려서 일어납니다. 고귀한 꾸란 알라 (우리의 창조주)는 당신을 살게 한 다음 당신을 죽게합니다. 그러면 그분은 부활의 날을 위해 당신을 모으실 것입니다. 의심의 여지가 없지만 대부분의 사람들은 알지 못합니다. The Noble Quran 파라다이스 (정원) 믿고 선을 행하는자는 동산의 초원에있을 것입니다. 그들은 주님과 함께 기뻐하시는 것을 갖게 될 것입니다. 그것은 위대한 은혜입니다. 그것에서 알라는 그의 종들 (선행을) 믿고 행하는 사람들에게 좋은 소식을 전합니다. 고귀한 꾸란 42 2223 (반사회적용어) ((반사회적용어) 불) 악행을 행한자는 악행에 대한 보답이 그와 같고 치욕적인 수치가 그들을 덮을 것입니다 (그들의 얼굴). 그들은 알라에서 수비수를 가질 수 없습니다. 그들의 얼굴은 밤의 어둠의 조각들로 덮일 것입니다. 그들은 불의 거처이며 영원히 그곳에 거할 것입니다. 고귀한 꾸란 알라의 자비 (우리 창조자) (오 나의 예언자) 오 자기 자신에 대해 무모하게 행동 한 나의 종 들아 알라 (우리 창조주) 자비를 절망하지 말라. 확실히 알라는 모든 죄를 용서할 것입니다. 확실히 그는 가장 용서하고 매우 자비로운 사람입니다. (고귀한 꾸란 ) 생각한다 . 우상 숭배는 죽을 때까지 유지된다면 용서할 수 없습니다. 사람은 죽음이 오기 전에 항상 우상 숭배를 포함한 모든 범죄로부터 (반사회적용어) 할 수 있습니다. 예배 우상이나 알라 (우리의 창조주) 이외의 다른 것에서 죽으면 영원히 (반사회적용어) 불에 던져 질 것입니다. 건강 부 가족 지역 사회 또는 국가 때문에 자신이 강하다고 생각합니까 아니 아니. 당신은 창조주에 의해서만 창조되었고 당신은 홀로 태어 났고 당신은 홀로 죽을 것입니다 당신은 당신의 주 (당신의 창조주)를 홀로 만나게 될 것이고 당신은 부활의 날에 혼자서이 삶의 당신의 행위에 대해 질문을 받게 될 것입니다. 당신의 가족이나 지역 사회 또는 국가가 아닌 그날 당신을 도울 것입니다. 이 삶의 최종 목적지 파라다이스 또는 (반사회적용어) 불을 영원히 선택하십시오. 진실을 받아들이십시오. (반사회적용어)을 받아들이고 꾸란 (우리 창조주의 말씀)을 읽으십시오.",
+        "writer": "UgwvDAQnleAfWnXI5294AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 첨 알았네,",
+        "writer": "Ugy_EE8w2m0BuUippJJ4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "땡그리의모두다수집 잘볼게요",
+        "writer": "Ugw8Tfd9ED1alnC4vX94AaABAg.9PHRX3gwv4S9PJUxqK7v9Y",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 유튜브 들어갔습니다. 구독 누르고 갑니다",
+        "writer": "Ugw8Tfd9ED1alnC4vX94AaABAg.9PHRX3gwv4S9PJ_y_eze9k",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예미 월드 감사합니다",
+        "writer": "Ugw8Tfd9ED1alnC4vX94AaABAg.9PHRX3gwv4S9SIv_AJ_jGv",
+        "write_date": "2021-09-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에, 이분 뒤에 우리집 냉장고가 왜 저기있지, 뭐지, 무야, 호 . 죄, 죄송합니다, 우리집 냉징고가 진짜 저기에 왜있지,",
+        "writer": "UgxdBM2JRCdi9t-WSHt4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌 작품명이",
+        "writer": "UgzWIWlcF0FPcAsl80l4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상은 제가 세상의 이런일이 에서 보았습니다.",
+        "writer": "UgwI619oWjyPNNeQ3bF4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아내한테 죽기싫어 발뺌하는 남편, 너무 웃기네요",
+        "writer": "UgyaZ_QrWl3rwvQybxZ4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유희왕 VS 전화 카드왕",
+        "writer": "Ugxavbq4apw439HWtXp4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 아닌 수집 굿",
+        "writer": "UgxyVcy4UKxeioi2PGt4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 주인공분 진짜 순수한신거 같음 집안 거덜내지않는한도에서 즐거운 수집활동하시며 화목하게 사시길",
+        "writer": "UgyzdnebK5oQHrNlW2x4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저것은 찐 카드의 고인물이다 진짜로,",
+        "writer": "Ugz-yO9vGRS8yV61Oyt4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 신용카드였다면,",
+        "writer": "UgzrE9glHRl-Wta2rhp4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벽에 걸어놓은까 인테리어용으로 괜찮은데요",
+        "writer": "Ugxt_YJvq-f-BK_pgmR4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 하는게 아니고 우표 공중 전화 카드 등등 수집가들이 그나마 나을 것 같다",
+        "writer": "UgwytluoK3vn-4InMmt4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아줌마가 착하시네요, 저같으면 답답해서 버리라고 할텐데,",
+        "writer": "UgzNmGuMHyTUQZoE01l4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 재밌게 잘 봤습니다",
+        "writer": "UgwFV6EvmcDMM23LDc94AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유희왕 카드 때가 생각난다",
+        "writer": "Ugy8Mh1PnM8xG3k9y5x4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가정의 평화를 빕니다,",
+        "writer": "Ugz7sEBrwJUluaXIJWl4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말 하는 말투가 특이요",
+        "writer": "Ugw1kOFp1pzdC57_lnl4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 부터 꿀잼",
+        "writer": "UgzCDvQ64P6HyadArgV4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놀드 .로니콜먼 노후보고 죽어라 운동해도 나이먹음 안하느니보다 못하다느는걸 느껴 그냥 잔병치레 없이 건강하게 살다가자 로 바뀜",
+        "writer": "UgxKwP0GXMYEnrmwVYR4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "09년생 방탄 포카랑 포켓몬 카드는 모으지만,",
+        "writer": "UgwOrCZYLe5NFB8LMqR4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 (이름) 인줄",
+        "writer": "UgwBm3Bo6BmEw6Y_LJV4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아내분이 미인이시네요",
+        "writer": "Ugw_4FzE8fT3sLcDg4d4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1시간전, , 늦게왔네유알람이 잘보고 가욥..",
+        "writer": "UgwnqCdHx0t5yV8LlYB4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카드가달라서 유희왕 이랑뜨러면 유희왕카드로 떠야지",
+        "writer": "UgwEvzdBd6PbF0BICGd4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전화카드는 됐고 유희왕 카드는 많았지 ,",
+        "writer": "UgxdicERAY5I0dpXyAV4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음에 만나서 없으면, 숙연",
+        "writer": "UgwWXvr0Fn6ygFAknX14AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원펀맨은 아니고 이건 인정",
+        "writer": "Ugx6OTMhtT8oSt_4mul4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것이 바로 카드킹 와 이럴 수가 완전많다, 어떻게 다 모으셨지 , 존경,",
+        "writer": "UgxXCzy3KU8x8u5G6N54AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 할머니댁에 뭔 카드가 이렇게많지 했는데 이거였구나, 좋아요10 감사합니닷 좋아요20 감사합니닷",
+        "writer": "UgwVxbnVxtGwu9xk5DB4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "40분전은 못참지",
+        "writer": "Ugx7_5vve0OloPXW_Fp4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 한번 해보세요 ... 그리고 전 유희가 좋아요 ...",
+        "writer": "UgwEvzdBd6PbF0BICGd4AaABAg.9PFW8bc2Nly9PG-sLBGmfz",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄송합니다 저는 건담파 입니다",
+        "writer": "UgwEvzdBd6PbF0BICGd4AaABAg.9PFW8bc2Nly9PkihDpEiuS",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "철성분멜루나 몰라요 아 원래 알았는데 아니요 그냥 몰라요",
+        "writer": "UgwVxbnVxtGwu9xk5DB4AaABAg.9PFQyOPhwsl9R66lysYAh9",
+        "write_date": "2021-08-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유희왕 우리반 여자애 별명인뎈",
+        "writer": "UgzcARZ71T0eyaAbsiN4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 어릴적 포켓몬스토 카드 3000장 모았는데 , 정말 대단한분,",
+        "writer": "Ugzy_vxb3zyLtro5emd4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저걸 다 모았다고,",
+        "writer": "Ugyix92yJQ57tm7EDpt4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "12분 전",
+        "writer": "Ugx4JaxU4YrqPVKKMiN4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 올리자마자 외국인이 와있네",
+        "writer": "UgxTrAgXaALTs7JOlZR4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6분전은 못참지",
+        "writer": "UgwCEc95_3xWOZHYX614AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 11인데 알아요",
+        "writer": "UgwVIvZK8ujULIDs8jd4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선댓후 감상할게요",
+        "writer": "UgwTjJNF1zY-fSRT0-p4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 섽즈",
+        "writer": "Ugy_JW5h9p65_jAuX0F4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키야 엄마한테 포켓몬카드 몰래사가지고 많이 혼났는데",
+        "writer": "Ugzy_vxb3zyLtro5emd4AaABAg.9PFObQTI6bA9PM8z9R9nDA",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 9000장 3배있습니다 당연히 (이름)때문에 버리게됬지만,",
+        "writer": "Ugzy_vxb3zyLtro5emd4AaABAg.9PFObQTI6bA9PPXldfubRF",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Dogwun Kim 중고나라에 파시지,",
+        "writer": "Ugzy_vxb3zyLtro5emd4AaABAg.9PFObQTI6bA9PPZl03LXtU",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1 아닌데욤",
+        "writer": "Ugxo186q0v_Q6okHz8F4AaABAg.9PFLu2B0kIR9PFOR1TtYNL",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감상할께요 인",
+        "writer": "UgwTjJNF1zY-fSRT0-p4AaABAg.9PFLtB2YrP19PFMzcCIM1I",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아 네",
+        "writer": "UgwTjJNF1zY-fSRT0-p4AaABAg.9PFLtB2YrP19PFNGxPAjLr",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 오타네요,",
+        "writer": "UgwTjJNF1zY-fSRT0-p4AaABAg.9PFLtB2YrP19PFNIYhDYvK",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라희 넵",
+        "writer": "UgwTjJNF1zY-fSRT0-p4AaABAg.9PFLtB2YrP19PFNh9pe3F0",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 선댓이 최고지",
+        "writer": "UgwTjJNF1zY-fSRT0-p4AaABAg.9PFLtB2YrP19PFS78r8xIZ",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 2의 유희, 아니 카드 왕",
+        "writer": "UgxOtMtQllKwULEExAF4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=toKL94Kv-2I",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

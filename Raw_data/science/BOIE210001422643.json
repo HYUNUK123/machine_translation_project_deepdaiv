@@ -1,0 +1,524 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001422643",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIE210001422643"
+    },
+    "text": [
+      {
+        "content": "빨대의 (비속어)은 둘이다, 빨대의 (비속어)이 하나이면, 위상동형적으로 생각할때, 항문(비속어)나 구강(비속어)나 같은게 되잖아,",
+        "writer": "Ugxw52G-L9aVNH8I_Bd4AaABAg",
+        "write_date": "2021-04-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애초에 (비속어)이란 수학적 정의 없이 모호한 정의를 사용해서 1개든 2개든 중요하지 않음 만약에 정확하게 구하고 싶다면 엄밀한 (이름)부터 출발해야겠지",
+        "writer": "UgzDcVcrvljx3mVH6gR4AaABAg",
+        "write_date": "2021-02-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 너네만 II화보 본다고 좋은건 좀 나눠보자 이 정없는 (비속어)들아",
+        "writer": "Ugx_EP2OlCEVpPcC2Yt4AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 II화보 네코코 베베라 잔다다가 대체 뭔데 발 것들아 잡지에 나오는 애들이냐",
+        "writer": "UgyJW_uTWCzvKB3tDo54AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루에 삼시(비속어) 쳐먹듯이 난 하루에 II화보 잔다다 베베라 네코코 보면서 삼시삼딸한다",
+        "writer": "UgyTZugeRMSAljty8Vx4AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 보는 눈들이 없냐 II화보 잔다다 미만잡이다 (비속어)들아",
+        "writer": "Ugx3wMsDEFEEnTYLq314AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자꾸 질문함으로써 정확한 질문을 한다는 것은 문제의 본질을 파악했다는 것이겠지요 문제의 본질을 알아야 비로소 문제를 해결할 방법을 찾아나갈 수 있을테고요.",
+        "writer": "Ugwu7UjYGcNzScLHY554AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궤도 교주",
+        "writer": "UgyyxGcFsUwNGrD4nZ14AaABAg",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레알짧은과학만 올려주면 좋겠당,",
+        "writer": "Ugzh0H8gGrd528sP5uJ4AaABAg",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어차피 수로 표현안하고 대체되는 걸로 매핑하여 사고 할 수는 있지만 결국 표현 할 수 없으면 외부에선 그 무엇도 알 수 없지 않을까 싶다. 표현이란게 결국 사고한걸 나타내는 거니까",
+        "writer": "UgzyXOp6BxPila-MZF94AaABAg",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바라보는 것에 따라 규정짓는게 달라지는거군요. 위상동형은 특징을 뽑아내는 장치쯤으로 보면 될 듯",
+        "writer": "Ugw4oapfPEzYarwaGcN4AaABAg",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원빈과 은 위상동형이닼 좋은정보 감사합니다",
+        "writer": "Ugz83iwO7fw3DU8H2cJ4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)이 누구신가 몰라서 네이버에 검색해봤더니 예일대 박사 옥스퍼드대 서울대 수학과 석좌교수,",
+        "writer": "UgxnB8ISikER5OrrcrB4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오호 공에다가 (비속어)을 뚫는 건 생각치 못했네요",
+        "writer": "UgwGINFZXsBPKd4RDCN4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수학이란 단어가 말해주듯 수를 연구하는 학문이 수학입니다,",
+        "writer": "UgwRidOPD_7wBM8uJKp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은평구 등차수열 고수 명지대 수학과출신 (이름)과 합방해주세요",
+        "writer": "UgxUkYm06-s9j_XSFuZ4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수학은 홍성대 정석이여",
+        "writer": "UgzqUvNop1DJLbBZZS54AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 얘기를 듣고 우리(우주)가 (비속어)이고 물체가 무의세계(확장의 세계)라면 우리가 밧줄을 던져도 언제든 되돌아 올수 있다는 생각을 했습니다재밌네요",
+        "writer": "UgwJDTfmC96O3FLPoCh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이런분도 모시다니, 안될 과학 클라스.",
+        "writer": "UgxsLFbIMw5gxfNq3th4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궤도 (이름) 너무 신나보이네",
+        "writer": "Ugz-bj2lt2KguHLz-U94AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 빨대가 (비속어)이 몇개냐는 질문을 받았을때 왜 (비속어)이 하나인지 위상수학적으로 열심히 설명했는데 (이름)께서는 사물의 (비속어)의 개수를 세는 데 있어 위상동형이라는 개념이 과연 그럴듯한것인가라는 질문을 던지시는군요 많이 배워갑니다",
+        "writer": "UgwxHL9ceeYrsjae24Z4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수학의 난제들로 수다를 풀면 어떨까요 한국 영화제목으로는 Amazing Merry(영어 제목은 Gifted)에 크리스 에반스가 귀여운 사촌딸을 키우는데 그 아이가 수학천재. 나비에 스톡스 방정식 추론 이야기가 나옵니다.",
+        "writer": "UgwuGlEx82D3PUZPtRV4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상을 1분(이름)이 봅니다",
+        "writer": "UgyCviVPEeO9HChB3IZ4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 모시고 반갑습니다 (이름)들 하니깐 위화감 오지게 드네여",
+        "writer": "UgyiU90kO3cisQlpQc94AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1부에서도 느꼈지만 한마디 한마디에서 깊은 사유가 기반이 된 카리스마가 느껴진다,",
+        "writer": "Ugx7OT0TweL-mG-O7UJ4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인사할때마다 (이름)들이라고 하시는데 궁금하네요",
+        "writer": "UgzcaEtqMus3RGjD-A94AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)의 사전적 의미가 뚫어졌거나 파인자리라고 하던데 그럼 뚫어진 (비속어)으로 (비속어) 하나로 쳐야 하는거 아님",
+        "writer": "UgxK1sk0QxW3NbFMPDt4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 반전자에 대해서도 디뤄주실 수 있나요",
+        "writer": "UgzuDW8Q_2r86UonMXh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해 4 294개 본 영상보다 이거 하나 보는게 더 유익했습니다 예전에도 제가 댓글에 썻는데요, 하루하루 의미없이 반복되는 삶속에 을 알고나서 더 넓고 큰 인생의 가치를 그려볼 수 있었습니다 정말 감사합니다 추천을 무한으로 누르고 싶네요",
+        "writer": "Ugw2IqWx9_flHgY1umB4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)이 자기 자신을 제대로 표현한 유일한 영상 아닌가 싶으네요.",
+        "writer": "UgygSg5aVPqyf6MhPIR4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집이 좀, 질문에 대한 답이(반사회적용어) 편집으로 넣어주시지 중간중간 끊기는 느낌이 팍팍드네요 라이브가 원래 답변 없이 넘어간게 많나요",
+        "writer": "UgzjTfQ7WN6jyIyfZ0x4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 빨대는 (비속어)이 두개",
+        "writer": "UgyaQRNkrwqXe-he22V4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩짱님 표정 기여워,",
+        "writer": "UgzZrsoCdZbocFlkXpF4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가아는 산술기하 (ab)2 (ab) (12)",
+        "writer": "Ugw6uzoocgGXdH8Kytl4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 엽(이름) 빨대랑 비교해서 보니까 새롭네요, 관점의 차이.",
+        "writer": "UgzMO0KkYj0rJyKuVWh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "책 앞에 사인 잘받았습니다",
+        "writer": "Ugw01BriS5nvsJKz6h14AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소수와 점 얘기 좀 더 듣고싶다",
+        "writer": "Ugxy4_dZJy7qEy-MOJR4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질문을 하면 좀 설명을 해줘야지 그냥 단답이나 엉뚱한 얘기만 하고 넘어가네",
+        "writer": "UgzWUs3rK--t68cV8vZ4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Infant 보고 쫄지 마세요.",
+        "writer": "UgyiU90kO3cisQlpQc94AaABAg.9DCf8P9n9M09H0xtN06RNZ",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 보통의 시청자들이 (이름)이고 좀 지식이 있다. 그러면 학부생이고 더 지식이 많다. 초등생이고 (이름) (이름) 급은 영유아 유치원생 입니다. 여기서 지식의 수준 표현을 보통 실생활과 반대로 표현합니다. 전(비속어)일수록 급이 낮아집니다. 그러니 보통의 대중 시청자들은 (이름)이 되고 그래서 인사하면서 (이름)들 이라고 말하는 겁니다.",
+        "writer": "UgzcaEtqMus3RGjD-A94AaABAg.9DCIK_XhAIx9DDYuZwPUKu",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "WonDong Cho 돌려까는건가요 슬퍼요",
+        "writer": "UgzcaEtqMus3RGjD-A94AaABAg.9DCIK_XhAIx9DEREplPXYG",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 공에 (비속어)을 하나씩 두번 냈을때와 공에 (비속어)을 한번에 반대편까지 냈을때 (비속어)이 몇개인가요",
+        "writer": "UgxK1sk0QxW3NbFMPDt4AaABAg.9DC9Skyzf3E9GOO6CE8qvy",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "까부숨 (비속어)을 한번에 반대편까지 냈다는 과정을 생각하다보니 헷갈리는거 같아요 사전적 의미로는 (비속어)은 뚫어졌거나 파인자리라고 하니까 공에 (비속어)을 하나씩 두번 냈을 때는 아마도 파인 자리라는 개념으로 말씀하신거 같은데 그럴땐 (비속어) 두개가 되는 것이고 (비속어)이 반대편까지 났을 때는 뚫어진 (비속어) 하나인 셈이죠",
+        "writer": "UgxK1sk0QxW3NbFMPDt4AaABAg.9DC9Skyzf3E9GP7Mummd0F",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 실제 모양은 두개가 똑같을텐데 방법에 따라 (비속어)을 1개로도 볼 수 있고 2개로도 볼 수 있는 현상으로인해 영상에서도 위상동형으로 해결 할 수 있는 (비속어)가 라는 질문을 하는거 같네요,",
+        "writer": "UgxK1sk0QxW3NbFMPDt4AaABAg.9DC9Skyzf3E9GPCA7VJov_",
+        "write_date": "2020-12-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩미팅 반물질편 보시면 좋을거 같아요",
+        "writer": "UgzuDW8Q_2r86UonMXh4AaABAg.9DC6LSCAC8W9DEeKmM-z-Z",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산술기하 평균, 절대부등식, 시험 범위이네요,",
+        "writer": "Ugw6uzoocgGXdH8Kytl4AaABAg.9DBZ3Pb1eJg9DDvz1_JNTz",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "arithmetic geometry 20(비속어)년 필즈상 수상자 페터숄체 연구분야 이기도 합니다.",
+        "writer": "Ugw6uzoocgGXdH8Kytl4AaABAg.9DBZ3Pb1eJg9DEdTja5fxv",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강의하러 온게 아니라 책(이름)러 온거임.",
+        "writer": "UgzWUs3rK--t68cV8vZ4AaABAg.9DBRgIjehAx9DJHru_feLC",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상에서도 어떤 화제에 대해서 답만 제시해서 머리에 집어넣는 게 아니라 조금 더 본질적인 질문을 더더욱 던지는 데 집중해주시는데 그 부분이 가져다주는 영감이 상당한 것 같네요. 즐겁게 볼 수 있었습니다",
+        "writer": "UgzTEEJkdBuzFrdmA4V4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양자화가 기본적으로 가산무한집합이랑 관(비속어) 있지",
+        "writer": "UgyYZHHfHmJrXNo41_J4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 수학 어케 잘해요",
+        "writer": "Ugzho5ksSVflcV5L89l4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 지금 완전 행복해요 감사합니다",
+        "writer": "UgxnTxT6LPuK8kqw9Y14AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간 가는줄모르고 시간을 낭비했네요 호호 쵝오.",
+        "writer": "UgxKza7DVR3ejYJCcnt4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌고 (이름) 존경해요",
+        "writer": "UgwBM6tQn_bxG6C2vHd4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이해가 잘되네요",
+        "writer": "Ugzct7EJs_lQrLTjVrp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "primenumber independent 맞는거같은디",
+        "writer": "UgweVuDFC1npjvnrYNh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런영상에 유료광고포함 떠버리니까 (이름)(이름)이 책팔러나온 책장수같아보입니다. 책 협찬때문에 유료광고표시했다 이런식으로 정확하게 설명을 해줘야 오해들을 안할것같습니다.",
+        "writer": "Ugw5T_5DTpzRi26hBGN4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "굿 최고.",
+        "writer": "UgwT01QcAaa2KmOiJEV4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 거물을 모시다니 앞으로 더욱 쭉쭉 뻗어나가시는 건가요..",
+        "writer": "UgwWNDbz8n8mKLrHMdJ4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수학을 알면 세상이 보인다.",
+        "writer": "UgyTC6smvMI_yngc_WV4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 좋은 영상 감사합니다",
+        "writer": "UgwEGVv9PZ64Rp2HWdp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1부 안봤어여 책 팔러 나오신거라고 유쾌하게 말씀하시는데 뭐가 그리 불편하신지",
+        "writer": "Ugw5T_5DTpzRi26hBGN4AaABAg.9DB6SvOZmt39DB8r-SY5EJ",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1부에도 대놓고 책팔러 왔다고 함,",
+        "writer": "Ugw5T_5DTpzRi26hBGN4AaABAg.9DB6SvOZmt39DBhxuYSbrQ",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교수는 책팔러오면 안됨",
+        "writer": "Ugw5T_5DTpzRi26hBGN4AaABAg.9DB6SvOZmt39DJHw-YsOzs",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=_kSoo9jHYQc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

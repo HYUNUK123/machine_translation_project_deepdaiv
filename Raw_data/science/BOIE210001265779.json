@@ -1,0 +1,860 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001265779",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIE210001265779"
+    },
+    "text": [
+      {
+        "content": "과학적으로 근거는",
+        "writer": "Ugwxr4sLkkmdj_wVLvd4AaABAg",
+        "write_date": "2021-10-09",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 2년동안 꿈 안꾸고 잠 자는데",
+        "writer": "UgzLCY4qeP9CENbx3oF4AaABAg",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밝은면님저는움직여도 딴짖해도꿈을잘기억하는데무슨병같은건가요",
+        "writer": "UgzC3NedcPr9ugORmQ14AaABAg",
+        "write_date": "2021-08-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈꾸고싶은데 꿈이안꿔지네요",
+        "writer": "UgylwYX7X5U2kUGKDNt4AaABAg",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 하루에 6시간에서 7시간자고 주말에는 10시간정도자는데 꿈을 안꿔요 그리고 꿈을 꿔도 일어나면 기억(이름)는데 왜이런걸까요",
+        "writer": "UgxRuoE0goL68qmIhAJ4AaABAg",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈을 꾼다는 인(반사회적용어) 못 한지 엄청 오래되었어요, 흔히들 말 하는 꿈을 안 꾼다의 상태가 5년정도 지속되었는데 이거 문제가 심각한걸까요",
+        "writer": "UgyeGTDSFA9ZnfP_jBF4AaABAg",
+        "write_date": "2021-06-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈을 안꾸면 오히려 푹잔거라고 하던데",
+        "writer": "UgwcvpHTMHhboqQxHlN4AaABAg",
+        "write_date": "2021-06-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 꿈않꾸는대 ()",
+        "writer": "Ugy2_TLAMVXpaodapJR4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 꿈을 꾸고 싶지만 꿈을 못꿔요",
+        "writer": "UgzxtVcR-p5b1mewFmZ4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 꿈을 기억은 못하지만 댓글을 단 내용은 전부 기억난다",
+        "writer": "UgznwvLqeeo_F0wPOlp4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈 꾸고 싶어요,",
+        "writer": "UgwBQbBVZUsrTdGZS3R4AaABAg",
+        "write_date": "2021-02-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇년마다 꾸는 꿈들중 몇개는 기억 나는데 나머진 잘, 매일 결론이 같음 누가 죽거나 어둠속에서 뭔가를 찾으면서 우는 자신 거의 똑같은 꿈들만 반복하는데, 꿈 결말이 어둠쪽은 과다출혈로 인해서 꿈속 안에서 사망해서 깨고 누가 죽는 꿈은 누군지 모르는 죽은 사람한테 갈려고만 하면 막혀서 못가다가 앞살당해서 깨어나는데 뭐죠",
+        "writer": "Ugz0aDQUCpJKbUtnCgV4AaABAg",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 조졌다 꿈 거의 안꾸는데",
+        "writer": "UgwlbeBZwQkt7pkHHdZ4AaABAg",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보니까 우리나라가 참 빡세다고 생각한다, 사람은 잠을 적어도 8시간 이상 자야하는데, (비속어)의 학교 빨리가야되서 일찍일어나야되고 학교 끝나면 바로 숙제하고 또 학원가고 학원 끝나면, 밤인데, 저녁도 못먹고 또 숙제하고, 숙제 다하면 새벽인데 또 다음날 학교가야되고 , 하, 인생 너무 힘들다,",
+        "writer": "Ugyxvy69SofOIttjd_x4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 이런 경험은 있을 거임, 수학문재 풀다가 잠들면 꿈속에서 계속 머리 쥐어싸매며 문제 푸는 괴로운 꿈, 으니면 시험 공부하느라 잠을 너무 안 자면 꿈 속에서 공부를 하는 바람에 내가 공부를 하는 줄 알고 계속 잠, (몸이 일부러 자라고 이런 꿈 꾸는 듯 덕분에 일어나면 , 공부 안한 현실에 더 괴로움)",
+        "writer": "UgyXK2CJR0IM548O1aJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 밤에 자는건 물론 낮잠 자는거 마저 꿈꾸는데,",
+        "writer": "Ugz7vbuOKooYt6gaBpJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 유치원때부터 20살 지금까지 꿈을 악몽한번 꿔본거 같습니다.",
+        "writer": "Ugw1UmBo8T8nUcmf4jZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0초전 지금",
+        "writer": "Ugy3bcv1RDgKx8IxRAx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태어나서 꿈한번밖에 안꿔봤는데 문제있나요",
+        "writer": "UgzSi81PAXehejOO6x14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 태어나서 꿈한번도안꿔봄",
+        "writer": "UgzSi81PAXehejOO6x14AaABAg.9BoptMod5cw9DsAT7udOmZ",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클램 처음봤네요 저처럼 꿈안꾸는사람은 저같은경우는 잠꼬대를 할때가 있는데 꿈을 안꿔요 클램님도 잠꼬대하나요",
+        "writer": "UgzSi81PAXehejOO6x14AaABAg.9BoptMod5cw9DsAkZ1Zenk",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자베즈 아니요",
+        "writer": "UgzSi81PAXehejOO6x14AaABAg.9BoptMod5cw9DtCCHRaPzz",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 11살 되서 부터 꿈이 잘 안나오기 시작했어요,",
+        "writer": "Ugw_3laecW2uCrcfHNV4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님들이거걍에요 전태어나서꿈한번도안꿔봤는데 면연력아주 좋아요",
+        "writer": "UgyAk4uZgH07FvTVgvR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 나 거의 꿈 안꾸는데",
+        "writer": "UgyHsUVffhMdwuNlbBl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈은 사람이 깨기 30초 전에꿈니다.",
+        "writer": "UgyHWXZGPimSncg9pM14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무서운꿈은 기억이 엄첨 생생하게 나는데 좋은꿈은 1나도 기억이 안나여",
+        "writer": "UgxE0KhjxGZS9fXkn9Z4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악몽도 스트레스가 풀려요",
+        "writer": "UgxxDPDvfDSOGD6nKNB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난진짜 꿈이 질릴정도로 맨날 꾸는데",
+        "writer": "UgxbqYdsDiK20Q3xi554AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는오늘 병원에 가야돼네요",
+        "writer": "UgxstUP8wxeMVmvOvz54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈을 안꾼다",
+        "writer": "UgyAW5hgbHgoRhGxHHN4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7살 이후로 꿈 안 꿨는데 꿈 꾸기 시러 악몽 아직두 기억나,",
+        "writer": "Ugyyw42YKS6k0yfZp7p4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 유치원 때 한번 꿈 안꿔봤어욬 그냥 검은 화면 끝,",
+        "writer": "Ugw-W80_7RMMOp-S6LF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알람 때문에 전자기기 만지는데요 , 어떻합니까",
+        "writer": "UgzD9gwrlg8YxGSPiMh4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠을 자면서 꿈을한번도 꾼적이없음",
+        "writer": "UgzVAaFc_f6uAhX8LKJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 고2인대 년동안 지금까지 한번도 꿈을 꾼적이 없음",
+        "writer": "Ugws4QN8g45zpqhmxpl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무서움 꿈꾸면진짜 키커지는건가요",
+        "writer": "Ugz75tqnTPVsxJ7Bd0R4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 꿈안꾸는 초4때 이후로 꿈꾼적 . 그래서 가위 눌린적두",
+        "writer": "UgydFzuXGz2WFzNSg2F4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 꿈 아 꾸는데",
+        "writer": "Ugy9YJirfn-R5QPVnq54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 꿈을 안 꾸고 그냥 자고 일어나면 꿈은 가끔만 꾸고 잠은 잠들고 일어나면 그냥 아침이 되어 있어요.",
+        "writer": "Ugx8c-puHwY3P7c8Mnt4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 태어나서 한번도 꿈안꿔봄 근대 면역력낮음",
+        "writer": "UgyAk4uZgH07FvTVgvR4AaABAg.9AiEO1JQyJ39I0AUsIfxMr",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구나 그럼",
+        "writer": "UgxRAuFIBFLWPC85YCV4AaABAg.99Lh9AqiZmH99UXlxSoBId",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너구리 반말",
+        "writer": "UgxRAuFIBFLWPC85YCV4AaABAg.99Lh9AqiZmH99Wt0umVFDb",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인가 하는거도 반말임",
+        "writer": "UgxRAuFIBFLWPC85YCV4AaABAg.99Lh9AqiZmH99WwQqNNMv_",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깨고 싶을 때 깨는데 임 그리고",
+        "writer": "UgxRAuFIBFLWPC85YCV4AaABAg.99Lh9AqiZmH99WwTMN6LZO",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너구리 암 아는척오지넼",
+        "writer": "UgxRAuFIBFLWPC85YCV4AaABAg.99Lh9AqiZmH99Z3QHAM9P7",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 앎 임 뭘 알아 알기는",
+        "writer": "UgxRAuFIBFLWPC85YCV4AaABAg.99Lh9AqiZmH99ZBQczZC44",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘아는척이야기본상식이고 너는 상식이없는거여",
+        "writer": "UgxRAuFIBFLWPC85YCV4AaABAg.99Lh9AqiZmH9D2jD2XPAwS",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 꿈안꿔요",
+        "writer": "UgxstUP8wxeMVmvOvz54AaABAg.97XjKr_Ug3X9DuR_c0q4jS",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 옛날에 꿈을 꿔는 현재는 꿈을 안꿔요",
+        "writer": "Ugw-W80_7RMMOp-S6LF4AaABAg.96xXEGAV8s69HV4hzUtqI4",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 지금(혐오표현)대 살면서 꿈이란걸 꿔본적이 없음",
+        "writer": "UgzVAaFc_f6uAhX8LKJ4AaABAg.96mLVIOG9n196tGXzzH9N4",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 꿈을 꾸고싶은대 안꾸어짐",
+        "writer": "UgzVAaFc_f6uAhX8LKJ4AaABAg.96mLVIOG9n196tGZFqCSvL",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 꿈안꾸는데,",
+        "writer": "UgxzhlxvVRB6ah-s5dl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제는 되게 신기한 꿈을 오래 꿈니다.깨고 싶지 않은 것은 않이지만 그래도 깨도 괜찮은 그런 꿈을 꾸지요. 예를 들면, 모든 세상이 공격력이 없는 기괴한 괴물들과 모든 것들이 반쪽이 되고 엄마가 악마가 된 꿈이였죠, 그리고 전 침대에서 떨어졌죠. 엄청 아팠습니다.",
+        "writer": "Ugy9hA-aIGX7iRwmJAF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 꿈은 오래 기억이 안나는거같아요. 예를들어 꿈꾸다 깬 직후엔 꿈내용이 잘 기억이 나는데 다시 자다가 깨거나 시간이 흐르면 정말 잘 기억이 안나더라구요. 너무 신기해요",
+        "writer": "UgzZ_MRKgAOKxSZjKxx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 꿈을 않꾸는데 살도 않찌고 힘들지도 않고,",
+        "writer": "UgyJErzfto4vmD1xQMF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 메일 꿈 안꾸게해 해주라고 소원 빌어서 자주 안꿔요",
+        "writer": "UgwCQn76o2tOJtEqZFt4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈 꾸고 싶습니다, 유치원때 이후로 꿈이 안 꾸게 되요",
+        "writer": "Ugw-NkSWCEauxXdQt2Z4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 꿈 않 꿔요",
+        "writer": "UgzhFF5BUQ_aS-8pU1p4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 꿈 잘 안꾸는데,",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 꿈을 꿔도 꿈을 꾼건지 몰라요",
+        "writer": "Ugz0VFvLTMLmrA7jO-l4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뷰가 안나와",
+        "writer": "UgzOunkkPYKtW7zCZuN4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈을 꾼다면 정말 자각몽은 꾸지 않기를 바랍니다 (루시드 드림) 부작용은 몇가지 있는데 1.악몽을 꾼다면 정말 지독합니다 2.뇌가 피로해집니다 3.사회적 영향도 미칠수있다. 4.고통도 느낄수 있다(가면 갈수록 점점더 아픔이 더 느껴진다) 이정도 입니다 저같은경우는 정말 뇌가 피로, 꾸고싶지 않습니다만 어떻게 해야 자각몽을 안꿀까요,",
+        "writer": "UgyxbxTq6FQmEi9MtOJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "렘 수면이 무슨 수면 단계중 가장 깊은 수면 단계야 가장 얕은 이겠지 꿈을 안 꾸는게 오히려 가장 깊은 수면단계인데 무슨 좀 알고 만드시길 보고 그냥 믿는 사람도 많은데 신뢰도 떨어지네 이전에 몇개나 (반사회적용어)이었던 거냐",
+        "writer": "Ugx9vhOIcbywJ0R3GcR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요점없는 빙빙 말돌리기 말장난 그만하시길",
+        "writer": "Ugw3SiLoiKFbgm_imGJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 램수면. 그래서 외국 영화를 보면 아이들이 자기전에 양을 (이름) 두마리 세었던 거구나. 램수면 하려고,",
+        "writer": "UgxAmrvCf_Xe1vz3ne54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈이 갈수록 잔인해져서 괴로워요",
+        "writer": "UgyhdySjKn3QJ-jKrIl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 빡인 (이름) 꿈을 안꿔서 그렇쿠나",
+        "writer": "Ugx28tc4VcM9w_qUAuh4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈을 안꾸는게 푹 자는 것이라 건강에 좋다고하지만, 꿈을 꾸면 매일 자면서 낭비하는 8시간동안 제2의 인생을 사는것 같아 꿈 꾸는것을 선호하는 본인입니다.",
+        "writer": "Ugx-stHSXMEMK1bXJAR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈이 스트레스 풀게도 해준다는데 저는 꿈이 너무재밌어서 꿈꾼거 일어나서 종이에 다적어요헐내가하고있는거 대박",
+        "writer": "UgwYge9BKsWN27gGi714AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 건전한꿈이 3개고 나머지는 호러꿈인지 참 궁금하넹, 공포물만 쩜많이봐서그런가",
+        "writer": "UgySoYacKdVhW7eOjR14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 인상깊게 남은꿈은 기역나요",
+        "writer": "UgzZ_MRKgAOKxSZjKxx4AaABAg.92dsmbEP5wc99Q3M-1LWT8",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 유치원째 화산 폭발 나는 꿈꿨는데 아직도 기억남 지금은 4학년",
+        "writer": "UgzZ_MRKgAOKxSZjKxx4AaABAg.92dsmbEP5wc9BOBnIPN_NQ",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 42(혐오표현)데 7살때 인상 깊었던 꿈이 아직도 기억남",
+        "writer": "UgzZ_MRKgAOKxSZjKxx4AaABAg.92dsmbEP5wc9K1To9KMryn",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끔찍 하네요, 상황도 그렇고 맞춤법도 그렇고,",
+        "writer": "UgyJErzfto4vmD1xQMF4AaABAg.92JJHqp4Uaj940yR6lVb8V",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초등학교때 국어 안배우나 진짜",
+        "writer": "UgyJErzfto4vmD1xQMF4AaABAg.92JJHqp4Uaj9452xmCkcdy",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 님이 좋아하는 만화를 보고 되고싶은 만화 캐릭터가 있다면 자기전에 3시간 전부터 3시간 동안 그 만화를 보고 잠을 자면 님이 되고싶은 캐릭터가되요 어, 전 그랬어요 아니면 그 만화만 보면 꿈에서 나올,까요 전 그러면 꾸는 데 저는 꿈을 1주일에 2일3일은 연속으로 꿈을 꿉니다.",
+        "writer": "Ugw-NkSWCEauxXdQt2Z4AaABAg.91ZIJTjQg_Z92HAOOksMEL",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 조금,",
+        "writer": "Ugw-NkSWCEauxXdQt2Z4AaABAg.91ZIJTjQg_Z9Bty3M3BSpu",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자연 저도 꿈을 안꾼지오래돼서",
+        "writer": "Ugw-NkSWCEauxXdQt2Z4AaABAg.91ZIJTjQg_Z9DsA96SNuLC",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자연 꿈을꾸지않아서 그낭 자고일어나면아침",
+        "writer": "Ugw-NkSWCEauxXdQt2Z4AaABAg.91ZIJTjQg_Z9DsABfJh-B1",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도요, 꿈이 안 꿔지더라고요, 꾸고 싶어도,",
+        "writer": "Ugw-NkSWCEauxXdQt2Z4AaABAg.91ZIJTjQg_Z9IqgMwhhWJJ",
+        "write_date": "2021-02-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도요 , 꾸고 싶어서 유튜브에 쳐서 들어옴 여기",
+        "writer": "Ugw-NkSWCEauxXdQt2Z4AaABAg.91ZIJTjQg_Z9J19s6XDDAG",
+        "write_date": "2021-02-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "tenny mobile 병원에 가야돼요",
+        "writer": "UgzhFF5BUQ_aS-8pU1p4AaABAg.91TggXyqUuD97XjFR5FzKk",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜병원 가야됨 꿈안꾸는대",
+        "writer": "UgzhFF5BUQ_aS-8pU1p4AaABAg.91TggXyqUuD9I0AOvGeMjv",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈은 갑자기 깨면 기억이 안날수 있지 않나요",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq794gs36yZY9W",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 꿈을안꿔요",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq795XCF3JSypq",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 내가 공부 시간에 선생님 말을 기억 못하는 거였네 맞아요. 나 추해요. 그니까 그냥 지나가세요.",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq7966UU-Srycu",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대부분 1시간반 주기로 렘수면 단계에 무조건 꿈을 꿉니다 1시간 반 이상 잠에서 깨지 않는다면 무조건 꿈을 꾸는 것이고 기억이 안 날 뿐입니다.",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq797_UDRptssI",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아녀",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq799LhC8A0KL0",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 1년에 한 5번정도,",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq79Bty225uftR",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안꾸는것이 아니라 기억을못하는겁니다",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq79Byw1TOvzEF",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깨고나서 몇분동안은 기억이나지않나요",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq79C0Rofg6RSu",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그러지도 않는데",
+        "writer": "UgwgTFbF8h47P4Dbpbh4AaABAg.91OdFQC-Pq79HKrAPgSVkC",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그런 적이 있었어요.",
+        "writer": "Ugz0VFvLTMLmrA7jO-l4AaABAg.91IhJLTEU7091P-mCfwMUh",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "will iam 렘수면이 깊은잠이라는건 베르나르 베르베르 머리에서 나온 임 내가 그 작가 싫어하는게 지 (반사회적용어)을 팩트마냥 지 책에 써놓음",
+        "writer": "Ugx9vhOIcbywJ0R3GcR4AaABAg.90HRYv4vtvR90IkADodWgS",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은걸 보세요",
+        "writer": "UgyhdySjKn3QJ-jKrIl4AaABAg.90H701xdQNL92XBtRM-wiT",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘내세요 화이팅..",
+        "writer": "UgyhdySjKn3QJ-jKrIl4AaABAg.90H701xdQNL94PxNABQivU",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잔인하거나 자기가 싫어해도 좋은 꿈이 있습니다",
+        "writer": "UgyhdySjKn3QJ-jKrIl4AaABAg.90H701xdQNL95hIsd7O81A",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겜하징 무서움꿈. 그게 좋은 꿈이에요.",
+        "writer": "UgyhdySjKn3QJ-jKrIl4AaABAg.90H701xdQNL96aGkKTsu4X",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "46 0등",
+        "writer": "UgxtX9fnebFSa8iTcSl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 친구들이 절 버리고 절 죽이려는 꿈을 꿨는데 그 후로 친구들한테서 피해다녀요",
+        "writer": "Ugz7QVFDzCzJWXz2k6d4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 말한 꿈이라는게 기억하지 못하는 꿈이라면 그러려니 하는데 그게아니라면 우리가 기억하는 꿈은 깊은 수태가 아닐때 일어나는데 (이름)를 말하는거라면 이번영상은 어느정도 임 결론 반 사실반",
+        "writer": "Ugz4qZ2w-V2YIirJW754AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 꿈 안꾸면 푹 잔거라 그랬는데",
+        "writer": "Ugz4OPVqeoFA_tJQy1R4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4번째로 왔다",
+        "writer": "UgxrrDrWtALCEDRa6Q14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 그런 말 한 사람이 병실인 거",
+        "writer": "Ugz4OPVqeoFA_tJQy1R4AaABAg.90GsNphqGk-90H-XWjp1Ky",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "William 미디어가 아니라 다른 과학책이나 신문 잡지 뉴스 등에서 많이 봐 왔기 때문에 말을 한 겁니다",
+        "writer": "Ugz4OPVqeoFA_tJQy1R4AaABAg.90GsNphqGk-90LMOA-xvYG",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=NdDmsd6vNY8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

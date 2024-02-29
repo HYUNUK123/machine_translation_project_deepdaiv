@@ -1,0 +1,772 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409071",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409071"
+    },
+    "text": [
+      {
+        "content": "요즘 드라마 CF 영화 게임 모든 영역의 구분선이 흐릿해져가는 추세라 주변에서도 게임 관련 영상을 추천하는 분들이 많으셨는데 제 편견으로 선뜻 접근하지 못했습니다. 덕분에 제 편견이 좀 사라졌습니다. 어느 부분에서는 영화보다 훨씬 잘 카메라를 활용하고 있는 것 같네요. 특히 구조물을 이용한 프레이밍 을 보면서 정말 감탄했어요, 영화에서도 그런 부분이 중요하다고 생각하는데 , 오늘도 잘 배우고 갑니다.",
+        "writer": "UgyFN2SSuv_8UTLmA3F4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 너무너무 잘 보고 있습니다. 게임 속 카메라 연출 주제 너무 흥미로웠습니다.",
+        "writer": "UgxmdB1NNMXCH85Z_QF4AaABAg",
+        "write_date": "2021-10-10",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상 감사드립니다.",
+        "writer": "UgwN0YLlS5rKzS3GQsl4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 정말 좋은 리뷰 감사합니다..지나칠 수 있었던 많은 요소에 대하여 다시하면 생각하게 되었습니다.",
+        "writer": "UgwrKiDGkD3LAE_CAnR4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전에 말씀하신 영상 연출 관객의 시선을 이끌기 위한 6가지 필수 구도에서 모두 말씀하신 내용이 게임에 그대로 적용이 되어있네요, 정말 소름 그자체",
+        "writer": "UgzuRzLIvOzViuT9IrF4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하지만, 라오어2느 .",
+        "writer": "UgyZ5UX26JwZbUH3CMR4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제보니 연출 만 좋았음",
+        "writer": "UgyL-mIDvROEdmZRdzp4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스토리에 대해 겁나 몰입하게 장치해놨는데 막상 스토리가 구리니 더더욱 욕먹는듯",
+        "writer": "Ugyu8ESO-WSNJhTY73x4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라오어2는 물 흐르듯 자연스러운 카메라 오퍼레이션과 줌 라오어2는 줌이 된 이후에도 카메라가 조금 더 나은 구도를 위해 계속 카메라가 움직임을 멈추지 않고 위치를 조정해 나가는 걸 볼 수 있다 줌이 된 이후(무기를 사용할 때)에도 조금 더 나은 구도를 위해 계속 카메라가 움직임을 멈추지 않고 이 부분은 무기 사용 후 총기 반동 같은 걸 말씀하시는 건가요",
+        "writer": "UgyuOB0Fh6GatiTq5o14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래, 동선 카메라, 좋으면 뭐해 스토리가 말아먹는데,",
+        "writer": "UgwKoOHM9H1kTHsRDUp4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 그래서 반대로 공포게임같은경우는 시야를 차단하기위해 1인칭이 많았군요,",
+        "writer": "UgwIUA8_96CNXEpT4qJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초에 나오는 영상은 페이크입니다. 그리고 툼레이더 제작사 몬트리올의 수장이 말한 라스트 오브 어스2의 데모는 가짜라는 말도 진실이더군요. 해설 좀 부탁드립니다.",
+        "writer": "Ugyz5Yd--NClhRemJBN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요런거 많이 해주세요",
+        "writer": "Ugy73CyFSKZdsXGPfMJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간중간 구체적으로 노란색 선을 표시하는 방법으로 비전공자들도 이론들이 어떻게 화면에 적용됬는지 알 수 있도록 배려해주신 방법이 참 와닿고 좋았어요.",
+        "writer": "Ugx1mU62nOA4zKtFlzx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇달 전 게임 저널리스트가 분석한 게임에서 카메라가 갖는 위치 에 대해 비평하는 유튜브 비디오를 봤었는데 무려 국내에서 이런 고퀄리티 분석 영상을 만나게 되어 너무 좋네요 또 다른 시선에서의 관점분석을 얻어서 기쁩니다 게다가 국내 유튜브 채널에서 시네마틱 공식과 문법에 대해 이런 분석과 시선들이 담긴 유튜브 채널은 아직 찾지 못했는데 오늘 이렇게 만나게 되어 좋습니다 바로 구독했습니다 watch vbHdi5Ar8GXw 제가 본 영상은 영국의 Game Maker s Toolkit이라는 채널인데 같은 주제에 대해 다르게 말하고 있는 재미가 있어서 S(이름)께서도 한번 봐보시면 재미있을 거에요.",
+        "writer": "UgyHIdinNCwr-ZcDn1t4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의미있는 영상이네요 잘보고 갑니다 )",
+        "writer": "UgwYkdaEA2CDbQegeOd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 영상 잘 보고 있는 게임업계 취준생입니다. 이 영상을 늦게봐서 댓글을 늦게 달게 되었지만, 이번에 나온 데스 스트랜딩 이라는 게임의 영상미 퀄리티를 보고 상당히 충격을 받았는데, 혹시(반사회적용어) 게임을 플레이 해보셨거나 관련 영상을 보셨다면 어떻게 생각하시는지 정말 궁금합니다.",
+        "writer": "Ugwg8efQAlhNFXr6PgR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페이스북으로 알게되었는데 유툽 구독까지 했네요 FILM관련영상들 잘보고 배우겠습니다 감사합니다",
+        "writer": "UgxT0K-X598eAupucMZ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "01 카메라 위치 렌즈 선택 02 캐릭터 동선 프레이밍 03 인게임 영상과 실제 게임 트랜지션 04 인게임 영상 연출",
+        "writer": "Ugw8VMbZ1Aq9mx5Q-lF4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 영상보고 라오어 2시간 바로 정주행했습니다,",
+        "writer": "Ugx7lYfueEUhbmBWAC54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임 씨네메틱쪽은 이정도로 신경쓰는 스튜디오가 영화보다는 아직 적은 편이라 앞으로도 더 다양하게 발전할 가능성이 남아있는 분야같아요. 감사합니다 (이름) )",
+        "writer": "UgyFN2SSuv_8UTLmA3F4AaABAg.90SSPt3yEUY90SbehCMrtL",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "징하다 징해 카메라 연출 얘기하는곳 까지 와서 저렇게 분탕 티를 내려고",
+        "writer": "UgyZ5UX26JwZbUH3CMR4AaABAg.9JMiPXNN9n79T5iTt0tt45",
+        "write_date": "2021-10-10",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때까지는 스토리는 아무도 몰랐죠, T T",
+        "writer": "UgwKoOHM9H1kTHsRDUp4AaABAg.9AbDLDn6SkC9Ac3VSWjyWK",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그쪽분들 여기까지 들어와서 이러고 있네 카메라 연출 얘기하는곳에서 또 분탕치려고 징하다 징해",
+        "writer": "UgwKoOHM9H1kTHsRDUp4AaABAg.9AbDLDn6SkC9T5iYHNQQPF",
+        "write_date": "2021-10-10",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 채널의 영상 두가(반사회적용어) 더 소개드리고 싶어요. k70_jvVOcG0 이 영상은 너티독이 피사체나 인지하는 법에 대한 영상인데요. S(이름)의 본 영상에서도 언급되었던 것들이 레벨디자인으로 전부 의도된 설계라는게 놀라웠어요. 실눈을 떠도 길을 인지하게끔 레벨을 만들었다는 것도 인상깊었구요. watch vQot5_rMB8Jc 이 영상은 되려 PS게임에서 인게임 시네마틱을 오히려 최대한 지양하는 게임 라스트 가디언이 어떻게 게임만이 가지는 고유의 언어를 가지고 있는가에 대해 말하고 있어서 거시적인 관점에서 게임이 왜 예술인가에 대해 말하는 영상입니다 해당 예술 매체들의 작동 원리를 알아간다는 측면에서 재미있는것 같습니다 )",
+        "writer": "UgyHIdinNCwr-ZcDn1t4AaABAg.96Isv150E3a96Itz2ZGpEY",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 공유 감사합니다. 한번씩 살펴보도록 할께요.",
+        "writer": "UgyHIdinNCwr-ZcDn1t4AaABAg.96Isv150E3a96NVlejMsnm",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심많은 작품인데 꼭 한번 살펴보도록 할께요.",
+        "writer": "Ugwg8efQAlhNFXr6PgR4AaABAg.947aKli8NuJ94BVdGb3QGe",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 정보 퀄리티가 어떠한 강의 영상보다 넘사네요, 세상 모든 정보를 이런식으로 제공받는다면 얼마나 큰 혜택일까요, 마치 누가 저한테 숟가락에 밥하고 고기올려서 떠먹여주는 것처럼 정보가 술술 들어오네요 대박 잘봤습니다..",
+        "writer": "Ugw-AWfMtZobzAL-fFF4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤습니다. 어디에도 볼수 없는 카메라연출강의에 배우고 갑니다. 이런 부분은 2d쪽 작품도 적용가능한지 궁금합니다.",
+        "writer": "Ugx_uwN_X6Si_bPMa3Z4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 배우면서 저의 시각도 매번 새로운걸 발견하게 되네요. 유익한 정보 너무 감사드립니다..",
+        "writer": "UgxN0mN8BNnu804QsYN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 카메라 설명해주시는거 너무 재미있어요..",
+        "writer": "Ugyy5G2rnFTvoOaRttV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루 빨리 유튜브 수입으로 플스 구입하시길 바랍니다.. 좋은 영상 매번 감사합니다",
+        "writer": "UgwQK6E0YfjylcqtVyt4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임업계 종사자인데. 이런거 너무 좋습니다. 많은 영상 부탁드립니다.",
+        "writer": "UgyD8Ocw4-o26ZVtetx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "렌즈에 대해 다뤄주시면 감사하겠습니다",
+        "writer": "UgwuextE9xknV9PxAwZ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 정말 잘 보았습니다. 너무 유익한 영상이에요.. 앞으로도 게임 쪽 많이 다뤄주세요",
+        "writer": "UgyS2hxUmVwwaWDvZsN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다방면 콘텐츠를 해설 해주시니 장르별 고립된 시선이 아닌 연출이 가진 의미로 한층 배워 가는거 같네요. 그리고 만약 기회가 되신다면 게임 트레일러들이 가진 연출도 이야기 듣고싶어서 조금이나마 희망해봐요 항상 영상 잘보고갑니다 감사합니다",
+        "writer": "UgwYUSMvQElWrqYMRrl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플스 당당히 사시는 날이 빨리 오도록 좋아요 구독 눌렀습니다 게임 컨텐츠는 비주얼 요소로만 분석해왔었는데 카메라가 이렇게 큰 차이를 줄 수 있다는 걸 배울 수 있어서 도움이 많이 되었습니다.",
+        "writer": "UgyuouhHBYT7O_QrA394AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임회사에서 일하는 사람이지만 연출 컷신 같은거 공부하려고 구독하는 사람인데요. 이번 영상 정말 저같은 사람에게 너무 도움됩니다 ... 감사합니다 게임관련 영상 자주 올려주세요 너무 너무 좋습니다 갓오브워보다 왜 라오어가 좀 더 몰입감이 좋은것 같지 하는 생각이 슬쩍 들었는데 가려운데 긁어주시는 느낌이네요..",
+        "writer": "UgzBnSbtyhvwu3JpW8x4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 비전공자가 영화연출을 공부할 수 있는 책 추천해 주실 수 있나요",
+        "writer": "Ugzdm-C83Rsz2ZcFgU54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 흥미롭네요. 게임에도 레이아웃 시네마토그래피 담당하는 아티스트가 따로 있는 건가요 많이 배우고 갑니다",
+        "writer": "UgxU3X7i2ijizdUQ-9d4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 션킴님. 저번에 어떻게 픽사를 들어가게되셨는지 영상으로보고 관심이가서 구독하게됬는데 평소에 영화나 에니메이션 또는 시네마틱 게임을 상당히 사랑하는데 어떻게해야 너티독같은 회사에서 일할수있는지 알려주실수있을까요 게임 그래픽디자인으로 일하고싶은데어떤 대학의 전공을해야하는지 아니면 한국게임회사에서 경력을쌓고 가는것도 가능한지, 이 영상엔 관련없는 질문이어서 정말 죄송하지만 답변부탁드리겠습니다",
+        "writer": "UgxLqcU0QeLxCHDY_Gp4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 영상은 몰입감이 장난 아니었습니다. 저는 겜알못이지만 지인이 추천해준 게임으로 플스를 했었는데 진짜 마치 주인공 같았는데 이번 영상으로 그 이유를 알게 되었습니다. 그때 당시에는 게임이라는 것에만 비중을 두고 플레이만 했었는데 이렇게 카메라 연출에 대해 얘기해주시니 놀라움을 금치 못하고 있습니다. 특히 캐릭터 동선이나 구조물 위치는 정말 다시 한 번 플레이하면서 보고 싶게 만들었습니다. 다음 영상도 기대됩니다..",
+        "writer": "UgzFcrtw5EeJyvILeAB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 정말 유용한 영상",
+        "writer": "UgwycltQD6oXI6x_-WB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋아요 항상 잘 보고 있어요",
+        "writer": "UgwIjGcJlBsU--1YRZV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 감사합니다.. 오늘도 잘 봤어요...",
+        "writer": "Ugz1tnhjxYwxtehqwBV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임 레벨디자인을 업으로 삼는 입장에서 정말 좋은 영상이었습니다.",
+        "writer": "Ugyt_oJY8JTS3Ktby6V4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실무에서 오래 근무하신 베테랑의 리뷰를 보니 확실히 게임이 한차원 달라 보이네요. 카메라연출만을 언급하여 미장센 조명 레벨디자인등의 다른 부분들로 자연스레 연결짓는 부분에서 수준높은 지식이 엿보입니다. 계속해서 겜린이라고 자칭하며 겸손을 유지하셨지만 이런부분들에서 상당한 연륜이 느껴지네요. 채널 번창하시길 바라면서 구독누르고 갑니다.",
+        "writer": "UgwYznePZ5fgcSn4dpR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라에 관한 부분은 2D던 3D던 상관없이 적용가능합니다.",
+        "writer": "Ugx_uwN_X6Si_bPMa3Z4AaABAg.92YzVEFDhAT92_7UYdWUqI",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "NinetyNine 99 게임 씨네메틱 리뷰도 생각은 하고 있습니다. 워낙 멋진 씨네메틱이 많아 고르기가 힘드네요",
+        "writer": "UgwYUSMvQElWrqYMRrl4AaABAg.90zu_K2rkdw910qGwzfCUb",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sleep in Cinema 씨네메틱 아티스트라고 따로 뽑는 경우도 있고 블리자드 같은 경우는 프리비즈 아티스트로 뽑더라고요)",
+        "writer": "UgxU3X7i2ijizdUQ-9d4AaABAg.90bKv5_B5oF90bLFprKgSC",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강또 레벨 디자인과도 밀접한 관(비속어) 있는 분야 같더라고요)",
+        "writer": "Ugyt_oJY8JTS3Ktby6V4AaABAg.90V2cMq9DS090VG-ebieke",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댕멍 응원 감사합니다..",
+        "writer": "UgwYznePZ5fgcSn4dpR4AaABAg.90UpT0Ba6RR90Usc5oisBo",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결론 플스사고싶다.",
+        "writer": "UgxzVoNkNKIwDqjsQj54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임과 영화 모두 사랑하는 입장으로서 이런 영상은 정말 많은 생각을 하게하게 만드는 영상이네요 항상 좋은 영상 감사합니다",
+        "writer": "UgyuiuxOqrslq127hkB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현직 애니메이터입니다. 늘 도움 받아가고있습니다. 이번 영상도 정말 레이아웃에 많은 도움이 된것같아요 감사드립니다. PS4 게임 the order (비속어)86 m2XTemANLEw 를 플레이하면서 영상미에 매료됐었는데요. 영화적 표현과 카메라 연출이 매우 인상적이였지만 이에대한 정확한 리뷰를 찾아볼 수없어 아쉬웠습니다. 혹시 시간 되시면 저 영상한번 봐주시구(놀랍게도 전체 플레이 영상입니다,) 리뷰 부탁드려요 될까요",
+        "writer": "UgwnCv0wTs5M17tPm3p4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 감사합니다..",
+        "writer": "UgwjHgJPkKERjsfbt0R4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임 분야는 더더욱 잘 몰랐는데 이렇게 게임영상의 훌륭한 카메라 연출 사례를 소개해 주시고 분석해주셔서 감사합니다",
+        "writer": "UgxMCQitgclOOlTHZsl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라오어2 시연영상에서 애니메이션 블렌딩이 너무 자연스러워서 밑장빼기 아니냐 는 말도 있드라구요. 게임이 나와봐야 알꺼같네요",
+        "writer": "UgwT3iRSYn3quv9CpYh4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 내 인생작,",
+        "writer": "UgyzecPkX_5W74BA9u94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연출에 정말 신경 많이 써주는 회사 언차티드4에서 정신없이 싸우다가 쌀자루 뒤에 숨었는데 총격으로 쌀자루에서 쌀이 빠져 높이가 낮아지니깐 주인공도 몸을 더 숙여서 숨던 모습이 아직도 기억에 남네요.",
+        "writer": "UgwWdpLPhJyBlVldnPp4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뤠드뒈드릐뎀션 중독성 잇네여",
+        "writer": "Ugx5LbW3MrSLfIiZ-n14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라오어 첫장면은 진짜 충격이였죠",
+        "writer": "UgwUuL70SoyYz5gbNO14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "션킴님 영상은 사용된 기술 그 자체가 아니라 그 기술을 통해 창작자들이 무엇을 전하려고 하는지에 초점이 맞춰져 있어서 정말 많은 도움이 됩니다. 무엇이 문제가 되는지 해당 문제를 어떤 방법을 통해 해결했는지 해결책을 적용하니 어떤 결과물이 되었는지 문제 명세 해결 방안 제시 평가의 3단계를 이렇게 명료하게 해설해주는 귀중한 자료가 또 있을까 싶습니다. 올려주시는 영상들 덕분에 완전히 새로운 시야가 트인 느낌을 받습니다. 항상 좋은 영상 업로드 해 주셔서 감사합니다.",
+        "writer": "Ugwl2ZlQz7qZ8PE8ZEl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단맛 짠맛 고급진 맛 다 아시는듯",
+        "writer": "UgxSG0oH1fk8gaILimJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 영상엔 좋아요 댓글 다는거라고 배웠습니다. 까뮤 까페에도 퍼갑니다",
+        "writer": "UgzgdfEyx2an8bCxTXl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플스 지금사면 안대용 내년에 PS5 출(비속어)표있어요",
+        "writer": "UgyFfjWgKybh0uT0C-p4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 정말, 유익한 영상 감사합니다. 항상 재밌게 보고있어요.",
+        "writer": "UgwYCTIk6HsH1nBad8N4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유익한 영상 잘 보고 갑니다.",
+        "writer": "UgzoHKJT7iWBS7n-CNR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 잘봤습니다.. 기대되는 게임이에요...",
+        "writer": "UgwWzQ0u5BCE7F14VcJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 잘봤습니다 카메라 렌즈 구도에 많은 도움이 됩니다..",
+        "writer": "UgwKpiXnkYZ0L_UIW6V4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 감사합니다. 카메라 지식이 계속 늘어나니 정말 좋네요.",
+        "writer": "UgytPWbn1RC8JYJrQQl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kame(비속어) 광고 스킵하지 말고 보기",
+        "writer": "UgxzVoNkNKIwDqjsQj54AaABAg.90UoyGaLQXb90UsXC-BGdl",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑열전구 앗 평소에 구독하면서 영상 잘 보고 있어요) 감사합니다.",
+        "writer": "UgyuiuxOqrslq127hkB4AaABAg.90U0bavhTBR90U3oUZprXA",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Conker 오 또 볼만한(플스가 없어서 플레이는 못하고 T T) 게임 추천해주셔서 감사합니다. 플레이 영상이 꽤 길어서 당장은 다 확인하기 힘들겠지만 꼭 살펴볼께요",
+        "writer": "UgwnCv0wTs5M17tPm3p4AaABAg.90TuAXP-ew290U3iNmVltR",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유감 그럼 손모가지,",
+        "writer": "UgwT3iRSYn3quv9CpYh4AaABAg.90Sz1oqw59t90U3zHxExYV",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "z ye 혀가 짧아서 발음이 힘들었,",
+        "writer": "Ugx5LbW3MrSLfIiZ-n14AaABAg.90SdrRI0ZGi90U4SQdcMAz",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 (이름)",
+        "writer": "UgzgdfEyx2an8bCxTXl4AaABAg.90SZYyK4Oum90SbUQV9xP1",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마도 와이프가 그때까지 허락 안해줄 것 같습니다",
+        "writer": "UgyFfjWgKybh0uT0C-p4AaABAg.90SVwVBsswn90SbRChhdwG",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 아, 공부하려고 사달라는건데 야속하시겠어요,",
+        "writer": "UgyFfjWgKybh0uT0C-p4AaABAg.90SVwVBsswn90SiZxOfDbF",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "렌즈 (더 좋은 채널을 만들기 위한 구독자의 미립자 교정)",
+        "writer": "UgxuNJzIjHWoXFSNxRB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓오브워는 개발자들이 게임 시작부터 엔딩까지 카메라컷이 단 한번도 없이 쭉 이어지도록 노력했더라구요. 기술적 몰입감에 중점을 줬다면 라스트 오브 어스는 정말 영화를 보다가 영화속으로 들어가도록 하는 것 같은 감성적 몰입감을 높여주는데 탁월한 능력이 있는 게임 같아요",
+        "writer": "UgwRgrcUtww8FExIlxR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 게임쪽은 전혀몰랐는데 편집도 넘 재밌고 영상도 유익해서 다 봤어요 쵝오쵝오",
+        "writer": "UgxRTaRMQRuEi7RvY8F4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는것만으로 공부가 되네요 최고입니다",
+        "writer": "Ugx77loHmtBPreIc_hB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콘솔을 즐기는 진성 (혐오표현)로써 정말 흥미롭게 봤습니다 . 레드데드리뎀션 2도 게임중 시네마 모드로 들어갈 수 있는 기능이 있는데 GTA5 때와 마찬가지로 제작사에서 만든 랜덤카메라로 감상이 가능합니다. (레터박스는 덤.) 대부분 이동 지루하지 않기 위해서 쓰는데 가끔씩 레데리 특유의 엄청난 풍경과 랜덤카메라의 조합이 랜덤 이라고 믿기 힘들정도로 아름다운 장면이 연출되곤 합니다 .",
+        "writer": "UgyNfQjT09t5QvmswkF4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임도 영화와 마찬가지로 하는 사람(영화에선 보는 사람)에게 디렉터가 원하는 체험을 안겨다 주는 일이라 생각합니다. 이에 따라서 게임도 영상 연출같은 시각효과에 많은 공이 기울여지고 있죠. 영상 연출뿐 아니라 적과 사물을 배치하는 경우도 목표가 확실히 보여지게끔 배치해놓습니다. 그만큼 게임 개발자이기에 배울 공부들이 참 많아요. 아직 경험이 부족한 생초보자라서 누릴 수 있는 여유인지 몰(반사회적용어) 지금까진 재미있는 공부거리가 많이 준비되어있구나하는 생각입니다. 게임과 관련해서 영상 연출을 집중해서 보여준 영상은 이번이 처음이었습니다. 즐거우면서도 유익한 영상이었어요. 좋은 영상 감사합니다. 다른 영상들도 잘 보고 있습니다",
+        "writer": "UgwtUdiXLF8hlNdJ6eF4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "판매량을 1700장이라고 오타가 있어요",
+        "writer": "UgxDWY4KR76x-dXdxet4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임카메라라고 해서 시네마틱에 국한된줄알았는데 인게임도 이렇게 디테일한 연출제어가 가능하단걸 알았네요.",
+        "writer": "Ugz6gCiDWQKiMjLuNuJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봤습니다 좀더 이런식의 연출을 하는 작품들도 늘어났으면 좋겠습니다. 그래도 저런 연출 능력은 배우고 싶네요.",
+        "writer": "Ugxt_Fai-RLgkss7tTZ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여행 가이드 설명처럼 아무것도 모르고 볼 때보다 기법이나 카메라 연출방식같은 걸 알고 보니까 더 재밌네요",
+        "writer": "UgwYxFfvDUfJ_YqY2d94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgxuNJzIjHWoXFSNxRB4AaABAg.90SIf-QL8V390SbHI0Sgm0",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓 오브 워는 그 설정이 양날의 검이 된거 같아요. 어느 부분은 정말 멋지고 어느 부분은 좀 과하게 만들어졌고 그런거 같아요,",
+        "writer": "UgwRgrcUtww8FExIlxR4AaABAg.90SEtmdT2jW90SbNDLsbba",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Skim On West 맞아요 일종의 강박관념이 많이 느껴지는 장면들이 있었어요.",
+        "writer": "UgwRgrcUtww8FExIlxR4AaABAg.90SEtmdT2jW90Sq8oWNk2u",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Minwoo Park 헐 그렇군요. 이건 역시 플스가 없기 때문이다라고 와이프를 설득해야겠네요.",
+        "writer": "UgyNfQjT09t5QvmswkF4AaABAg.90S8kOrSpk190S9MwRnyWF",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후라라 게임쪽 연출 특히 인게임 씨네메틱은 저도 아주 관심가는 분야간해요. 앞으로 훨씬 더 발전할 여력이 많은 분야같기도하고요)",
+        "writer": "UgwtUdiXLF8hlNdJ6eF4AaABAg.90S8BeK7Ivi90S9ItA8Gtu",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1700장이면 (비속어)한, 1700만장입니다.",
+        "writer": "UgxDWY4KR76x-dXdxet4AaABAg.90S67d2wVJH90S6K1iNg74",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHB3rzoUYi0_ArFvb__nRDQ",
+        "parent_url": "https://www.youtube.com/watch?v=nDBEJn7XFx4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

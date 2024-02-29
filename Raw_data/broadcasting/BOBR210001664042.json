@@ -1,0 +1,988 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664042",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664042"
+    },
+    "text": [
+      {
+        "content": "애들은 낯이 아니라 낯짝을 가린다고, 내가 다 부럽다",
+        "writer": "UgzZaGE3dCMTQoBjwSR4AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음에 또만나면안돼 다음에 또만날까우리 설레,",
+        "writer": "UgymFWLsPYe39DO-qtp4AaABAg",
+        "write_date": "2021-11-15",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 어디서 많이 본 거 같은데",
+        "writer": "Ugwo56libCJ3jhzlXKx4AaABAg",
+        "write_date": "2021-11-14",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기들 눈이 정확하다. 잘생긴 은우삼촌 좋아하는거 봐. 담에 또 불러줘",
+        "writer": "UgyeAjhlqG0I4b7Zpnd4AaABAg",
+        "write_date": "2021-11-04",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자 제재라는그사람임",
+        "writer": "UgwiO64hP9I62RqvOSt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠들 맞나요 삼촌들인거같은데,",
+        "writer": "UgzhYTYMsXCtJkG9x_t4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈 어디서 본거 같은데",
+        "writer": "UgxIOgcr7lxnsPGN9f54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 삼촌이야, 오빠지,",
+        "writer": "Ugy_S_IRYc4GAj2krIB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 진짜 아보카도 같아 귀여워",
+        "writer": "Ugwr6wbUwa23A_K2uO94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈 녹인거 부어야될것 같아요",
+        "writer": "Ugynl5349XQ6P5AztFV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우가 은우오빠한테 앵기는 나은이 잡아 당기는 걸로 봐서는 삼촌도 좋지만 누나가 먼저인듯 우리 귀여운 찐우 누나바라기",
+        "writer": "Ugy5Fj0zCDBiWGjyHrR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파추호 나은이가 (이름)기 싫다하고 덩달아 진우까지도 우니깐 진우보고 왜 너도 연기하냐고 물으보시다니 질투 모먼트",
+        "writer": "UgyR2Ih68VicSN5rXml4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아 동생들 챙기는건 좋은데 넌 아직 어리니까 어리광 부리고 싶으면 부려두 되 알겠지 귀욤둥이야",
+        "writer": "UgwfEZJVmCsXXwNrmHt4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 안기고 싶다,",
+        "writer": "UgyVhjHZ9DGa6n_lOp54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은우오빠는 세상 다(이름)하고 MJ오빠는 세상 스윗하다",
+        "writer": "UgzxZR9zdf6dEFne_PJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 광희대할때랑 넘다름",
+        "writer": "UgyYoucsYgUet00Pb_V4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 쐬바 개부러워,",
+        "writer": "UgwzRWsevPMhYQavuX54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 나은이할래....",
+        "writer": "Ugwww3uvadrQtqZrIuN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 잘생겨야하는구나,",
+        "writer": "Ugxc3ZIPd3G2Vw9TnIV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 나은이 할래..",
+        "writer": "Ugw8i5tg5ci-C51B_N14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헌 차은우. ..나은아 그시간만 나랑 영혼밖우지않을래 ,",
+        "writer": "Ugxk5nqG9Oa1IPdrf494AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 나은이 최고",
+        "writer": "UgyKksrB6cgv7_9Sc314AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 벌써부터 누낭 챙기누",
+        "writer": "UgxYazgCpzK94VYODGd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들이 제일 잘 알지 하, 차은우 진짜 참 잘생겼다.",
+        "writer": "Ugy7GY4uD4x4p449OIJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼촌 이모들 와서 나은이 이뻐해주는거 보면 참 힐링됨, 귀엽다,",
+        "writer": "Ugx-kCyLsfFpySDCH9p4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽네요",
+        "writer": "UgysCrhbJXjSzdEt_ph4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일곱살도 코찔찔이 애기인데 집안에서 장녀포지션 맡고 있는게 참, 착잡하네 나은이 짠하면서도 대단하다 애기야,",
+        "writer": "UgypHPVP7-qpVysf2vp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 재밌으라고 유튜브에서 유행한거 따라하는거보소",
+        "writer": "UgwP32oX-7DDqbVmVJJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아낰 치즈 돌아가면서 사방으로 튀는거보고 웃겨 죽는줄 알았넼",
+        "writer": "UgzssEQNOTwBfE-IED54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 나은이였면 좋겠닺",
+        "writer": "UgzcIx3Ft10bc7SPXQB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차은우 Cha Eunwoo",
+        "writer": "Ugyc0E11YruYP1ezOM14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일에 둘이만 웃고 왼쪽 끝에 너무 초라해보여 기엽",
+        "writer": "UgxEKgIqPbN8lMd9qjp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에고 나은아나은이도 애긴데",
+        "writer": "Ugycw88xoYOOn6xts4h4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장남 장녀들이 밖에선 막내 되요,",
+        "writer": "UgwwUj6jQehBsZUFMNt4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 애기있는집 놀러가면 막상힘든데 헤어질때 애기들이 또 놀러와하면 그걸로 다시 에너지 충전되고 힐링되더라 아이들이 주는 힘은 대다나다",
+        "writer": "UgxNT4MC-S2IkEYyE3p4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 방송을 보다보니 빨려들어가서 눈치못챘지만 (이름)씨의 분량은 거의 삭제 됬더라구요, 하핳하",
+        "writer": "Ugy-ItU0GXBvCywfEDp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본방 볼 땐 가지마 노 라고 하는 줄만 알았는데 가지마 차은우 노 하네 나은아 다음에도 꼭 은우삼촌 만나서 좋은 시간 보내",
+        "writer": "UgyTD-lwg7s5SZ-8C-l4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)보다 났네 차은우",
+        "writer": "UgwuYJHM925lN_ZIMkd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진웈 성격이 벌써 듬직한데",
+        "writer": "UgzeYEKQnNSIkw3YD594AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이가 먹여주면 안돼 말하는데 깜짝 놀라고 안된 생각들고. 나은이의 그동안 (이름)는 이쁘고 또래보다 성숙하게 동생을 잘 챙기고 때로는 아빠도 챙기고였는데 마음 속으로는 그런 어리광이 있었다는데 맏이들에 대한 안된 생각이 듦. 늘 아이들은 아이들 눈높이에서 봐야한다고 생각했지만 이번 방송에서 하나 배웠음. 아이들에게 성숙함을 기대하는 것은 아이들의 천진한 마음을 빼앗는 것.",
+        "writer": "UgyjUoANe4cWXV9Em_F4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나같아도 헤어지기 싫겠어",
+        "writer": "Ugxi9CR0iLM8HhCEhU94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명주니 넘 귀여워",
+        "writer": "UgxSCdiPTGa9Qe36Aid4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젘당힠핰곸냌렼왘진우왜케 기엽고 웃기냨",
+        "writer": "Ugy7ERhyzECIbYLOoSh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이는 이미 아기 때 부터 철듬 ,아니, 철이라는 표현 보단 상대방의 마음을 읽는 능력과 배여하고 도와주는 착한 심성을 타고남. 팬까지는 아니여도(원래 난 누구의 팬도 아님). 아이 자체가 아이라늠 것을 감안 않해도 너무 좋은 사람임.",
+        "writer": "UgyPjIbzQWtxVCrvt594AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 차으응우 노노, 내맘이네 맴찟",
+        "writer": "UgyKZdh5jqDE2IROiDp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 차은우 삼촌 보내기 싫은맘 이해하지 나은이맘내맘 저런 서윗한 삼촌을 어찌 그냥 보내 담에 꼭 다시 만나자",
+        "writer": "UgxgPlpp6BNoTWUHEPx4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 그 레전드찍은 치즈 퐁듀기계군",
+        "writer": "UgzOi0z1iUadUJA4eAR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헬리콥텈 나은이가 은우삼촌을 엄청 좋아하네",
+        "writer": "UgzwmbofBciXkTf3N0d4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 적당히하고 내려와 (비속어) 자막",
+        "writer": "UgwnqLn1Hiz93xmdH9V4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냉장고나라 코코몽 노래도 나왔,",
+        "writer": "Ugxf8CAX93pc7f5mIld4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 짤을 같이 따라해주는",
+        "writer": "UgxiIh194a4yrSI77_x4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기하냐고 했을때 진우 진짜 알아듣고 민망해 하는표정같잖아 ..",
+        "writer": "UgxyrZTrPYMFKym0k9x4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은아, 부럽당",
+        "writer": "UgxAUm_R2a5LcNMgRY54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디스 이스 마이 잡 아빠 나은이 오구오구 아니 차은우 왜케 다정해",
+        "writer": "UgzUQInsLMuKAXQ5VKZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 나은아 역시 최최차차다",
+        "writer": "UgzStpuLLToWDp6fNuR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아스트로엠제이누누 찐건나 둘다 진짜진짜 사랑해,",
+        "writer": "UgyR_-BN_saztx5Zx014AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엠제이 껌딱지 건후 둘이 너무 잘어울리고 둘 다 너무 귀여워엉",
+        "writer": "UgwjOPBb7wwFSc-Gk-N4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차은우 비시팅 잘하는듯",
+        "writer": "UgzMBNjMX-A519u5sa54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘어졌는데 아무도 관심",
+        "writer": "UgyjxBQPiM_I50a0ESB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 생각나는 테스티훈의 치즈분수,",
+        "writer": "Ugyi-uJj0OPKisTHH1x4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국말도 잘 못하고, 발전도 없고 한국사람 같이 않다",
+        "writer": "Ugx7KuWzdjqw2cYwDLd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메모 다음생엔 나은이로 ,",
+        "writer": "Ugzj7RQfndpiEZTd8Eh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 난니 먹여주면 안되녜나은이도 애긴데은우삼촌이 나은이한테 잘해줘서 맴따숩",
+        "writer": "Ugz3qBnG3y4O47jl4IR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이는 동생들 챙겨주느라 자신이 동생들한테 다 해줘서 나은이도 동생들처럼 돌봐주길 원했나보다,",
+        "writer": "UgzGRawLOSDdDUJnYmZ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은우아 꼭 , 다시 나은이 만나줘",
+        "writer": "UgzhqKSG-A_xqKDVNvN4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 잘생겼네",
+        "writer": "UgxA-TPvPcsBQAyETXp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왼쪽 재재인줄.",
+        "writer": "Ugx50lOHMRDXjaYqkR14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자서도 씩씩한 진우 차은우 앞에서는 아이같은 나은 더 놀고 건카소 건후 MJ와 차은우와의 신나는 하루 보냈네",
+        "writer": "UgyUkCEKfHgAVlYOZOB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이맘 내맘",
+        "writer": "UgwbS-4lIgJCBdZCeh14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녜X 냬O",
+        "writer": "Ugz3qBnG3y4O47jl4IR4AaABAg.9RWCNLtcGeY9S0WA_ks_DV",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당근 네 아님",
+        "writer": "Ugz3qBnG3y4O47jl4IR4AaABAg.9RWCNLtcGeY9SU0R3_EE3q",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이가 잘생긴 차은우삼촌 보내기싫어하는맘 충분히이해해내최애 차은우랑 담에또보길바래",
+        "writer": "UgzHTRFX8cWGUSWlQAp4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 댓글 찾을려고 했는데 거의 외국댓이담. , 쨌든 저 진짜 오래된 아로하에요 근데 좋아하는 오빠들 나와서 울뻔 했슴당 여기에 나올줄 몰랐는데 나은이 건후 진후는 이쁘구멋지구귀엽궁 , 오빠들 사랑해 건나진블리도 사랑해",
+        "writer": "UgxRHheZekwyYJGIdSF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 먹여 주면 안대 ,",
+        "writer": "UgySSuodx8MEcYCYRb94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 애기 옆이 애기 옆에 애기, 우리 누누 체공",
+        "writer": "Ugx8jbg19Vp_TJnCkbB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "철이 넘빨리든거 같은 나은이어리광은 가끔 부리지만 음식 먹여달라는거보고 진짜 놀랐고 차은우가 우쭈쭈해주는데 나까지 행복해짐 어리광 더부려도돼 이쁜아",
+        "writer": "UgxsRko9DnfMmqE0nA54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 콘센트 뽑으면 멈춘다는 걸 알고 한건가, 완전 똑똑이잖아",
+        "writer": "UgzKdJQtS97UMuPGEuB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음에 또 나와줘 차은우",
+        "writer": "UgzCfo2_vnmwkdlOvlR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차은우 차스윗하다",
+        "writer": "UgwUe5CrkxmyCCF82z14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이맘 내맘넌 안겨보기(반사회적용어) 했지 난죽기전에 실물이나 보고시프다",
+        "writer": "UgwvE8h7__XD6BEchlV4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 가족들 찐건나블리 세상에서 제일 멋진 가족 사랑해용",
+        "writer": "UgzTCelxdhnQFec4_B14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 첫째라 철이 빨리듬 첫째들은 철이 빨리 들 수 밖에 없지 엄마 아(비속어) 많이 사랑주고 신경써줘야해 울나은이",
+        "writer": "UgxsRko9DnfMmqE0nA54AaABAg.9RVDjnRQknV9RWB_ZLtF(반사회적용어)",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 보면 어릴때 우리 언니같아서 조금 먹먹해요, 어릴때 제가 생각해도 너무 제가 버릇없고 그랬어요 친척 어른들이 저랑 언니 딸이라고 무시했는데 저는 동물꿈 꾸고 태어나서 유독 자주 놀리고 무시하고 그랬거든요, 어이없게도 어릴때 저는 그 스트레스를 언니를 향해 표출했던 것같아요 그런데도 언니는 저 챙겨주면서 예의 가르쳐주고 대신 혼나줬어요, 언니도 겨우 십대 초반이었는데요 10년쯤 지나 제가 고등학생이 되고 자세히 보면 언니는 어릴때 어리광 못 부리고 큰 걸 조금은 속상해하던 것 같더라고요 그래서 슈돌에서 의젓한 첫째 아이들 중에서도 나은이만 보면 언니가 떠올라서 유독 언니한테 미(이름)네요,",
+        "writer": "UgxsRko9DnfMmqE0nA54AaABAg.9RVDjnRQknV9Rd4pQWYh3j",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이가 부럽다,",
+        "writer": "UgxsRko9DnfMmqE0nA54AaABAg.9RVDjnRQknV9RwMngM4VAG",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마아(비속어) 똑똑해서 진우도 머리가 좋은가봐요",
+        "writer": "UgzKdJQtS97UMuPGEuB4AaABAg.9RVCpdIfHoL9RXneEJK_qV",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 애기들 다 똑똑해요 건후도 영어는 자연스럽게 함",
+        "writer": "UgzKdJQtS97UMuPGEuB4AaABAg.9RVCpdIfHoL9SBNmHWMkDw",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 누나 데리고 가는줄 알고 저러나보네",
+        "writer": "UgzSoRvHhS5aX2wx4NB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광희 민호",
+        "writer": "UgyNOQQq5wfOSER4uyJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 잘 안길 수 있는데 은우삼촌",
+        "writer": "UgzyfhdCZEN9N1i7gud4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파추호 예능 참 잘해",
+        "writer": "UgzZFDa7q8nER9CehPJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈 겁나 웃기네",
+        "writer": "UgxO4H70_76t_6TiD7N4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린아이들도 잘생긴걸 알구나",
+        "writer": "UgzzQi8fBsoU-KetZHx4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우가 보면 볼수록 웃긴 개그캐네 아진짜 너무 귀엽다",
+        "writer": "UgzB_iZs5n3CD3AmuA14AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러블리박트리오 잘웃고 잘먹고귀엾고 예뽀",
+        "writer": "Ugxca27y9UggkMxRHq94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낭니 삼촌이랑 헤어지기 싫구나",
+        "writer": "Ugyo5p1ER4bFfRDCOr54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파추호거누봐 하지마래낭니 찌누까지",
+        "writer": "UgykFFGIQcuz2I29wiR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기어다니는 아기들도 알아요",
+        "writer": "UgzzQi8fBsoU-KetZHx4AaABAg.9RTsrCQ0rE79RWRefKgm2I",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제 해외에서 연구도 있음 아기들 다 미남미녀 사진만 쳐다봄",
+        "writer": "UgzzQi8fBsoU-KetZHx4AaABAg.9RTsrCQ0rE79RXiYw4kjk9",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엉망진창 나도 그거 영상 봤어요. 점깐 눈물 좀 닦고",
+        "writer": "UgzzQi8fBsoU-KetZHx4AaABAg.9RTsrCQ0rE79RZH9OM6V8c",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들은 낯을 가리는게 아니라 낯짝을 가린다는 말도 있잖아요..",
+        "writer": "UgzzQi8fBsoU-KetZHx4AaABAg.9RTsrCQ0rE79RoFmqcmaFm",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못생겨서 힘드시죠 힘내셈",
+        "writer": "UgzzQi8fBsoU-KetZHx4AaABAg.9RTsrCQ0rE79TaGwpwA5X7",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 차은우 내껀데 이러다가 나은이가 뺏어가는거 아닌가",
+        "writer": "UgzzQi8fBsoU-KetZHx4AaABAg.9RTsrCQ0rE79TzyPvGvx4n",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울진우 넘 귀엽고 이뻐 혼자 뒤로 넘어져 웃는거봐 녹는다 진우야 건후 넘 멋있잖아 먹는것도 복스럽게 멋쟁이 (이름)이 부족한게 없네 나은이 차은우 삼촌한테 먹여달라 애교, 아구아구 이뻐라영상이 가(비속어) 분위기에 이쁘다",
+        "writer": "UgxdvmAI_AJRsZAca3Z4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 몇 화 에요",
+        "writer": "UgyPhOgVgmmoJjFUtzd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차은우 삼촌도 좋다. 광희삼촌은 언제오나요",
+        "writer": "UgzurPHJh0s6nIljTQl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Naeun was embarr(비속어)ed to be stared at by Eunwoo",
+        "writer": "Ugyrl06vmohVbknE1JF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "jihyun P 감사합니다",
+        "writer": "UgyPhOgVgmmoJjFUtzd4AaABAg.9RTVo4D25HU9RUTUuntt2Y",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Am I the only one who think that Naeun like eunwoo more than as her uncle , It s okay cause I found it cute, Cause I saw Naeun and eunwoo holding hands, While sitting at the couch, And I think Naeun is in love with him, 정말 귀여운 순간이야",
+        "writer": "UgxHAI9-rBwfAjs0FZ54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애나 어른이나 잘생기고 이쁜거 아는건, 똑같구나",
+        "writer": "UgzlonLcjP45kcyG2Px4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2프로모자란 파추호",
+        "writer": "UgzTGXTs6OeeCPDfs8J4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 그들이 미소를 지을 때마다 그들을 사랑합니다.",
+        "writer": "UgxM417LCytu5eRCFP94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은우와 MJ는 최고의 부모가 될 것이다",
+        "writer": "UgzTlHfkfIOi3ICK78J4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은 이가 착하고 너무 이쁜아이에요,",
+        "writer": "UgzDCeUB8ZurheDGQDl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 얼굴보는구나",
+        "writer": "UgzQdjnUZBXBj85e8Ph4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 궁금해서 그러는데 햄버거 어디거에요 제발 알려주세요 현기증나요",
+        "writer": "Ugw7ptkFgOih2Q5oeKd4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 숏커트하니 , 오.",
+        "writer": "UgzIi3PgDxhqYcdiqvN4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치사한 즈식들. 애들이나 음식 퍼먹는 프로에 나오는 (비속어)은 한심하지 긴다면 긴세월 어찌 살테냐 즈식들아.",
+        "writer": "UgymTdild5E9xxDFdfJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 엠제이 오빠 너무 사랑스러워",
+        "writer": "UgzEvhhPhPNELK06oGh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이도 잘생긴건 아는구나,",
+        "writer": "Ugy2SFU6JOZkT3JFdNF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감자튀김 보면 따나 생각나 다음에 다른 멤버도 나오면 좋겠어요",
+        "writer": "Ugzz8liuWJtWJWE0UdJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아아아아 진짜 귀여워",
+        "writer": "UgwrILWw7PZ34ECLi-94AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하나 둠칫 Yess they do its like an amazing connection xx",
+        "writer": "Ugz8I5nXfva_Owf0W_94AaABAg.9RLmmUUS5rw9RLpEMrWCVc",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=1d346NB7ZTQ",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

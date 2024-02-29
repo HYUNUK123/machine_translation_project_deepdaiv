@@ -1,0 +1,1828 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001674000",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001674000"
+    },
+    "text": [
+      {
+        "content": "이거 진짜 목소리 아님",
+        "writer": "Ugz2oqiLVrkHLzwh_2d4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 무슨게(이름) 아시는분있나요",
+        "writer": "Ugz-3BdeYomk2yP_ziF4AaABAg",
+        "write_date": "2021-01-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 진짜 언제봐도 레전드다",
+        "writer": "UgyIkzJk9PQIfKyWt4h4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스, 군, 만, 도,",
+        "writer": "Ugz05IkeP3YIypqOaZx4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스 군맨도가 벌써 일년이나,",
+        "writer": "UgwrvQi5kYAZkmfVR1N4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그 아이스군만도의 시작점인가요",
+        "writer": "Ugwa3rnSOZKwwdLG4xJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빛팬치 (비속어) 웃기네",
+        "writer": "UgwepUywJAKDcOn26oV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7분53초부터나오는 게임이름 먼지 아는 갓팬치없나여",
+        "writer": "Ugxm69ebWG2MxSdfEzZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 그쪽은 괜찮아 우리는 잘살고있어",
+        "writer": "Ugwsq4EccuPw1BvMMjR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기온 많이 왔다갔다하는데 감기조심해 형 나무들도 이제 노랑빨강 물들었어",
+        "writer": "Ugy0fKzy3HcHINFLop54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 도미새 봐라",
+        "writer": "UgwT0iiyrC4nzkE4TBJ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 여기는 이제 부이알세상으로 넘어가고있는 왁두가 있어, 사랑해.",
+        "writer": "Ugz11JJgXCorwowUvPV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 2019년이네 이제 내가 고3이고 수능봐야 하네 형 걱정하지마 수능 망치더(반사회적용어) 항상 형 영상은 챙겨볼게 내 인생 어차피 된거 형을 사랑하는 팬치로 살려구",
+        "writer": "Ugy6l2H3VEpRUcR3zzJ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10월이 레전드도 많고 결혼도 하고 꿀잼달이네",
+        "writer": "UgyAx99fK7dSosco0UN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔데 11시간전임,",
+        "writer": "UgzC5jeAoRn49N9d4yV4AaABAg.9Di-Op-3e3_9DjFtTsk6Jb",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 근데 늦게 올리는것도 나름대로 좋네 옛날생각나고",
+        "writer": "UgysfIxrpJ2ib1ud2GV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엉덩이 (비속어)",
+        "writer": "UgzXrRxEB8QZLeylSE54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 10월이라고 타임슬립인가",
+        "writer": "UgzHwrE57LEqh2D2guF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차가운 군만두라 함은 비빔만두 아인겨",
+        "writer": "UgyzSDkxXESrAvjh2hN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 닌탑가지마 헤르메스가야해 닌탑가지마",
+        "writer": "UgxmM2p9L8eHWhxMSgx4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형이랑 우리랑 1광년 (반사회적용어)는거야",
+        "writer": "UgydoaQdKC8G3yUZMBt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 2019년 언제오지",
+        "writer": "UgxcKyW1EQT_K44rbL14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왜 맨날 핫클립 몇개월씩 늦음 핫클립은 핫할때 봐야 제맛인디, 식어서 나오네 항상,",
+        "writer": "UgzxUgIYOvzKBV-OFu54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "13번째 클립 레이싱게임 이름이 뭔가요 (이름)이 하시는 레이싱게임은 다 재밌어보여,",
+        "writer": "UgxpxIuHBs9wvKToSJF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)으로 여행 보내줘서 고마워. 사랑해 형.",
+        "writer": "UgzQwJUCmmQO1KL0kMl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못본 사람도 보고 재밌을 수 있고 전에 본 사람도 다시 보며 웃을 수 있는 이 지난 월간 핫클립 역시 형 선견지명 오져,",
+        "writer": "UgwxEIMRmvXDnIJV-H54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형이 유일하게 사랑하는 컨텐츠가 이거야 딴겜들 다 관갈때 얘는 1인용 특실에서 링거에 산소호흡기 끼고 어쩌다 신음소리 한번 내주는데 절대 관은 안가네",
+        "writer": "Ugx7d2hI4qUCzoOoy7F4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 (비속어)지만 어떻게해 사랑하는걸월간 핫클립 잘 볼게 형",
+        "writer": "Ugy3zAiPiQnxcEwXY8Z4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 이번 국어 어려울 것 같아 응원해줘",
+        "writer": "UgwBkj5eL78-Wa1-NSN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보 16번 게임이름은 레드데드리뎀션2..",
+        "writer": "UgzIsKAoFx2T_5o6tal4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 안녕, 첫댓글이당나 한달전에 취직했어..키키 그래서 요즘 유툽 잘 못보고있지만,비상식량마냥 저장했다가 몰아서 볼 수 있어서 나름 행복해. 땡길때 공포게(이름) 아니면 겜스터 합방으로다가 (반사회적용어)류 게임 좀 해줘, (비속어)라 하지는 못하는데 보는건 같이하는 느낌이라 재밌단말야,흐흐 항상 잘보고잇어 형",
+        "writer": "UgwNOP_oddtOqcAt-z54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수능 진짜 얼마 안남았다 형 응원해줘",
+        "writer": "UgzxBBkc9YC5gTG_8Nh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 미래에서 왔어 YG 떡상하니깐 좀 사둬",
+        "writer": "UgzGvQiG-YhcTCN2HnN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hye 와 이쁘시네요 저의 군만두가 되어주세요",
+        "writer": "UgwNOP_oddtOqcAt-z54AaABAg.8ses2DuubMh8sgpeHBOFZi",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 군만두로 만들어드릴 수는 있습니다",
+        "writer": "UgwNOP_oddtOqcAt-z54AaABAg.8ses2DuubMh8sh0Xjt7a43",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 군만두샷.",
+        "writer": "UgwNOP_oddtOqcAt-z54AaABAg.8ses2DuubMh8sihRm1_9Vv",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막 전역하고 본 생방들이네",
+        "writer": "Ugzc_LGy4T0n9ExSSHZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여윽시 피파19 믿고 합니다",
+        "writer": "Ugw1-GmgrGo8PNB2nNV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 결혼 축하해",
+        "writer": "Ugx8wp48kYe0z-zwxrF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그만두 카트만두, 형 사랑해",
+        "writer": "UgxThpTyPdH8l80sCn14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 곧있으면 나 대학수시 면접봐 개강아니 수능도 준비중이야 응원해줭",
+        "writer": "UgytQb3MWhV5L6MQQV14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 작년추억 회상된다 형 좀 늦게 올리는것도 좋은거 같아",
+        "writer": "UgzGznD2r0fcGVdBach4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "16번 게임 이름 뭔가용",
+        "writer": "UgyUhw3tRZzKuU2hlgR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 형 이걸 이제 올린거얔 형 나 대학들어왔어. 산업디자인과롴 담에 썸네일 만들어 줄게 형 사랑해",
+        "writer": "UgzA4l9X45HTIKihW6l4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 수능 한달남았어 응원의 한마디좀 해줘",
+        "writer": "Ugy5Ehl3MEAcXyKeIhV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해는 눈 많이왔으면 좋겠다 )b 이힛.",
+        "writer": "UgzE7bgNOHlSz8b0NH94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 챔스 맨유가 파리 이겨",
+        "writer": "UgymytFYn4vpgb43gXF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해도 두달밖에 안남았네",
+        "writer": "UgzxIW688HN7sqxHWmN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 몇달 전꺼인거야 어 너무한거 아니야 잘볼게 흥, 형이 좋아서 그런건 맞다구",
+        "writer": "Ugwq2yO1BvFpoftB4V54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 기획인가",
+        "writer": "Ugw19o571yHwe5iMRed4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 슬슬 엔두가 쓰이기 시작했어, 대책을,",
+        "writer": "Ugzj0lTNxQvedc-TXGV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주간 타임머신 오랜만이네",
+        "writer": "Ugz5lX2w7ff2NzpGdbB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 쓴다",
+        "writer": "UgwrHVSoXI12hbuxB5l4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) king of crabs 게임좀해주실수있나요",
+        "writer": "Ugx5no-BnjNfVO8RAhB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 형 진짜, 나랑 장난 치자는거야 진짜 사랑해,",
+        "writer": "Ugwydjsyc-gQLhNwaqN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 (비속어) 이런것좀 빨리빨리 올려주면 안될까,",
+        "writer": "UgyYcrk4fck3k2cXiRN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간을달려서 미쳣네형",
+        "writer": "Ugz690fQ1Lz1ZoS5uhh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸낼 잘못보고 첨에는 히오스 먹고있는줄 암",
+        "writer": "Ugwl6-sHmGg1P-3r_dh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우(이름) 하이라이트 잘 보고 갑니다 사랑해요 꿀잼 영상 감사합니다 사랑해요 핡짝 썸네일 차가운 군만두가 있다 잘 보고 갑니다 사랑해요",
+        "writer": "Ugx2VKmfJcQfcls7cP94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 에이스군맨두가 올라왔다, 사해(반사회적용어)볶음밥과 사하라고구마는 언제 올라오는가,",
+        "writer": "Ugyk00oMZYdWLXULgTh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 시공간을 뒤집어놓으셨다",
+        "writer": "UgxvUmmGVAq6W3TMojJ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제적걸 우려먹는거야 형 편집자들 다 우리 탈출했어",
+        "writer": "UgzhOzfffFzFjLhmkWR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 형 미안해 나 다음달 수능이야, 방송 보고싶은데 못봐,",
+        "writer": "UgwSePS1mu_kV3Dbuy94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 형의 이름은이야",
+        "writer": "UgyYpsoFlc9mbLypBRF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 웃기네",
+        "writer": "UgxQniB3ietrRgN471Z4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "19년 4월에 군대가는데 아직10월이니 멀었구만 7",
+        "writer": "Ugzpi_sOi2FXKbiAGY54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 10월",
+        "writer": "Ugwj9ICRz96h2IAtmPV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤가이 (비속어)",
+        "writer": "UgyXcbOWmQRAKrkr8rV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지 2019년 10월인가 당황스럽네",
+        "writer": "UgypcjbcdAnaBlL0EHd4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 벌써 10월이야 수능 한달 남았네 재수도 끝이 보인다 안물어봤다고 어쩌라고 사랑해",
+        "writer": "Ugwk1RUaQmBDYOmQhg14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 작년꺼야 그 맨두에서 벌써 반년가까이지났다고",
+        "writer": "Ugw-r2Ul7mo_vfQSZRd4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 벌써 10월이야, 나 이번 달 말에 훈련있어, 그리고 1월쯤에 군대 내에서 형 볼 수 있을거같애,",
+        "writer": "UgyOIvqEE1cFGI-b9tl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 얼마만의,",
+        "writer": "UgxSH7nO-sWkHAPh_e14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 바로 이자나미냐",
+        "writer": "Ugz01EMla-Ig8bobR214AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 시간 엄청 빨리 흘렀다 진짜",
+        "writer": "UgxHfFjJ536NElQiXqF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 10월이네 시간빠르다",
+        "writer": "UgzXCvenDeUSqpqYruV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫클립 조아..",
+        "writer": "UgwxltUPJhJHYu3UIdd4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 2달만 있으면 2019년이네",
+        "writer": "UgwR9-NqBCuACyPUWDp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁굳 시차(feat.5Month)",
+        "writer": "UgyXtliZnR7S_ucK_cR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 마지막 게임 제목 아시는분 계시나요",
+        "writer": "UgxzygAtLzIKMU5WRZZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 진짜 저런카드가 있음",
+        "writer": "Ugy9687oi1BB_0lva3h4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스 군맨두가 왜 지금 올라와",
+        "writer": "Ugzhz4sHvQesMy0wNbV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형은 아직도 그쪽에 살고 있는거야, 춥겠다,잘 챙겨입어",
+        "writer": "Ugw7qnAU3UmQAkHgw7d4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2번 개웃겨 (비속어)밴전쓰",
+        "writer": "UgwwXSYNsK1mA0FAkxt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨셉 지린다 형",
+        "writer": "Ugy-Vop7JGO5XRN4DGN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 내가 몇달전 영상인줄알았는데 5시간전에 나온거였네 (비속어)다 형 사랑해",
+        "writer": "UgwIpcwYDnqzHYIzuUl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10월꺼른 이제 너무 빠르자너",
+        "writer": "UgxWrlDfP2Hzf0jPZZd4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보)간석동의 시간은 거꾸로간다",
+        "writer": "UgzKIYWQH72O3egmL414AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님들 (이름) 결혼한대요",
+        "writer": "UgwDE6qv3WfMCmZP6uZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 이거 그런거자너 형 하이라이트고 뭐고 페이스뷱에 추억돌아보기 머 그런(혐오표현) 결혼 축하해 형",
+        "writer": "Ugwuo3nitX9j5rw1t5d4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤가이 진짜 십 레전드였자너",
+        "writer": "Ugx_DR3O8R5qMwTC_Ml4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠만, 나 님 방금 오퀸 유튜브 오킹 여장에서 보고 왔는데 .닉넴 보고 쏘리쐴 대댓 하려다 말았는데, (이름),",
+        "writer": "Ugw7qnAU3UmQAkHgw7d4AaABAg.8sdE4OClRmR99WtXlhklS8",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2시간전 무엇",
+        "writer": "Ugw7qnAU3UmQAkHgw7d4AaABAg.8sdE4OClRmR99X9jHxwJ1C",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6개월 전 무엇",
+        "writer": "Ugw7qnAU3UmQAkHgw7d4AaABAg.8sdE4OClRmR9Hv82iJME7o",
+        "write_date": "2021-01-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앵젼 9개월전우엇",
+        "writer": "Ugw7qnAU3UmQAkHgw7d4AaABAg.8sdE4OClRmR9TYlwS1YjXp",
+        "write_date": "2021-10-22",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과거에서 활동하는 왁굳형,",
+        "writer": "UgwR5Hsx4rkDLG2hocJ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상절반이 잔디네 왁두(반사회적용어)",
+        "writer": "UgygLmJkjx_uUnDJBAN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스 군만두 아시는구나. 참고로 겁.",
+        "writer": "UgyvhzSLQE6FV7oGvnN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 아이스 군맨두가 이번달이었나 생각하고 있었는데 10월꺼야",
+        "writer": "UgyS_0E5U5i6EqdoOGB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월간으로 올려버리는 클라스 ,",
+        "writer": "UgwxDM3ElxWldO7on2l4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미래에서 왔습니다",
+        "writer": "UgwJLwMRKkka8_eunc94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이 핫클립과 현재의 시간차만큼 더 참으면 전역이다 (비속어)...",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 아는 영상이구만 기래",
+        "writer": "UgyiiL72gwPH7hraA7x4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 겨울엔 아마 독감 유행할거수같으니까 몸 조심해",
+        "writer": "UgzFHYwBOx__LC-Q0mt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니형 10월이면 내가 전역한 달인데 장난해",
+        "writer": "UgyY9wk8Fzmxb1obznF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약속의 그 브금",
+        "writer": "UgzRL2sILGp_cd138Np4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 2019년10월대면2019년1월달 방송 올리는(혐오표현)",
+        "writer": "UgzHxKLuUTaY0GqnCVR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얌생이 (비속어)",
+        "writer": "Ugw7m0OVDZcwxx8Ulxh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 아직 겨울도 안보냈겠구나, 올해 별로 안추우니까 걱정하지마",
+        "writer": "UgxbfUQcDXZ9PHZeUop4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여긴 어디지",
+        "writer": "Ugxfm5mZiGoXyIdnX3R4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "16번 영상 링크 아시는분 .",
+        "writer": "UgzIvDlx3NcP1RqMNph4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날 영상인가 하고 눌렀는데",
+        "writer": "UgxyOZvXuYdOOmWmeOl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "vr챗 하이라이트나 올려형 사랑해",
+        "writer": "UgwhJNNeJA2IOhLh4-Z4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 왜자꾸 시간을 거슬러 미쳤어",
+        "writer": "Ugw7lWKgz18lY0daMfN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겁나부럽네요, 이제 신검받는 사회초년생은 웁니다",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg.8sd3yRsJCSB8sdF47XL5nn",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늪고래밥 일주일뒤 신검임,",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg.8sd3yRsJCSB8sdLRXumzGk",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 커흑",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg.8sd3yRsJCSB8sdLuSCvOU3",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3주뒤 입대임,",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg.8sd3yRsJCSB8sdRuSZP8rR",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예비군 6년차 올해만가면 예비군도 끝나네요",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg.8sd3yRsJCSB8sdoC_wvHVs",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곧 입대 100일 되는데,",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg.8sd3yRsJCSB8sg7uAlDDk2",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 힘내세요 충성충성 777",
+        "writer": "UgwKxwbjkG8ge5j8PSZ4AaABAg.8sd3yRsJCSB8shXgn_pRVK",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 이거 (비속어) 클립이야",
+        "writer": "Ugwlc4DB_KycYsIHuPV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간을 거꾸로 달리는 핫클립",
+        "writer": "UgyUbSBHYP6lqxmzHs14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 가을이네 형 추위 조심해형 아 형 13일에 결혼했지 축하해형",
+        "writer": "UgxSibSwHkYD4ekZK0p4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쯤되면 일부러 생방이랑 간격 넓힐려고 그러는거 맞지",
+        "writer": "UgztqXXstb38kAQullV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 뭔겜임",
+        "writer": "Ugw2IXFTMuPt0T2w1wF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 업로드 시간에 박수치고 갑니다",
+        "writer": "UgwkyqT_g-TqkmfgFsR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 잊혀질 때 쯤 이렇게 옛날 것들 올려주는 게 더 좋은 듯 당시에는 맨날 유튜브만 틀면 나왔던 클립들 지금 보니까 느낌이 다르다",
+        "writer": "UgzwU1wpDf8-j_zr48d4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁튜브, 이게 언제적거야 일안해",
+        "writer": "UgwwP0qdzAvXT-VlQKV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 하지맠",
+        "writer": "UgzB7ETbTNB2tbxr6814AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 여기는 곧 꽃이 필거 같아,",
+        "writer": "UgyN3Q-L7qtCNWLzNFx4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간을 달리는 쌀택,",
+        "writer": "Ugz4kCwEJYTnnw-T1PN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일부러 일정 기간의 텀을 주고 올리는게 학계의 정설",
+        "writer": "Ugx4ADzAnD-aH4U5PHR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁두(비속어)사 제목 옆에 20(비속어) 10월이라고랑 (비속어) 당당하게 써놓은거 (비속어)해 진짜",
+        "writer": "UgzroX5aXPYSHsazleJ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스 군만두보구 옛날 영상 다시 올라온 줄 알았는데 아니었네",
+        "writer": "UgwTE0K8lkxYAubiALV4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳의 시간은 거꾸로 간다",
+        "writer": "UgybpZMRcLmeMdff0ul4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각보다 일찍 올라왔네. 다음달 4시 쯤 보고 있었는데",
+        "writer": "Ugwn4LQkrYg3B11_vq14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10월 클립을 3월에 올리고있넼",
+        "writer": "UgzCySS3ebslVeBR_U94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 왜 8번이랑 10번사이에 9번이 없는거야 Hoxy,",
+        "writer": "Ugyc8aiWuGJSfQichCp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스군맨두는 레전드지",
+        "writer": "UgxyePtv88AVIeePWCZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬치, 읔,",
+        "writer": "UgyUbSBHYP6lqxmzHs14AaABAg.8scuEBxi0UC8sdAgW8IHag",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 여기도 계시네",
+        "writer": "UgyUbSBHYP6lqxmzHs14AaABAg.8scuEBxi0UC8sevvg7hNjP",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아뉫 .",
+        "writer": "UgyUbSBHYP6lqxmzHs14AaABAg.8scuEBxi0UC8sihBAywU6C",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레드데드리뎀션 2입니다. 서부판 gtx죠.",
+        "writer": "Ugw2IXFTMuPt0T2w1wF4AaABAg.8scojmmlrzv8sdt7sw-2Hd",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 나같은 뉴팬치는 과거의 형을 이렇게 알아갈수 있어서 행복해, 근데 10월은 좀 (비속어)다, 하지만 사랑해",
+        "writer": "Ugz-mROyCohADUhxPDp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 겜이죠",
+        "writer": "UgxaA4G3MpeoWG4a1014AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스군맨두는 언제봐도 웃곀아니 형 근데 (비속어)꺼 이제 업뎃하는거 실화야",
+        "writer": "Ugxa9tdUK3yrsDirGRp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 누가 만들었는지 겁나 잘 만들었네",
+        "writer": "UgzCvhL2-c5OilmO0Sd4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 어디 살길래 시차가 5개월이나 나는거야,",
+        "writer": "UgwQ56IbcTCz2mUnQXl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간을 달리는 왁두",
+        "writer": "Ugx1xmVRhrzpz3deWZ54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스군만두 오랜만",
+        "writer": "Ugy7p6tsoHr9mmnqzK14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2019년 까지 두달남았어 형, 두달 열심히 달려가보자 화이팅.. 새해에는 좋은 날만 계속 되길,",
+        "writer": "UgzxTi7WkAfmLmRAoEN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레데리가 리얼 갓겜이긴 하구낰",
+        "writer": "UgwyyxpMd1jE50JbWlp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아웃트로 너무 정겹다",
+        "writer": "UgxaMjE2D_KkSzTYuPh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 할일을 미루면 안돼 10월께 올라오는게 말이돼, 호잇치..",
+        "writer": "UgzQ6ZNR5NgD6bvkzwB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빛팬치보고 (비속어)웃었네",
+        "writer": "UgyBtJzT8OAUuVQuQHl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 월간 핫클립에 차가운 군만두가 나올정도로 오래지났나",
+        "writer": "UgzOTumxHs5fOAGXSCZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 10월 그때의 (반사회적용어)텽,",
+        "writer": "UgzVDDSKAncPGh9ptgN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스군만두 박제",
+        "writer": "Ugz5fDPWSJrezWvYVfp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 2019년 클립은 2020년에 볼 수 있는(혐오표현) (비속어)지만 사랑해",
+        "writer": "UgwMNPbZ1JHZlIx0Iv14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3시간후에 노량진 가야 되는데 이것만 보고 잘게 형",
+        "writer": "UgwWVg7OmEte22k5iDN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 20(비속어)이 그리웠구낭,",
+        "writer": "UgzG_-Y0_PhikKZqgTZ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스군맨두가 언제껀데, 그래도 올려줘서 고마워형",
+        "writer": "UgzSYXQsmHfibO9w7fB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이정도면 그냥 늦게 올리는걸로 컨셉잡고 가자 맨날 왜 이렇게 하냐고 왁두(비속어)한테 뭐라고 하기도 지친다",
+        "writer": "Ugzwtlo2iv3ffSN9Njt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 옷도 찢어줘 사랑해 형",
+        "writer": "Ugx3j1RI2xckeqk8frB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 고대 유물이 발굴된건가",
+        "writer": "UgyHM3DYkP4KuWc3pwR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5개월 전 하이라이트를 지금 올리는 스트리머가 있다",
+        "writer": "Ugxz_6VqJksW96XdgJh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 아이스군맨두만 몇달째먹는거야",
+        "writer": "UgzLPN_mzT6fKjBpynB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 5번 제목이 버프 맞아",
+        "writer": "UgyCB8Vu4HQw7nQxw5h4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 내년 2월에 조심해 형 게임 스트리머 그만 두게 돼,",
+        "writer": "UgzDQGFz0rq9CKLzX454AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 좋아요 68개라 내가 하나 더 눌러줬어",
+        "writer": "UgxcRmV2Fo2erjpTc1N4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 형 따라 잡겠다고 주간(x월 x주차)하이라이트로 올리던거 월간(x월) 하이라이트로 바꾸고는 어느 순간부터 다시 완급 조절하는거야 이럴꺼면 다시 주간 하이라이트로 바꾸자",
+        "writer": "UgyGyaCobB1BHvU9UEl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 아이스 군맨두.",
+        "writer": "Ugz1N3A2ULa0uXNydH14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 이제 결혼 했네. 결혼 축하해..",
+        "writer": "UgyFNLTubyH0aqyWu8p4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫클립도 오래되면 식는법이야 형 제발,",
+        "writer": "UgzWCv2QypLBHZZRfFJ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10월(이름), 너무 (비속어) 형..",
+        "writer": "Ugy_B6GywC6cCYar5lR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 방송에서 편집방식 갈아엎어서 이거 가져온(혐오표현) 그래도 사랑해 형",
+        "writer": "UgymI1dgrBCYfpDi8tt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송끄고 씻고 올리는거야 히히",
+        "writer": "UgyDbArhqzpJeYPtcyh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5개월전, 느낌은5년전",
+        "writer": "Ugyd0AF9QHlIBcf-RQ54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "터프한헐랭이 충격) 인기 스트리퍼 우왁굳 은퇴해 놀란,",
+        "writer": "UgzDQGFz0rq9CKLzX454AaABAg.8sccvfYd25X8sdxZss-IaY",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정대만 (비속어)란",
+        "writer": "UgzDQGFz0rq9CKLzX454AaABAg.8sccvfYd25X8seO2OGfAMl",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 19년도 2월에 혐팬치들이 왜 게임방송인데 게임은 안하고 노가리 이런것만 하냐고 난리쳤는데 왁굳형이 (혐오표현)쳐서 게임 스트리머 은퇴하고 종합 (비속어) 스트리머로 바꾼다고 한거 그사건 말하는거에요",
+        "writer": "UgzDQGFz0rq9CKLzX454AaABAg.8sccvfYd25X98ackPUKhjT",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "터프한헐랭이 요",
+        "writer": "UgzDQGFz0rq9CKLzX454AaABAg.8sccvfYd25X992As1VPP08",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후, 벌써 10월인가, 어쩐지 춥더라 감기조심해 형 올 겨울은 눈은별로안오지만 엄청 추울거같아",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5개월 전을 살아가는 스트리머가 있다",
+        "writer": "UgzI034iXwLA5csDP_14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 무슨 벤자민버튼이야 (비속어)",
+        "writer": "Ugw057Txoc9axTn0Qyp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 시청자들 20(비속어)으로 타임머신태워버리는 하이라이트 모음",
+        "writer": "UgyBMOWqyD45m03Qjvd4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딕데이터로 분석결과 지금 올줄 알았어 어쩌라고 미안 사랑해",
+        "writer": "UgzgTC_CnaWVZPOyLzt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 10월보고 이거 언제꺼야, 하는데 1분전 업로드모여 ,",
+        "writer": "Ugwxpke-mWCBdPn160F4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 싫어하는거 모음집이야 잔디 서킷 아이스군맨두 (비속어) 사랑해",
+        "writer": "UgxbFKCYs8I-c08f-ZB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 20(비속어) 10월엔 잘 지내 여긴 2019년 3월인데,",
+        "writer": "Ugw-THj3lgqhWeT07-94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 이거 아직도 미련 못버렸어 심지어 주간에서 월간됐어 사랑해",
+        "writer": "Ugx4YJtM5DcwfR93sph4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 애이스 군맨두썰이 벌써 반년이 되가는거",
+        "writer": "UgzI2tHYZrmVQCLef-J4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2번보는느낌 적인느낌",
+        "writer": "UgxonVbkC_zQPCBW6NN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 도대체 언제쯤 따라잡을거야",
+        "writer": "Ugyovb1TFOVdQEcY_ql4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낼 아침에 업체미팅있는데 지금올려줘서 고마워형",
+        "writer": "UgyCxg3XA_i8F4LeNJ14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 여기는 3월이야,(비속어), 하지만 사랑해",
+        "writer": "Ugw_S_nAQROcJiN62fl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 내가 많이 사랑해 쪽쪽",
+        "writer": "Ugy_z98CW9UokXWZPUF4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)10월 뭐지,",
+        "writer": "Ugye7-Ae7igFUB7zHWh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20(비속어)의 형, 우린 너무 멀리있나봐",
+        "writer": "Ugy9Baultv2dneyrdTt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)한테 맞을 준비하고 올린(혐오표현) 처맞굳도 사랑해 형",
+        "writer": "UgzIqDlyY2rq1rlnI2N4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간 개빨리간닼",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38scfOavobUy",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌려까기 250단이네",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38sdJ_yGeioW",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별로 안춥던데",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38sd_-mvKo5U",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 찐",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38sdyAaVG7QT",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38seKnwEhevw",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이걸 이해못하네",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38seLx4fqZ0h",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 양방가능",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38sfJLh08xM3",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳텽 1년전쯤 복어형 vr하던거 재밌어 보이던데 형 2019년도에 해보는건 어떨까",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38sfTFc32d2t",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이해 못한건 아니잖아 단지 겨울이 생각보다 별로 안추울거같다고 굳형한테 말해주는거겠지",
+        "writer": "UgwmT7kamMdImLMNTbN4AaABAg.8scc5otd5e38sgcStODcpU",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "되가는 돼가는 되어가는",
+        "writer": "UgzI2tHYZrmVQCLef-J4AaABAg.8scbO_cTLyh8sdn_VRo-Y6",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민두 그치만, 이렇게 (반사회적용어)지 않으면 바른말고운말쿤이 내게 관심을 주지 않는, 걸.",
+        "writer": "UgzI2tHYZrmVQCLef-J4AaABAg.8scbO_cTLyh8sdorp9hyX4",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그때생방으로 봤었는데",
+        "writer": "UgzI2tHYZrmVQCLef-J4AaABAg.8scbO_cTLyh8se84oNAk-O",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김찬스 관심을 가져줘도 고치(반사회적용어) 않으니 비통하군요",
+        "writer": "UgzI2tHYZrmVQCLef-J4AaABAg.8scbO_cTLyh8seEPIgdXQn",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자세히보기 할려하다 실패했죠 허허헣헣허허헣허허",
+        "writer": "UgzIqDlyY2rq1rlnI2N4AaABAg.8scbBIffIpi8seBuXAtto8",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러나 저흰 알고있죠, 원래 해동안하는,",
+        "writer": "UgzIqDlyY2rq1rlnI2N4AaABAg.8scbBIffIpi8seNea-mE0y",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만이네 이거",
+        "writer": "UgwjpEBQHVScSlvJK9l4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 아이스띠",
+        "writer": "UgyyyB3Zq5WEQXRYYER4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 업로드 그렇게하는거아닌데",
+        "writer": "UgwKkQBWd5bdko6medp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 최고야",
+        "writer": "UgycfC9D4ZsIXQ3lNTx4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 이시간이지",
+        "writer": "UgzRzxkIMKI9jYdNewl4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 20(비속어) 10월이면 대체 언제야",
+        "writer": "UgwdxCCASoy461TPKe94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여지환 그래도 많이 따라온거져",
+        "writer": "UgwdxCCASoy461TPKe94AaABAg.8scb9WmSWsK8scdPtJr58h",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 해 지나서 제꼈으면 좋겠다.",
+        "writer": "UgwdxCCASoy461TPKe94AaABAg.8scb9WmSWsK8sce2rOSgfS",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20(비속어) 10월이요.",
+        "writer": "UgwdxCCASoy461TPKe94AaABAg.8scb9WmSWsK8scixUeFIO-",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 방송하기가 같아요.",
+        "writer": "UgwdxCCASoy461TPKe94AaABAg.8scb9WmSWsK8scj7OR0QTP",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보) 20(비속어) 10월이다.",
+        "writer": "UgwdxCCASoy461TPKe94AaABAg.8scb9WmSWsK8sdxrtYWtcC",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=y7z93S27DmU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

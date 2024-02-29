@@ -1,0 +1,884 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001284141",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOFO210001284141"
+    },
+    "text": [
+      {
+        "content": "유민상은 살안빼냐 진심걱정되네,",
+        "writer": "Ugzt2X_EsrYIqyJ6cm94AaABAg",
+        "write_date": "2021-09-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국인은 국산재료로만든 한국음식먹을때가 제일 군침돔",
+        "writer": "UgyxD20tCQlQmFOfSmx4AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 오늘저녘은 (반사회적용어)찌개야 ,",
+        "writer": "UgzrOKtjYCeG7kUZMaB4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만약에 케잌이나 크림스파게티나 튀김 치킨 같은거 계속 먹다가 (반사회적용어)찌개 한사발 하면 정말 죽다 살아나는 느낌임",
+        "writer": "UgzIWsuo0WEHyAthUMJ4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 (반사회적용어)의 민족,",
+        "writer": "UgwyzBqVdKbAXvG7mzR4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 한국인은 한식이지, 저런걸먹어야 밥먹은 느낌이나 든든",
+        "writer": "Ugyw8bEf3o-P4EWR2J14AaABAg",
+        "write_date": "2021-02-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냉면먹고 볶음밥도 먹잖아요 그건 스텝 꼬인거야.. 인생 망하는거야",
+        "writer": "UgziQCh-lKEo3TL-M5R4AaABAg",
+        "write_date": "2021-02-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 거 다 남았는데 김찌만 완판이네",
+        "writer": "UgwPqgWcRuYQOK-y1SV4AaABAg",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찌개 진짜 맛있어보인다",
+        "writer": "Ugx-989wHpoYmtvhIdZ4AaABAg",
+        "write_date": "2020-11-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 말은 (반사회적용어)찌개에 파(반사회적용어) 올려먹으면 짱 맛있는데",
+        "writer": "UgwqKzZ7W8hpR2BN6-t4AaABAg",
+        "write_date": "2020-11-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누렁아 개밥이네 진짜",
+        "writer": "UgzxX3BazTFCYHxBumB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찌개에는 계란후라이",
+        "writer": "Ugw1kxa7dvKBWaq0bZl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김찌로 마무리하다니, 배운 분들",
+        "writer": "UgyFA0MKDTM(반사회적용어)gOF24N4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 제목 좀 제발,",
+        "writer": "UgxnXquSiexh1MEQqJB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘도 먹네",
+        "writer": "UgyJ20LioITkwGsGBKR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현 옷 거꾸로 입은거아냐",
+        "writer": "UgxcdVd561ag6RikICx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막뚱의 (반사회적용어)러브",
+        "writer": "UgzxJrDhTX8kOyU8hdt4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찌개는 한국 밥상 부동의 1위",
+        "writer": "UgzHkVpt7N8n2wZ-6g54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 양은에 끊이면 발암물질나오는걸로 아는데",
+        "writer": "UgyTqF6B1VatKcupqbl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준현이형 옷 뒤집어 입은거 같아",
+        "writer": "Ugx0r9CGPRbn7mBMqaR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기는 후식이 (반사회적용어)찌개야",
+        "writer": "Ugy6Wj(반사회적용어)hHr5y8c_zu94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디저트는 역시 밥이지",
+        "writer": "UgzkZk0HrT6kY4hQ5T54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 (반사회적용어)찌개국물에 김사박사박,",
+        "writer": "Ugxp8X7foNrhbEVx9Hh4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 자전거샀는데 살빼력구 근데 이제 이걸보면안될듯",
+        "writer": "Ugy84BauMi4DuPOcDA14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 자연스러워서 몰랐는데 저거 고깃집 테이블 아님 저게 왜 저기있죠",
+        "writer": "Ugzk4CiztaTqD7GjIcZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "땀 흘리는 모습이 좀 덜 나오면 좋겠어요. 먹는 프로인데 땀이 너무 자주 나오니까 식욕이 올랐다 내렸다 반복하네요",
+        "writer": "Ugw60w4Lj5dXekZYGgZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현 야 옷좀 똑바로 입고 방송해라 원래 그런거라며 말하지 말고 지저분해 보인다",
+        "writer": "Ugy3rP_X--aYj3UBwal4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적으로 양파 들어간 (반사회적용어)찌개 싫어합니다. 양파가 있으면 찌개에서 단맛이 납니다. 칼칼하게 먹는 찌개에 단맛이 나면 바로 먹기 싫어집니다.",
+        "writer": "Ugwqi-FB01gdGuukg8V4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 유튜브서 (이름)도 했던 식사메뉴 월드컵을 전 국민이 다 한다면 (반사회적용어)찌개 된장찌개 삼겹살이 1 2 3위 다투지 않을까요 위대한 메뉴 (반사회적용어)찌개",
+        "writer": "UgyGZxqthtsp0r0kMxR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름) 옷을 거꾸로입으셨는데",
+        "writer": "Ugwjf7lEGUS5CjpBTPN4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진정한 한식뚱.",
+        "writer": "UgxdZZAA7WpQK7BcKm14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤은 찐이다 (반사회적용어)찌개에 진심이얔",
+        "writer": "Ugw-IDrl4oWkvVz-Qgl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누렁아빵터짐 푸핰핰핰",
+        "writer": "UgzLhwCWVcRLgt4U7pZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와, (반사회적용어)찌게에 밥말아먹는거",
+        "writer": "UgxDtqcf7tJhSCHAcIN4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 제일 좋아하는 (반사회적용어)찌개는 새콤한 (반사회적용어)찌개보다는 살짝 매콤하면서 국물은 좀 진득한 그런 찌개임, 새콤한 (반사회적용어)찌개는 첫입은 괜찮은데 계속 먹기는 부담스러움",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)는 참지",
+        "writer": "UgyAE3gw0zhol3XftWB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른거 다 남겼는데 마지막에 온 (반사회적용어)찌개만 싹 다 먹었네 와",
+        "writer": "UgyXa0xCeSDmHdiUiSB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상옵 핑꾸가 참말로 어울리네, 계속 핑꾸로 가요",
+        "writer": "Ugx-CYupKeXZ5STddS94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으어아 (반사회적용어)찌개 너무 맛있겠다",
+        "writer": "UgybSg_MciqLZ-IcKCV4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 상다리휘어지게 푸짐푸짐( )(반사회적용어)찌개는 뭘넣든 맛없을수가없는 햄을넣어도맛있고 만두를넣어도맛있고 고기를넣어도맛있고",
+        "writer": "UgzeR9mqdOadoD0xF9V4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찌개 좋아요",
+        "writer": "UgytjVYF_ilQvUz-5ox4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준현 오빠 옷 뒤집어 입은 거 같앜",
+        "writer": "UgwHoMFL1pQ9JkdahKl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌개 비쥬얼 쩐다,",
+        "writer": "UgxTqfGFFBDjBd7f9ml4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 솔직하고 꾸밈없어서 너무 좋다 너무 재밌다",
+        "writer": "Ugw62LVhwLAcRAsdcx94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절대로 같이 해외여행 가면 안 되는 사람",
+        "writer": "Ugz8H8Fku7CKnFn79-54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기와 신 (반사회적용어) 양파를 왕창때려넣고 (반사회적용어)와 채수가 충분히 자작하게 나오는 상태에서 쌀뜨물 쬐끔 넣은 다음 설탕 쬐끔에 마늘과 새우젓으로 밑간 한다음 썰어놓은 파 청양 두부 한 모를 통째로 넣은 걸쭉하게 오늘 끓여 먹어야겠다. 코로나 뚫고 마트간다.",
+        "writer": "UgzqpnHQ5FuZSQT1mzR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 테이블 참 탐난다,",
+        "writer": "Ugxp22EltFQuyzV_Z9Z4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그나저나 저상은 무엇 민상(이름) 집에 설치하심",
+        "writer": "UgwMFQKZaWGT9_FazPR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛녀석들도 음랜디할수있을것같은데,",
+        "writer": "Ugxf77TxJbUuPc054_l4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (반사회적용어)찌개 브금이 프렌즈라니 그치 내 절친 (반사회적용어)찌개지 아주그냥 베스트프렌드지",
+        "writer": "UgzLIq_cgjbv9gQNMal4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사먹는 김찌는 너무 달아, 안사먹게됨 아니 왜 다 단(혐오표현), 속상",
+        "writer": "UgzRBuLyqlI7O7uzvhl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 (반사회적용어)찌개 끓이면 없던 입맛도 살아나서 폭식 하던데, 헤헿",
+        "writer": "UgyhGLrtIpCyQG96YcJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 겨울에, 창문다열고,스탭들은 무슨죄를 지었길레,에어컨 킬뻔했데,",
+        "writer": "UgwGkXWV7GU7P-41Gp14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글을 읽고 침이 돌았어요 츄릅",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg.96Dqh-17zTI96LXGjyXx8v",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 안볶고 (반사회적용어)찌개 만들면 새콤하게 됨 그래서 파는 (반사회적용어)찌개가 거의 새콤함",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg.96Dqh-17zTI96Xf2nmlNNk",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 (반사회적용어)찌개는 무조건 밥 2공기,",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg.96Dqh-17zTI96YcxYO86r_",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 비벼먹기 좋은",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg.96Dqh-17zTI97N4q9GoJ6O",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "묵직하게 쏴악 내려주는 맛 생각나버렸, 어요",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg.96Dqh-17zTI98D9eKEAEgw",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공감합니다 개인적으로 새콤한 건 (반사회적용어)찌개보다는 김칫국에 더 가까운 것 같아요",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg.96Dqh-17zTI9F84w8JV0aH",
+        "write_date": "2020-11-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼겹살 들어가면 진득해짐 개탱",
+        "writer": "UgyDn4nknw8ERWMJR-Z4AaABAg.96Dqh-17zTI9JJzZoagJOs",
+        "write_date": "2021-02-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 침나와,",
+        "writer": "UgzqpnHQ5FuZSQT1mzR4AaABAg.96Ajz2uXupG96DWDETsM_y",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걸리셔서 2주동안 (반사회적용어)찌개드신답니다.",
+        "writer": "UgzqpnHQ5FuZSQT1mzR4AaABAg.96Ajz2uXupG96EMkx3cB57",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Lee형 거 장난이 너무 심한 거 아니요.",
+        "writer": "UgzqpnHQ5FuZSQT1mzR4AaABAg.96Ajz2uXupG96ENLy3z6_i",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아옹꼬양이가 좋아 미안하오 다시생각해보니 내가심했소",
+        "writer": "UgzqpnHQ5FuZSQT1mzR4AaABAg.96Ajz2uXupG96F-LyakzI2",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Baro Im 너무공감 (반사회적용어)찌개는 엄마가끓여준게 젤맛",
+        "writer": "UgzRBuLyqlI7O7uzvhl4AaABAg.96AH0CYu5yd96D3XsrJNz5",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 뿐만이 아니에요. 달고 짜고 맵다는 말이 좀 나와줘야 최소 맛없단 얘기가 안나옴. 그래서 단거임",
+        "writer": "UgzRBuLyqlI7O7uzvhl4AaABAg.96AH0CYu5yd96RtH0hoI1i",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불판식탁 유민상보고 살려고 예전부터 노리고 있었는데 가스라서 좀 기다리니 대리석마블 무늬 2인용 전기렌지로된 불판식탁 샀는데 내가 산 살림들중 2등으로 좋음 .라면만 끓이면서 먹어도 요리 먹는거 같고 음식하고 서있는 시간 줄이면서 밥 먹는 시간에 외식하는 기분이 들어 짱임 술 좋아하는 사람들은 있으면 느낌 확온다.",
+        "writer": "UgyGSpg1WKnWc2w3BSR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤 (반사회적용어)찌개 진짜 조아함 찐이야 찐",
+        "writer": "UgwNOsCYxeE8eW2fAMp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잊고있던 옵빠의 추억밥상.. 다시봐도 맘에든다잉",
+        "writer": "Ugygx0mtggftmvb9w0p4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기승전 (반사회적용어)찌개 맛녀석 답다",
+        "writer": "Ugy2VREBm7M524F0-sB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 침나왔어요 배고프다",
+        "writer": "UgzUX_tOZEtgz5JOijZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 디저트는 (반사회적용어)찌개여",
+        "writer": "Ugxfto2G2wHWnfqEdat4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 웃긴게 4명 모이면 한종류 시켜서 먹는게 대부분인데",
+        "writer": "Ugyif6NSPMFYXL_qS-Z4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (반사회적용어)찌개 넘 맛있겠다, 츄릅, ()",
+        "writer": "UgxLdgboC2rjv7RswB54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 민상이형 집 테이블 고깃집테이블이야",
+        "writer": "Ugwmmz4ZdXdrwKevTxN4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막뚱이의 한결같은 취향",
+        "writer": "UgxhuE9sz8HwwpQcuGV4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현 옷 거꾸로입은거 아니야",
+        "writer": "UgysZJgNo6U-kdKur414AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 순서가 치킨(반사회적용어)찌개냉면마카롱 순이면 그럭저럭 맞는데 디저트부터 먹음",
+        "writer": "UgyOI2YmdfGTbLW3Vd94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구집이길래 저런 고기집 책상이 있지",
+        "writer": "UgzR_qyl_MEmgq_ThI94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤 (반사회적용어) 요리 오지게 좋아함",
+        "writer": "UgzfN-rW62-JjLPqES14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각해봤는데 마무리는 (반사회적용어)찌개아님 된장찌개 라면이 맞는거 같음",
+        "writer": "UgzIbCuJfTffICr2Unh4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외국살면서 제일부러운점 한국배달음식 (반사회적용어)찌게는 좋아하지도 않는데 왜 맛있어보이는거냐 _",
+        "writer": "UgzV3sctDR20guKjM1l4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알투비트 브금 재밌어요",
+        "writer": "UgzuFkvovqJn4KUop914AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하게 오래오래 맛나게들 드셨으면 좋겠네요",
+        "writer": "UgxgSvNMlc1O0qy6ljd4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국 한식이 짱이야",
+        "writer": "UgyvEUi6bfaNxrwbAnp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도서이벤트 참여 애들방학이 길어져서 메뉴선정 곤란할때, 실시간보고있다 먹고싶은 메뉴 선정해서 먹어요. 출연진 4분의 캐미도 넘 좋아서 매일봅니다",
+        "writer": "Ugwt7QHUCZJmludUG4B4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전기렌지가 인덕션 말씀하시는 건가용",
+        "writer": "UgyGSpg1WKnWc2w3BSR4AaABAg.96A-tK6GfLZ96A0ZMfz7Su",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생긴거는 그렇게 생긴거요전기렌지 하이라이트 같은말인줄 알았네용",
+        "writer": "UgyGSpg1WKnWc2w3BSR4AaABAg.96A-tK6GfLZ96AKgMalj6C",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1등살림은 뭐에요 O.O",
+        "writer": "UgyGSpg1WKnWc2w3BSR4AaABAg.96A-tK6GfLZ96BAv-QxiUh",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1등 살림은 식기세척기입니다. 그릇 막 써서 산처람 쌓여도 두렵지 않죠.",
+        "writer": "UgyGSpg1WKnWc2w3BSR4AaABAg.96A-tK6GfLZ96BgLdNWWPT",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Doyeon Lim 컨셉이 포틀럭 파티잖아요",
+        "writer": "Ugyif6NSPMFYXL_qS-Z4AaABAg.969AxdNSCga96CanS4r3-9",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대신 각자 4인분을 시킴",
+        "writer": "Ugyif6NSPMFYXL_qS-Z4AaABAg.969AxdNSCga973Fdf8UzM6",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 이(이름)랑 결혼 했을때 사신거인듯방송애서본거같아욬",
+        "writer": "Ugwmmz4ZdXdrwKevTxN4AaABAg.968zmEEiBrQ96DSBVsAYg-",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "min zi 민상이형 이혼했어요",
+        "writer": "Ugwmmz4ZdXdrwKevTxN4AaABAg.968zmEEiBrQ9KiK0OvT-tF",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김태웅 앜 가상결혼이었어요",
+        "writer": "Ugwmmz4ZdXdrwKevTxN4AaABAg.968zmEEiBrQ9L8FKiXafzX",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김태웅 민상이형 돌싱아니다,",
+        "writer": "Ugwmmz4ZdXdrwKevTxN4AaABAg.968zmEEiBrQ9Ldt7uAYz79",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 디자인입니단",
+        "writer": "UgysZJgNo6U-kdKur414AaABAg.968u2ypaQgM9695-kLf-a8",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찌게 디져트",
+        "writer": "UgyOI2YmdfGTbLW3Vd94AaABAg.968sLXisi3e96D2LIxrawp",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찌개 하고 다시 치킨냉면마카롱 하기위한 전략",
+        "writer": "UgyOI2YmdfGTbLW3Vd94AaABAg.968sLXisi3e99XQ9Z7JsP5",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이수형 그건 점심",
+        "writer": "UgyOI2YmdfGTbLW3Vd94AaABAg.968sLXisi3e9Fp4E9cu81c",
+        "write_date": "2020-11-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찌개는 무조건 마지막이어야됨 앞서 뭘 먹었든 깔끔하게 정리해줄듯",
+        "writer": "UgyOI2YmdfGTbLW3Vd94AaABAg.968sLXisi3e9HZ8RdiGy0h",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MS 스튜디오",
+        "writer": "UgzR_qyl_MEmgq_ThI94AaABAg.968o_WDZklF96BaXgIgYYS",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘은 가정집에서도 저 책상 많이 씀",
+        "writer": "UgzR_qyl_MEmgq_ThI94AaABAg.968o_WDZklF96C3yW09--D",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배은 밥이 후식이지요",
+        "writer": "UgzIbCuJfTffICr2Unh4AaABAg.968krGeo3rG9C37lJZwvjB",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심지어 저녁, 배달음식을 저녁에",
+        "writer": "UgzV3sctDR20guKjM1l4AaABAg.968kcuHvCPy969jrwejxpS",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거긴없어요 배달 여긴있는데",
+        "writer": "UgzV3sctDR20guKjM1l4AaABAg.968kcuHvCPy969veUJzBSA",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 (반사회적용어)찌개 미역국 떡볶이 먹고싶어요",
+        "writer": "UgzV3sctDR20guKjM1l4AaABAg.968kcuHvCPy96FChXGPNIr",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ya party 였던가요",
+        "writer": "UgzuFkvovqJn4KUop914AaABAg.968izfyel8p968jLa_vt1h",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래는 dj max 곡이었는데 알투비트랑 콜라보해서 넘어간거에요",
+        "writer": "UgzuFkvovqJn4KUop914AaABAg.968izfyel8p9KGnvJDISJ0",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=iCXaIfqJkGc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

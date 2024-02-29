@@ -1,0 +1,756 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680715",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680715"
+    },
+    "text": [
+      {
+        "content": "2021.11.10 머독방송 노가리, 겁나 큰 곱등이썰 다시 부활하다,",
+        "writer": "UgyZ7LEdGy1985hVtdh4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고리즘 감사합니다",
+        "writer": "Ugw1W1YIXfClXJAo98l4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "급 알고리즘에 뜨는구만",
+        "writer": "UgzNz8a0uZoaKRK6Bt14AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 아는지오래되셨네",
+        "writer": "UgyqeakHgUv4-lacVmV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 리믹스가 여기서 나왔구낰",
+        "writer": "Ugw3SZpaTo7xtUCyg6d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠 음성지원이 되잖앜",
+        "writer": "UgySr1OqfRVwjCTm1X54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추억, 아련,",
+        "writer": "Ugzlu0zQ2eNm1kIHuC54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌래 이름이 쌉벌래",
+        "writer": "UgyLLsHoNIP_Q89_BfN4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머도기랑 산을가 안되요 (이름)단사람은되도 머르도크랑은",
+        "writer": "Ugwxkn95z2lELTX2fk14AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)를 너무 사랑한 나머지, 쌉(반사회적용어)가 되어버렸다 .",
+        "writer": "UgzQcaV6xiRuaOHxd2R4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때부터였죠 머도기의 시력이 좋아진게,",
+        "writer": "UgxUeRZ2jVRg0Ve4GTN4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌉(반사회적용어)라 그런지 동족을 좋아하네",
+        "writer": "UgwMQ0EaPlB5KBj7hSR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머독은 곱등이말고 발을 보셧을듯",
+        "writer": "UgyjqMIiJ2U7uxL-Kd14AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떡해 진짜",
+        "writer": "Ugi2bzU_Td4cL3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작년이 벌써 4년전,",
+        "writer": "Ugi-ExOFXGqJKngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머독 음성지원",
+        "writer": "Uggz-CvikpnuUngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 예전에 특이하고징그럽게생긴(반사회적용어)있엇느데 소리지르면서 사진찍음",
+        "writer": "UgjZq7pVlPpDBXgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 진짜 잘논다",
+        "writer": "Ugh3KZMWBYD9UHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포도우유 인정합니다,",
+        "writer": "Ugy178uUHUwwX_kAhVd4AaABAg.8mv196MVWJy8mxAeslKHO-",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 지식인에물어볼라고 찍음 근데안물어봄잼",
+        "writer": "UgjZq7pVlPpDBXgCoAEC.8OQMRnKDOjO8OQMX0TRwXQ",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 머독 영상도네에 올리실분 구함",
+        "writer": "Ugjm25eQcS0fFHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃는거 음성지원",
+        "writer": "UghEoOS0JTgbkngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지 머독이 음성이 들린다",
+        "writer": "UggPsXblD_U2F3gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 머도기 음성지원 되서 웃느라 숨막힙니다",
+        "writer": "UgiB1N9n6GV62HgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과연 머도기 (이름) 목소리 꿀같아요",
+        "writer": "Ugi3f5C-tZRG_3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머도기 귀여어",
+        "writer": "Ugg59jQU59Gxf3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상과 음원이 자동재생되는듯하다",
+        "writer": "Ugg4pmMZtRD9AHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으으 징그러 으으 사진 으으 징그러",
+        "writer": "Uggw39zbaNc6wngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)말투 상상되서 넘웃겨",
+        "writer": "UghuSZxXgXZDf3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 성대모샄 왤케웃기짘",
+        "writer": "Ugi7gHUlP80ShHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 곱등이가 손등에 올라온 적이 있었는데,그때 안 놀람,",
+        "writer": "UggVvERccYvusHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 페티슄징그러워하는데 알고보면 덕후얔",
+        "writer": "UgieCwr5wgf5cHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺄아아아아 머자희이이이",
+        "writer": "UghwNfNrrQt0u3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5번 돌려봤어요 상상하면서",
+        "writer": "UgjJ_rRnpZjOd3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 머도기 (비속어)졸구",
+        "writer": "Ugi-d3YLstuUiHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘 다 귀여우심",
+        "writer": "Ugg_T7QvgMAXnngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머자희 사겨라 짝. 사겨라 짝.",
+        "writer": "UggtAOHwWS4s_HgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이강 각이다",
+        "writer": "Ugjm25eQcS0fFHgCoAEC.8NMDjQhfTNM8O2JNNcVV4l",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그거때문에 견자희랑 머독이 합방안하는 이유임",
+        "writer": "UggtAOHwWS4s_HgCoAEC.89W5XQmaaFW8PYOkSXLrEt",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "는껒 임 누가그럼",
+        "writer": "UggtAOHwWS4s_HgCoAEC.89W5XQmaaFW8c4myFciZUY",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저런모습 별로에요 헤헿 이런거 마지막에",
+        "writer": "UggOSLCAXomg13gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이내이름말했엉, 심쿵",
+        "writer": "Ugg0WY-CNExd6ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 악수 한번만 해봤으면,",
+        "writer": "UghontBJvFnxOngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머돆귀여워 (이름)도 귀여워",
+        "writer": "UggX2KpbpI8QyngCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이걸으면 덩치차이가 겁나날듯",
+        "writer": "UgicMg6S78HNtXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 무등산 주위에 사는데아",
+        "writer": "UghU-SmV36PJz3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가머독이잘생겨진거같은데, (이름)그림왤캐못그리세요, 머독저렇게생기지않음.",
+        "writer": "Ugi_mCthp06iLngCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진수 방송 안본지 꽤 됐네, 둘이 스카이프하는거 10064513번 돌려보는중",
+        "writer": "UghaBhsbTY6vT3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 2명이서 녹음하는줄",
+        "writer": "UggJ1K-5UVf7wXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허허허허 (이름) 귀여워",
+        "writer": "UgjRSFeLTLE4CHgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌 나도 (이름)처럼 그러는데",
+        "writer": "UggaYM56ZAUpz3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 등산할때도 똑같네 (이름) 등산 좋아하나바요",
+        "writer": "Ugiuf_91rvNTSXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적으로 머자희 잘됐으면 좋겠다,",
+        "writer": "UgiE4Yi96N9-NHgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)성대모사잘하시는듯",
+        "writer": "Ugjt2YvwtCnXxXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "abt 머독지인분들이 다 덩치가 작네요 생각해보닠",
+        "writer": "UgicMg6S78HNtXgCoAEC.854v1N4wiIQ87Ql0RFgb4K",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머독견자희 4명",
+        "writer": "UgicMg6S78HNtXgCoAEC.854v1N4wiIQ87qhirRxMF_",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인호김 에이 2명이면 충분함",
+        "writer": "UgicMg6S78HNtXgCoAEC.854v1N4wiIQ87qwYzzcLQr",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 피카츄 (이름)이 148kg이고 (이름)이 37kg인걸로 알고있음 (이름)은 살이 계속 찌고있으니 4명에a일꺼임",
+        "writer": "UgicMg6S78HNtXgCoAEC.854v1N4wiIQ87rMEvwvbjI",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인호김 덩치요 덩치 몸무게 말고요, 근데 견(이름) 몸무게는 처음듣는데 그렇게 몸무게가 낮다니",
+        "writer": "UgicMg6S78HNtXgCoAEC.854v1N4wiIQ88EGdBVgAAI",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 피카츄 키가 150조금 넘으시나",
+        "writer": "UgicMg6S78HNtXgCoAEC.854v1N4wiIQ88PzliRoXJX",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ansientor 그 요정이신건 압니다 (견(이름) 죄송합니다)",
+        "writer": "UgicMg6S78HNtXgCoAEC.854v1N4wiIQ88Q3VjN1ZDh",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물론이죠 저거보다 귀엽습니다",
+        "writer": "Ugi_mCthp06iLngCoAEC.836xChon-RW7-NiKbcqUGZ",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나, 나도. 너무너무 조흔 조합이에요 ,",
+        "writer": "UgiE4Yi96N9-NHgCoAEC.81vCXZpWPMO709BQUwzcAt",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안돼 둘다 아까워",
+        "writer": "UgiE4Yi96N9-NHgCoAEC.81vCXZpWPMO724A8grmaYV",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "징그러워도 찍는다 (이름)이 사진작가의 영혼에 눈을 뜨신것 같습니다.",
+        "writer": "UggVVRHvmqXigXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름) (이름) 조합 꿀꿀꾸루루잼인데",
+        "writer": "Ugg8BydsCsnYhngCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진찍어서 SNS에 자랑하거나 아는사람들 놀려주려고 찍으신거같음",
+        "writer": "UghaXeCFsytek3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이해하세욬 (이해 못하겠지만) (이름)이 원래 저래요,",
+        "writer": "Ugj8mM7sogBfZngCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곱등이가아니라 아마 여치일종일꺼에요 저도가을때산갔다가 기겁한일이",
+        "writer": "UgjJahiSv9HaKXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머르도크 이 곱등이는 견(이름)이 무서워한 징그러운 곤충입니다. 하지만 지금은 제 사진이죠",
+        "writer": "UggSSzzIMZ5tpXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 백(이름) 사륜안 패시브 적용 중이신 듯요",
+        "writer": "UgjNdVDnNqwupXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자희진수 슈퍼케미",
+        "writer": "Ugg8-_Cv_sEf-XgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진찍어야지으징그러 으으사진, 헤헤",
+        "writer": "UggGsTxGEfBGEXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사스가 (이름)",
+        "writer": "UgiOsnpuB34DiXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나가 채팅 잘보시는 (이름) 이것 때문일지도, 아니면 채팅을 잘 봐서 그런게 잘 보이는걸수도 있구,",
+        "writer": "UgiAlvOTQs3-J3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)가, 어때서요,",
+        "writer": "UggHgJUHYJ6twngCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 이해하려고 하면 안댐",
+        "writer": "UghYzEV9DIyFb3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아하는건지 싫어하는건지",
+        "writer": "UghxAdKDQosir3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)찍는척 하면서 (이름)발찍어서 그럼",
+        "writer": "UggA23kOd7dJBHgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진수찡 이제발이아닌(반사회적용어)로 크흠, 아닙니다",
+        "writer": "UggJWE0JNDaai3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 뭐 움직이는게 잘보이긴 하던데",
+        "writer": "Ugjb45pRovVJ-HgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참으로 (이름)스러운 사진찍기(비하 아닙니다 평소에도 재밌으시구나 라는 표현입니다)",
+        "writer": "UggtZO5QPFNie3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진수 (반사회적용어) 좋아해",
+        "writer": "Ugiz0IwfLg3zzXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아두분 귀여우셬",
+        "writer": "UgiEMyOg-K2CZHgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진 찍어야지 으, 으.으. 으, 사진, (찰칵.) 귀여우시닷,",
+        "writer": "UghLZS6St8_sDXgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 3빠다",
+        "writer": "UgglFGvsgjfxt3gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분다 귀여워",
+        "writer": "Ughw1B6ZjGUO53gCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 나도,",
+        "writer": "UgjCVV7FCsR43HgCoAEC",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌추리 오졌다",
+        "writer": "UggA23kOd7dJBHgCoAEC.81mJH1IXoe37-pLk9agMmi",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 최소 코난",
+        "writer": "UggA23kOd7dJBHgCoAEC.81mJH1IXoe37-udfZNSpOA",
+        "write_date": "2015-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 혼모노다 .",
+        "writer": "UggA23kOd7dJBHgCoAEC.81mJH1IXoe38RKjLJ9ghh6",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 머잘알",
+        "writer": "UggA23kOd7dJBHgCoAEC.81mJH1IXoe38dNFS_ej1Vy",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 엌",
+        "writer": "UggA23kOd7dJBHgCoAEC.81mJH1IXoe396r5_nQwkAn",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=XpkBlbY9qTo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

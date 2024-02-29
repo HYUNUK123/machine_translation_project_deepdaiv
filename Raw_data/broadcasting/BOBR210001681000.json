@@ -1,0 +1,500 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001681000",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001681000"
+    },
+    "text": [
+      {
+        "content": "뭔 소리여 대 놓고 영화 사이사이에 이거 꿈이에요. 계속 전달해 주고 있는데. 영화 리뷰 한다면서 고작 판타지 영화 감독이 던지는 것도 못 읽어 낸다고 뭐함",
+        "writer": "Ugy8vgKgqPxlLFYfyV14AaABAg",
+        "write_date": "2021-10-24",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 버전이 따로있나요 홀로그램 디자인들이 바뀐게 있는데",
+        "writer": "Ugy4WAsQqPyFNDVzCqt4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 망작임 재밌는줄 알고 봤는데 그래픽만 좋고 완성도 너무 떨어짐",
+        "writer": "Ugxfx4FXcwNVN-qkfqN4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저게 꿈이면 마누라 얼굴 어떻게다시봄",
+        "writer": "UgzNh-Wx4X1IkMC0oCB4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리얼 무식한 해석이네",
+        "writer": "UgxerCBh_7dN55K3SCt4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가상인걸 알고 있음에도 결국 현실보단 가상을 선택한 마지막 주인공의 모습이 반전이 참 인상적이네요",
+        "writer": "Ugy4lOVwG5zpIprjjw14AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악당이 주인공 보다 더 멋있어 보이는 (이름) 영화, 언더월드 보다 이 영화에서 더 멋있더라.",
+        "writer": "UgyTE9fxGLIIhecgrdp4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 꿈",
+        "writer": "UgyHnqVBN9s3I-IdMj54AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시봐도 멋있는 로봇디자인인듯",
+        "writer": "UgwTuh8c_5lKGZ4Eo_J4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도망가는 중에도 뽀뽀하는 더러운 영화",
+        "writer": "UgzP41k4bZxxHLDPBEx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원작은 꿈인지 현실인지 확답을 안주는데 리메이크 토탈리콜은 꿈이라고 정한걸로 알고 있습니다",
+        "writer": "UgxaAcPeM8k19-lsUkp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 다시 보는걸 추천드립니다. 만약 다시 봐도 모르겠다면 앞으론 열린결말인거같다고 마무리 짓는게 어떨까요",
+        "writer": "UgwJCDo6tNG77OIR-jx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리메이크작의 숙명인 원작과 비교로 인해 저평가 된 영화. 사실 허술한 마무리가 까일만하지만 대자본이 투입되어 제작된 미래 사회의 모습을 보는 것만으로도 충분히 가치있는 띵작. 요즘은 SF가 유행이 한물가서 이만큼 비쥬얼을 보여주는 영화가 나오지 않아 안타깝습니다.",
+        "writer": "Ugx0iiA1d_J97IKIav94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "케이트 베켄세일 제시카 비엘 호",
+        "writer": "UgwfRIhSzztVIWuyHiN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 리콜안이란걸 알려주는장면들이 많이나와요 주인공도 알게되구요",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 현실이 아니라 리콜이 만든 환상 아닌가요 도장이 지워진걸 마지막에 보여주면서 남자 주인공도 약간 찝찝한 표정을 살짝 보여주던데 우리가 수술 할때도 수면 마취 할때 간호사 누나한테 언제 기절하나요. 라고 물어보고 눈뜨면 수술 끝나 있듯이 주사 맞고 바로 리콜로 들어간것 같던데요 설명이 안돼자나요 주사를 다 맞았는데 . 주인공은 멀쩡하다.",
+        "writer": "Ugz_O48qfYU78FluJnF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔딩은 꿈 속 으로 추측됩니다. 감독판에만 나오는데 꿈 주입하기전에 팔오금쪽에 () 도장을 찍었는데 엔딩 때 보면 () 도장이 사라져 있고 광고판에 리콜사 광고 나오고 있습니다.",
+        "writer": "UgxmAcyJU9K3LrQvO6l4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간중간 액션씬 , 반대입니다",
+        "writer": "UgxE27Knr1xzSWV57ex4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 상황에 뽀뽀를 , 뽀뽀가 이렇게 무서운 겁니다",
+        "writer": "UgyLOQ_545gkUhH-Bdh4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놀드 형님 나온 토탈리콜이 훨씬 재밌지",
+        "writer": "UgxhCfpC0FHAZB4CVgp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그런멘트 한번 해볼까요,",
+        "writer": "UgzP41k4bZxxHLDPBEx4AaABAg.9BcFPqV-ECX9BcX8F5VMWJ",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 넼 시그니쳐같은 대사",
+        "writer": "UgzP41k4bZxxHLDPBEx4AaABAg.9BcFPqV-ECX9BckFZuApMH",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0319ssm 자주와서 같이 연구좀 감사합니다",
+        "writer": "UgzP41k4bZxxHLDPBEx4AaABAg.9BcFPqV-ECX9BdpbpM8yy-",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 장면이요 왜 저는 못봤죠",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg.95u9pRFVa-l95uEebSReG2",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 마지막에 광고판에 리콜뜨는것도 환상이란 증건데 뜬금없이 혁명성공하고 광고판에 리콜이 왜 뜨겠음",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg.95u9pRFVa-l96EnU3V1SPu",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참된소리 흠 그런가요 일부로 저 장면을 넣긴 했는데 중간에 약들어간걸 멈췄는데, 그럼 리콜전에 꿈꿨던 여자가 직접 나오는건 뭐에요,",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg.95u9pRFVa-l96Eo-zOIkO3",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상상속의 여자가 그대로 나온거죠 보면서 복선도 꽤나오고 결말에도 전부다 리콜이었다 라는게 다보였었는데 보시면서 놓치셨나봐요",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg.95u9pRFVa-l96f4W8EbYbx",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 이딴 해석력으로 리뷰튜버 하고있네",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg.95u9pRFVa-l9S64DeiwWkQ",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리콜사 대표 같은 맥(동얀인)이 (반사회적용어)한테 죽었는데 엔딩쯤에 광고판에 리콜이 또 나오는게 현실성이없죠. 허구이기때문에 얕은 개연성이 합리적인 연출이라고 생각되요. 예) 주인공 어떻게든 안죽음 맥이 비밀요원설명할때의 것들이 환상속에서 다 이뤄짐 애처가 이중스파이 비밀금고 등등",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg.95u9pRFVa-l9UPxxTxafGP",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 저도 원작은 보지 않았지만 이 리메이크판으로만 봤을때 상상력과 볼거리가 좋았어서 좋게생각합니다. 원작보고 이거봤다고 역시 아류 이런 태도는 모든영화는(이름)널이지 한 편협한시각이라고 생각합니다. 재밋는건 재밋는거고 리메이크 만의 매력도 있어야 하니까요. 22년후의 리메이크인데 배역만 다르게하면 재밋는건가요 원작의재미 각색의재미 도 있다고생각해요",
+        "writer": "UgzmpIpZp4XxC4aNI3J4AaABAg.95u9pRFVa-l9UPyNj8DAcL",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그런줄알았는데 리콜에서 깨는 장면이 끝까지 안나왔어서 , 토탈리콜이란 뜻을 그렇게 해석했네요,",
+        "writer": "Ugz_O48qfYU78FluJnF4AaABAg.95m2kY1A1dX95m39T2uyIj",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주사 맞다가 중간에 뽑았자나요",
+        "writer": "Ugz_O48qfYU78FluJnF4AaABAg.95m2kY1A1dX95m3BJYCwQ2",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 주사 주입량이 이미 70 넘게 들어간게 보여지고 화면이 넘어가자나요. 이미 그정도면 약발이 올라오지 않을까요 그리고 리콜 매니저로 보이는 사람이 너무 현실적이라 다시 오고싶지 않을거다 라며 말을 하고 약물이 삽입이 되며 너무 자연스럽게 사건이 발생됩니다 그리고 위 영상에는 없지만 친구가 리콜로 들어와서 주인공이 깨어나려는 의지가 없다며 실제 아내와 친구가 리콜로 들어와 권유를 하지만 결국 주인공은 리콜 세계를 선택하는 구간도 있자나요 그래서 저는 영반님의 가설도 맞다고 생각하고 그렇다 보기에는 찝찝한 몇가지 떡밥들이 가상에서 못 나오는 반복되는 현실에 지친 남자의 비참한 모습의 설정도 어느정도 힘이 실리는것 같습니다 영상 재미있게 봤습니다 지금부터 글은 제 (반사회적용어)입니다 영화를 보면 남자는 실제 아내가 왜 자신같은 사람과 결혼을 했는지 자신은 언제나 반복되는 최하층 잡부 생활에 사는지 게다가 회사에서 승진도 날라가죠 멘탈적으로 이미 지칠대로 지친 남자의 선택은 현실 도피가 아니었나 합니다 제가 생각하는 토탈리콜 의 제목 해석은 우선 1차적인 해석은 리콜이란 사전적 의미로 기억해 내다 소환하다 등이며 토탈은 전부를 의미하죠. 아마 그래서 전부 돌아오게 하다 그러니 현실이다 라는 뜻으로 해석이 됩니다 그러나 저는 영화적 요소인 리콜이란 회사 자체가 이름으로 대명사로 쓰여서 전부리콜이다 라고 해석한것입니다 토탈 리콜 전부 가상현실 과 같이 해석을 한것입니다 좋은 영상 많이 만들어주세요",
+        "writer": "Ugz_O48qfYU78FluJnF4AaABAg.95m2kY1A1dX95m9NKXV_K3",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 근데 그친구가 리콜이라고 나(이름)는데 그건 좀 시청자들을 햇갈리게 할꺼 같아허 편집했어요 피셜 감사합니다.",
+        "writer": "Ugz_O48qfYU78FluJnF4AaABAg.95m2kY1A1dX95mAShEFi22",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 편집 너무 잘하시는갓 같아요 좋아여와 구독 누르고 갑니다 코로나 조심하세요",
+        "writer": "Ugz_O48qfYU78FluJnF4AaABAg.95m2kY1A1dX95mBaeqzxEL",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몬대장 감사합니다 몬데장님 노력하겠습니다 가끔 이런 피셜 부탁드려요..",
+        "writer": "Ugz_O48qfYU78FluJnF4AaABAg.95m2kY1A1dX95mCRgHS44D",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 이것도 이야기 많이나왔죠",
+        "writer": "UgxmAcyJU9K3LrQvO6l4AaABAg.95luN8Dj1OA964MVKETh0a",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그렇게 생각해요. 딱 리콜가서 꿈 주입하자마자 바로 스파이라고 몰려서 들이닥치니까, 다 꿈속의 이야기라고 생각해요",
+        "writer": "UgxmAcyJU9K3LrQvO6l4AaABAg.95luN8Dj1OA9694QBAQzQd",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더그가 리콜에 들어가서 맥이 오류에 대해서 설명을 해주는데 더그의 오류시작점이 꿈속에서 나오는 멜리나인 듯합니다. 그래서 중간에 해리가 나와서 자신도 리콜사에 있는 더그의 바로옆에 접속해 있고 이곳이 꿈속이라고 설명을 해주고 오류인 꿈속에서 나오는 여성(멜리나)을 죽여야 오류를 수정하고 꿈속에서 깰 수 있다고 하지만 더그는 멜리나를 데리고 도망쳐 리콜에서 주입한 기억 속에서 더 헤매이게 되고 마지막에 자신의 팔뚝에 찍었던 마크와 전광판에 나오는 리콜 사문장을 보고 꿈인걸 깨닫지만 꿈속에 체류하는걸로 압니다.",
+        "writer": "UgxmAcyJU9K3LrQvO6l4AaABAg.95luN8Dj1OA9CcI3N-woxC",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 쥔공이 뭔일을 해도 안죽고 적들이 간단하게 다 쓰러지는게 꿈이라는 걸 말해줌",
+        "writer": "UgxmAcyJU9K3LrQvO6l4AaABAg.95luN8Dj1OA9CcJ_RcGIbZ",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가깟으로 가까스로 입니다.",
+        "writer": "UgwWTVS20WrE2NAXLx54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감독판은 모든게 환상이라는 걸 의도적으로 계속 (반사회적용어)하는데",
+        "writer": "UgzY3o1fWul0fx9wmg94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "극장판하고 감독판하고 섞인것같은데,",
+        "writer": "UgwgKgDN_cQlZ4uLnAp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로리, 가 보안관이었나요 간호사 아니었나",
+        "writer": "UgziFwq7mWnifgYZIi94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엑스와이프vs현와이프 사이에 끼어있는 남자의 초이스를 고민해야하는 상황. (근데 엑스와이프나 현와이프나 다 색기있는 여캐들인지라 (넷플릭스의 죄인이란 드라마에서 제시카비엘의 취급이) 그런데 감독판은 결말이 다르다고 하던데요",
+        "writer": "UgzkcclS0ZQ_zJhQ9cp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야, 난 아(비속어)꿈으로 끝나는줄, 죄다 환상인줄 알았네",
+        "writer": "Ugya5yZdpSlmRwjJfql4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가까스로, 와우,",
+        "writer": "Ugw-L47ap5SB31pgjCt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토탈리콜 진짜 재밌게보는영화인데 다시보니까 역시 재밌네요 영화속에 나오는 한글도 깨알포인트",
+        "writer": "UgyJajNqPLE_JcOY7Hd4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공과 시각적효과 모두 원작보다 화려한데 뭔가 아쉬운 이 느낌,",
+        "writer": "Ugzk3puMWYAeZClHSsp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보지않았던 영화인데 영반님 믿고 자세히 한번봐야겠습니다",
+        "writer": "Ugzu5-c5tJTexm-LW3J4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 상황에 키스를 ... 우리는 무적의 솔로부대...",
+        "writer": "UgxwYR9xyldjky7EjMt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아 넵 맞춤법 검(반사회적용어)를 항상 돌리는데 실수가 있었나보네요",
+        "writer": "UgwWTVS20WrE2NAXLx54AaABAg.95h16AKOdp095h6BHDkNi8",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 아니던데요,",
+        "writer": "UgzY3o1fWul0fx9wmg94AaABAg.95cmymuC9Vs95cnY3aGn1t",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노골적으로 보여줌. 인터뷰에서도 인정한 거",
+        "writer": "UgzY3o1fWul0fx9wmg94AaABAg.95cmymuC9Vs95j_OUC0QsQ",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "INITIAL J 흠 제가 두번정도 봤는데 환상이라는 장면들이 딱히 애매해서 제가 놓친걸까요 2번정도 봤는데,",
+        "writer": "UgzY3o1fWul0fx9wmg94AaABAg.95cmymuC9Vs95jaZDY1qfU",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영반 역시네요 극장판 보고 그냥저냥 볼만하네 싶었다가 감독판을 보게 된적이 있었는데 극장에 걸려야 될건 감독판이어야 했고 심지어 완성도 자체가 달라서 평가 자체가 갈렸을 정도라고 생각했거든요",
+        "writer": "UgwgKgDN_cQlZ4uLnAp4AaABAg.95bk7FjRrzA95blyhnvyXv",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이구역의밋친년 영화를 좋아하고 눈썰미가 있으신분이시네요 섞였다 생각한건 제가 편집을 했기때문이고 자주 놀러와주시면서 영화추천이나 피드백 해주세요 이구역에 영화왕이,",
+        "writer": "UgwgKgDN_cQlZ4uLnAp4AaABAg.95bk7FjRrzA95bmLW2-2no",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄다 환상맞아요",
+        "writer": "Ugya5yZdpSlmRwjJfql4AaABAg.95S1nM_ZAk695u9dvnHy04",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청해주셔서 진심으로 감사드립니다 ....",
+        "writer": "UgyJajNqPLE_JcOY7Hd4AaABAg.95PquUNcKp_95Q0294FeeK",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청해주셔서 진심으로 감사드립니다",
+        "writer": "Ugzu5-c5tJTexm-LW3J4AaABAg.95PpLsqxyBz95Q00LVlo0G",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 동네님 키스에 자주 반응하시네욬",
+        "writer": "UgxwYR9xyldjky7EjMt4AaABAg.95Pa7sqzbMl95Q-z05IVIW",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCC5ZTAR_3aCG15ceTSmvZtA",
+        "parent_url": "https://www.youtube.com/watch?v=SQ6dDd-n4gE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001654085",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001654085"
+    },
+    "text": [
+      {
+        "content": "탬탬버린 (비속어) (비속어)",
+        "writer": "UgyhDnU1rY8to-RSKn14AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잼밋누 흡사 리듬겜",
+        "writer": "UgzuIzAS5zymFVf79qZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이건 풀버전으로 보셈 모든 게 레전드임",
+        "writer": "Ugz6vOp9OxyPD3BocqF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 누구도 저게임에 막기 라는 키가 있다는것을 몰랐다,",
+        "writer": "UgyV-biD0g-7ko_NjGN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 게임 오랜만에 보네",
+        "writer": "UgzJIkKDbrLO_bhcx_l4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)웃기네 (비속어).",
+        "writer": "Ugz05dxQS5gS7rlU8nJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 게임은 탬탬님 역캐리네",
+        "writer": "Ugwp9maLlCUU3ERnZVh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 너무 답답하네요",
+        "writer": "Ugw4OowL356w8wITYSJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인기 급상승 동영상",
+        "writer": "UgwwlJ_wULV7_GkICDR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3D 카벨",
+        "writer": "UgwczXEDnwffPJ6wK_F4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마법의 숫자 168",
+        "writer": "UgyOB3_tx6-oURtQUOR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 혹시 오른쪽에 노란색 자막이 탬탬버린님 캐릭터 위치에 맞출려고 했었는데 같이 노란색을 한 (이름)위치에 실수로 쓴건가요 아니면 (혐오표현) 자막과 거리를 벌리려고 한건가요",
+        "writer": "Ugw8mKbmkWRssnUesNh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임보니까 추억게임 아빠와 나 생각나네",
+        "writer": "Ugy0RIJPrg9TkxNPvih4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 이게 뭐라고 웃겨 죽을거 같냨",
+        "writer": "Ugx7RDXw-nu0_7b-X014AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "UGOZbqZ6M8 이미 찾으셨다면 죄송",
+        "writer": "Ugwkje41xWneL2iwMll4AaABAg.95K8RXQ7aBF95S5gU0onsU",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지우개맛 오 감사합니다",
+        "writer": "Ugwkje41xWneL2iwMll4AaABAg.95K8RXQ7aBF95SBErvrTLB",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬처럼 잘하는 게임없는것도 힘들건데 대단",
+        "writer": "Ugy9JMv7iuVMK754V2d4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보고있자니 아빠와나 마렵네",
+        "writer": "Ugx8SzrJTSyXWFfEOsB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 올타임 레전드 chamcham,",
+        "writer": "UgxXMaq1gcBTx_FxiAN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 멀티도 됬었나 항상 혼자 깼는데",
+        "writer": "Ugw-tUOx13oOVU_Oe314AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개임이름 castle crusher",
+        "writer": "UgwpRIDtveqUc6LNidt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 겜 이름 뭐에여",
+        "writer": "Ugw2r5ZVuPLZZ5E7v6F4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짐승같은 용사들",
+        "writer": "UgwQzzyjWSmPEXOQMHR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노랑 아니의 위치가 잘못됐는데요,",
+        "writer": "UgwIM5ICjAweaUuO2op4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게임 진짜 추억이다 어릴때 진짜 많이했는데",
+        "writer": "UgwWPRJzp3zXp51LF_p4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 게임이 뭔가요",
+        "writer": "UgxJSvT_CzljHjJt7U94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상 풀영상 다시보기 채널에 없나요",
+        "writer": "UgxO5jXp8b2B0aY5PSR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 만렙 찍었는데 같이 할 사람이 없어서 접었던 캐슬크래셔자너,",
+        "writer": "UgxQ0m2cQdeb8vaHcyx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그 올타임 레전드가 뭔가 하는 그거냐",
+        "writer": "UgwKYZHWOxiVHbhwAZt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓸모있는 사람이 될게요",
+        "writer": "UgxKVq3I12hEUaWa_NF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배틀블록 씨어터.",
+        "writer": "Ugw1NGC7Hhhg-D_1N994AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아웃트로 브금이 뭔가요",
+        "writer": "UgyAnmgvHsdGrjXaazV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 열심히 러스트 보고 있는데 올리시면 감사합니다",
+        "writer": "UgywBx6Ur9kruU0YvlB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠와 나 DLC용사들의 상태가 (이름)다",
+        "writer": "UgyVHYjf4o3GuAaKukR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 킹이다",
+        "writer": "UgyMC_ifkN3aX3TBaJR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참고로 배틀블록 아빠와 나를 만든 회사이다",
+        "writer": "Ugw1NGC7Hhhg-D_1N994AaABAg.94wsZzuldnh953i-sYylQm",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저분들이랑 내가하면 다알려줄수 있음, 나저거 겁나잘함",
+        "writer": "UgxTlie4xbRsN4JB7QB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에 3명만구하자고한거 탬탬버리자는줄",
+        "writer": "UgxEs8Dhd-mNrn07se54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠와 아들,",
+        "writer": "UgzUEKT_v7wygl_o1RR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스펙업으로 젬스톤이랑 심볼좀",
+        "writer": "UgxIsVHE-L0g8NBf7f14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠와 나, .",
+        "writer": "Ugzr79eWNTbEfRiPEjR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퇴근엔딩 뭐얔",
+        "writer": "UgxBDvEOxaUeAYUy2YZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보라색 아빠 아들 플래시 게임 생각나네",
+        "writer": "Ugx8kfkmY4xkTsHyuIF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 게임 그래픽이나 효과가 옛날에 한 아빠와 나 라는 게임이 생각나네요",
+        "writer": "UgzMirZgVGMfpMHpYVB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 참 (비속어)",
+        "writer": "Ugx2OZT0H7HcJWI7vHp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와중에 다리만 잡아 땅바닥이랑 딥키스 하는 보라머리공주 얼굴이 묶인 보라머리공주 얼굴없는 보라공주",
+        "writer": "UgwfN6StCkC7YH6R3lB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레전드의 서막",
+        "writer": "UgzvoqE00_EKXLGyAk54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현실반영 에반데",
+        "writer": "UgxDMPalESSptnNdcHN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 게임 이름 뭐예요",
+        "writer": "UgyGRzymBXgQGqlhTdB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 실시간으로 봤던건데",
+        "writer": "UgwX22IJSKtbupgd0SZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시보기 1트 탬튜브 2트 지튜브 3트 두번남았다,",
+        "writer": "Ugwi9r3J4KjFdt9TqF54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겜 이름좀요",
+        "writer": "UgyTjsNz1XWKAPrtyOJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 말해봐여 공주구하는건 어떻게 되든 상관없는거죠",
+        "writer": "UgxpicCtrA80zbhcm214AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "때려야지 경험치가 들어오지,",
+        "writer": "UgyAAvPdDIOeZsVqsl54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이미 공주 2명이 있네요 7 템공주 강공지주",
+        "writer": "UgwYPigsXaCLlBZGAwF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠와 나",
+        "writer": "Ugx8kfkmY4xkTsHyuIF4AaABAg.94wgw1qQVT-94x5Ix8IwNP",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "같은 개발사임 배틀블럭 시어터도 그렇고여",
+        "writer": "Ugx8kfkmY4xkTsHyuIF4AaABAg.94wgw1qQVT-94xGWAw4Dmb",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쵸콕0713 답변 감사합니다",
+        "writer": "Ugx8kfkmY4xkTsHyuIF4AaABAg.94wgw1qQVT-94xT9d3wrrB",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샌드위치 콤보도 똑같음",
+        "writer": "Ugx8kfkmY4xkTsHyuIF4AaABAg.94wgw1qQVT-94yAozow4zl",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이정도면 제작자가 보라색을 싫어하는게 아닐까",
+        "writer": "UgwfN6StCkC7YH6R3lB4AaABAg.94wgEhlFGGB94y9ZSo3_FR",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그녀들의 강함을 저렇게 표현하다니 굉장하군",
+        "writer": "UgyEcq16ZVT4SXi19PF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 보고 탬탬버린이 왜 게임만 하면 메일을 받는지 깨달았습니다.",
+        "writer": "UgxD14ZrD7B6YfjD56h4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 왼쪽은 3500 칠거같고 오른쫀은 뒤에서 깐족대면서 가오 잡는얘같음",
+        "writer": "UgwZOpXQIk7sFUM6Rvt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓰으읍 썸네일의 상태가",
+        "writer": "Ugwvmr4sZR7Z5IHEDR54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게임 혹시 만든회사 아빠와나랑 같은 게임인가요 처음에는 몰랐는데 악형 변신한거 보니까 갑자기 확비슷해보이네",
+        "writer": "Ugwag9LUXog7jkXYGpF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캐릭터 모션이 아빠와 나 에서 본 모션인 듯한 느낌, .",
+        "writer": "UgzY8JgYiRM0tBZE2iF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진 원본 모르는 사람은 이해 못하는 썸네일",
+        "writer": "UgxfFtTOCGT8FvCfcMF4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬 개못해 이거거든",
+        "writer": "UgwUT8dSY6E4wHINyfN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게임 정말 보고싶어서 기달렸드아...드디어나왔드아",
+        "writer": "UgworJTVRdggF5lH_xV4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악형과 강형에게 힘의차이를 느끼게 된 (이름)",
+        "writer": "UgyoBHJVpLAk3RZk02R4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨강은 악형 파랑은 강형 그들은 최고의 전사,",
+        "writer": "UgyyFarBSRQPkGdrVdd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용자인지 (비속어)인지 했갈리네,",
+        "writer": "Ugwhxly1yn-fmD6xuF54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어케하면 가장 좋은 효율로 트위치와 유튜브를 같이 볼수 있을까",
+        "writer": "Ugy_I6mLIhkVePRoVcZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 생방할때 올리면 안볼줄 알았지",
+        "writer": "UgyypoWBwFeFswvZyzl4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 썸네일 오른쪽 파랭이 보고 순간 칼리 라고 생각했던 내가 싫다",
+        "writer": "UgzQPfvU6DuhDNrAssd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안받는게 이상할정도긴 하네",
+        "writer": "UgxD14ZrD7B6YfjD56h4AaABAg.94w_gzvvKli94xsD3MxS__",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메일이 아니라면 이가 전부 갈려서 아무 말도 전하지 못하기 때문",
+        "writer": "UgxD14ZrD7B6YfjD56h4AaABAg.94w_gzvvKli94xuVkxw6Bz",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원본 모르는데 원본 뭔 내용인가요",
+        "writer": "UgxfFtTOCGT8FvCfcMF4AaABAg.94w_CERCzsF94w_yZOEcqd",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동물들 순간포착인데 (비속어)보여서 저짤들모티브로 격투게임도나옴",
+        "writer": "UgxfFtTOCGT8FvCfcMF4AaABAg.94w_CERCzsF94we9SafGe4",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대충 동물들이 움직일때 찍은 사진입니다",
+        "writer": "UgxfFtTOCGT8FvCfcMF4AaABAg.94w_CERCzsF94wgsSlh3sP",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근육(비속어) 라고 (이름) 검색해 보셔요",
+        "writer": "UgxfFtTOCGT8FvCfcMF4AaABAg.94w_CERCzsF94wjHi4dLI-",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상은 19분전인데 댓글이 10분전이고 13분을 말하고있네",
+        "writer": "UgxIuEMCDsRHFj8jWRB4AaABAg.94wZMk9VicL94w_cAGSadz",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저버 저는 보통 1.25배에서 1.5배로 봐서,",
+        "writer": "UgxIuEMCDsRHFj8jWRB4AaABAg.94wZMk9VicL94w_nxLB1vo",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저버 혐시 보기에서 다 보고온답니당...",
+        "writer": "UgxIuEMCDsRHFj8jWRB4AaABAg.94wZMk9VicL94w_rpcB8AS",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "yz 그냥 신기해서 그랬어용",
+        "writer": "UgxIuEMCDsRHFj8jWRB4AaABAg.94wZMk9VicL94wbKaRk_rK",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사탄 어머",
+        "writer": "UgwVNREZbjj-vZQf2_t4AaABAg.94wYl1zP4lQ94wcdXXYWBQ",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1인 2역이야",
+        "writer": "UgwVNREZbjj-vZQf2_t4AaABAg.94wYl1zP4lQ94wecuOBasf",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광고제거충지나가는 딴사람임",
+        "writer": "UgwVNREZbjj-vZQf2_t4AaABAg.94wYl1zP4lQ94xuBEjNAjR",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일의 상태가 (이름)다지누",
+        "writer": "UgzkV0kFOMssefH5ZL54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나도 궁금해서 와뵤렸다",
+        "writer": "UgwkCGIYWDfpfa7r2gN4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집이 털린 그녀에게 애도를,",
+        "writer": "Ugxd-u3Zxwe5i-2hiG94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아앗, (이름)을 업겠다고 한 누 가 생각난다,",
+        "writer": "UgxWbsoDh1QNjxhm_Op4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 레게노",
+        "writer": "UgxYIltG2ZY0ReV5scR4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 생방중에 올린영상인가. 그래서 썸네일은 무엇을 의미하는것이지",
+        "writer": "Ugzc3scwoXVaxriTMZx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방보고 왔다 러스트 아",
+        "writer": "UgwgtCzNlhADM6GGCUp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따끈따끈한 영상",
+        "writer": "UgxV_RZc2ur2OIABFn14AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일이 의미하는 바는 뭘까요",
+        "writer": "Ugyazf7lpicBaV-Zj3B4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 러스보다 바로들어왔는데 이사람들 모지",
+        "writer": "Ugx1i6JUHEr08ONxjD94AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분들 할말이있는데요 자세히 보기",
+        "writer": "UgxsGYzsq9A3-o4WIqt4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일이 의미하는 바를 찾으러 왔습니다",
+        "writer": "Ugx3d4pOd5kbNhT81WZ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트위치와 유튜브중 무엇을 봐야할까,",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇을 의미하는 썸네일인지 궁금해서 왔습니다",
+        "writer": "Ugyvx40F7ceIMqQnpWh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그는 죽었어",
+        "writer": "UgxWbsoDh1QNjxhm_Op4AaABAg.94wYCYH3xc294xeLXWEkAz",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경월 r, i, p, .",
+        "writer": "UgxWbsoDh1QNjxhm_Op4AaABAg.94wYCYH3xc294xehxlKrBA",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경월 아아 그는 갔습니다",
+        "writer": "UgxWbsoDh1QNjxhm_Op4AaABAg.94wYCYH3xc294yIqAwm2xh",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인간 누는 갔지",
+        "writer": "UgxWbsoDh1QNjxhm_Op4AaABAg.94wYCYH3xc294yLwy7mJ8q",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핸드폰 화면 더러워서 연해보여서 속았다",
+        "writer": "UgxsGYzsq9A3-o4WIqt4AaABAg.94wY6NVcSuI94wa98rx_FA",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "답은 둘다",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94wYNo-LCCz",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컴터유튭 핸펀트위치",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94wYqK2WSlW",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좌뇌로 폰보시고 우뇌로 방송 보시면됩니다",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94wZ7JuCCKy",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스톰클루퍼 자뇌가 없으면 어쩌죠,",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94wZLq_MOHG",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "no1sam 자뇌는 원래 없는데요",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94wZVfemay4",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_ 아 (비속어) 뻘하게 터지네",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94wa1dhV4zi",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_ 자뇌가 아파.",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94wbmV6d-lP",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브로 다시보기를 보시면 됩니다",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94we9xeFTGG",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좌뇌인가 자뇌인가",
+        "writer": "UgwxxUSiUTM1oPpq4VJ4AaABAg.94wY4_Nb-O-94y62QzXDW_",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누는 러스트중",
+        "writer": "UgzNEc9ctFrSgPO7xvp4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 뭘 의미하는 (혐오표현)",
+        "writer": "UgwDO7wk9x3QmQwEb_t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "daingg 악과 강,",
+        "writer": "UgwDO7wk9x3QmQwEb_t4AaABAg.94wY3Tf6Vcn94wahWlrA60",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=HEf3bRqd8f4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

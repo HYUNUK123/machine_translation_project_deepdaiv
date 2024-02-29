@@ -1,0 +1,748 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409767",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409767"
+    },
+    "text": [
+      {
+        "content": "2130 완강하고 갑니다.",
+        "writer": "Ugx1CnJrZAAy6ALNUMt4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배울수록 신기하고 유용합니다_ 감사합니다",
+        "writer": "UgxGP8fXzqmisP6feHZ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 출석체크 했습니다 공부하고 갑니다.",
+        "writer": "UgzvE5FVt81h4TDZRM94AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 잘 봤습니다...",
+        "writer": "UgwH0qSOQTs6i052VDl4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 항상 잘 보고 있습니다. 한 가지 질문이 있습니다 영상에서 텍스트(Hey) 까지 변형을 (비속어)셨는데 여기서 드는 의문이, 텍스트는 path로 이루어진 object 가 아니라서 벡터 오브젝트에만 적용할 수 있는 shape builder 나 puppte warp 는 text에는 사용할 수 없어야 하는 것 아닌가요 Outline mode로 제가 실험을 해보긴 했는데, text에 shape builder puppet warp 를 적용하고 outline을 보니 어느 새 path가 되있더라구요. 마치 create outline을 실행한 것과 같이 말입니다, 이게 정상인가요",
+        "writer": "UgzDq1kpQOyNmMrYxOx4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변형(비속어)고 싶은 오브젝트 선택을 했는데 퍼펫툴 클릭이 안되요 뭐가 잘 못 된걸까요 앞전에 퍼펫하다가 한번 다운되서 프로그램 꺼진적있는데 그거랑 관계있는지,",
+        "writer": "Ugwc2dm4G56eWx8XUsp4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알(비속어)수록 너무 재밌습니당 감사합니다 .",
+        "writer": "UgziEGgWb4TDmesmjS14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "hey 에서 도형툴로 그림을 그리고 기존 조인트 삭제하고 도형툴에만 조인트 추가하여 진행하려고 하면 자꾸 hey 글자까지 같이 뒤틀려요",
+        "writer": "Ugx8uZPEs-zUbnUf44t4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 잘 배웠습니다.",
+        "writer": "UgyQtcOEzaoMfSbhLx54AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번강도 완강 아직 라소툴을 다루는게 익숙지 않네요 그래도 최신강의 따라잡을때 쯤엔 익숙해 지겠죠 그럼 내일 31강에서 뵙겠습니다 좋은 강의 감사합니다",
+        "writer": "UgyGUjfp5OH2VPKMvLB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 지금 일러스트2020쓰고있는데 퍼펫 누르면 일러스트가 나오면서 자꾸 (비속어)요",
+        "writer": "Ugw6T9jIQFLOB5NKpW94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 cc쓰는데 저 뒤틀기 툴만 없어요 어디서 찾나요",
+        "writer": "UgyyRidcASPFdB2ls3x4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 왜 라소툴로 선택이 안될까용",
+        "writer": "UgzUE4yRDGH4Ci9aDJV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 대박 활용해서 캐릭터디자인 에펙으로 모션줄때 엄청 유용하겠어요 감사합니다...",
+        "writer": "UgwHKkSXL_jVNN-Ti1l4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 배웠습니다",
+        "writer": "UgyF_zrLawOppKcpmD14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 채널을 왜 이제 알았나 모르겠어요... 바로 구독누르고 하루종일 보는중입니다, 감사합니다",
+        "writer": "Ugz5gv1ExSiSkOXOJoJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "47 퍼펫 워프 툴이라는게 인형 휘게 만드는 툴 인가봐요. 신기하고 폰트 디자인할 때 유익할 거 같아서 신기하구 기분이 좋습니다. 알려주셔서 감사해요.",
+        "writer": "UgxTe3gEv37NWB4xJgV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cs6 쓰는데 워브 툴이 없네요",
+        "writer": "UgysRSnUUhobGfyLndV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호달달 여긴 언제나 열려있습니다 천천히 공부하세요 )",
+        "writer": "Ugx1CnJrZAAy6ALNUMt4AaABAg.9TQxoXF3FiT9TRaQekFJLS",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼요 아는 만큼 편해지고 익숙해지는 만큼 상상의 나래를 펼칠 수 있답니다 천천히 정주행 해보세요.",
+        "writer": "UgxGP8fXzqmisP6feHZ4AaABAg.9SNVxLmctJF9SNpWaKt9Aa",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 화이팅 입니다 )",
+        "writer": "UgzvE5FVt81h4TDZRM94AaABAg.9Rc2DclP0IZ9RcjyZTZipZ",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "즐겁게 공부하세요",
+        "writer": "UgzXygWVNaK-fTecmJJ4AaABAg.9PNd7d9QmpI9PNziNlF2E6",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금요일에도 열공 하시는 모습 너무 멋져요 _",
+        "writer": "UgwH0qSOQTs6i052VDl4AaABAg.9LLilOkDA9P9LLsxBEKUEr",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 볼때만 아 하고 알겠고 자신감이 많이 부족하네요. 더 열심히 해야하는데 의지가 약해요. 롤스(이름) 반만이(반사회적용어) 하게 더 쭉 꾸준히 할게요.",
+        "writer": "UgwH0qSOQTs6i052VDl4AaABAg.9LLilOkDA9P9LLvUZqSCPB",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문자를 가지고 퍼펫툴을 활성화 (비속어)면 자동으로 create outline 이 됩니다 다만 문자를 가지고 (비속어)이프빌더툴을 적용하(비속어) 하면 깨트리기(create outline) 전엔 아무런 반응이 없습니다 )",
+        "writer": "UgzDq1kpQOyNmMrYxOx4AaABAg.9KuWn0N5Jni9KuxI6r5PeG",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 와, 벌써 답변을 주셨네요 항상 명쾌한 답변에 감사를 드립니다 )",
+        "writer": "UgzDq1kpQOyNmMrYxOx4AaABAg.9KuWn0N5Jni9Kv11fym9wc",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우음, 활성화 자체가 안되는 건가요 ( 그런건 저도 잘 모르겠네요 완전히 다시 껐다켰다 해보세요.",
+        "writer": "Ugwc2dm4G56eWx8XUsp4AaABAg.9KloynOTys39Kn1G5R4b6l",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화이팅 )",
+        "writer": "UgziEGgWb4TDmesmjS14AaABAg.9HBx22jbha89HDEhYG6Tu5",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 글자를 잠궈 보세요 오브젝트 잠그기 (원하는 오브젝트 선택) ctrl 2 잠금 해제 ctrl alt 2",
+        "writer": "Ugx8uZPEs-zUbnUf44t4AaABAg.9FkFM3PBRpI9Fm_GtliLEy",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgyQtcOEzaoMfSbhLx54AaABAg.9FKQ66SIuiL9FLUCC32SzR",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 수고 하셨어요 .",
+        "writer": "UgyGUjfp5OH2VPKMvLB4AaABAg.9F3bsUFcNkX9F4Ghjf7jg_",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어허, 저도 CC2020에서 그라디언트에 컬러 넣는다고 특정 행동만 하면 튕겨버리는 버그같은게 있어요 , 안타깝지만 곧 나올 CC2021 버전을 기약하며 잠시 해당 기능을 스킵해 두시거나 어도비에 문의를 해보세요 아마 버전 업데이트되면 해결되지 않을까 합니다.",
+        "writer": "Ugw6T9jIQFLOB5NKpW94AaABAg.9ErxjQpriX_9EryaXzDYrJ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 넹 형 영상 잘보고 있어요. 예전꺼 정주행 하는중입니다",
+        "writer": "Ugw6T9jIQFLOB5NKpW94AaABAg.9ErxjQpriX_9ErzaStKpKH",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "툴 박스를 꾸욱 누르고 있으면 숨겨진 하위툴이 보여요. 그래도 없다면, 1. 툴박스에 , (땡땡땡)모양 클릭 2. 에디트 툴바 3. 우측 상단 톱니바퀴 클릭 4. advanced 추가로 모든 툴 살려내기.",
+        "writer": "UgyyRidcASPFdB2ls3x4AaABAg.9CVehC34ynZ9CWutL6LPCR",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앵커 포인트만 있다면 라쏘툴로 대략적인 범위만 잡아서 놓으면 알아서 그 범위안에 앵커들이 잡힌답니다 )",
+        "writer": "UgzUE4yRDGH4Ci9aDJV4AaABAg.99dmEim44LJ99exbNBgrAk",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 저도 라소툴로 아무리 해봐도 아무것도 선택이 안되서 제 맘대로 글자 선택 후 Creat Outline을 누른 후에 해버렸는데, 그렇게 해도 되나요,",
+        "writer": "UgzUE4yRDGH4Ci9aDJV4AaABAg.99dmEim44LJ9AeCiiENJDr",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요) 에펙에도 같은 기능이 있어요",
+        "writer": "UgwHKkSXL_jVNN-Ti1l4AaABAg.99QaW4Uc_NQ99R5xEzJvzM",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 화이팅 입니다 )",
+        "writer": "UgyF_zrLawOppKcpmD14AaABAg.98laUMLkq5F98mQjdaSqXw",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와앙 반가워요 이제서야 우리가 만났군요 앞으로 같이 열공해 봐요",
+        "writer": "Ugz5gv1ExSiSkOXOJoJ4AaABAg.9898P0J3_e8989TwvPwxPw",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모션그래픽에 최(반사회적용어)된 에프터 이펙트 프로그램에서도 비슷한 기능이 있는데 애니메이션 줄 때 아주 유용하게 사용 가능하답니다",
+        "writer": "UgxTe3gEv37NWB4xJgV4AaABAg.979-E6-964C979AoNnB5A4",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네, CC버전부터 생긴 기능이랍니다 ...",
+        "writer": "UgysRSnUUhobGfyLndV4AaABAg.978Zag2hB1w979ADrcpxla",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고래 꼬리 만지며 오 신기하다 하는 중에, (비속어) 머리 잡고 움직일는 영상 보자마자 완전 빵 터졌네요",
+        "writer": "UgxBu0J01Dl3ocwd6B14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런거 고래는 직접 펜으로 그려야하나요 동물 그리는 강의 있으면 좋을거같아요..",
+        "writer": "Ugz4VFpkTGUIrZjbf0J4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펜툴로 고래예시를 대충 그려서 해봤어요.",
+        "writer": "UgxbjTyYhQVeZF3QenN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 , 꿀팁,",
+        "writer": "UgwPN3Njve28Jhsayu94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 한 번 아무거나 만들어서 뒤틀어봤는데 참 재밌어요.",
+        "writer": "UgyXUlO5tcDUo3MndDZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 진짜 유용하네요 Hey 에서 Y끝 부분 뒤틀어서 만드는거 간단한데 트랜디하게 보이고 굉장히 좋은데요 하고나서보니깐 간단하면서도 느낌( )있어보여서 굉장히 좋아요.. 감사합니다 선생님.",
+        "writer": "UgyREUf6rFV6Z8bZkOF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 .이거 너무너무 필요한 꿀팁이었는데 회사는 cs6이라 못쓰겠네요, 맨날 펜툴로 깨작깨작 집에서만 써야겠어요 응용해서 움직이는 아이콘 만들기도 쉽겠어요, 타이포디자(반사회적용어) 진짜 정말정말 필요했는데.. 그래도 이런 숨겨진 기능 알려주시는 꿀팁강의 정말 bbbb감사합니다..",
+        "writer": "Ugy9LkitKNyyS3FnJ8N4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 강좌 따라하다가 이상한 현상이 발생하는데 평상시 애니메이트줌 자주 사용하는데 조금만 확대해도 막 6000씩 확대되어 있고, 이거 왜 그런건지, 그리고 2번째로 라소툴로 아무리 글자를 영역잡아봐고 선택이 안되서 전 그냥 글자 expand시킨다음에 직접선택툴로 작업했거든요, l(비속어)o tool이 작동되기 위한 전제조건같은게 있는건지,",
+        "writer": "UgwsZ9ncu1KWn0PjKK54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)이프 빌더 툴과 패스파인더의 합치기 기능은 어떻게 다른가요 차이가 없어보여요.",
+        "writer": "UgzDgyuv_xaiyBR7bSN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 유용해요..",
+        "writer": "UgzLGJ9x6aMb11v6B9Z4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덕분에 큰 도움 받습니다 이 은혜를 어떻게 갚아야 할지 모르겠습니다.",
+        "writer": "UgzbUF-o5zzFBFETd-t4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 유용한 동영상들 잘 보고 있어요 .",
+        "writer": "UgxVVe3Ej0_ZZ2h5iIN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패스파인더의 통합을 쓰는 경우와 shape builder tool을 쓰는 경우의 차이점이 궁금해요",
+        "writer": "Ugw2UAOVgksHLhitxFZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 항상 잘보고있습니다 슬프지만 제 포토샵 CS5에는 그 툴이 없네유",
+        "writer": "UgxUoWpG4AOQn46MwrB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다운로드 링크가 어딨어요 .",
+        "writer": "Ugz_H325fE0TogEbCMF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 안녕하세요 구독은 하셨나요 (이름) 넘기엽",
+        "writer": "Ugz3B-0CMQKsCT0ROq54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약 3주간 (이름) 일러스트 강좌 정독하고 며칠전 채널하나 개설했어요 채널 아트부터 오프닝 화면까지 (이름) 덕분에 쉽게 만들 수 있었어요. 정말 감사합니다..",
+        "writer": "UgyR0IX1FZOq3HTWukN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독은 하셨나요",
+        "writer": "UgzUHJFERkaLomQN2lV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세용안녕하세용구독은 했습니다",
+        "writer": "UgwMXg_deWH1XXlfYfl4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 안녕하세요",
+        "writer": "UgxBu0J01Dl3ocwd6B14AaABAg.94WsPy_DPuA94XQKowPU0v",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펜 툴을 다루면 뭐든 다 그릴 수 있답니다 ) 좋은 생각이네요. 다음 강좌엔 도형이나 펜툴등을 이용해서 동물 그리는 강좌 만들어 보도록 할게요",
+        "writer": "Ugz4VFpkTGUIrZjbf0J4AaABAg.93_KMvmnq2I93aQDUYJpsU",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요런게 있다는거 알고만 있으면 언젠가 활용할 날이 온답니다 . 저도 자주 사용하진 않지만 가끔 어쩌다가 사용하고 있네요 )",
+        "writer": "UgxbjTyYhQVeZF3QenN4AaABAg.93KfoRVZ77g93MSq3OfsVm",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼펫 툴 신기하죠 ) 캐릭터 하나 그려두고 움직여야 한다면 퍼펫툴 이용하면 완전 편하답니다.",
+        "writer": "UgwPN3Njve28Jhsayu94AaABAg.90m7KUnCIuY90mauu-1QtR",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 활용하면 편하게 변형 가능한게 퍼펫 뒤틀기 툴이랍니다 나중에 알아뒀다가 꼭 활용해보세요.",
+        "writer": "UgyXUlO5tcDUo3MndDZ4AaABAg.8zYOzDD883P8zZXds9wb8C",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기능은 쉬워도 잘 살리는게 어려운거랍니다 잘 살렸다면 본인은 능력자",
+        "writer": "UgyREUf6rFV6Z8bZkOF4AaABAg.8yGkR-m8ZYg8yGoRHbSgKi",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 CC버전 부터 사용할 수 있을거예요 보통 회사에선 라이선스 문제 때문에 CC버전 쓰기게 힘들죠 ( 알아두시고 나중에 꼭 활용해 보세요.",
+        "writer": "Ugy9LkitKNyyS3FnJ8N4AaABAg.8vL3xnJ0YrN8vLgSH28UoM",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에니메이티드 줌과 관련된 버그는 너무 많이 있어서 정확한건 어도비에 문의를 해보세요 ) 2. 라쏘툴 사용하는데 조건 같은건 따로 없어요 글자툴 같은 경우엔 아무래도 도형이 아니니까 안잡힐 수 도 있겠네요.",
+        "writer": "UgwsZ9ncu1KWn0PjKK54AaABAg.8uax1Ys-CgA8ucQRyV5JxX",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 그렇군요 얼렁 줌 오류 해결좀 해줬으면",
+        "writer": "UgwsZ9ncu1KWn0PjKK54AaABAg.8uax1Ys-CgA8ucQawheV0s",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5ngH4OIMZTE 해당 강좌를 보시면 두 가지가 왜 다르고 어떻게 활용하는지 잘 나와 있어요 )",
+        "writer": "UgzDgyuv_xaiyBR7bSN4AaABAg.8uQZY9VDlI38uREUB0ZcmW",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgzLGJ9x6aMb11v6B9Z4AaABAg.8sePV-Meoox8sexhY4fRc2",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 댓글 남겨 주시는 것만으로도 감사합니다 ) 고마워요. 앞으로도 자주 공부 하러 오셔야해용",
+        "writer": "UgzbUF-o5zzFBFETd-t4AaABAg.8sZpou1IhpM8sZyIdoI5BF",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고맙습니다 ).",
+        "writer": "UgxVVe3Ej0_ZZ2h5iIN4AaABAg.8sNZ1REX75m8sNw7wYL9c7",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결과 자체는 패스파인더나 (비속어)이프 빌더 툴이나 똑같지만 패스파인더로 Unite(통합)할 경우엔 오브젝트를 개별씩 다 선택해야하고 다시 또 누르고 하는 번거로움과 투명한 영역은 합칠 수 없는 단점이 있지만 (비속어)이프 빌더 툴은 투명하건 뭐건 한번만 선택해두면 아주 편하게 지우고 합칠 수 있어요 강좌중에 (비속어)이프 빌더 툴 에 관련된 강좌 5ngH4OIMZTE 가 있으니 한 번 보시면 어떤차이인지 이해가 가실 겁니다 )",
+        "writer": "Ugw2UAOVgksHLhitxFZ4AaABAg.8rMMn8Htx-78rMN6Riw7Qq",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 아마 CS6 아님 CC버전부터 생긴 기능이에요 (",
+        "writer": "UgxUoWpG4AOQn46MwrB4AaABAg.8qbmYGkYNDm8qbs06lrqCF",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일부 예제는 최신 버전의 기능을 이용하는 강좌도 있고 버전의 큰 차이 없는 강좌도 있고 그렇네요 ) 허나 많은 사용자분들이 CC를 사용하고 있어서 강좌는 어쩔 수 없이 최신 버전을 기준으로 촬영하고 있답니다",
+        "writer": "UgxUoWpG4AOQn46MwrB4AaABAg.8qbmYGkYNDm8qbsAV-4LIZ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 그렇군요 답변감사합니당",
+        "writer": "UgxUoWpG4AOQn46MwrB4AaABAg.8qbmYGkYNDm8qbx3DEqCpp",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상아래 글을 펼쳐 보세요 (제목 부분 클릭)",
+        "writer": "Ugz_H325fE0TogEbCMF4AaABAg.8ptbp2MbSoK8pu_Tk9S8LR",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 ai파일을 다운로드해도 하나로 묶여 있어서 object별로 쓸수 없는데 이 문제는 어떻게 해결하나요",
+        "writer": "Ugz_H325fE0TogEbCMF4AaABAg.8ptbp2MbSoK8zrG1cS2RDD",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오잉 그룹을 해제 해 보세요 ctrl shift G",
+        "writer": "Ugz_H325fE0TogEbCMF4AaABAg.8ptbp2MbSoK8zuV21XS1OC",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜버들에게 더 도움되는 강좌를 많이 만들어야 겠네요 앞으로도 좋은 강의들 많이 업로드 할게요.",
+        "writer": "UgyR0IX1FZOq3HTWukN4AaABAg.8oHYibTHpsX8oIzY52RBRb",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워용 고마워용",
+        "writer": "UgwMXg_deWH1XXlfYfl4AaABAg.8o-OB0TwzlB8o-bdh3YGNd",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음에 꼭 활용해봐야겠네요, 감사합니다.",
+        "writer": "Ugw6k97sxwI0TNAiKlJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부럽습니다 기술이",
+        "writer": "UgymrSBxc4phTy32iy94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강의 감사합니다 cs6버전에는 없는 기능인거죠",
+        "writer": "UgwICo4qoTURedC_rlJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그동안 잘 활용하지못한 기능인데 영상보고 배워갑니다(이름) 감사해요",
+        "writer": "UgyJUhzrXP1H7-UzvPp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 갑니다..",
+        "writer": "UgwyuH2LcfxYS0v1kp54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하나씩 하나씩 배우다보면 누구나 다 따라할 수 있답니다 )",
+        "writer": "UgymrSBxc4phTy32iy94AaABAg.8nxfKNh49xd8o0szu9W0mP",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 제가 알기론 CC버전부터 나온걸로 알고 있어요",
+        "writer": "UgwICo4qoTURedC_rlJ4AaABAg.8nxQkq8TYCG8nxYtcgXOyo",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "CC20(비속어)버전부터 나온 기능입니다.",
+        "writer": "UgwICo4qoTURedC_rlJ4AaABAg.8nxQkq8TYCG8nxndSG9mtG",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명쾌한 답변 굿..",
+        "writer": "UgwICo4qoTURedC_rlJ4AaABAg.8nxQkq8TYCG8nys5t3TGtH",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 많이 쓰진 않지만 간혹 비대칭적인 (비속어)이프 만들 때 사용하곤 한답니다 )",
+        "writer": "UgyJUhzrXP1H7-UzvPp4AaABAg.8nxPB33wtQv8nxYj44E6Wb",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=rfKEl1oYXaY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

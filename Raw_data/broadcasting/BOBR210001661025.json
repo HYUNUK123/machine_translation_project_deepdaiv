@@ -1,0 +1,604 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661025",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661025"
+    },
+    "text": [
+      {
+        "content": "마파가지라는데 왜 자막도 MC들도 마라가지 마라가지 타령이지",
+        "writer": "Ugy4g8GloWA49wIagN14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마파가지라고 했는데 무슨 마라가지냐 마라소스도 안 들어가는데",
+        "writer": "UgyslYleSqa0G1vC8XB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 팀장이 직접 마라가지가 아니라 마파가지라고 했고 저렇게 간 고기랑 같이 매콤하게 볶아내는 건 마파가지지 자막 잘합시다",
+        "writer": "UgxY3qX3ymAXLdKscm94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마라가지 맛있겠다",
+        "writer": "UgxDBByrLYttAWHH-SB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마라랑 마파를 같은 선상에 놓고 보네 제작진이나 (이름)나 요알못,",
+        "writer": "UgyDZ1STRzPVj85YVsF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스승을 암살허려는 계략이군,",
+        "writer": "UgxPNvr1O6Zbsw69DTp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만든사람은 마파가지라하는데 (이름)가 마라가지 한마디 하니까 전부다 마라가지마라가지 자막도 마라가지 만든사람이 잘못됬을리는없고",
+        "writer": "UgwUze_7wfUcvT0ibNF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제발요, 제발,",
+        "writer": "Ugy9CsyT3n7IGVDLjAh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤에서 돈까스 줍줍하니는 분 부럽",
+        "writer": "UgyccQqJmx9r0jPiH5h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 모자벗으니까 그냥 판박이신데요",
+        "writer": "Ugzjn4w2NRMfxLtABiR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아들인데 (이름)이라그러는구나",
+        "writer": "UgxglWOfPJi6HgtSfNh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 마파라고 했는데 마라라고 적었을까",
+        "writer": "UgwdiLYuehmuVrH-KeV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 진짜 한번씩 말을 너무 툭 뱉으시는 것만 고치시면 정말 좋을 것 같은데,",
+        "writer": "UgxcT-z4jkJie_CLgYR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마파가지 우리학교에 나오는건데",
+        "writer": "UgwAC5YjcOe5OIeGHgR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각보다 별거 없네, 내가 하는 레시피랑 똑같, 대신 나는 저기다 식초좀 추가해서 어향가지로 만듬",
+        "writer": "UgxjgHCICR7JXt-8FtR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가지아니였으면 보벼볼만은 했을꺼같은데. 역시 야채보다는 고기지",
+        "writer": "UgzOZkOWuyxmDJsgiOh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈까스랑 밸런스 맞추려고 하신듯 튀긴가지 뒤지게맛잇죠, 햐 살짝 느끼할걸 마라로 잡으면 너무맛잇을듯 오늘 해먹어야겟당",
+        "writer": "UgxzR1Ohcf_HHYpxKaF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거다음은 안나오나요",
+        "writer": "UgwJyG8B288tUUZjkKJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가승이아니라 입맞도 다다르고 난이연복(이름)인디",
+        "writer": "UgwQQHWNnxngAdqGjG14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화조유면 조미료 맞긴하지",
+        "writer": "Ugy9CsyT3n7IGVDLjAh4AaABAg.9Bz806MvfoJ9MW91NBp3VH",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대기업에서 회장님이라고 부르는거랑 똑같은듯",
+        "writer": "UgxglWOfPJi6HgtSfNh4AaABAg.97Q9uooEY6q9FgGk5IRwyE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛이 다르자너 나도 메시처럼 축구좋아하지만 메시가 못되는거처럼",
+        "writer": "UgxjgHCICR7JXt-8FtR4AaABAg.96cmEyfwxjl96jcy-NG8pH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중식은 정말 단순 거기서 거기, 웍에 넣고 볶아",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가지만 빼면 완벽하네",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 맛은",
+        "writer": "UgwEHXNLtHjLnBaR6lB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이연복(이름)이랑 완전 똑 닮으셨네",
+        "writer": "UgzzYgJIK__uBY8SFCJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마파두부에 가지 넣은거아님 이게 신메뉴구나",
+        "writer": "UgwXEldDTMETbTMIDPV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마라가지가 아니라 마파가지라고 하지않음",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 아부지 아님 왜 (이름)이라함",
+        "writer": "UgwPQoUhpOWczAG7Zqh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 근데 영어댓글이 왜 위로 올라오지, 좋아요도 적은데 국적차별아닌가",
+        "writer": "Ugy81UKhGYElSR7WRBh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 있는요린데",
+        "writer": "UgxMPNyh300HEORfNTJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 먹은 후기도 좀,",
+        "writer": "Ugy573zhiqi_BNjyVUF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 맛잇겠느뉘",
+        "writer": "UgxixnDBGjn10_8JowV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글이 없네",
+        "writer": "UgyyZijjnTtBwq6VzNd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아시는건 (반사회적용어) 짬뽕 뿐이라 거기서 거기라고 생각할수도 있지만 세계3대 음식의 나라로 다양한 음식들이 있답니다",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS95YHiivtVc5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무식하노 중식이 단순하면 한식은 한가지 조리법만 있다고 할 사람이네 맨날 (비속어)에서 (반사회적용어)짬뽕 탕수육만 드시니깐 하는 소리죠 (반사회적용어)가서 드셔보시면 이런말 안나올텐데 아쉽네요",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS95avhynC3Fw",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "염슈기 네다음 (비속어)",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS95bnZd6dE-H",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Tony Kim (반사회적용어)음식 좋아하면 다 (비속어)이에요,",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS95bntJQZJqN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "염슈기 중식 단순하다니까 반박이랍시고 한식은 한가지조리법 이라는게 딱 (비속어) 마인드인데",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS95btVsXFQuT",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스티샷추가 뜬금없이 (반사회적용어)치는거보니 얜 (비속어)족이네",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS95rR-ZoRPo7",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "poddie 그래서 중식이 단순함",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS98IX2KWc4JS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런식이면 이탈리아는 다 파스타 기본인데 지겹네",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS99kVirJJLjl",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런거 댓글달면 무식한거 티나서 창피하지않음",
+        "writer": "Ugw3DlNcAuzovtYFGA54AaABAg.95WrspjTMRS9F2--WQUOGv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가지가 무침안하고 기름에 (비속어)면 (비속어)탱임 저도 어릴땐 싫어했는데 (반사회적용어)식 가지튀김 먹고 그건 맛있게먹어요",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a95bnIwWNYa-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)은 가(반사회적용어) 진짜많이먹음",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a95h7F4t6sO6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)면 신발도 맛있다는데 가지가 신발보단 맛있지않어 아닌가",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a95tZVtc-t2w",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국이 가지요리를 더럽게 못하는거임 (혐오표현)같은 가지무침,",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a96ATzTDYlsK",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중식 가지요리는 진짜 맛있음",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a96HaPdU680_",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가지 튀김은 별로고 무침이 진짜 환상적인 밥도둑인데,",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a96VPaegg2_v",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 지 입맛에 안 맞다고 무려 한 국가의 요리 수준을 격하시켜 버리네 대단하다.",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a96iHeDL8TvG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가지 튀김도 맛있고 그 마늘이랑 구운 것도 대박이죠",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a96m0BdnVk1M",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜그래 가지 맛있어",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a96nDkLabxgs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 가지 요리 제대로 된거 먹어보시면 생각바뀔걸요 진짜 맛있음 한국 가지 요리랑 차원이 달라요 진짜",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a99vLuv-GsU-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라가 가지요리를 독보적으로 못하는(혐오표현) 외국 가지요리는 다맛있습니다.",
+        "writer": "Ugy_M5v74NnQM4omwzJ4AaABAg.95U7zxKkU-a9C74h2xlx5S",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생긴건 마파두부 어향가지 쓰깐거같은데 신메뉴아님",
+        "writer": "UgwXEldDTMETbTMIDPV4AaABAg.95QWJzPQxem96PMBdy321F",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마파소스에, 마라향을 너엏으니,뭐,말실수(이름)니고 둘다쓸수있는말일듯마파가지.마라가지,",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-95SZYVvG-dC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마라가 따로 (이름)게 아니라 그냥 맵고 얼얼하다 라서 마파도 마라의 일종이라 보면 됨",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-95UaWUQ2Qud",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마파두부도 기본 베이스가 마라향임 문제 없음",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-95UhQHMyjZb",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑같음 마라 마파 똑같이쓰임",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-95eouwitRBV",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마파랑 마라는 달라요 엄연히 다른데 왜 다들 비슷하다고 혼동 줌 마파라는 (이름) 소스가 있는건데 마라향을 추가했으면 마라마파가 되는(혐오표현) 마파가 생략될 수는 없는데",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-96_9Kgy6ePZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마라는 맵고 얼얼하다란 의미가 있지만 향신료로 맛을 내는것이며 화조마조정향팔각등 많은 향신료가 들어가서 내는 향과 맛이고 마파는 라유에 두반장으로 만든 소스임 전혀 다른거임",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-96_9f6M8eVU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탕수 유린 깐풍 라조 마파 마라 어향 다 재각기 다른 소스니 혼란 없으셨으면 하네요",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-96_9xThmhER",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본(반사회적용어) 마파라하고 소스도 마파인데 자꾸 마라 마라 거림",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-9CZFLA7zJ6Z",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장미 이게 맞지 마파라고 떡 하니 얘기 했는데 자막은 딴소리 하고있어,",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-9F09WDMAtx9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장미 중식10년차 현직요리사입니다 (이름)이 정확히 짚으셨어요 굳",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-9FOW4JsEpLp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "창오 그냥 봐요가 아니라 딴 사람들이 그냥 안보잖아 저 사람이 그걸 시정 해준거고",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-9HXIoOdJb7z",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금융치료사 무식하다 비빔밥 볶음밥 같은거라고 하겠네",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-9KAWE0vLpNH",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "창오 무식(비속어)이",
+        "writer": "Ugw0QGyqDB7VMhJySid4AaABAg.95QN6u45jD-9KAWGKx4ug-",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일할땐 (이름)이라고 한다고 들음",
+        "writer": "UgwPQoUhpOWczAG7Zqh4AaABAg.95Pk0EtxZc795QHpxuqNmL",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공과사 구분한다고 생각하심 됩니다",
+        "writer": "UgwPQoUhpOWczAG7Zqh4AaABAg.95Pk0EtxZc796AsJvQ1aNU",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유트브에서 외국인들이 더욱 찾아볼수 있게 한다고 말하던데 영국남자 채널 들어가면 설명해줘요",
+        "writer": "Ugy81UKhGYElSR7WRBh4AaABAg.95PhA2xHeZ895QETmfg7vr",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편의점식 요리작명",
+        "writer": "UgyE8TG2as4QbMrDZFN4AaABAg.95PHRKdXQUK95VjYbJA0g5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어향가지에서 소스만바꾼느낌",
+        "writer": "UgxMPNyh300HEORfNTJ4AaABAg.95O7W4tUHkO95QIAK6wPmS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나중에 한꺼번에 칭찬해주시는데 그런거 별로안좋은거같긴해요, .",
+        "writer": "Ugy573zhiqi_BNjyVUF4AaABAg.95NfGmpX6Zo95zPBZVsphJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5oX4pXSkLw4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

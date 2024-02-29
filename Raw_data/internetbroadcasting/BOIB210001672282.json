@@ -1,0 +1,556 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672282",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001672282"
+    },
+    "text": [
+      {
+        "content": "음 근데 코로나",
+        "writer": "UgzwkRXChJu1ZheeSEh4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 스트리머만 할 수 있는거 아닌가",
+        "writer": "Ugz7beaEZBe9UkuncIx4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 호상 같은건가",
+        "writer": "Ugxj1O8ardaJTVh8yRZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제 주인공 없는 파티 왤케 웃기냐",
+        "writer": "UgxWbUUrqazM0FwEYSd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반응 진짜 (비속어)",
+        "writer": "UgwBLawKPw9asejy1tF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처 울지마라",
+        "writer": "UgxwNQ-bINyySYkzX-l4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 왁두 사진이었어 ,",
+        "writer": "Ugxgyt3OL4rnD1tlnd94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영정사진 포지션,",
+        "writer": "UgzPx-uG8566McdW__54AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 그거네 완전 이곳은 어떤축제입니까 그거",
+        "writer": "UgxV0v4_cKmj6juBNX14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 재밌겠다 (이름)지.",
+        "writer": "Ugz2DBto6_YglkhG5Ed4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽의 외로운 파팈 왁빠",
+        "writer": "Ugwi92LXafgf2wdrUKh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 뭐야 얘 말탄애 앞에 삥 둘러싸 다같이 22222222쳐 뭔가 의식하는거처럼",
+        "writer": "UgxCBibHdZ2RH0ecOgp4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁굳 어, 내 생일인데, 내가 끼어도 되는건가,",
+        "writer": "UgxOGAV46WjZm0IW5Eh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁형, 그곳은 편안하지",
+        "writer": "UgwwY4aVnz1GkrO-9pN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓰읍, 쩝 친목 밴이야 얘들아 어",
+        "writer": "UgzrWiur6IFos_3ZdSR4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생일축하합니다 와 짝짝짝짝짝",
+        "writer": "UgxOGAV46WjZm0IW5Eh4AaABAg.9CGIb2cKW3o9CGJ3xzpjG6",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클립라이트 왁굳형한테 빙의해서 한말이였는뎈 생일 축하 감사드려요",
+        "writer": "UgxOGAV46WjZm0IW5Eh4AaABAg.9CGIb2cKW3o9CGdrzRR9rC",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장례식인가요, 아뇨 축제입니다",
+        "writer": "Ugz6GLm1s8TYg3olLqp4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형이 클립은 직접 자기 유툽에 올렸으면 좋겠다",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 성장빠르네",
+        "writer": "UgxaQBYSl0fQwgf0Ikx4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁따 zzzzz",
+        "writer": "UgzcSrqhBIRdjzXfVWN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽 사진 옆에 찌끄려뜨려놓고 지네끼리 노는 영상",
+        "writer": "Ugwu0eiFCUVTD4aFWpp4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 찌그러져있는 것 같아 랜선 외로움",
+        "writer": "UgyHoYpGox0Dfiy8WQN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 썸네일 왁두 눈이 짝짝이가 됬냐",
+        "writer": "Ugy28Xv5scvIfCpXCwd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외롭고 서러웠구나 우리형,",
+        "writer": "Ugz9PctoAgz(반사회적용어)hdh1eB4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하 아버지 칠순잔치때 이런 분위기였겠구나,",
+        "writer": "UgxeUTrSWWk-QV8C7U14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리워 하기위해 스트리머를 죽이는 시청자가 있다",
+        "writer": "Ugymx5U908Xdk_lYnh94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 채팅창 물음표로 도배되는거 개웃겼는데",
+        "writer": "UgxYM8hxoIApC0I_ngF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 갱년기가 벌써 오면 어떡해",
+        "writer": "UgzAmLI6mRQCVogtFVJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭 코로나로 난리인 이때에,",
+        "writer": "UgxOM9GgYxeMfpD_1ih4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 생일파티 못가서 서러웠어 방송끝나고 운 거 아니지",
+        "writer": "UgxPrPaZUFE8piANhqN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 형이 여기 없어도 우린 형을 축하하고 있어, 거기서도 잘 보고 있지,",
+        "writer": "UgzDxIC(반사회적용어)KYNnjICrYZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 뭐 먹고 살라고요",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg.9CG7-MBVBuu9CG9pw7hbWl",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 오히려 왁굳형 모르는 사람한테 왁굳형 홍보도 될수있고 좋은 것 같은데",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg.9CG7-MBVBuu9CGCdfXGA2k",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클립라이트 지겨워 왁굳이랑 케인에 의존하는거. 예전에 게임 클립 웃긴 스트리머 따오는 재미에 구독했는데 모기 하는거같아서 별룽",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg.9CG7-MBVBuu9CGR0CCrY4-",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의존하는게 아니라 (이름)은 패러블 소속이셔서 클립라이트에서 영상 올리는거란다 아가야",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg.9CG7-MBVBuu9CGRh1K5uvS",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음 허락맡은 스트리머가 우왁굳이랑 몇몇밖에 없어서 그런건 아닐까 이 채널이 유명해지면 더 많은 스트리머 클립이 나올수도",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg.9CG7-MBVBuu9CGRlMy8BIM",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 허락맡고 올리는 영상인데 머시 문제여용. 이것도 보고 형것도 보고 하믄 되쥬",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg.9CG7-MBVBuu9CHDuLYFtW4",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김팔도 모기 이(비속어)하넼그럼 지가 쳐올리던가",
+        "writer": "UgyvOpl1nGpglGk_6EB4AaABAg.9CG7-MBVBuu9CK54mZzOcG",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뱅송인이라 바빠서 친목질을 자주못하는 왁두의 설움",
+        "writer": "UgwBRmKHwBD33wYW13B4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시봐도 손발이 없어질 것 같닼",
+        "writer": "UgxBlFraXTcQo1qtq_F4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생일 은 명분이고 파티 를 즐길뿐",
+        "writer": "UgxTE1GUpKfqm5BxxAt4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이상타 이상해 스읍.",
+        "writer": "Ugyp4157pssjQiKuXEF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마을에 장례식이 있습니까 슬퍼 보이는군요 아니요.",
+        "writer": "Ugz_yDy3ZEd9Z-tdoq94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기들 모여서 노는거 자랑하는 영상인가",
+        "writer": "UgyI2HM5-agaalwmziJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어)슬프면 웃어",
+        "writer": "Ugyx9_VXihQdRYM9qHZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친목 밴",
+        "writer": "UgyGM28Fi8yY1J2A5GV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 좋은건 알겠는데 왁굳형이랑 무슨상관이야",
+        "writer": "UgzauGU41EiMHDbMDbN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 무서운데,",
+        "writer": "UgzOZtbv49V2QspZAi54AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각해보니 형은 (이름)하고 메시 있잖아 그러면 된거 아냐",
+        "writer": "Ugzz672VRwer3ajr_bx4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 죄다 친목밴이래",
+        "writer": "UgyWbNM5OYnnoi7WwfV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친목으로 밴 당하기전 장례식에서 슬픔을 춤으로 표현하고 있는 모습이다.",
+        "writer": "UgyM_Tf-TC1_aT738YR4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어, 예 (쩝쩝) 잘봤구요 친목 밴입니다.",
+        "writer": "UgzNsd100n8AOfBJ40x4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 쓸쓸해",
+        "writer": "Ugy65EWYCCNW_zwqr_F4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가진 사람이 욕심이 더 많은법",
+        "writer": "Ugzz672VRwer3ajr_bx4AaABAg.9CFaCpwof229CFjKjXJA_N",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구의 생일파티 인가요 생일파티가 아니라 장례식 입니다.",
+        "writer": "UgyM_Tf-TC1_aT738YR4AaABAg.9CF_q1RqE6y9CFpm6JuSi7",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슬픔을 춤으로 승화",
+        "writer": "UgyM_Tf-TC1_aT738YR4AaABAg.9CF_q1RqE6y9CFxi_b6HEl",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)춤 파티버뎐인가",
+        "writer": "UgyM_Tf-TC1_aT738YR4AaABAg.9CF_q1RqE6y9CN0gTRe0cj",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 끄고 보면 너무 무서웤",
+        "writer": "Ugyx4PYzO_POXWaqhRl4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남들 다 파티 즐기는데 구석에서 혼자 찌그러진거같잖어",
+        "writer": "UgzRMAfksZm2v3tibI14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 장례식같았을듯",
+        "writer": "Ugwev9mP6fmjB487VvF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁형을 위한 파티지만 정작 본인은 슬픈,",
+        "writer": "UgwqWdKzjstWB8C-75x4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 반응 개웃겼었는뎈 이걸올려주시네 감사함다",
+        "writer": "UgyV19jbOWhskyRDYG54AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예, 어 그 (비속어) 친목 밴입니다.",
+        "writer": "UgzAPpxUiPgZe6q8PnJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그것도 자기 생일",
+        "writer": "UgzRMAfksZm2v3tibI14AaABAg.9CFYvGtXd9o9CGIY4FncQD",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기는 무슨 축제인가요 축제가 아니라 장례식입니다",
+        "writer": "Ugwev9mP6fmjB487VvF4AaABAg.9CFYsBdfZKJ9CFa01YP9Mc",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아잉 .",
+        "writer": "Ugwev9mP6fmjB487VvF4AaABAg.9CFYsBdfZKJ9CFhZzifSmP",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아잉 (비속어)이 되지도않는(혐오표현)드립 싸지르면서 재밌어하네 뒤질라구",
+        "writer": "Ugwev9mP6fmjB487VvF4AaABAg.9CFYsBdfZKJ9CHJ59w7ZA7",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=4mKCo4PIz5w",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

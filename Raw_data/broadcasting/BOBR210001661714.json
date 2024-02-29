@@ -1,0 +1,564 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001661714",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001661714"
+    },
+    "text": [
+      {
+        "content": "(이름) 가수 항상 보고싶어요",
+        "writer": "UgwHPVqN0KlPOzQBmQZ4AaABAg",
+        "write_date": "2021-11-10",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙행씨도 은근이 웃기 시네요(이름)하고 비슷한 분위기가 서로 잘어울리는거 같네요",
+        "writer": "Ugw5RHDTDIOJjzDuC714AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이를 다시 보게한 방송. 멋지고 예쁘다.",
+        "writer": "Ugzc_LbJ32oY3WSoUh14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크어 끝네주네.",
+        "writer": "UgwzufGWbdvywhxi-q14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수캥 내스타일",
+        "writer": "UgwNRBMfn60ppVaNanR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 열심히 잘하신다 노래 예능 미모 뛰어나서 크게 성공했음 좋겠어요 화이팅.",
+        "writer": "Ugx6yjG1H42bZOBpngR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌀랑해요 다경이",
+        "writer": "UgzGJ134I79ECPVEAGZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 예쁘내 승승장구 하기를",
+        "writer": "UgwKp5P1TqljrdH3iOF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 이쁘다,",
+        "writer": "UgxTyyMUpj3wZbR0iuh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이쁘다란 말이 저절로 나오네",
+        "writer": "UgwOHfkT4XWMKNjCcMh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙행 매력쩌네요",
+        "writer": "UgzZjxoGfbisaw0wbqd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 권있게 할리우두 가인덜이더어 장악하여라",
+        "writer": "Ugw9Uft6cX_lMsx6NOV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼륨 돋보인다",
+        "writer": "Ugz6kSkIg1-rJ1-5mxt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘고 귀염 다경 ,",
+        "writer": "UgwGWrYERBsMY83oIsx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 여기 머리어깨무릎에서 지렸다",
+        "writer": "UgyOoGDbJ_BpdpaBw9J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 미스트롯때 별로라 생각했는데 볼수록 귀엽네",
+        "writer": "Ugxfq-5cRyoBg-A93JJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들저렇게끼가넘치는데 이제(반사회적용어)빛을봐서 다행이당 맘껏보여주시고 행쇼",
+        "writer": "UgzrxaLk-y7X-_clwL94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경 매력있다",
+        "writer": "Ugztgsua-r1V3GPTaNh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 가즈아",
+        "writer": "UgwPf6ZuPYAoGAu4i1N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙행 뭐내거 웃겨",
+        "writer": "UgyVUHL5uTXPymBP9Xp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분들 인물도 좋아 노래잘해 예능도잘해,",
+        "writer": "UgwZZtQdvJ1yk8XJYVB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 예쁜 것으로 모든 것이 용서된다.",
+        "writer": "Ugz8Je6G6Tivc5tTDWd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끼가 이렇게 넘치니 연예인 되길 목이 빠져라 바랄텐데, 그렇게 안되면 참 살아도 산 게 아니겄다,",
+        "writer": "UgzYCaCf4ecDOoVnK-F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 춤선이 놀랍구먼요. 정말 다재다경이네요.",
+        "writer": "UgxQhkhlua-nEsMe1kx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙행 잘한다",
+        "writer": "UgxCbPIR1gfjwCB-bCR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이도 귀엽다 진짜",
+        "writer": "UgxCyC40kRnXu0iKEXR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 다들 매력들이 많고 멋집니다",
+        "writer": "UgwBrPXoAM6bEBohISJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 멋지고 예쁘시다.",
+        "writer": "UgyAapfynB-Yu-bxped4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그려 요즘 개인기 없어면 안됨 다경 재발견 젊으미 풀풀 성숙해지는구나 숙행 5 년만젊었어도",
+        "writer": "Ugx43Zc35fM-5EbF8Y14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경 숙행 두명이 예능캐네 잼나네",
+        "writer": "UgzcadTw7i4YoYWQwKp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 짜란다 짜란다 이쁘고",
+        "writer": "UgyaqXS2rPILtoMH00t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바람난 할매춤 같다",
+        "writer": "UgwZjb37GtL2Sq1pY854AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백(반사회적용어) 짓거리 하지마 너",
+        "writer": "UgwfX8tjWIGQ6tFWwIJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가인 숙행 미애 다경 모두 이뿌다 가인 이어라 귀인 이어라",
+        "writer": "UgzhHV6ldJnh6g9XMLV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙행 잘 한다",
+        "writer": "UgxhUSFzgX3s7w2h6pB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 잘 한다.",
+        "writer": "UgzssO7TltbQywNWOV94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 얼굴 몸매 끼 지리네 와",
+        "writer": "Ugydj43eDmtJtX9YXjF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 이쁘심",
+        "writer": "UgyCn4WhuL_H7j85iNh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘한다 잘해",
+        "writer": "UgyDKg5AnGTvL7U2toJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐미 잘하는거,",
+        "writer": "UgwGIJ3Xfna5dgAibah4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈웃음, 저거 같이 있으면 여럿 울리것네용.",
+        "writer": "UgzFJKNHEkgpkkAEkYF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴 몸매 춤 맘씨 다 이쁜듯",
+        "writer": "Ugzbiub77etJSV580N14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애교쟁이 다경이",
+        "writer": "UgxWNdmcyqTA5VvcCLx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼매네 귄잇어",
+        "writer": "Ugzge-aomaz70XkDXNp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 재능이 많구나 보기좋아요",
+        "writer": "UgzXKRVztCmEIjnpnNV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말 예쁘다",
+        "writer": "UgwyPk4qs8SYxahjBAB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 잘한다",
+        "writer": "UgxMINrIzGFLgwBRjyx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 너무 좋다.",
+        "writer": "UgyBh7gMdXB0PhwK97Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 다경이 내꺼",
+        "writer": "UgzH0m8sAThOo-choJV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)밖에 소화시킬수 없는 춤이다. 정말 (이름)은 만능재간둥이다 방송에서 자주 보여주세요 너무 멋지다.",
+        "writer": "UgzjHCdMOaPIxppY1P14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙행은 (이름) 대신인가원래는저자리(이름)가나와야되는거아님",
+        "writer": "Ugz30zFznlbtSEPudF94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 재능 많은데 이쁘다",
+        "writer": "UgzRdWjFxhYTUXHqeEl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음보는데 귀여우시네요",
+        "writer": "UgyPimeSWpLUCeohgtZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경 다좋은데 풍선색깔은 바까야것다 핑크 뻔히 알면서",
+        "writer": "UgzPt0UW7ZiudL-qfyx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미스트롯에 빠지면 안되는 (이름),",
+        "writer": "UgxUAgQAIKd07kRJgEB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다경이 잘하고 이쁘구만",
+        "writer": "Ugz_8uAWAbilnfnpbZt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5 인에 모습 너무행복해보이네요 오래토록 변함없는 미스트롯 승승장구하시길바랍나다",
+        "writer": "Ugx_Lq-w3qLCjDWDtbt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀엽다 역시 홍자 다경 미애 숙행 4인방은 날씬하고 (비속어)쉬하당 2020년도 4인의 여신들이여 흥해라",
+        "writer": "UgwKvAUqaI7F10_vWU94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴로는 첫째 (이름) 둘째 (이름) 셋째 숙행",
+        "writer": "Ugw33Vlc6tvOoc9-Ip94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팔방미인 다재다능한 (이름) 최고최고",
+        "writer": "Ugz7SrrcUfybcf6m1tt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국적없는 아이돌 춤을 민족의 흥 한국무용으로 발전(반사회적용어)면 아주좋을듯 (이름) 역할 큰기대",
+        "writer": "UgwxefN9s90JWrUb07J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙행 재미지게 잘한다",
+        "writer": "Ugw4W2W0Ml3NJqizjz94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버님 여기서 이러시면 안됩니다",
+        "writer": "UgzRdWjFxhYTUXHqeEl4AaABAg.93Mbv6_45ow94oTJA9m690",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다겅이 넘 예뻐요 넘귀여위요. 2020경자년 하늘로 쭉 날라요.",
+        "writer": "UgyPimeSWpLUCeohgtZ4AaABAg.93MSJwM_fLf93PGh92iJq9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블리 블리 송블리 입담도 좋다 최고이여라 4분다 꽃길만 걸어 가세요 (이름) 항상 응 원 할게요 사랑합니다",
+        "writer": "UgyPimeSWpLUCeohgtZ4AaABAg.93MSJwM_fLf97ItzdGPDIp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 가인공주 볼매. 복덩어리 최고",
+        "writer": "UgwKvAUqaI7F10_vWU94AaABAg.93EhsaAO5q293I9up414fH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들꽃사랑 가인이 밖에 안보이는 건 아니지만 옥에 티가 하나 있지라",
+        "writer": "UgwKvAUqaI7F10_vWU94AaABAg.93EhsaAO5q293ZabtRIcLE",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 뭔소린지 옥의티라뇨",
+        "writer": "UgwKvAUqaI7F10_vWU94AaABAg.93EhsaAO5q293ZjuLJrdae",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울(이름)이 최고지라 숙행언니 미애언니 도 짱 짱 다경이도 흥해라",
+        "writer": "UgwKvAUqaI7F10_vWU94AaABAg.93EhsaAO5q293ZuUtKF7B1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=OBnVdYdbl6w",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

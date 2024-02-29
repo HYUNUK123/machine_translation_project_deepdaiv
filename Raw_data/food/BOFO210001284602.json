@@ -1,0 +1,580 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001284602",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOFO210001284602"
+    },
+    "text": [
+      {
+        "content": "민경언니 이 머리 최고 존엄, 넘 잘어율려",
+        "writer": "Ugxxn5CHVrhGYEzTkc54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 와 진짜 미치겟다버즈 포인트",
+        "writer": "UgwVbNNhkct37ER597J4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤도 1일1깡이네",
+        "writer": "Ugzo27Aag640YLvBqcR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤 재밌는걸 넘어서 진짜 사람이 멋있다",
+        "writer": "UgyfgqHPt6upF9BKSed4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상횽이 의외로 노래를 잘하네",
+        "writer": "UgwI9xNuxNez0xbh7y94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸바디를 성광잌이야 역시 개그맨들, 대단해",
+        "writer": "UgzurL8dfiifyRug_VJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 맛집 추천 (반사회적용어) 전대 대왕 김밥 가주세요 그쪽 정말 맛있어요 제발 가주세요 그쪽 너무 맛있어용",
+        "writer": "UgxH5X38iqWZnmft0kp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 생각하는 멤버들 mbti 이십끼형 INTJ 김프로 ESTP 민경(반사회적용어) ISFJ 막뚱 ENFP",
+        "writer": "Ugy5vQvIiav9vdHz8zh4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸하하핳두성멀미 민상이형 참 잼나효",
+        "writer": "UgwKwNAJbP0l8beb1PB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이효옹 귀요옹",
+        "writer": "UgybbNm-_l30BPpfY054AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛녀석 이맛에 애청합니다 맛녀들 사랑해",
+        "writer": "Ugy92rRa5Xr7CpxcIvx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌈자가 듣고 기절하겠네",
+        "writer": "UgwQFdN_QJL6jOBx_tx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 먹는거 좋아하고 성격좋고 서로 잘챙겨주고 너무 보기좋아",
+        "writer": "UgyOVDYQf9NQYQz34tV4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 내로남불 대단하던데요",
+        "writer": "Ugzg8UwCBpefNAxWb_l4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 와서 샹이형 까는 애들 특징 왜까는줄은 모르고 기의 기사가 그게 진실인지 거짓인지 구분 못한다. 샹이형은 (혐오표현)에서 불매운동가지고 찬성 반대를 해당코너에서 말한적이 없다. 단지 (혐오표현) MC였다. 뭘 알고 까라",
+        "writer": "UgwpQKq7kF0XW8wbIbF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 짱 다들 다 재미있네요",
+        "writer": "UgzLvjGiGaGXZPBeuVp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (혐오표현)에서 반일불매 애국코스프레하고 닌텐도 동숲으로 오지게 컨텐찍어서 돈벌려고햇쥬 해명글이(반사회적용어) 올려 인스타 유툽 다비공때려놓고 잠수",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우울할때마다 이거 봐야지",
+        "writer": "Ugxaj-AUqE2vg7peQEZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 어디로 도망갓냐 채널 인스타 다 닫고 밥먹으러 갔냐 결국 지는 잘못없다고 하는 가짜 사과문 올렸다가 욕 튀었네",
+        "writer": "Ugx6dRGbAY4BiUc3R3h4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상아 넌 말 반일 하냐",
+        "writer": "UgwU-tL30Um38f3gXSV4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팩트는 불매운동 조장한적 없다",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg.97ApqDoEwsO97B1frBobCT",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타우린젤리 (혐오표현)에서 정치성향나타내고 빨고 불매하자고 하는게 드러낸적없다고 도람프 최근꺼영상이나보고와라",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg.97ApqDoEwsO97B3iHooJu1",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Joker .P 프가아니고 뿌",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg.97ApqDoEwsO97B57KV1Tob",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Joker .P 그 사람 영상 봤죠. 매우 웃긴 영상이던데 그럼 당신은 그 불매운동 발언했다는 (혐오표현) 원본 영상은 보고 이야기하신건가요 원본 영상에서 (이름)가 나는 불매운동을 지지한다 라는 발언을 본인 입으로 하셨나요 그럼 당신은 동숲하는 다른 스트리머나 유명인들에게 가서 불매운동 이야기 하신적이(반사회적용어) 있나",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg.97ApqDoEwsO97B9giLPF8w",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타우린젤리 굳이 지지한다라는말을 해야만 성향을 알수잇나요 반일 불매 (반사회적용어)으로 프로그램짜서 감정팔이해놓고 닌텐도등등 일본게임으로 개인유튭에서 구독팔이하니까 그 이중성에 대해 는겁니다 다른 유튜버들이 닌텐도 동숲하는건 관심도없고 그사람들은 반일 불매운동한적도없고요.",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg.97ApqDoEwsO97BBmngAMoq",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이리 예민하게 구는지, 그냥 넘어갑시다 참나",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg.97ApqDoEwsO97Db-Qb2R7n",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오Hj86628662 너 유민상이지",
+        "writer": "UgwvTI9aMEtZeir9JFR4AaABAg.97ApqDoEwsO97DdJ7P0Bye",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치승 동은 주엽 먹방대결 보고 싶습니다.",
+        "writer": "UgyuckJmx2nkLTDQKw14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관찰카메라 다시해줘요",
+        "writer": "Ugwbbd2awfOunlzWLGd4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이와중에 왜이리 잘해여",
+        "writer": "UgzFevY4M0ZunvTl6a94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이십끼형 춤 왤케 잘추는뎈",
+        "writer": "UgyWfpiJUzF5XH5VK314AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 모자 진진자라때 (이름) 같은 모자가 아니라 사우나 바가지였구나 그냥 모자인줄 알았네",
+        "writer": "UgzM4LTmhkwEI0p1kzt4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심으로 4명이 부른 음원을 바이브에서 듣고 싶다. 역대급 반전.",
+        "writer": "Ugx4Dif0sOplWed3muZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 표정에서 뿜었네요",
+        "writer": "UgwAFdNM8vbHyohiQzx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 들의 왕입니다요",
+        "writer": "Ugy4xPqs-yD7cfzBYKp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그맨들이 보면 참 재주많아.",
+        "writer": "Ugyj5HNfYvNkxWbEccd4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 진자 미쳤나 어케 알코올 한방울도 안마시고 저렇게 놀짘 나도 끼워줘요,",
+        "writer": "Ugz98YJoG-buIgbt_pd4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모야 주년이형 찜질방때 홀쭉 했자나",
+        "writer": "UgwnAcyCHC8YmESwxbd4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평소에 티비 안보는 제가 맛녀석에 빠질줄 꿈에도 몰랐어요, 본방사수에 재방에 넷플릭스보다가 이젠 유튜브보는 재미로 사네여 이제 가족들은 제가 리모컨 들면 당연히 맛녀석보려고 켜는줄 알아요 맛녀석 아니면 절대 티비 안보거든요. 재밌게 해주셔서 감사해요. 그리고 켤때마다 무조건 재방하고 있어서 나무 행복해요.. 안하면 티비 끔",
+        "writer": "UgzovyoITEq6irFffGx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 정도면 진짜 레알 가족아닌가요",
+        "writer": "Ugx7zs8TzPXtr9oiQBB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알이..알이... 아리아리쓰리쓰리 역시 이십끼횽",
+        "writer": "Ugy1u5wPtWrCE2mgnMx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소갈비 때가 대박이였지",
+        "writer": "UgyMN_1ExL-ZpfLMmRd4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박스기차 뭐얔",
+        "writer": "Ugx15etAFPFUl-1kfdZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇화인지 알려주실분",
+        "writer": "UgySHr1t_YsQoBchUQF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찜질방특집 또 했으면 좋겠어요 레전듴",
+        "writer": "UgyrTAyeOD_WdmyqlAR4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "츰출때마다 바지벗겨지는 것도 퍼포먼스로봐야하는거 아님까",
+        "writer": "Ugws708CLiWGw32iBTd4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막뚱이 너무 잘놀아 귀여워",
+        "writer": "UgwVKirmvj1s_qGlgMl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당많은여자 아니에요 가 빠졌네",
+        "writer": "UgwQ6YuHD0NXn-1afMh4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러면 씨름선수랑 방송인은 인이냐",
+        "writer": "Ugy4-kX7kDgjL42c-Zp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이형 소중해,",
+        "writer": "Ugy93pT-pTkolR6M2mt4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓직히 소갈비 특집때 세유니 노래자랑은 소갈비 (이름)이 막판 케리하신거 노래 한번 들어보고 싶어서 (노래방기계에서 점수 안나오는거) 말 안했습니다",
+        "writer": "UgyNopoPJfLrfGuz3Nx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막뚱이 매력발산",
+        "writer": "UgyzSN8uZ00tmrBo4bp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜zzzzzz버즈노래 부르는 민상오빠 최고웃겨",
+        "writer": "UgyEDJYOzkHKApQrJcp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이형 너무 좋다 진짜",
+        "writer": "UgyiuxOQ9a_J8acacXx4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끝날때까지 계속 웃었네",
+        "writer": "UgweNVI137mynTMHBcp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문(이름) 목소리 크",
+        "writer": "UgwGOaci5T4hsd465EJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알러지같은 댄스 시작 유민경훈 시작 이걸 보고 있는 내모습 아핫핫핫핰핳 유민경훈 두성 공격 나 죽어요 점수가 안나온다고요 흔들리는 막뚱이 동공",
+        "writer": "Ugw4CG-gMznLv8fKAYB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 배꼽어디",
+        "writer": "UgyyhOKHjzqGOlkKTyV4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 노래잘하는맛녀석오빠들 언니 목소리굿굿",
+        "writer": "UgxLW0wwQCYTtpG6xj54AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민경(반사회적용어) 소리질러할때 민상이형 무서워요 무서워요",
+        "writer": "UgyQQM8eC3lEyOEZYxl4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흡족 식겁 뭐얔 귀여워",
+        "writer": "UgxLWiVoRoLqOI9GF0R4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 알러지같은 민상이횽",
+        "writer": "UgwJvr5_ieSiWnqPVS14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 머리만 가리면 4명 다 똑같은 비쥬얼",
+        "writer": "UgxvU3z4WRVMaXMttOF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 해맑",
+        "writer": "Ugw4CG-gMznLv8fKAYB4AaABAg.97656LWCgBi978MnASJBCD",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sh p (이름) 해맑, 찐 맛둥이 같으세여",
+        "writer": "Ugw4CG-gMznLv8fKAYB4AaABAg.97656LWCgBi978srTb0Sra",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막뚱이 아니에요",
+        "writer": "UgyQQM8eC3lEyOEZYxl4AaABAg.97643lktlnf9766FwwWOrL",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준현어우 창피해 세윤하지마. 민상너무 싫어 민경에이 뭐가",
+        "writer": "UgzhB7B9sP_ZBRZDkWV4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 4명 사이에서 맛있는거 같이 먹고 콩트 하고 얼굴에 콧수염 그리고 놀고싶다 세상 재밌겠닼",
+        "writer": "UgxbCYDqpURtKSGkRgZ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "특별zip 개쥬아",
+        "writer": "UgyA2Pg2IfzvoyhcwMN4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 파이팅",
+        "writer": "UgwjS8MseCrpzXRsvU94AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛녀석 4명 모두모두 끼가 장난없음",
+        "writer": "UgyrMNDwMeqp0Vuaiql4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=NfR6Y81wtdQ",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

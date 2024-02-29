@@ -1,0 +1,556 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659345",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659345"
+    },
+    "text": [
+      {
+        "content": "조(이름)조이 언능 너무너무 보고싶어요",
+        "writer": "UgxOACzgMdMwL93tvlR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 조이 진짜잘 큰다 근데 (이름)버님 조이 엄마 너무잘 만났네요 나이만 드셨지 넘몰라 조이 엄마 정말이지 너무예쁘고 애기도 잘키우고 엄마의 도리를 아시는분 조이야 아빠 언제 철들까",
+        "writer": "UgxxAOiFW6ARKLcwuBd4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌 바꼇나 조이엄마는 계속나오는건가 아빠만나오는거아니엿나",
+        "writer": "UgwtIXtm3XFjhVg7Khd4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금씩 먹어도 됩니다 넘 가려서 먹음 장이 탈이 많이 납니다 장 누수군 책좀 보고서 공부좀 하세요",
+        "writer": "UgyFlAUylHc7j_wMvfN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 부부가 닮았어요 조이 꺄아악 귀여워요",
+        "writer": "Ugz7jjSUWsvkmSLCIwh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 넘 매력있고 귀여워요",
+        "writer": "UgzFQPMUQKK47dzmgwl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 정말이뻐요 보기만 해도 웃음이 절로 나네요 귀여워요",
+        "writer": "Ugz-6sND5xkXL7w5uFp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)빠잘생기고 센스만점이고 매력덩어리네요",
+        "writer": "UgyNkIrTsFLOxzTnZP54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)버님 개그맨",
+        "writer": "UgxHCKm9rw2smllN7gZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순간 양동근딸 조이인줄 닮기도 너무 닮았음.",
+        "writer": "UgyN6mZD8ZxCqAEMezx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여운 가족 보니 너무 귀여워요",
+        "writer": "UgxgxKJlM0C5JCWLY9h4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여워요",
+        "writer": "UgxtDJL1vFZUnCSv78p4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 아빠. 다 안닮았는데 성형수술 너무 마니한거 아닌가 그래서 애를보면 다 들통나는거야",
+        "writer": "Ugz9QSA-emq7At_55Nt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이넘 귀엽고 예뻐요 순하고 엄마도 밝고 좋으네요 조이성격 엄마닮음 좋을거같아요",
+        "writer": "UgwnwDNM4_qGF33jR_J4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 가족은 엄마 그리고 할머니까지 나옴..이게 슈퍼맨이 돌아왔다냐 할머니 그리고 슈퍼우먼이 돌아왔다지 윌벤져스 건나블리 강부자네 삼둥이네 오남매네는 특별한 날 또는 부득이하게 아니면 안나오는데이집은 (이름)네 문희준네처럼 진짜 엄마가 많이 나오네 제 2인 도경완네 가족이네",
+        "writer": "UgwtIXtm3XFjhVg7Khd4AaABAg.9Q_Bvr2TRZz9Q_F2Rjuzkm",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원본보시면 (이름)빠 좀 선넘으셨습니다만",
+        "writer": "UgyNkIrTsFLOxzTnZP54AaABAg.9QTAEN8yF-09QVnyyPahVd",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도요 닮아갖고 몇년 전 티저인줄",
+        "writer": "UgyN6mZD8ZxCqAEMezx4AaABAg.9QQhEfM2E7h9QQqhl3ySG7",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버지 붕어빵이구먼 무슨 성형수술",
+        "writer": "Ugz9QSA-emq7At_55Nt4AaABAg.9QQHxyZHRTt9QRR4QTqLGR",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Pelania 엄마 아빠 다 안닮았어요 둘다 눈크거든요",
+        "writer": "Ugz9QSA-emq7At_55Nt4AaABAg.9QQHxyZHRTt9QVnny9tJIK",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘 해밍턴 가족 돌려놔........그래도 찐건나네 안나왔으면 난 슈돌 패스할것이다",
+        "writer": "UgzffHyxgv8fiw69y2t4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 도대체 언제나옴 자꾸 빼네",
+        "writer": "UgytKpANaYw181iFR8N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쿠 기여워라",
+        "writer": "Ugy5t-nViZJmvhJIgtp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얜 좀 못생겼네",
+        "writer": "UgzfCaOlAd2408u28Bt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 너무 귀엽다 이쁘게 잘 크고 있네이뻐요",
+        "writer": "Ugz7BTy_nkwjhL7WIAl4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 많이컷다아",
+        "writer": "UgywxTkgy1xt1AHbk694AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애가 엄마의 미모를 1도 안닮았네",
+        "writer": "UgzH6NDdj-3p0qdpE4d4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아스크림 2돌까지 못 참지요",
+        "writer": "UgxFoxLYwpu_nsmcVNt4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 조이때문에 웃는다",
+        "writer": "Ugxb4vHx3rkVoJR0zbJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아...슈돌 원조는 윌벤져스네하고 진건나블리네임...그리고 이 가족은 제 2의 (이름) 가족이네..엄마도 만날 나오고 그리고 할머니까지 쳐 나오고",
+        "writer": "UgytKpANaYw181iFR8N4AaABAg.9QPgzHkJd7m9QPnhsyXck9",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "pinecone솔방울 사이다네유",
+        "writer": "UgytKpANaYw181iFR8N4AaABAg.9QPgzHkJd7m9QQSSIs0svi",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이차넌 매력다쓰면 팔만대장경 나옴 제발 좋은말로 할때 샘해밍턴네 돌려놔...",
+        "writer": "UgytKpANaYw181iFR8N4AaABAg.9QPgzHkJd7m9QQ_uSikLtF",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 오늘 윌벤 안나오니 찐건나블리네만 봐야지",
+        "writer": "UgytKpANaYw181iFR8N4AaABAg.9QPgzHkJd7m9RcRSy27ViU",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "pinecone솔방울 특히 조이넨가 조어넨가 거긴 확 하차하면 좋겠음",
+        "writer": "UgytKpANaYw181iFR8N4AaABAg.9QPgzHkJd7m9RcTvAZi7Gc",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠와 붕어빵",
+        "writer": "UgzH6NDdj-3p0qdpE4d4AaABAg.9QO-13hwAz19QQQM_CoQ9j",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유명림 아빠랑도 안닮았어요 아빠도 눈커요 조이만 눈이 작아요",
+        "writer": "UgzH6NDdj-3p0qdpE4d4AaABAg.9QO-13hwAz19QVnu8n5RYX",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아부지 뭔가 육아에 프리하셬",
+        "writer": "UgymhHfYrylenLQDHdp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 애기 많이컷네 벌써 걸어다니네",
+        "writer": "Ugzz8RllTGZM9g5bGXJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 귀요미 귀엽당",
+        "writer": "UgyzSJf1c1EDORNBw-F4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손 버릇",
+        "writer": "Ugw1ix7M-0zBkQ-4gC54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 아버님 개긐",
+        "writer": "UgyFs5WZffPLzUb22cx4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽조이",
+        "writer": "UgzJrI4-8I6xWesp0Px4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안뇽 조이야 오랜만이다 그동안 잘 지냈어 조이 걷기 잘하네 와우 쑥쑥 자라 조이야",
+        "writer": "Ugw6GZ85koKBk95u6094AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 언제 이래컷노 정말 아이들은 무럭무럭 잘도자란다건강하게 예쁘게 알것지요",
+        "writer": "UgzNZcZKdUkk46RDsbZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이야 너는예쁜데 조이 엄마때문에 보기싫다",
+        "writer": "UgwwC_XFIrWgDUkDhQh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이가 내눈애는 (도)하영이 닳았어",
+        "writer": "Ugw6GZ85koKBk95u6094AaABAg.9QNaTqsKaA29QURMV3bsdh",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(비속어) 보기싫은게 아니구요 오늘 1시간전 원본보면 (이름)빠 너무 선넘으셨어요",
+        "writer": "UgwwC_XFIrWgDUkDhQh4AaABAg.9QNZSIZljNY9QVnidLWXDy",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Zahin Zeima 조이 아빠는 46세예요",
+        "writer": "Ugx4oU-D34mLyfs7Bfh4AaABAg.9QNXprw1LkC9QNYlRV64MZ",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이야 진짜 많이 컸네",
+        "writer": "Ugz1JsxGNBBmcILvG6J4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어, 아버님 제대로 선넘었네요",
+        "writer": "UgxAK6ryzJCtlDvWXrh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐건나블리네 안나왔으면 나 슈돌 패스했을것이다윌벤져스네 2주동안 못보고 도대체 왜 이 가족만 엄마 많이 나오는거야 (이름)네 문희준네처럼 진짜 많이 나오네 윌벤져스네 찐건나블리네 하오네 대민만네 오남매네 엄마는 하나도 안나오는데 이집은 맨날 엄마 그리고 할머니까지 아주 많이 나오네 이게 슈돌이냐 슈퍼우먼 and 할머니가 돌아왔다지 제 2의 (이름)네 가족이네",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차라리 윌벤져스나 나오지어쩔수 없이 이번주에 윌벤져스네 없어서 찐건나블리네만 본다....",
+        "writer": "UgzvA0H4jPUJg3hqNHp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 개랑애랑갔이키위",
+        "writer": "Ugz_6H8g1uKkWhRSWq14AaABAg.9QNW8W1hgkV9QQ8QItqKPS",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까요, 아(비속어) 저러면 안돼는데,도경완은 저것보단 잘하는 편이에요",
+        "writer": "UgxAK6ryzJCtlDvWXrh4AaABAg.9QNTIEjoOts9QVo4mLM9mZ",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까요 그래서 전 티저만 보고 찐건나네만 볼거라는, .",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QNW3I2UxZR",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 저도 이번주 윌벤져스네 안나와서 찐건나블리네만 보려고요",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QNZkmqlnpk",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "pinecone솔방울 으어 윌벤이 나오면 찐건나가 안나오고 찐건나가 안나오면 윌벤이 나오고 아님 둘다 나오거나 안나오고, 우리보고 어떡하라는 거쥬",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QNaL0AbDzg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 그니까요윌벤과 찐건나네는 매주 나(이름)까그래도 찐건나네 나오니 참는다",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QNbGO8-Qe_",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "pinecone솔방울 이요",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QNbeApIof8",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 맞아요 이번주는 찐건나네만 보는걸루",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QNkOKydIWP",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤만 자꾸 안나오는 (이름) 뭐임 그리고 엄마가 아닌 아(비속어) 돌봐줬슴 한다",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QPghWoSxgh",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이차넌 매력다쓰면 팔만대장경 나옴 그니까 이번주에는 찐건나네만 보기루 얘넨 도경완네 가족이랑 아주 똑같네",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QPnNkV-rNk",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이차넌 매력다쓰면 팔만대장경 나옴 아 차라리 윌벤이나 나오면 좋겠음",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QQQj_QUfzQ",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 윌벤유튜브 했으면 좋겠음",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QQSfDfXlLs",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이차넌 매력다쓰면 팔만대장경 나옴 이요 차라리 하차하고 유튜브 했으면",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QQTEIuiQo1",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 그니까 샘 가족 당장 돌려놔",
+        "writer": "UgwA8XYPQ-PDJn9CSaZ4AaABAg.9QNTCRKBq6V9QQ_pBHP1MP",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윌벤 왜 자꾸 뺌",
+        "writer": "UgzvA0H4jPUJg3hqNHp4AaABAg.9QNQzypsdVZ9QPgZ23zkf2",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이차넌 매력다쓰면 팔만대장경 나옴 그니까 슈돌 원조는 건나블리 그리고 윌벤져스인데..이번주에 찐건나네만 보기루..",
+        "writer": "UgzvA0H4jPUJg3hqNHp4AaABAg.9QNQzypsdVZ9QPnShfbhAc",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 오늘 찐건나네만 보기루",
+        "writer": "UgzvA0H4jPUJg3hqNHp4AaABAg.9QNQzypsdVZ9RcRMMoiGmM",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=ymKE4BM0DfE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

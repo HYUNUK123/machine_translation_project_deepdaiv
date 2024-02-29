@@ -1,0 +1,796 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680153",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680153"
+    },
+    "text": [
+      {
+        "content": "든든해 하뚜이따 엄마..",
+        "writer": "UgxcYoe7_11uac_35Mt4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니라고 하니까 어감이 고라니같네,",
+        "writer": "UgwqbBRU0rMJBAo4tT54AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차비님 무슨소리에요..",
+        "writer": "Ugxlhxjp33yiP18fpIh4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)하는 댓만 적어줭",
+        "writer": "UgwZqanYA9yFD9eC4Id4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌칙은요 왜,",
+        "writer": "UgyJcejqgSm6Gtvug194AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 버추얼 데뷔 안햇네 나만 버추얼 별로인가, 내가 시대에 뒤떨어지는 건가,",
+        "writer": "UgyyL-liWb-HuWLM61h4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니, 고라닠",
+        "writer": "UgzA0bZ6YF1-_QRIGNJ4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니 어감이 고라니같아서 볼때마다 웃김",
+        "writer": "UgzLFdiTXwoF2PXsXId4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "즐겁게 보고가요",
+        "writer": "UgwUD7ew7pom2rrLm8t4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니 뭔가 지누목소리 느낌이,",
+        "writer": "UgxI-WtbuzBB7-HbKsB4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 누가 이겼든 공파님은 인듯",
+        "writer": "Ugzj4RBvitkcRzF2zqF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒷부분은 어디갔나요 노잼사했나요",
+        "writer": "Ugxl1zi1gEwOKOmOPHF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저정도면 내기빵 중독",
+        "writer": "Ugy0YaBkJUWv6UQNa754AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 오늘 견공 합방 시간때 학원이야",
+        "writer": "Ugx3ZYgzSkynZvMgb314AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 내기나 벌칙이나 뭔가를 시킨다는 뜻에선 똑같은거 아냐",
+        "writer": "UgzKHAsIJ2bPW936qVx4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종목교체 철권",
+        "writer": "UgzEtqHQWoGohpGF2IR4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니, 고라니",
+        "writer": "Ugyc7xvsb2dY4W6hGcp4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니에서 버 빼면",
+        "writer": "Ugy_49k7Zsc2TkhO8XF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 오늘이군뇨 기대할게요",
+        "writer": "UgyHnZrZOEEtN__XMLp4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니도 말투가 참 고우시구나",
+        "writer": "UgwlxvhiQvJuvkppopF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내기 중독 말기입니다. 줄건(여동생)줘 공혐 ON 친남매 인증",
+        "writer": "UgzbMpIRiE24LXZDVFp4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저그라니, 영광입니다",
+        "writer": "UgycbGkbzfAVZh-9lPp4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니는 고라니 가면을 써야되는데",
+        "writer": "UgwBR8kC6-VbFBytf2h4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 벌칙은여 왜 없져...",
+        "writer": "UgwDwi7Xs7xMZBQinel4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차비님이랑 찹라버니 목소리가, 너무 좋으셔요,",
+        "writer": "Ugz4EVtCiCH4r3b1Sgh4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 벌칙은 안올라오는(혐오표현),",
+        "writer": "UgzJd3NufOeXG6c2SM14AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 견공이 졌어",
+        "writer": "Ugxe-x3AvKf-etUDUj94AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니라고 하니까 나만 고라파덕 생각남",
+        "writer": "UgwT1WDj5v_4VpA3A0J4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공파 팬인데 보자마자 도망갔데엄청 귀여우시네",
+        "writer": "UgxyuZR6MOkzzwNRVHR4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찹찹고라(버)니 VS 견공",
+        "writer": "UgxOvsrYIB1bbiA_jbB4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 먹을때 보기 좋은 영상 1위.",
+        "writer": "UgxvwqwcslN8CT8mvip4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 오래전부터 이날만을 기다려왔다우",
+        "writer": "UgwM-NEAWu5N824lUnd4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니 잘못봐서 고라니로 봐서 다시 돌려봤어요 죄송합니다",
+        "writer": "UgymrHXNC1qeU9nALL94AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 근데 차비님도 그렇고 찹라버니도 그렇고 두 분 다 목소리가 엄청 좋으시다,",
+        "writer": "UgxvMyVbI8GbIpHmodV4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 여기선 왜 말하는지 모르지만 오늘이다",
+        "writer": "UgyczZfseUQYouwOgqB4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찹라버니와의 2대2 대결 기대했는데 와 오늘 올라왔네요 견공 대사읽기 벌칙 기대할게요",
+        "writer": "UgzRCo8PZsTxTXSAK_54AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 오(비속어) 난 핑맨인줄알았는데 아니었네",
+        "writer": "UgwGM743-VQpzK3Q6PJ4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차비님의 남매 vs 견공커플, 역시 남매의 힘이 더 대단한거 같다 만약 공파가 캐나다 핑이 없엇더라면 결과는 똑같앗을까",
+        "writer": "UgzfBhP3JOuWAeMOHE94AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8시10시에 견공 현실합방합니다..",
+        "writer": "UgxqjtYSu1-A0ygN-854AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참고로 캐나다는 동성결혼이 합법화 된곳이다.",
+        "writer": "Ugw_r4qZTMPIDoftxfV4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니 이름 디게 잘지었네",
+        "writer": "Ugx3M7-hnkPVi96ZW0d4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 밤 8시10시 LCK가 끝나는 시간 존버 on",
+        "writer": "UgwXrBjtlKcO7vILXvZ4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 그렇게 들었다,",
+        "writer": "UgyjCw4HieJeq2kkLNF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니가 고라니 머리가 아니라니 뭔가 익숙하지않아,",
+        "writer": "UgzBSbQaiJdjIkaWnQd4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니 닉네임 작명 진짜 내가 고라버니라니 ...내가 고라버니 라니.... 내가 고자라니 흟흟흟 짤 생각나",
+        "writer": "UgxEuUsfXDN37gD-_yx4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 찬스",
+        "writer": "UgyJTb_O0FaCtRemkGt4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 뭔",
+        "writer": "UgwGM743-VQpzK3Q6PJ4AaABAg.9RZrNolHbJu9R_-Gb68KHA",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 소리지 대체",
+        "writer": "UgwGM743-VQpzK3Q6PJ4AaABAg.9RZrNolHbJu9R_-n3CoyxM",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐이리 진지모드야 이해못했으면 걍 가삼 (비속어)짓하지말구",
+        "writer": "UgwGM743-VQpzK3Q6PJ4AaABAg.9RZrNolHbJu9R_Ak7g96Jt",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8시에 시작할제 10시에 시작한지는 램덤이에요 여러분들",
+        "writer": "UgxqjtYSu1-A0ygN-854AaABAg.9RZo88S8uqO9RZrnM9Iw1M",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대충 lck 결승 끝나고 시작할 듯",
+        "writer": "UgxqjtYSu1-A0ygN-854AaABAg.9RZo88S8uqO9RZyV4CYV_3",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 견공도 끝날때가 온건가 모든 우결은 현실합방을 기점으로 쫑 났는데",
+        "writer": "UgxqjtYSu1-A0ygN-854AaABAg.9RZo88S8uqO9R_3WRaeIil",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 마자요, 근데 아닐수도 있으니깜",
+        "writer": "UgxqjtYSu1-A0ygN-854AaABAg.9RZo88S8uqO9R_G7C0f1jW",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겁나 좋았던,",
+        "writer": "UgxqjtYSu1-A0ygN-854AaABAg.9RZo88S8uqO9RbLXjNp5V5",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌었어요",
+        "writer": "UgxqjtYSu1-A0ygN-854AaABAg.9RZo88S8uqO9RbLqPfoqXk",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 금손(이름)",
+        "writer": "Ugw_r4qZTMPIDoftxfV4AaABAg.9RZnYP3vCzq9R_371wA-vi",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니 공파리파 넘모조코",
+        "writer": "Ugy46qeb5YCXXenC0_d4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무조겅 존버중",
+        "writer": "Ugx3Q2G8ko_h814WUrV4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 벌칙한건 어딨죠,",
+        "writer": "UgxEQvgV_-M7T96SZQt4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마 오늘 합방 두분 다 엄청 부담스럽고 힘들게 마련한 자리만큼 장미단분들. 즐겁고 재밌는것도 좋지만 과도한 몰입과 과한 언급은 자제해주세요. (이름) 오늘 합방 힘내시구 부담없이 편하게 해주세요.",
+        "writer": "UgwFJGWWjmYAl3MC6R54AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매일매일 이렇게 일찍 영상 올려주셔서 너무 감사합니다 견동부 화이팅.",
+        "writer": "UgxPqUdeEScEtYp8j5Z4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌칙영상은 없어요",
+        "writer": "Ugysoj0dotJZsvb84x54AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 빠르게 올라왔을때 보는 영상 (비속어)잼",
+        "writer": "UgzzRks_zjZs5Tn2dEd4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 넘나 좋은것 7",
+        "writer": "UgwSggSwbaYHOll11jp4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대사읽기는 어디 갓죠,",
+        "writer": "UgxEeefatrt3qC_xVlZ4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 뚜까 팬다고 하길래 령실에서 진짜 뚜까 팬줄",
+        "writer": "UgxgCiXn5Vl2t5HNP694AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입으로 막으세요.",
+        "writer": "Ugw-GwVbIBABxTUdrJ94AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현실합방 기대하는 사람 좋아요",
+        "writer": "UgxkvnHz9S1rvQk-vIJ4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자 영상보고 합방드가자",
+        "writer": "UgwgpN1REA0mFFi8qy14AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 현실합방 기대하겠습니다",
+        "writer": "UgwHyseIXC06aWA9Dz94AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌칙이 참 기대가 됩니다 7",
+        "writer": "UgzNFrwgXddU6SP7CgV4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현합 극락",
+        "writer": "UgwXs8Ycd7SH4mfscVN4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일보고왔어요 기대중",
+        "writer": "Ugy04wi8XLq0IqGpN0t4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 네 그렇다네요",
+        "writer": "UgwFJGWWjmYAl3MC6R54AaABAg.9RZiluEjIQR9RZsg6yB8XQ",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명이 빈약한데 그 벌칙을 나중에 (이름) 불러서 아라아라 하고 공파 사이퍼로 놀린 그 날 얘기 계속하다가 차비님이 해달라하셔서 하셨습니다.",
+        "writer": "Ugysoj0dotJZsvb84x54AaABAg.9RZi9rsep2G9RZzZZ2gGfb",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 그렇구나 감사합니다 그럼 유튜브로도 올라올까요",
+        "writer": "Ugysoj0dotJZsvb84x54AaABAg.9RZi9rsep2G9R_-ZOsGybl",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현실합방 기대중",
+        "writer": "UgwXeXPuQrQ-x7KYdMF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보 고차비는 애교에 항마력이 0이다",
+        "writer": "Ugx8IZt_Orm7g9IsPbF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내기빵을 위해 살아가는 사람의 입을 어찌 막으리, 그와중에 공파님 오자마자 주인공 등장",
+        "writer": "UgwcKg51LyEuGBDfAD54AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분전 딱대 좀더 다른 합방을 기대하겠습니다",
+        "writer": "UgyBpil7FC5LomQc3sx4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니하니까 고라니가 생각나버렸어, 암튼 오늘 롤 결승전 끝나기만 해봐, 바로 보러간다,",
+        "writer": "UgxwAUZOA18H7b5oKFh4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차비님이랑 고라버니 목소리는 유전인가 둘다 너무 좋으시네",
+        "writer": "Ugyq8ZS279Mv6Hb5jvB4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분, 오늘 오후 10시입니다, 아시쥬 w",
+        "writer": "UgwAGP26jgbmMPnX0KF4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 오늘 현실합방 기대하곘습니다 7",
+        "writer": "Ugxh1nkGos5jLZEJzGl4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 밤 기대합니다",
+        "writer": "UgwxAKWCeE9wK1CkNx94AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘, 기대되는데 히히히허헣허헣",
+        "writer": "UgwoX15ODg_T8IrzJA14AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 달려왔따",
+        "writer": "UgwKeKXMZaWM6NXxIv94AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 입은 아무도 못막아요,",
+        "writer": "UgzFqDW6rkr0JpcHebV4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 2등..",
+        "writer": "UgzSVeZ7RObeKuwtR9V4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견(이름) 피셜 노력이래여",
+        "writer": "Ugyq8ZS279Mv6Hb5jvB4AaABAg.9RZeBmoDgCT9RZgf63xdl_",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고라버니 왤케 고라니같을꼬,",
+        "writer": "Ugyq8ZS279Mv6Hb5jvB4AaABAg.9RZeBmoDgCT9RZgxLVJ-hQ",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 피셜이요",
+        "writer": "Ugyq8ZS279Mv6Hb5jvB4AaABAg.9RZeBmoDgCT9RZpFOIML0j",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이밍 방송에서 시청자들이 목소리 재능이라고 자주 얘기하는데 그때마다 연습하면 다 바뀐다고 얘기 하셔요",
+        "writer": "Ugyq8ZS279Mv6Hb5jvB4AaABAg.9RZeBmoDgCT9RZuK1Dt7my",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "jooyoung park 댓글이 차비님이랑 고라버니 목소리는 유전인가인데 (이름) 피셜이라 하셔서 의아해서 한 말이었습니다 7 혹시 방송 중에 차비님 목소리는 노력이야 라고 하신적이 있나해서",
+        "writer": "Ugyq8ZS279Mv6Hb5jvB4AaABAg.9RZeBmoDgCT9RZvKmTb7Ub",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 약간 순정만화 재질,",
+        "writer": "Ugyq8ZS279Mv6Hb5jvB4AaABAg.9RZeBmoDgCT9R_EFPTV_Tf",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "12초전은 못참지",
+        "writer": "UgzSVeZ7RObeKuwtR9V4AaABAg.9RZe42P_aZo9RZe61dCl6H",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는야 (비속어)벌래 아닌데",
+        "writer": "UgzSVeZ7RObeKuwtR9V4AaABAg.9RZe42P_aZo9RZg3DD3aTa",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "9초 전은 못참지.",
+        "writer": "Ugz5b7VkOf13112Qbdp4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=VH-bPKLi8cg",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,980 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001677610",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001677610"
+    },
+    "text": [
+      {
+        "content": "목소리 너무 좋아요",
+        "writer": "UgxJOgrIe4U5bp7JkNp4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 아르마3 샀어 형.",
+        "writer": "Ugzw4OxY8EH1t-DP6ht4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁두쿤, 왜이렇게 착하냐능,",
+        "writer": "Ugyf_bQbHMByzcMfn0F4AaABAg",
+        "write_date": "2021-02-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 형도 가이드영상 찍을때가 있었구나",
+        "writer": "UgwcgBzdNyx7xm8zdL14AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 7년 전이면 초5였을 때네 (비속어),",
+        "writer": "Ugz-QF8PdEgWCfsgprh4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgynvWUHXYehvnlcQuJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마3 옛날부터 해보고 싶어서 이번에 삿는데 실행 검은색 바탕 후 0x0000dead 오류코드 뜨면서 접속이 안돼요 해결 방법 없나요",
+        "writer": "UgxTDZE0D1_1-LmZQYl4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초보인데 역씨 우왁굳 그래서성공한(혐오표현)",
+        "writer": "UgxqzAvTa2jN39dzSS14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 6년전",
+        "writer": "UgxBMyRn-jgYQIoVTZd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 우왁구야",
+        "writer": "UgxV7euQbXD6qQ94UmR4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3인칭 어떻게 바꿔요",
+        "writer": "Ugzpb1clI4ZdTuiB-IN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마3 시작할 때 이 영상보면서 왁굳형 보기 시작했는데 벌써 6년전이네 형,",
+        "writer": "UgwpslUptcrp9lte5sd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 이영상 처음보고 청자됐네,",
+        "writer": "UgzTuz2ED_UFkuvRZgJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 지티에이 토니스타크 집 리뷰할때부터 봤는데 아직도 보고있어 형 평생 방송 해줘",
+        "writer": "UgzGudOwmZgBN9MlSxJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형이 왁굳형인줄은 몰랐다",
+        "writer": "Ugwliov-4a_NBlrinK14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 볼게 형 7",
+        "writer": "UgyxBGzSuR3OP24_-up4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워 형",
+        "writer": "UgwGfAIPHG7BALu2YAd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁두 순한맛",
+        "writer": "Ugy2RxDevd3dWbc6MYV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 (이름)같아",
+        "writer": "Ugx3iYprM02S6hGjpXN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6년을 내다본 왁센세",
+        "writer": "UgxXAny5egT6sKc_Qgd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgxG0ZswoSlpWxj9exN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 혼자 회복 어케함 표시 안나오고 조금 부상당했을때 자가치료",
+        "writer": "UgxIHmGOXSoBmjnuwOZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형도 이럴 때가 있었구나",
+        "writer": "UgyXrVZxBnxrZuNnL0h4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 착해욬",
+        "writer": "UgwKpTACVlRKPEeT0ip4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 한국어가 안되는데 어떻게하나요 네이버 유튜브 다따라했는데 영어예요 제발알려주세요",
+        "writer": "Ugw5UwIvBFyIjYCqyjN4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때는 목소리 나긋나긋 했네",
+        "writer": "Ugy3-imBn78REJU-fxt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멀티도중 소환어케해요 아무나 답변답변",
+        "writer": "UgwHuyTIhLKjBrnJz0p4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 나긋나긋한거 실화야",
+        "writer": "Ugw4FQmi2JN2XjyD8914AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컴 그래픽 사양은 좋지 못하지만 컴이 의외로 잘 버티므로 최소사양으로 해도 재밌을거 같아보인다,",
+        "writer": "Ugz9Ivd2iUnBDh5InuB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시참 조작법은 이영상으로 익힙시다 .",
+        "writer": "UgyHyw2MKpjaOKCuGnp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마사고 조작법 검색했는데 형께있네 고마워..",
+        "writer": "UgzBaqi1r2_oU9yAmat4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상찍는분 군대 안다녀왓구만",
+        "writer": "UgxHCyvWnrcgfJ-q5_54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튜토리얼 같은거 없나",
+        "writer": "UgzM-hMEzjxT3MLJiWd4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옵션가면 랭귀지 있을탠데요, 네이버가서 안나오면 구글링",
+        "writer": "Ugw5UwIvBFyIjYCqyjN4AaABAg.8rSK7X5EWQA8ru2bUwbqOx",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라틴어 왁굳 공익인데",
+        "writer": "UgxHCyvWnrcgfJ-q5_54AaABAg.8mFG1oh5t3A966Xu8YI8Mb",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캠페인하다보면 알랴줌",
+        "writer": "UgzM-hMEzjxT3MLJiWd4AaABAg.8lZeBkpnXsB8rtnuG2iZey",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3인칭 어캐해여",
+        "writer": "UgxQ2fSxRObunSTFii54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마3 싱글 동풍에 애드온무기를 써보고싶은데 어떻게 해야쓸수있죠",
+        "writer": "Ugxkr5YWQtj0UJWCd9h4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁님은 아르마 샀어요",
+        "writer": "UgziBYFkmWBUP6NSagx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 전진 누른 체로 뒤를 누르면 걷질 않고 그냥 섭니다 이거 어떻게 해결하나요(, )",
+        "writer": "UgxuYYaTPjMK4Yzc4CR4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 한국어로 어떻게 바꾸죠",
+        "writer": "Ugx8Bl9YzE7trMqVEAl4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마3에서 다른 소총꺼낼려면 어떻게 해야하나요",
+        "writer": "UgzLv2Zp1zkDEHGmnKF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스코프 어떻게 사용하죠",
+        "writer": "UgziKtkOp4xkFJRp4Lx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 누르면 벽 같은거 뛰어넘죠",
+        "writer": "Ugy14uq3TV_SXiNAwSp4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뛸때 무기 등에매고 뛰는거 어케함 예전에 숫자5번키엿는걸로아는대",
+        "writer": "UgwVuKq0Kk5j4veiuth4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마3 한글 어찌함",
+        "writer": "UghgNmy9hunyd3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화면에서처럼 하얀색 크로스헤어 에임 저것 나오게 하려면 어떻게해야되요",
+        "writer": "UgjdBNkw_e6ce3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3인칭 어떻게 해여",
+        "writer": "UgjrkPawzg1u0HgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐를 누르면서 가야지 걷는다고여",
+        "writer": "Ugi4fISYoCrz_ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 이때 이 영상보고 입문했는데 이제는 꾸준히 보고있는 청자됨.",
+        "writer": "UggSVyIn_j8nQHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스팀 인제 한글되네요",
+        "writer": "UghOjT9XvZD3RngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앉기는 어캐 하나요",
+        "writer": "UggK9zqdz57dYXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 YT 네 정품입니다",
+        "writer": "UgziBYFkmWBUP6NSagx4AaABAg.8bxzpaqeDh88cpMyMCRsVM",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤로가는걸 한번 탁 눌러야지",
+        "writer": "UgxuYYaTPjMK4Yzc4CR4AaABAg.8a0iVGn4foC94HBocD6CEE",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RSR LSM 주무장은 하나밖에 소지 불가합니다. 보조무(이름) 발사체 말씀하시는 거라면 2 3번 or ctrl 키 누르심 됩니다",
+        "writer": "UgzLv2Zp1zkDEHGmnKF4AaABAg.8XIAj3vQlSi8bMmSE1bJ2V",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유병훈 마우스 2번 키 누르심 되고 스코프 체인지는 컨(비속어) 마우스 2번 버튼 (오른쪽클) 입니다",
+        "writer": "UgziKtkOp4xkFJRp4Lx4AaABAg.8X7AP2KH_aX8bMlopXLB5S",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 기본 키 V 누르시면 장애물 간단한거 넘습니다",
+        "writer": "Ugy14uq3TV_SXiNAwSp4AaABAg.8X1YgHAn2yb8bMll-pabZ_",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑두루미 Shift H or Ctrl H",
+        "writer": "UgwVuKq0Kk5j4veiuth4AaABAg.8WTjXGw3pII8cbChCfK1K2",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아르마 한글지원 되요",
+        "writer": "UghgNmy9hunyd3gCoAEC.8UM6VQv_TNE8YKBPQz1miB",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준영 컨(비속어)빠르게 두번눌러주시면 사주경계모드되면서 생겨요",
+        "writer": "UgjdBNkw_e6ce3gCoAEC.8UIXI5x4WvG8jxOrDhdDdR",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)설정마다 다릅니다",
+        "writer": "UgjdBNkw_e6ce3gCoAEC.8UIXI5x4WvG8ktdbzaet1N",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘버패드 0번입니다",
+        "writer": "UgjrkPawzg1u0HgCoAEC.8TzvJbwUOT38bMmK2DgGKI",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘패드에 딸린 두번째 엔터요",
+        "writer": "UgjrkPawzg1u0HgCoAEC.8TzvJbwUOT38ru2n1Gt2UY",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스팀에서 기본적으로 한글 지원합니다 옵션들어가시면 변경 가능함",
+        "writer": "Ugh-M4kJbzvm6XgCoAEC.8TbbpP8NOX28TryOyc91zs",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hanb Lim 지금까지 영어로 하고 있었어",
+        "writer": "Ugh-M4kJbzvm6XgCoAEC.8TbbpP8NOX28V3TPBIuPJr",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팡구 안기x엎드리기z",
+        "writer": "UggK9zqdz57dYXgCoAEC.8Mf-OxBe6kB8OmgkHNn_U9",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아님 컨(비속어)w s로 자세를 계속 낮춰도 앉아지고 엎드려짐",
+        "writer": "UggK9zqdz57dYXgCoAEC.8Mf-OxBe6kB8rtnizLRvHZ",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전진짜 개수그려쏴",
+        "writer": "UggAyqMztLsPf3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님들아 아르마3어디서 삼 얼마임",
+        "writer": "UgglPQnm8Sgr03gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 제가 스팀에서 아르마3구매후 게임실행중에 pc가 꺼젓다가 들어왔다가 꺼젓다가 들어왔다가 삐삐빅 소리가 계속적으로 되네요. 왜 그런건가요. 아르마3 사양이 어찌 되는지요. 제 사양이 인텔4790 그래필은 gtx 970 램은 16 입니다. 윈도우10 입니다.",
+        "writer": "Ugj0sEXiJ2l2eXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몄살 부터 가능 한가요",
+        "writer": "UgjYSexbiuj3qngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3인칭 어느키에요",
+        "writer": "UghGO1lMmAKKo3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3인칭 었덯게 해요",
+        "writer": "Ugg9CMfCraQ44XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양각대 설치는 무슨키",
+        "writer": "UghVkcyHUqTUPngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마2 조작법도,",
+        "writer": "UghFt61H9E-iWHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 한글화 어떻게 하셧는지, 알려주실수있나여",
+        "writer": "UgjtpblwGU0ZdHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보이스챗 어캐하나요",
+        "writer": "Ugj1yvO6I8XV73gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마3 한극패치어떡게해요",
+        "writer": "Ugi7qaok8nOoqHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3인칭 Num Pad Enter 총구내리기 Alt 고개움직이기 Q.E엎드린자세에서 E 를누르면 구르기 ZE 3점사 점사 변경하기 F 조준 (마우스오른쪽)Ctrl 오른쪽마우스 아르마2 유저인데 한글패치없나요",
+        "writer": "UgidGSBBvKIdCHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 이게임이 탄도학을 배울수있는 게임인가요",
+        "writer": "Ugh08ak4PTspT3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마3스텐다드에디션을 사도 라이프모드를 할 수 있나요",
+        "writer": "Ugh7qPcEzylvbngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아르마2랑 3은 조작키가 비슷하나요",
+        "writer": "Ugjvpc7RPvLUOngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시점 바꾸는키가 Num Lock인거 맞아요",
+        "writer": "Ugj_nGvVnNxkBngCoAEC",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캠페인 할 때 Ctrl w s 로 자세 (이름) 되지 않는데 캠페인에서만 안되는건가요 멀티는 아직 해보지 못했어요",
+        "writer": "Ugh3k4sOqPGjm3gCoAEC",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데이터로 보는데 버펑링심하게걸리네",
+        "writer": "UghmeNebzvpwH3gCoAEC",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아아후 스팀또는 G2A에서 팝니다 G2A는 2만 얼마로 알고있고 스팀은 4만5천원 정도 하는걸로 알고있습니다",
+        "writer": "UgglPQnm8Sgr03gCoAEC.8KN60_ljP6A8LBKJPqT1sW",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인용이 ok rt",
+        "writer": "UgglPQnm8Sgr03gCoAEC.8KN60_ljP6A8LkJ05VWfyn",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아무래도 컴퓨터 문제인거 같군요",
+        "writer": "Ugj0sEXiJ2l2eXgCoAEC.8K-NLXDy_9L8LYX8bSWmBI",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사양은 괸찮은데,",
+        "writer": "Ugj0sEXiJ2l2eXgCoAEC.8K-NLXDy_9L8RL6hMiaIvM",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "660으로 최상옵 잘돌리고 있는데",
+        "writer": "Ugj0sEXiJ2l2eXgCoAEC.8K-NLXDy_9L8j2AVzs8Fjg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "AVOIDa 만17",
+        "writer": "UgjYSexbiuj3qngCoAEC.8JHHJSLU8Mc8UVa8FFXmD8",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오현(이름) 몇살",
+        "writer": "UgjYSexbiuj3qngCoAEC.8JHHJSLU8Mc8WXN9Y74n3D",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몄살X 며짤O",
+        "writer": "UgjYSexbiuj3qngCoAEC.8JHHJSLU8Mc8YMKbMpiUJi",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "LeGeND_ Tos 네넴",
+        "writer": "Ugi28Et07ebk9ngCoAEC.8IyDhTj7YO48Omgf6YBH61",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "LeGeND_ Tos 4개월이나되서지금은클랜수송팀분대장을맏고있답니다",
+        "writer": "Ugi28Et07ebk9ngCoAEC.8IyDhTj7YO48Omgw86E4_6",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "L컨(비속어)C일 겁니다",
+        "writer": "UghVkcyHUqTUPngCoAEC.8Gx3HiVbPVH8HQWVorbh9N",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 감사합니다",
+        "writer": "UghVkcyHUqTUPngCoAEC.8Gx3HiVbPVH8HQpfwIAtCK",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)님 시점 변경이 넘버키에 엔터키가뭐죠 간단하게 설명 부탁드립니다",
+        "writer": "UghVkcyHUqTUPngCoAEC.8Gx3HiVbPVH8jEPXD5HpA0",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 키보드에 오른쪽에 넘패드가 있다면 넘패드 오른쪽밑에 엔터가있어요 그거누르면 3인칭되요",
+        "writer": "UghVkcyHUqTUPngCoAEC.8Gx3HiVbPVH8ru35ik3Ih9",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 쉬프트위",
+        "writer": "Ugj1yvO6I8XV73gCoAEC.8DwZUqEtq2v8dAxlJ-C8hZ",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 스팀에서 구매시 한글지원이 안됩니다 다이렉트게임즈에서 구매시 옵션에서 한글로 바꿀수있습니다.",
+        "writer": "Ugi7qaok8nOoqHgCoAEC.8DbXZUqdTVa8DlcirDDhnZ",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦었지만 지금은 스팀도 한글 가능합니다",
+        "writer": "Ugi7qaok8nOoqHgCoAEC.8DbXZUqdTVa8HWuoK4L5zJ",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레공 LeGong_ 늦은뎃이지만 아르마2에도한글됨니까",
+        "writer": "Ugi7qaok8nOoqHgCoAEC.8DbXZUqdTVa8MzWCMiB6fj",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Logis Yongma 다이렉트게임즈에서 구매하시면 한글있어요 스팀은 한글지원안하고요",
+        "writer": "UgidGSBBvKIdCHgCoAEC.8BfkGu2hW718Dlco3gxslA",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 아니죠, 아르마가 군사 시뮬레이터이긴 하고 탄도학도 적용돼 있지만 배우는건, 실제로 쏴 보는것도 아니고,",
+        "writer": "Ugh08ak4PTspT3gCoAEC.8A3A8ilDmpA8A6g_zq_J59",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ace에드온 설치하면 탄도학 거의 비슷하게 들어맞습니다",
+        "writer": "Ugh08ak4PTspT3gCoAEC.8A3A8ilDmpA8AU0ZHSa_qU",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Na_xX Xx_Da 모드만 다운하시면 될껍니다.",
+        "writer": "Ugh7qPcEzylvbngCoAEC.89alAkwzkkW8DlcrSqWFzY",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넙버패드에 있는 엔터눌르시라는거 같은데요",
+        "writer": "Ugj_nGvVnNxkBngCoAEC.833sz6KPi-V7-OnO99vePJ",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘패드에 딸린 엔터키요",
+        "writer": "Ugj_nGvVnNxkBngCoAEC.833sz6KPi-V8rtnoQ2fugw",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노트북이면 어카죠",
+        "writer": "Ugj_nGvVnNxkBngCoAEC.833sz6KPi-V954UoVvjzxX",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많은 도움이 됬습니다.",
+        "writer": "Ugig7iKoeyRdD3gCoAEC",
+        "write_date": "2014-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 근데 한글은 패치 한 건가요",
+        "writer": "Ugj3xyToFSuRl3gCoAEC",
+        "write_date": "2014-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 정말 좋은 가이드 였습니다",
+        "writer": "UghvZ5jzNRssuXgCoAEC",
+        "write_date": "2014-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자세 완전 디테일하다, 대박",
+        "writer": "UgjxwPq0YLscangCoAEC",
+        "write_date": "2014-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 아르마3는 유통사 H2인터랙티브에서 정식 한글화를 해줬습니다. 시리즈 최초로 한글화 되있어서 되도록이면 스팀에서 말고 패키지로 구입하세요 (스팀에서는 한글판을 안팝니다,)",
+        "writer": "Ugj3xyToFSuRl3gCoAEC.7-H0Z7-80Rr71nnghjJyop",
+        "write_date": "2014-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ha Ho 한글판을어디(이름)요",
+        "writer": "Ugj3xyToFSuRl3gCoAEC.7-H0Z7-80Rr77lpvTSGPbj",
+        "write_date": "2014-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천수진 인터파크 옥션 11번가 G마켓 등의 인터넷 쇼핑몰에서 구입하실 수 있답니다.",
+        "writer": "Ugj3xyToFSuRl3gCoAEC.7-H0Z7-80Rr77lzOaLlrUh",
+        "write_date": "2014-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ha Ho 그거때문에 제가 피봤습죠, 한글이 없어",
+        "writer": "Ugj3xyToFSuRl3gCoAEC.7-H0Z7-80Rr7HjzyvIkQ1Y",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ha Ho 페키지나 다이렉트로 구매해도 스팀에서 dlc나 여러 모드나 에드온 같은건 이용할수 있나요",
+        "writer": "Ugj3xyToFSuRl3gCoAEC.7-H0Z7-80Rr7PcHn83FGeI",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아아아앙아이 한그으으으를",
+        "writer": "Ugj3xyToFSuRl3gCoAEC.7-H0Z7-80Rr7PcM5VP09jO",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허러러러어엉터커카컼 아르마를 스팀에서 사도 한글이 된다구요",
+        "writer": "Ugj3xyToFSuRl3gCoAEC.7-H0Z7-80Rr7PkMzaHAsue",
+        "write_date": "2015-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=B2QxIfd26rI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

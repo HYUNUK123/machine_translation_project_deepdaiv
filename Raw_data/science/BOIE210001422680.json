@@ -1,0 +1,860 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001422680",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIE210001422680"
+    },
+    "text": [
+      {
+        "content": "이런 좋은 소식을 들을 때 마다 조금 일찍 태어났다는 아쉬움이 커진 다니 까요.",
+        "writer": "Ugz50dmno5oeJQG0QJR4AaABAg",
+        "write_date": "2021-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타물질도 (반사회적용어)제국 출신들 놀자판",
+        "writer": "UgyXB9Aa35nhrU5TINF4AaABAg",
+        "write_date": "2021-09-28",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공진님 아예 옆으로 돌아앉으시죠. 너무 랩장님만 쳐다보고 방송하네요. 에휴, 참,",
+        "writer": "UgyLv0FtTXqCm7n7FyF4AaABAg",
+        "write_date": "2021-09-21",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타 물질의 끝판왕. 이른바 메타짱은 순수공간 입니다.",
+        "writer": "UgzMC8GmFFsQx6hL1jB4AaABAg",
+        "write_date": "2021-08-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓴거 많이 드셔서 써 붙이심",
+        "writer": "UgxCvGWdgU16EW03zP94AaABAg",
+        "write_date": "2021-07-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 음 아",
+        "writer": "UgyudcI6Cwer-34p54J4AaABAg",
+        "write_date": "2021-02-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수십 나노미터 아니고 수백 나노미터입니다.",
+        "writer": "UgxBZjsM2vrNbf3m--J4AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 II화보 작작들좀 해라 좋은거있으면 혼자보면 되잖아 왜 알려주는지 모르겠네 (비속어)들인가 나도 봐야지 데헷",
+        "writer": "UgxqyvQ1X39FySAblht4AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탈아시안 몸매 (반사회적용어)녀는 역시 II화보 잔다다지",
+        "writer": "UgwRD1MKIjHveONP-pV4AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타물질 굴절공간안에 숨어있고 핀홀카메라로 밖을보면, 그것이 ufo 아닐까 ,",
+        "writer": "UgyMh6XBO0IiX-VAfK54AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)들 투명물질을 만들려면 빛을 투과(비속어)고 관통 시켜야지 굴절 시켜서 어떻게 투명 물질을 만듭니까 모든 빛을 (비속어)0도 굴절시킨단 말입니까 말이 안 되고 불가능 합니다 , 단지 물질을 왜곡시킬 수는 있겠죠",
+        "writer": "UgyZV4KkFZZcIyKn5A14AaABAg",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩장님 리액션이 조금 과하다는 생각이드네용,",
+        "writer": "UgzMar9w-H9MTXDOTYx4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "렙짱님의 코맹소리를 들으러 와서 지식을 겉핧기로 배워갑니다",
+        "writer": "UgxZWoDTx_EIxZ20QKt4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤늦게 안될과학 알게되서 정주행 중입니다. 유익한 과학 정보 정말 쉽게 풀어주셔서 감사합니다.",
+        "writer": "Ugwq6LXw_1P69NFdfRN4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타물질에 관련된 정보 감사합니다.",
+        "writer": "UgzfdXgUX2nzMGTNPrV4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6개월 뒤에야 이 영상을 보다니... 영상 감사합니다.",
+        "writer": "UgzXhme1i2goaEJIMkV4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)00 저 구조는 철로 만들고 그 사이를 에폭시나 고무등 탄성채로 채우면 훌륭한 방진 충격 흡수 소재로 사용가능.",
+        "writer": "UgwjJHfz-99sTYjJRYx4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타몽 (비속어)",
+        "writer": "UgxHk1ujCtLLzpT8NE94AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형태와 색깔을 왜곡되어 보이게 만들 수는 있겠지요",
+        "writer": "UgyZV4KkFZZcIyKn5A14AaABAg.9HYQsubyfAa9HYS1IOSuE7",
+        "write_date": "2021-01-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "led화면을 조작해서 교묘하게 위장하는것과 빛의 굴절을 바꾸어 투명화가 되는 것은 서로 어떻게 달리 쓰일까",
+        "writer": "Ugxv5x5yeLdsCLSTce14AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명탐정코난에서 (이름)이 코난에게 씌워준 안경이 메타물질로 만든 렌즈를 썼구나, 그래서 확대해서 보고 그럴수 있네",
+        "writer": "UgxA6wkXoM2uOrW6ip54AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빛의 굴절의 끝판왕은 투명망토 지만 빨간빛만 가릴수 있슴 주변에 조명탄이든 노을질때 화재 상대방의 인지상태 색맹을 이용해서 가능해질수 있지만 인(반사회적용어) 속이는건 가능한데 소리는 어떻게 속임 그래서 군사적으로 사용가능할까 사실 레이저를 통한 스나이핑 (반사회적용어)무기 알수없는 화재로 여기게하는 테러무기 있어서 생산금지해서 가끔 한국에서 원인알수 없는 화재만보면 그무기 떠오름 그 메타물질을 사용했는지 측정여부알면 수사망좁힐수 있는듯 한 그냥 공상과학입니다",
+        "writer": "Ugxildq9ngSESVFRvPx4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왼쪽에 있는 분도 똑똑하시네",
+        "writer": "UgxQJHuEtU8VN2gdk3J4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타물질과 양자역학의 조합이란,",
+        "writer": "UgwuEDaZOIhX7qSZDz54AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 개발한다면 세상은 종말을 맞는다. 범죄천국에 온통 전쟁, 만든 놈을 즉시 사자우리에 처넣어야 한다.",
+        "writer": "UgyWu3n2ihMDUwV5BEB4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음엔 과학기술 재밌게 알아가는 맛에 시청했는데 요즘은 랩장님 보는 맛이 더 쏠쏠하네유0",
+        "writer": "UgwuXzfO3IR4IezZC8p4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에서 가장 불쌍한 여인 랩짱님 .. 종일 관심도 없고 모르는 야기들을 계속 들어야 하니, 시기 적절하게 리엑션도 해야하고, 수고 많으십니다, 항상 재밌게 보고 있습니다, 항상 감사합니다, 3분 모두,",
+        "writer": "Ugy6b1y54yIJ9l31vq54AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 여자는 아 오 이거 밖에 안하노,",
+        "writer": "Ugw8QYJjb7jcvYEbUrB4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잊어버리면 영영못찾겠네",
+        "writer": "UgzEXRvNQ716oasuBtR4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 너무재밌네",
+        "writer": "Ugxr8GQNAysisqCo46F4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올 공진님",
+        "writer": "Ugz2_-EamLX3KKLVzaN4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공진주파수를 조절할 수 있는 메타물질이 있나요",
+        "writer": "UgxIAW-VBwEuf2-B6LN4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 저거 포토샵이었어 깜빡속았네",
+        "writer": "Ugze9Zd8RpVsTt5F0Zp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자는 뭔데, 리엑션이(반사회적용어) 잘하지, 개그도 그렇고,",
+        "writer": "UgwSW1YUZwlGcmNxU794AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궤도형 잘생겼다",
+        "writer": "UgyHpAVMyHMxi5p9x3t4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학은 2배속으로 녹음하시는 건가요",
+        "writer": "UgxS9wsj02Y_0j6xz8R4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자분 두분이 형제아닌가요 너무 닮으셨는뎅",
+        "writer": "UgzR_S1tuO_6KCvBtlh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저분도 (이름)입니다,",
+        "writer": "UgxQJHuEtU8VN2gdk3J4AaABAg.9657Ff-qIy19AWup01gx4f",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 아 네 오 가 90퍼센트",
+        "writer": "Ugw8QYJjb7jcvYEbUrB4AaABAg.94uILM7HEKH96GXRW3c6zh",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타물질은 애초에 공진주파수 조절의 원리로 구현됩니다.",
+        "writer": "UgxIAW-VBwEuf2-B6LN4AaABAg.93T9x5c6s-R9O7_5LTBXN8",
+        "write_date": "2021-06-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩짱님 볼매",
+        "writer": "UgzwELh36eT-itQWASl4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩짱님 무서운 상상 하셨네",
+        "writer": "UgxlFQfQ0UQrHzWo2rB4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 고작해야 반사디스플레이 스텔스 생각했는데 이미있고 메타물질도 나오고있다닝",
+        "writer": "UgzhSQ_bk2Tmtzt2tBh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩장둥절 너무 귀엽다 세분 케미 너무 좋아요.",
+        "writer": "Ugzu4QEhCMmkxZr3fHl4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나같아도 랩장님 옆에서 설명하면 봐야하는 카메라는 안보고 랩장님만 쳐다보면서 설명할 것 같네요. 설명은 거들뿐 무엇이 중요한디",
+        "writer": "Ugyf2VoiWeYr8hWIBJp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 투명망토 쓰셨눈뎅",
+        "writer": "UgxfiFg2tkqLhlhXsF14AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자주올라와서 너무좋습니당",
+        "writer": "UgzhSAaNOdBW5IdhEUF4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 질이 높은 영상을 만들어 주셔서 고맙습니다. 재미있고 유익합니다. 앞으로도도 더 커가는 채널 되세요",
+        "writer": "UgzJholdR-Jqfo38OGF4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직접가서 방청하고싶네요",
+        "writer": "UgxVqoAmHKSLDSWteiN4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번편 깨알드립 너무 재밌네요 랩짱님은 항상 리액션이 되게 좋으시네요. 더욱 분위기를 올려주시는거 같아요 오늘도 너무 재밌고 유익한 영상 잘 봤어유 (이름)들 너무 멋지시고 훌륭하세요.",
+        "writer": "UgyN5A8MZ1O1iWKwl8N4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스텔스도료로 사용하면, 레이스탄생인가,",
+        "writer": "UgwOaTEX1ROkB6Lm7ih4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제대로 된 여성과학자 앉혀주세요",
+        "writer": "Ugx6c681Ki8xmYZPh214AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타렌즈 언제 폰카로 들어오나요",
+        "writer": "UgySDBBdvp7ZCUBjY3V4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞기도록 맡기도록으로 고치고 싶다 항상 재미있게 보고 있어요..",
+        "writer": "UgyvyRqtsx4kWYFFosB4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게느린버전을 보니까 새롭고",
+        "writer": "UgxrFfFBzDdabIoFr894AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메타물질 겜할때 봤는데 실제 존제하는거였구나",
+        "writer": "Ugz6d27EzKcnEhh7Gzp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "렙쨩님 사랑해요 팬이에욧",
+        "writer": "UgwobDYyiDMvB9FCO3N4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Meta 게임내에서 쓰는 조합 또는 트렌드를 뜻함.",
+        "writer": "Ugy1Offv2gFY6yM711R4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 너무 잘 보고 있어요...",
+        "writer": "UgwPt20VYPA42TZvGvp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으하 극찬(이름) 감동감동 더 좋은 영상으로 찾아오겠습니다.",
+        "writer": "UgzJholdR-Jqfo38OGF4AaABAg.92tShK8DTV992tX7WHQZl8",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기회가 된다면 꼭 공개방송을 열어보겠습니다.",
+        "writer": "UgxVqoAmHKSLDSWteiN4AaABAg.92tQKTIl_Gh92tX3YY5VHR",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감동적인 댓글에 오늘 밤도 따뜻합니다",
+        "writer": "UgyN5A8MZ1O1iWKwl8N4AaABAg.92tQ9yOG4HM92tX1AgLPM7",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제로도 군사용도로 계발중인 재품이 있다는 기사는 본적이 있네요",
+        "writer": "UgwOaTEX1ROkB6Lm7ih4AaABAg.92tPvgnHItS98G-P_xygcP",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가 불편한지",
+        "writer": "Ugx6c681Ki8xmYZPh214AaABAg.92tMWqFx-pa9BTmbVIYzmy",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으핫 찾아내지 못한 오타를 잡아주셔서 감사합니다",
+        "writer": "UgyvyRqtsx4kWYFFosB4AaABAg.92tLUj8TpsR92tWwUYBC7W",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 더 팬이에요..",
+        "writer": "UgwPt20VYPA42TZvGvp4AaABAg.92t9G1_rRpB92tWrui9cHX",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩장님은 모하시는 분인가요 모델이신강",
+        "writer": "UgwnTSBLt7aL1D7FWvh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 너무 재밌네요",
+        "writer": "UgwLGH-I_QlUhuirruJ4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보) 랩미팅에서 말하는 천재란 머리에 너무 많은 에너지가 모여서 모발이 그 에너(반사회적용어) 견디지 못하고 탈락하게 된 사람을 말합니다. 간단히 말하면 탈모인 사람을 말하는겁니다. 이 악마같은 아재들,",
+        "writer": "Ugw5jgviDcempmRr4Vt4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩장님 오늘도 아름다우십니다 사랑합니다",
+        "writer": "UgxWuzHXhtu1vpPJVPd4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 할머니도 아는 쉬운건데. 야야 저거 자루 몇 메타 짜리고오",
+        "writer": "UgxnMi_9xjI2JhBZ2Pd4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가운데 (이름) 인스타 주소점 알려주세요",
+        "writer": "UgxcjMC5w_rp3Vein654AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교육에서 메타인지도 있던데",
+        "writer": "UgyqTNgBt_ew0gudaGd4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알찬 유투브 사랑해요.",
+        "writer": "UgxrnufMIlqbtQ33y394AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공래원 공래원 오늘도 반가워요 와아아",
+        "writer": "Ugy0qvGU6gTIf0s1ygh4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)14 이중에 어떤게 공진님꺼예여",
+        "writer": "UgxqyYU4Rsh5NUc6oo14AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩미팅입니다, 이게 빠지다니, 포인트인데 2부 시간주제 기대합니닷",
+        "writer": "Ugyhus498W3SgMYP2-R4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길이 잴때도 쓰죠. 1메타 2메타 , (이름) 키는 2메타가 넘죠",
+        "writer": "UgzAzBzZpGQIsTzd8GF4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오. 0.0 커엽",
+        "writer": "UgyxSo7kIwIieO0ODfp4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩미팅 꿀잼",
+        "writer": "UgwSYLKEBzMUpBnaA2J4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 방에 있는 (혐오표현)통을 메타 물질로 투명하게 만들고 싶어요, 치우기 싫어요",
+        "writer": "UgyMWepoJJE4tk3Xn3J4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이게 궤돕니다. 공진님 아, 또시작이다 또 진짜 두분 티키타카 웃겨욬",
+        "writer": "UgyZ4_5coO0pnYhxNJd4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "랩미팅입니다 왜 빼셨어유",
+        "writer": "UgygngYl7LoMGeuxzc14AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본 (반사회적용어)확률은 내구독자수 뭔 뜻",
+        "writer": "UgwnTSBLt7aL1D7FWvh4AaABAg.92t734Dot1J92yKBtTufg7",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으하 감사해요.. 앞으로도 더 좋은 방송 만들어가겠습니다..",
+        "writer": "UgwLGH-I_QlUhuirruJ4AaABAg.92t5T8Buz1d92tWqQ7AFLj",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이보다 명확한 설명이 없다",
+        "writer": "Ugw5jgviDcempmRr4Vt4AaABAg.92t53-PdpeZ93ElxWrE_1u",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 자신에 대해 완전히 인지하는 것이었던가요",
+        "writer": "UgyqTNgBt_ew0gudaGd4AaABAg.92t1pH6BP0A92t4Z6qCXqj",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안될과학 Unrealscience 비슷했던거 같아요 메타인지가 뛰어난 학생이 공부잘한다고",
+        "writer": "UgyqTNgBt_ew0gudaGd4AaABAg.92t1pH6BP0A92t6SnrffVb",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자신을 주관적인 관점이 아닌 외부의 객관적 관점으로 본다는 것이죠 )",
+        "writer": "UgyqTNgBt_ew0gudaGd4AaABAg.92t1pH6BP0A92vCNHw7XB8",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "극찬에 감동감동, 앞으로도 열심히 준비하겠습니다.",
+        "writer": "UgxrnufMIlqbtQ33y394AaABAg.92t1Yq94uDF92t4TZusjwJ",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공래원(이름), 사랑을 물건으로 만들 수 있다면 이미 로켓배송했을텐데요..",
+        "writer": "Ugy0qvGU6gTIf0s1ygh4AaABAg.92t1TOZLOMM92t4RikGPxF",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그걸로 박사논문 3개 내셧어요",
+        "writer": "UgxqyYU4Rsh5NUc6oo14AaABAg.92t1A9Fr2mc9Q1A_Bu5Ze_",
+        "write_date": "2021-08-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히 랩장님의 랩미팅입니다. 중간에 넣을 수 있도록 하겠습니다.",
+        "writer": "Ugyhus498W3SgMYP2-R4AaABAg.92syVQUW7LH92t4CYApAn3",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에, 역시 고오급 발상",
+        "writer": "UgzAzBzZpGQIsTzd8GF4AaABAg.92syHFsFLpW92t48LPyXsw",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메다 아닌가여 1메다 2메다",
+        "writer": "UgzAzBzZpGQIsTzd8GF4AaABAg.92syHFsFLpW92vpsNaFkGR",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 꿀럽",
+        "writer": "UgwSYLKEBzMUpBnaA2J4AaABAg.92swabiQkBI92t44S5HJfF",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안될과학 Unrealscience 항상 재미있게 시청중 입니다.",
+        "writer": "UgwSYLKEBzMUpBnaA2J4AaABAg.92swabiQkBI92t5V2by1if",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에, 저도 갖고싶어요,",
+        "writer": "UgyMWepoJJE4tk3Xn3J4AaABAg.92svjNbruUN92t42wb-oRa",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에, 물건들 못 찾을텐데,",
+        "writer": "UgyMWepoJJE4tk3Xn3J4AaABAg.92svjNbruUN92vCS2RHAqK",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 둘은 겉으로는 그래도 서로 하는 사이입니다.",
+        "writer": "UgyZ4_5coO0pnYhxNJd4AaABAg.92sv-f17Or492t3x_3NMwt",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퀘벡에서 새벽5시에 보고있습니다 꿀잼영상 감사해여",
+        "writer": "UgygngYl7LoMGeuxzc14AaABAg.92sutpA0YVq92suyAxW9bJ",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퀘벡에서 새벽 5시라니 감동입니다.. 중간 랩미팅입니다 음성 맘에 드셨나요 히히 반영해보겠습니다.",
+        "writer": "UgygngYl7LoMGeuxzc14AaABAg.92sutpA0YVq92t3sTOmjeq",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁 답글 감사합니다 너무 재밋게 보고 있어요",
+        "writer": "UgygngYl7LoMGeuxzc14AaABAg.92sutpA0YVq92t6SP3Za8w",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루만 공부 못하고 싶다 항상 못하니까",
+        "writer": "UgzjtEtGJrTWm0zII4B4AaABAg",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느리지만 쿨한 과학. 라이브 랩미팅입니다.",
+        "writer": "UgyH6PB1woAD3KWmGf14AaABAg.92surcLEcwi92t3mQHBE6z",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "띵언 of 띵언,",
+        "writer": "UgzjtEtGJrTWm0zII4B4AaABAg.92suY2ESfOl92t3jrClSJj",
+        "write_date": "2020-10-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=w3dNXcoJbfY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

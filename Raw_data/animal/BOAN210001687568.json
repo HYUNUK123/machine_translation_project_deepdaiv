@@ -1,0 +1,708 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001687568",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001687568"
+    },
+    "text": [
+      {
+        "content": "안녕하세요 꽃돌이 주인입니다. 구독자 이벤트에 당첨되신 10분 중 아직 메일에 회신을 (이름)신 분들은 반드시 10월 5일(일요일)까지 회신을 해주시기 바랍니다. 10월 5일까지 메일에 회신을 (이름)시면 죄송하지만 이벤트 상품은 다른 분께 드리는 것으로 하려고 합니다. 아직 메일에 회신을 (이름)신 JB MAX님_(이름)남승경님최(이름)께서는 반드시 10월 5일까지 메일로 상품을 (반사회적용어)할 주소를 보내주세요.",
+        "writer": "UgyOvnwpkS0ijkCtPcp4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 토끼 똥에서 꼬소한 과자 냄새가 나는데 괜찮은 걸까요",
+        "writer": "UgyHDqNaF1IPVGkrkJZ4AaABAg",
+        "write_date": "2021-10-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크림색 옷입은 칭구분 몇번을 맡으시는 영상 쭉 정주행중인데 이번 실험이 젤 웃기네여",
+        "writer": "Ugz0smaLSVQ9XvZCpuF4AaABAg",
+        "write_date": "2021-04-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상보고 저도 토끼 사요",
+        "writer": "UgxPr42OQriQURTImVh4AaABAg",
+        "write_date": "2021-01-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 토끼똥이 살짝삐죽튀어나와있는데 괜찮나요",
+        "writer": "Ugw_lCH566IdEhmF8cx4AaABAg",
+        "write_date": "2020-12-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건초데코된 반짝반짝한 똥을 손바닥에 올리시고 예쁘게 흔들흔들 해주시는 (이름)",
+        "writer": "UgyPl9dcwWP63AB8Q3B4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "육식 잡식 얘네는 진짜 변냄새 심한데 초식은 냄새 안남 화장실 잘 갈아주면",
+        "writer": "UgyRoKSagK-Op3mjOhJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냐(비속어)자에 나오는 강(이름),",
+        "writer": "Ugx4AZBbiiDVIPdM1mR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 곧 있음 토끼를 분양 받는데요, 이미 토끼의 특성 먹는 것들 다 충분히 공부해 둔 상태에서 책임감은 있지만 최근들어 인터넷 등 여러 사이트에서 토끼가 소변 냄새가 장난이 아니라고 비추하는 댓글들이 너무 많아서 갑자기 겁이 드네요, 이미 키우기론 정한 동물인데 냄새를 잡는 스프레이 같은게 있을까요 아니면 맨날 맨날 토끼 집을 깨끗이 치우고 배변통도 매일 씻겨주면 냄새도 없어지겠죠, 알려주세요",
+        "writer": "UgwSZ-7anBmq6Gma60x4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 보리 응아는 기분나쁜 야채크래커 냄새가 나요.",
+        "writer": "UgxhI35OExaLXFmI2C94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼똥을왜 주어 똥응가",
+        "writer": "UgyyaHl8UKoAHxO7fOJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맹장변 오늘 처음봤는데 몬가 좀, 버블티에 넣어서 먹는 타피오카 펄 처럼 생긴 듯한 느낌적인 느낌, ( )",
+        "writer": "Ugx6kYko0rnvbyJsDB54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오줌냄새는 어떤가요 애기땐 화장실 외에 딴데서 실수많(이름)요",
+        "writer": "UgyHc0k8gc1LPBUN7eB4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딸기랑 티모시 먹은 똥냄새 오줌냄새 좋아",
+        "writer": "Ugyez83QzhPRXQob_jV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구가 매우 착하다는 결론,",
+        "writer": "UgxYluxTblzrW6vYUZh4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼 똥 냄새 안나요 발정기때 양파냄새 나지 않아요 꽃돌이 귀여워",
+        "writer": "Ugx4_hFGPYLpDZ8tXYp4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼냄새난다하기전에 지들똥오줌냄새가 더심합니다. 어디서깔끔떨고 있데요 모든반려동물 혹은 사람또한 배변에서 냄새나는건 정상이구요. 또한 배변을 쌈 으로써 건강하단 증거인데 그걸 뭣같이 보는애들은 가슴에 손을얹고 니똥냄샌 깨끗합니까 라고 묻고싶네여 . (참고로 맨초반에 댓글수준보고 얘기드립니다.)",
+        "writer": "UgzaY47oebYY8HyeUC14AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 토끼똥은 괜찮음 오줌냄새가 쎄요",
+        "writer": "UgwsOahm9s8-rq55Efd4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시골에서 아 여기 목축업을 했거나 하다가 접었다는걸 짐작 할 수 있을정도의 냄새죠",
+        "writer": "Ugz-6stCMFYhbuRlyfZ4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 받을게요..",
+        "writer": "UgyOvnwpkS0ijkCtPcp4AaABAg.9-QMhzMSdut9-T6Fpp2_Pw",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이게 제일 재밌어요. 가끔 혼자 꺼내봅니다,",
+        "writer": "Ugz0smaLSVQ9XvZCpuF4AaABAg.9LiYkQt6fKb9Lq2r6PcP4J",
+        "write_date": "2021-04-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냄새때문에 걱정된다면 입양은 다시 한번 생각해보시는게 좋을 것 같습니다. 반대로 여쭤볼게요. 만약 냄새가 심하다고 제가 대답한다면 키우지 않으실건가요 모든 동물의 대소변은 냄새가 납니다. 사람도 마찬가지죠. 얼마나 열심히 주인이 청소하는지에 따라서 달라지겠죠 냄새에 예민하신가요 그렇다면 동물을 키우지 않으시는게 맞습니다. 그렇다면 냄새도 나지않을테니까요.",
+        "writer": "UgwSZ-7anBmq6Gma60x4AaABAg.96uuiRN55h996vo9cy2vLx",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 뭔지 알 것 같아,",
+        "writer": "UgxhI35OExaLXFmI2C94AaABAg.96kYVdFq2ZO96lIywBaexT",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼가 똥을 먹는이유는 몸에 채우지 못한 영양분을 마져 채우기 위해서고 똥은 아무냄새 안나고 쉬가 냄새가 엄청 독해요",
+        "writer": "Ugz4X890r6XeRdDUpqZ4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 맹장변 꼭 콩자반 같아요",
+        "writer": "UgwjQWamq6N29GFZS2Z4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 토끼 키워봤는데 냄새 지독하다고 그러는 사람들 보면 대체 얼마나 안좋은 환경에서 토끼를 키운건지 의문스러워요농장을 운영하셨던건지, 화장실 (이름)고 며칠씩 방치하면 당연히 어떤 동물이든지 지독한 암모니아 냄새가 나죠. 토끼는 사람보다 후각이 훨씬 뛰어나고 토끼냄새 지독하다고 하는 사람들보다 더 힘들었을거에요. 그것도 학대에요 동물키우려면 위생 잘 신경써줘야해요. 털있는동물들은 자기몸에 냄새나는것 오물묻는것도 당연히 싫어하고 스트레스받아해요,",
+        "writer": "Ugy8iLcG1Jr0liJDpCJ4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼똥 치우기도 쉬워보이고 작아서 거부감도 없을 것 같은데 냄새가 심하다고 말 하는 사람들은 관리를 자주 (이름)거나 식단을 잘못 주고 있어서 그런거라고 생각,",
+        "writer": "UgzD7hGzTnWUw5QpRw54AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맹장변 꼭 간장에 조린 콩같네요,",
+        "writer": "UgxOpImym7L__Au5BNJ4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아 맨날 토끼키운다고하면 친구들이 토끼 냄새나잖아 냄새나잖아 그러는데 옛날 축사에서 대충키우던 그런환경에서나 냄새나지 배변교육하고 화장실 치워주면 아무냄새안나는데 오해받아서 슬펐음 솔직히 개나 고양이도 옛날 토끼키우던것처럼 그렇게키우면 냄새나는건 매한가지 아닌가 똥냄새도 거의 안나고",
+        "writer": "UgxIZvmwGPMGI2UQIil4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한번도 안맡아봐서 궁금했었는데 어떤지 조금 알 것 같아요 영상 올려주셔서 감사합니다.( )",
+        "writer": "UgwNwoyl9z366Po2-TV4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃돌이도 알아요 자신의 떵으로 , 재밌는 인터뷰 감사합니당. 꽃돌이 똥쓰도 귀엽당.",
+        "writer": "UgwNBEWv8YJ1zwg-IRx4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 토끼두고 여행 가실때는 어떻게 하나요 10일 이상 으로 길게 갈 때요",
+        "writer": "UgzUlVMF0f4z4pC9INl4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옹제가 11월 2일에 새로운( )처음으로( ) 아기토야를 사려고 해요. 제가 미리정해 논 이름이 토리 토토 순이 등 인데 제가 구독도 그렇고 영상보는것도 그래서그런지 매일추천영상에 토끼영상이 많이 떠요. 그래서 많이배우고 많이웃고 하다 토끼를 (반사회적용어)로 결정했어요, 역시 키워본 분들은 귀엽지만 힘들다고 하시네요,그건그렇고 물어볼게 있는데 울 토야집을 지을때 다이소에있는 망 그런거로 테두리 만들어도 되나요 어떤분들은 토끼가 거기 사이로 나올려 해서 죽을 수도 있다는데, 쓰시는 분들도 많아서 답변 부탁드려요.",
+        "writer": "Ugxw2unDo4CA0NP6vsB4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국 토끼 냄새는 주인이 얼마나 부지런하게 청소하고 관리해주느냐에 달려있는 것 같네요. 그나저나 토끼가 자기 똥을 먹는다는건 알고 있었지만 토끼의 일반똥하고 다르게 생긴 건 처음 알았어요. 재밌는 정보 하나 알아갑니다.",
+        "writer": "Ugx_p4ctaAO2-o71g6J4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 실험은 진짜 태어나서 처음 보기도 하지만 앞으로도 못 볼거 같아요 마지막 지인분 디퓨저 몰랐던 사실까지 마지막에 알려주시는 센스, . 정말 좋은 영상들 감사해요.",
+        "writer": "UgzWaYDOtIP9SxbGFlJ4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 토끼를 키우는데요. 제가아직 나이어린 학생이고 처음인데 토끼도 2마리라서 어떻게 키워야할지모르겠어요 (이름)가 비만인데 다른 (이름)가 무게가적구 둘을 분리시켜서 밥을 무게에 맞게주면 집에있는 아이가 심술부려서 격리도 힘들어요. 또 발아프지말라고 퍼즐 발판을 샀었는데 토끼들이 다 갉아먹었습니다 이갈이가 없는것도 아니고 밥이 적은것도 아니에요 토끼 키울때 꿀팁 잘키우는 방법 이있으시다면 알려주세요",
+        "writer": "Ugz2y4XXt7sXxE61xvh4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃돌이 (이름) 제가 굴토끼(이름)를 데리고올려고하거든요 공부도 열심히 했는데 그래도 불(이름)요 먹이 집말고 필요한건 더 없을까요",
+        "writer": "UgwkJTOsfRSe0MPqrSN4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 느끼지만 촬영을 정말 깔끔하게 잘 하시는것 같아요 근데 늘 궁금했던게 있어요 토끼(이름)들은 다들 손으로 줍줍 하시던데, 토끼변에는 대장균이 없나요 얼굴 입가나 피부에 묻어도 피부트러블이나 장염걸릴 일이 없는 건가요 저는 강쥐3 마리만 키워 봤고 토끼는 전혀 모르겠어서 질문드립니다 .. 오늘도 이뿐 꽃돌이",
+        "writer": "Ugzlofw_e90QGNFi0zV4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신박한 아이디어네요 .. 아 그리고 택배 잘 받았어용 기회가 된다면 제 감사영상을 봐주시겠어용 항상 존경하고 잘보고 있어료 ..",
+        "writer": "UgzrNfGMiFcn0YHnWY54AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 토끼길러봤었는데 식변은 좀 냄새날수있는데 일반적인건 냄새가 별로 안나더라고요 일반적인건 그냥 풀냄새정도 나던거같았어요 일단 동글동글하니 굴러다녀서 청소하기는편했습니다소변냄새만 잡아주면 된단말이 맞더라고요",
+        "writer": "UgwL1gnp1MTjhFpFx694AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영상 매번 볼 때마다 정말 정성스러워서 감사드려요 , 토끼집사 준비중인 저에게는 정말 유용한 영상들, 토끼에 대한 많은 정보들 더 많이 알려주셨으면 좋겠어요 항상 감사히 보고 있습니다 .",
+        "writer": "UgzUIpB9M7vw2_IT9Al4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼 화장실 안 치워주면 소변 냄새 많이 나죸 청소 안 한 탓은 온데간데 없이 무조건 냄새난다. 라고 하는 사람들이 많아요. 참고로 토끼 소변 냄새를 줄이는 데는 화장실에 우드펠렛을 깔아주는 게 저는 제일 좋더라구요. 똥은 갓 꿨을 때만 꼬순내가 좀 나고 말아요.",
+        "writer": "UgyYnUDiauKm0Uk_YTV4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 친구들에게도 몰래 시향부탁해주고싶네여",
+        "writer": "UgzFQPAXWN5qaZ8XWXp4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 꽃돌이 주인은 더이상 조린 콩을 먹지 못하게 되었다고 한다,",
+        "writer": "UgxOpImym7L__Au5BNJ4AaABAg.9-yU1xstTaC9056s3n0lGS",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 고양이 다 실내에서 키우는 애들 기준으로 둘 다 싼 직후 냄새는 심하고 (비속어)는 조금 지나면 괞찬아지는데 고양이는 오래 가는 거 같아요. 밖에서 키우는 애들 기준으로는 고양이는 냄새가 거의 안나고 (비속어)는 냄새가 많이나는 것 같아요. 토끼가 초식동물이라 그런지 응가 냄새가 덜 한것 같아요. 밖에서 키워도 매일 치워주면 고양이 토끼 (비속어) 순 정도로 남새가 나는 거 같아요",
+        "writer": "UgxIZvmwGPMGI2UQIil4AaABAg.9-mzL-Vace39FmbQ_roGX8",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현정 님 안녕하세요. 시청해주셔서 감사합니다 다른 분들의 솔직한 감정으로 냄새까지 4d로 지원해드립니다. 즐겁게 봐주셔서 감사합니다",
+        "writer": "UgwNwoyl9z366Po2-TV4AaABAg.9-kd0wYdZkm9-lVOgJ1xbc",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 안녕하세요. 시청해주셔서 감사합니다 자기똥을 열심히 주워가는 주인의 모습을 보면서 어떤 생각을 했을지, 즐겁게 봐주셔서 감사합니다.",
+        "writer": "UgwNBEWv8YJ1zwg-IRx4AaABAg.9-erofiGR8L9-lVIyPb2IL",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤서 님 안녕하세요. 시청해주셔서 감사합니다 토끼는 10일 이상 방치할 수 없는 동물입니다, 저는 최대 11.5일 정도만 방치가 가능하다고 생각해요. 2일 이상 토끼를 장기로 봐줄 지인이 없다면 소동물 호텔 등에 맡기시거나 호텔링이 가능한 병원에 맡기시거나 토끼 커뮤니티에서 임시보호 해주실 분을 찾으셔야 합니다. 제일 좋은것은 집 근처에 거주하는 지인에게 부탁하는 것이 제일 좋아요.",
+        "writer": "UgzUlVMF0f4z4pC9INl4AaABAg.9-eYuyVvW8z9-gccTJpRAq",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이글레인 님 안녕하세요. 시청해주셔서 감사합니다 맞습니다. 토끼냄새는 정말 주인이 얼마나 부지런한지 얼마나 토끼를 사랑하는 지에 따라서 많이 다를 것 같아요 즐겁게 봐주셔서 감사합니다.",
+        "writer": "Ugx_p4ctaAO2-o71g6J4AaABAg.9-dlDbUyGBE9-lVBR3G6Cn",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요니 님 안녕하세요. 시청해주셔서 감사합니다 저도 처음보고 앞으로도 없을 실험이 아닐까 싶네요 고양이 변 냄새가 엄청 독한가봐요. 토끼 응아 냄새정도는 디퓨저로 느껴버리는",
+        "writer": "UgzWaYDOtIP9SxbGFlJ4AaABAg.9-d0uf_9nlZ9-lV5BOHDOj",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 (이름). 시청해주셔서 감사합니다. 혹시 키우시는 토끼의 성별이 암수로 다른가요 보통 수컷 토끼가 암컷 토끼보다 덩치가 크고 빨리 자라더라구요. 저도 수의사가 아니라서 정확하게 말씀드리기 어렵기때문에 참고만 해주세요. 일단 밥을 무게에 맞게 주신다는게 어떤말인지 이해가 안됩니다. 토끼에게 건초는 무제한 급여가 원칙이에요. 사람처럼 아침 저녁으로 나눠서 주는 것이 아닞니다. 배고픈 토끼들이 언제든 먹을 수 있도록 항상 건초를 가득 채워주세요. 그러면 덩치가 (반사회적용어)더(반사회적용어) 밥으로 다투는 일은 없을거에요. 주시는게 사료라면 사료는 제(이름) 주셔야합니다. 건초 위주로 가득가득 챙겨주세요. 퍼즐발판같이 토끼가 갉기 좋은 재질은 토끼들이 뜯으며 놀다가 먹을 수 있답니다. 미끄러운 발바닥이 걱정이시면 면으로 된 이불을 깔아주시는 것도 방법이에요. 만약 토끼들이 암수로 성별이 다르다면 발정기가 시작되면서 임신 및 출산의 가능성이 있습니다. (비속어)들까지 책임질 환경이 아니라면 중성화 수술을 통해서 사전에 차단해주셔야해요. 안그러면 집안에 토끼들이 넘쳐나게 될거에요. 암컷 토끼의 수술비용이 비싼 편이니 일단 수컷 토끼의 수술부터 생각해주세요. 보통은 67개월 이후에 중성화 수술을 해주는 편입니다. 이번에 업로드한 토끼의 특징 6가지 편을 보시면 초보 주인에게 도움이 많이될거에요.",
+        "writer": "Ugz2y4XXt7sXxE61xvh4AaABAg.9-ck3KfroLs9-gc9qHAZS6",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜꽃도령 님 안녕하세요. 시청해주셔서 감사합니다 토끼를 입양하실 예정이시군요. 먹이와 집 그리고 물을 담아줄 무거운 물그릇과 미끄럽다면 바닥에 깔아줄 매트 등등. 다른 토끼 주인분들의 양육 환경을 참고해서 준비해주세요",
+        "writer": "UgwkJTOsfRSe0MPqrSN4AaABAg.9-cduTXLlgI9-lUyp7Ivem",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MIN MIN 님 안녕하세요. 시청해주셔서 감사합니다 토끼 똥은 장갑끼고 줍다가는 끝이없어서 대부분 포기하시고 손으로 집으시는 것 같아요 대장균 여부는 저도 정확히 알 수는 없지만 어찌되었던 동물의 분변이기 때문에 만진 이후에는 꼭 비누로 씻고있답니다.",
+        "writer": "Ugzlofw_e90QGNFi0zV4AaABAg.9-_cVRxbrhu9-lUhgIl_L7",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔방울_ 님 안녕하세요. 시청해주셔서 감사합니다 감사영상 보고 댓글 남겨놓았었죠 저야말로 감사영상 감사합니다책 열심히 읽어주세요.",
+        "writer": "UgzrNfGMiFcn0YHnWY54AaABAg.9-Xt4mkLcJx9-lUYEzb901",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8melody8 님 안녕하세요. 시청해주셔서 감사합니다 맞습니다. 식변은 저도 좀 참기가 어려울 정도로 냄새가 강한 편이지만 대부분은 그대로 홀랑 먹어버려서 냄새가 심하지않아요 소변도 자주자주 치워주면 냄새가 심하지않구요. 토끼는 관리를 어떻게 해주느냐에 따라서 정말 깨끗하게 키울 수 있는 동물인 것 같아요.",
+        "writer": "UgwL1gnp1MTjhFpFx694AaABAg.9-UX55T1hqS9-dwtwBHp2U",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핸 님 안녕하세요. 시청해주셔서 감사합니다 영상 즐겁게 시청해주셔서 저야말로 감사합니다. 앞으로도 제 힘이 닿는 한 최선을 다해서 좋은 컨텐츠 제공할 수 있도록 노력할게요 응원해주셔서 정말 감사합니다.",
+        "writer": "UgzUIpB9M7vw2_IT9Al4AaABAg.9-TBuuLekO49-dwPzHbi7Z",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Semi Kim 님 안녕하세요. 시청해주셔서 감사합니다 맞습니다. 토끼를 키워보면 얼마나 깨끗한 동물인지 알 수 있답니다. 토끼가 냄새나서 못 키우겠다는 댓글을 자주 보게되는데 그때마다 참 마음이 아프고 씁쓸하네요,",
+        "writer": "UgyYnUDiauKm0Uk_YTV4AaABAg.9-SyKIuXsrX9-dwFPsU1Xx",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토비빔 님 안녕하세요. 시청해주셔서 감사합니다 나중에 들키시면 친구가 화를 낼 수도 있겠죠 . 화내기전에 맛난 것을 사주시면 도움이 될 것 같아요.",
+        "writer": "UgzFQPAXWN5qaZ8XWXp4AaABAg.9-Skb1cR0eD9-dvkA-ABjQ",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사, (반사회적용어)꾼이다,",
+        "writer": "UgxM1f0BurtQrYcyW8h4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구우 그만큼 냄시가 덜하죠, 똥글똥굴 귀엽구",
+        "writer": "UgyheRXuK66fae9LCPR4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전장동료는 겜동료아니심까 좋은동료들이군여",
+        "writer": "UgzsDDq6ZZYAu35Bdo94AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지파격적인 썸넬보고 당장 들어왔습니다",
+        "writer": "Ugw3QoYhE-EKd8YYO0x4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떠케 꽃돌이는 변마저 기여웅(혐오표현), 내 배위에 올려놓고 싶다, 그리고 냄새도 별로 안나는 이유능 꽃돌는 요정이기 때문입니다 크흠",
+        "writer": "Ugz9LJ0_li3YUrUci614AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 다르네요 저도 토끼통 치워버리면 식변은 어떻하지 하고 생각하고있던 구독자인데 맹장변은 입으로 바로 받아먹는군요, 궁금했어요",
+        "writer": "Ugw5Zh1V3TyG7fLmz1B4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 다들 흔쾌히( ) 응해주셨네요. 미안하셔서 그런지 음료를 사주셨군요, 목소리는 당연히 변조겠죠 확실히 초식동물이니, 토끼 끙가냄새는 약한가보네요. 다른 얘기지만 저번에 답글 달아주셨을때 제가 정말 우울한 날이었는데 덕분에 기분이 좀 나아졌어요. 꽃돌이 (이름)도 꽃돌이도 저에게 소소하게 행복을 주는 존재라는 걸 알아주셨으면 좋겠어요",
+        "writer": "UgxbeDHhtkqnnA5eXzl4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼 냄새 안 나요 소변냄새가 좀 나서 그렇지, 소변냄새도 우드펠레 깔아놓으면 잡을 수 있다고 하구요. 토끼 카페 가서 토끼 몸이랑 똥 냄새 다 맡아봤는데 깔끔한 풀향기가 나요. 떵도 코코볼 같고 진짜 괜찮던데요",
+        "writer": "Ugw7fVVk_01qf1wbok14AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간이 갈수록 독해지는거아닌가요 이런 발상을 하시다닛대단하십니다.",
+        "writer": "Ugx0ayfmq8PJNtWsEEV4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소 염소 토끼, 초식동물은 변 냄새가 별로 나지 않는데 향기는 아니어도 구수한 정도,",
+        "writer": "Ugx0_9Lk6ML16HyKpjF4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 토끼의 눈곱 똥 다 사랑할수있어요 그게 집사니깐요 .",
+        "writer": "Ugz8NKvQvJT6RfzL87t4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식변도 친구분들께 냄새 맡게하는 줄 알았네요",
+        "writer": "UgzrktM06wZ7am5hzBN4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 꽃도리는 부끄부끄하고 있습니다.",
+        "writer": "UgyPMi65OczI61fjp2x4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토끼똥은 처음보네요 꽃돌이 넘 귀여워요",
+        "writer": "UgwfQEC4C1MNAaF2ho54AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부지런도 하셔라. 저는 이제 취침 들어가요) 오늘도 리서치 감사합니다. 재미나게 볼께요",
+        "writer": "Ugwa3-w5Bn10M8rGJad4AaABAg",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 안녕하세요. 시청해주셔서 감사합니다 철컹철컹. (반사회적용어)(이름) 여기에요",
+        "writer": "UgxM1f0BurtQrYcyW8h4AaABAg.9-RqRHBiYl89-dv_rsGSj-",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(이름)떼 님 안녕하세요. 시청해주셔서 감사합니다 토끼똥은 정말 동글동글 모양도 귀엽고 청소기로 슉 (비속어)들이면 청소도 간편해서 좋은 것 같아요. 정말 매력적인 동물이에요,",
+        "writer": "UgyheRXuK66fae9LCPR4AaABAg.9-RZ-GsQi079-dutStcKoV",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "djw te 님 안녕하세요. 시청해주셔서 감사합니다 파격적인 썸넬에 낚이셨다. 즐겁게 봐주셨을지 모르겠네요.",
+        "writer": "Ugw3QoYhE-EKd8YYO0x4AaABAg.9-R2MRJcDqk9-durQELUvD",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 안녕하세요. 시청해주셔서 감사합니다 꽃돌이는 요정이었군요. 어쩐지, 매일매일 귀엽다고 생각했더니. 항상 꽃돌이 이뻐해주셔서 감사합니다",
+        "writer": "Ugz9LJ0_li3YUrUci614AaABAg.9-QeSFWmxdW9-dummkt3lf",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김쀼쀼 님 안녕하세요. 시청해주셔서 감사합니다 많은 분들께서 궁금해하시는 내용이라 언젠가 꼭 다뤄야지했던 내용이랍니다. 알면 알수록 참 신기한 동물(이름) 궁금증에 해결이 되었다니 정말 다행이에요.",
+        "writer": "Ugw5Zh1V3TyG7fLmz1B4AaABAg.9-QVP3UdMi19-duh2f0RbH",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 안녕하세요. 시청해주셔서 감사합니다 목소리는 살짝 변(이름) 편집했답니다. 촬영이 끝난 후에는 촬영의도를 설명해드렸고 다들 즐겁게 (이름)셨어요 살짝쿵 미안한 마음을 담아 커피를 한 잔씩 대접했답니다. 제 답글에 조금이(반사회적용어) 기분이 나아지셨다니 정말 기쁜 일입니다. 저야말로 댓글로 기분이 좋아지네요, 가끔 힘든일도 있겠지만 분명히 좋은 일도 있으니까요. 항상 힘내셨으면 좋겠어요",
+        "writer": "UgxbeDHhtkqnnA5eXzl4AaABAg.9-Pw3roPHJX9-duJjIMwzZ",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Joy Cho 님 안녕하세요. 시청해주셔서 감사합니다 소변에서는 강한 암모니아 냄새가나서 좀 강한 편이지만 대변은 정말 냄새가 약한 편이랍니다. 토끼몸에서는 정말 은은한 풀냄새만 나구요 주인이 부지런하게 움직인다면 정말 깨끗하고 냄새가 적은 동물이라고 생각해요.",
+        "writer": "Ugw7fVVk_01qf1wbok14AaABAg.9-Pfx6gNPTX9-du5bJX_C1",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무너Moo Nu 님 안녕하세요. 시청해주셔서 감사합니다 토끼 똥에 대한 댓글이 너무 많다보니 언제 한 번 날 잡고 찍어야겠다. 하고 준비했답니다. 앞으로도 재미난 실험을 자주하고싶어요",
+        "writer": "Ugx0ayfmq8PJNtWsEEV4AaABAg.9-PU_wgjpgV9-dtwqIpvSk",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "lee대바기 님 안녕하세요. 시청해주셔서 감사합니다 맞슺니다. 싼 직후에는 양파냄새가 좀 나는 편이지만 시간이 지나면 냄새가 강하지않죠",
+        "writer": "Ugx0_9Lk6ML16HyKpjF4AaABAg.9-PNkUgDfhf9-dtTgl8tN9",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔방울_ 님 안녕하세요. 시청해주셔서 감사합니다 토끼의 모든 것을 사랑할 수 있는 좋은 (이름)이시군요.",
+        "writer": "Ugz8NKvQvJT6RfzL87t4AaABAg.9-PKHB40vtp9-dtNU3v7BO",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김모몸 님 안녕하세요. 시청해주셔서 감사합니다 식변영상은 촬영이 끝나고 나중에 촬영할 수 있었답니다 식변으로 실험했다면 아마 전부 5점을 주지않았을까요",
+        "writer": "UgzrktM06wZ7am5hzBN4AaABAg.9-PFpyOt2fp9-dtJl9mNG-",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Jinseok Lee 님 안녕하세요. 시청해주셔서 감사합니다 자신의 똥을 주워가는 주인을 바라보며 무슨 생각을 했을지요",
+        "writer": "UgyPMi65OczI61fjp2x4AaABAg.9-PD2Ziw7KF9-dt8Vj8Fpr",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러브레시피Love recipe 님 안녕하세요. 시청해주셔서 감사합니다토끼똥은 처음 보셨군요. 토끼똥은 동글동글 환약처럼 생겼답니다",
+        "writer": "UgwfQEC4C1MNAaF2ho54AaABAg.9-PBEDX-ePI9-dqQtqiTJ-",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩌다토끼아빠 님 안녕하세요. 시청해주셔서 감사합니다 헉. 새벽동안 편집하시느라 7시에 주무셨나봅니다. 항상 열심히 활동하시는 모습이 멋있어요 정말 감사합니다.",
+        "writer": "Ugwa3-w5Bn10M8rGJad4AaABAg.9-P4MGotYhU9-dpDOTTaqV",
+        "write_date": "2019-11-09",
+        "url": "https://www.youtube.com/channel/UCK6C8KcXIVARXaYjeyk6agw",
+        "parent_url": "https://www.youtube.com/watch?v=VCPG7Ylre20",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

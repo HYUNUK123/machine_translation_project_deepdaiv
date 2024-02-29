@@ -1,0 +1,4532 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001566836",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOMA210001566836"
+    },
+    "text": [
+      {
+        "content": "생일 축하드려요.",
+        "writer": "UgzXbmOM9y3tYNDGXz14AaABAg.9QY6nIWWXV49QZsO7-Ypf8",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어제긴한데 그래도 감사해요용",
+        "writer": "UgzXbmOM9y3tYNDGXz14AaABAg.9QY6nIWWXV49Q_U4CI1vRm",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도리리TV 어이고,",
+        "writer": "UgzXbmOM9y3tYNDGXz14AaABAg.9QY6nIWWXV49Skguwt0AaD",
+        "write_date": "2021-10-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름이 없다",
+        "writer": "UgwECPlHfzlRQnlRJrp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 나인데 앖음이야,",
+        "writer": "Ugwoz-unVDkNRdFygm14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑 3",
+        "writer": "UgydsaKmZL1BxpFyeJR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사냥좀 해볼까 ( )",
+        "writer": "UgwlZhBEL4D5vBZukpN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심 못 받는데",
+        "writer": "Ugwe9sgcGwx0lxp_4u14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 인데",
+        "writer": "UgyE_lB9RtyI7Q2phEl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)왜 없니",
+        "writer": "UgxVLljdR9W7g4QB8Fl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름 두글자, 박.별.",
+        "writer": "UgwE6GQyTy0Ozepd2r14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전이기땜에 아이스크림.",
+        "writer": "Ugw_VNFYbg4OJ9WCCB14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "있는데 , 없어라고 해야하는건가, 어, 나도 없,",
+        "writer": "UgwvoRWuQJlAznzWWth4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기 이름 안 들어가 있는사람",
+        "writer": "Ugwz3IAZd1Bvzr5T4Fh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 피곤",
+        "writer": "UgwDd2fpWTJXpaE1L8J4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배탈 나겠군, (이름(이름))",
+        "writer": "UgyAOJWbnCa919hF-sp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 있다",
+        "writer": "Ugx6_nPQU52z_6tQb194AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹은 복",
+        "writer": "Ugy6QUrsdOoZ0IwzM2d4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜없냐고왜 이없어.",
+        "writer": "Ugyxe4pGeLhH25HGKaR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름없어요 제이름이 이거든여",
+        "writer": "Ugy2AuFyMwatL-lbCQt4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이어서 없어요 .",
+        "writer": "Ugx_3P2LDfpP6_mqKvZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인을 만난다는 군요,",
+        "writer": "Ugxt5MsFN_Z38FGf6054AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어, 없어, 없 . 제 이름 좀 너어주세요",
+        "writer": "UgwXXQeM6TDgAH-wcmp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 왜 없어요",
+        "writer": "UgxnrRwbCvL-cfQ2NCJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 없음",
+        "writer": "Ugy9JnfCZNqLjpkYRQR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤 이다 흐암",
+        "writer": "Ugzy2aeY7tDQP33Nu594AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름 있네여 오늘 엄청 피곤했는데 운인가요",
+        "writer": "Ugzp1AKj8mZ-k7NQP6N4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난없어, 힝",
+        "writer": "UgxY4OSdf2fiEuMUghl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 흑역사를 겪는다고",
+        "writer": "Ugy5bIpSwsUWiJf6N5x4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 은 없죠",
+        "writer": "UgzLWrvPBWnGUx1dETZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 사람 손",
+        "writer": "UgwxHQZF_VDK-l6CGch4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤을 얻었다 어쩐지 졸리고 축처지드라",
+        "writer": "UgzTCqKGrSYzaqhEaOp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 인데, 없내요 없는분 좋아요",
+        "writer": "UgyjGW3vjzkGTbV8PB54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜없어 없는분",
+        "writer": "Ugzdg8hlOgSAQSIXYxp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오, 이,이였으면, 좋았을텐데,",
+        "writer": "UgxmZwzOSjHYCO9nDjV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 없다구",
+        "writer": "UgySDQmmWT414MrR67J4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리반 13명중에 4명밖에 없음 ( (비속어) (비속어) 없음 은 두명쌍둥이)",
+        "writer": "Ugy7yHUP6GervrGhRdh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피, 피곤",
+        "writer": "Ugz9REg35XEEqihsQOF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 피곤치가않다욥 11시까지 갠차는데((반사회적용어)이에욥,",
+        "writer": "UgyYX4vfgkFjY3ombcR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "을 찾습니다,",
+        "writer": "UgySGV_VTaUi_C0uB3t4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 아이스크림이네요 저는 초성 성까지 합쳐서 임",
+        "writer": "UgwxW0Nxc1OLK2CqRk54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 피곤하네용",
+        "writer": "UgzHeOqZaTOsicgYo954AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈남 연예인",
+        "writer": "Ugwdqhz7pwm5pTNNvd14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름 얺어",
+        "writer": "UgyrzD_gfgH8Jhqflxx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 없다",
+        "writer": "UgxTjN1AkdQcIO3Gii14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전, 인데, 없어요료요오오어오아아누누우유유류유오오(비속어)오러류유",
+        "writer": "UgwUKdtPLjXQsKqaPrF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 동전",
+        "writer": "UgwW7VOxvO65uo0fyu54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 사람",
+        "writer": "Ugz7eAVEfNXipPkAQRN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길가다 헌팅 나이스",
+        "writer": "UgxTGK9-B4JSjqIE4I14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난없어 없는분은 좋아요좀,",
+        "writer": "Ugxj9j4QMmlFK8PkkNV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "졍 먹을복",
+        "writer": "Ugzy8v08l3bivNXyBQR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람이름 중에 은근많던데 그걸 안써주셨네",
+        "writer": "UgwJjncke4v5w_FRlXJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤하다 오늘,",
+        "writer": "UgwdJAfa19eVg7EGclJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없다, 없는분",
+        "writer": "Ugy7JuQ2TDlP9Et4TZN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 인데 오늘 얻은거 있는데,",
+        "writer": "Ugx9mWziTNnOdq9K8zp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 사람 이러고 있네",
+        "writer": "UgxZMovKwYvZPedV-ed4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘진짜로 친구가아이스크림사줌",
+        "writer": "Ugw-VsOgwoJuRLV4Qu54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩐지 졸리더라",
+        "writer": "UgyKR-be7g0-ClCSh_J4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아싸 내이름 별. 없는데 .",
+        "writer": "Ugxdf6aVGDh2CpGxj3N4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름 없어요 이것인데요",
+        "writer": "Ugwo63OjRqwVAWH6kw14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없다, 없는분",
+        "writer": "UgxynioKIYJwPDZeDv54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 나 인데 진짜로 아까 언니가 아이스크림 사줬어.(이름)당",
+        "writer": "Ugw2KyeMTtdD5QQN0Vd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 인데,",
+        "writer": "UgycyuqOY7ykO5biWbF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문제내가 없다",
+        "writer": "UgzB4drXbRPKlnXvWjp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 인데 없는분",
+        "writer": "UgzyCVt726_GA-Qp(반사회적용어)F4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 서영의 로 피곤이 나왓어여 진짜 저 행운인가봐요 저 마침 피곤햇는데, (자야징, )냠냠 잘 잣당,개운하네",
+        "writer": "UgyQjVzIyxPnjzufpUp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 데,",
+        "writer": "UgwzEpl5ZSHDqlnDWZh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는분 하지 말고 없으면 굶으라는 뜻 우리 다같이 굶을까요..",
+        "writer": "Ugxe0IMeQRrqh9EgFRB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐, 이 피곤인데 나 늦게까지 폰보고있어서 피곤한데, 소름,",
+        "writer": "UgxHqUkt1RUZwsJ1ijl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 없는건가,",
+        "writer": "UgxlTADzAuLErgsbuOd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나겸 찾았다",
+        "writer": "UgytCSljJhOE6c-BX4l4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 인데,",
+        "writer": "Ugw6kU6-U2H6PlqitLx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금, 내 이름 초성이 없다는게 지원요청 했는데 정글이 갱 안오는 것보다도 화가난다.",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닉네임은 진짜이름 아님",
+        "writer": "Ugw6kU6-U2H6PlqitLx4AaABAg.9QRu2wkZAzL9QRu6rSa9J_",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름이 없",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9Q_(반사회적용어)9mlJhW",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 없",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9Q_bLC98Gst",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 따로있음",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9QbSFvHGuNk",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도, 헤헤헿",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9Qbnp9wbuKV",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 없음",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9RNCLY_5w38",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 없",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9ROPBgB4jAc",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도없, 단말이당",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9RQNubgTOaj",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이름이,",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9RQUbun0kMI",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 없",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9RbnoAa3hP1",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 없어요,",
+        "writer": "UgwfkFZ88Wm6XRcViLp4AaABAg.9QRsy4aMc7T9Rmfk0pGLxZ",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리엄마 사랑이당..",
+        "writer": "UgyJ5_dmm5pb5BM8tsB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름 인데 없어",
+        "writer": "UgweFFUeNYW5SVhejDJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 없다,",
+        "writer": "UgzTggnqE0IVUoaQTIV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엇는게 없다이",
+        "writer": "UgzcivAbY43JILMATvl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 외자인사람은",
+        "writer": "Ugxng47Qv1TR_sKMgb14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 흑역사라고 나왔는데 흑역사라고 나온사람 답글 다라 주세요 제발유 제발",
+        "writer": "UgwQ3YoqmMd9sE-plu14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 왜 흑역사냥,",
+        "writer": "Ugweo1ErcLWYAXhaFBN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드립력 인분",
+        "writer": "UgxVP2dhK5M5IoAD2Qp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름 인데,",
+        "writer": "UgzVIqHw10kxiFDiCcx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 아이스크림 얻었어요",
+        "writer": "Ugzn2iHmF1FlK50q2gh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 나는 피곤을 얻구낭, 피곤하다,",
+        "writer": "UgzJaJF4t2ypRaoJyO54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름은 인데,",
+        "writer": "UgzabE6coQ35iqzdRdV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울동생이 인데 아이스크림 나한테 얻어먹었어요.",
+        "writer": "UgwvFd6jkfPYf8yJq0p4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름이 , 없네유,",
+        "writer": "UgyzLl4dnHmWFByqhzh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림을 얻었다..",
+        "writer": "UgzLjzQtPWPyhsO9HEZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 나 인데 , 없는분",
+        "writer": "Ugz1FQM_RQKcmDPT1tt4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 관심정현",
+        "writer": "UgyKqRQMYKn_ISaUwih4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 없노",
+        "writer": "UgyDbJJVqxhIlXcVR554AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 오늘 팟잇 말랑이 오는대,",
+        "writer": "UgyI5U-l_8oSAYEDFYR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 초성이 인데 공짜밥임 근데 하필이면 내가 진짜 실어하는 것 이 밥임",
+        "writer": "UgweNNUWFiirVvZs6hN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심 ,",
+        "writer": "UgwBunAtS3xZF2qf0hl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기에 이릉없는사람",
+        "writer": "UgyAEPniTtmJ2rAMiXN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 아이스크림 얻는다",
+        "writer": "UgzeHP4bQda1-dnTg0d4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는사람 밖에 없어여, 저랑 초성같은 분.",
+        "writer": "Ugy8Klqzm-81FUQgcqh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 초성 없어 우울한 쿤쿤",
+        "writer": "UgxBnYiVEhR0kXRFmOR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동전으로 1000 만원같고싶은디",
+        "writer": "UgxPHa5bt5tsw8KxTRJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 사람 제발유",
+        "writer": "UgxVrEwjidAminJM5wR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 오늘 진짜 피곤했는데 신기",
+        "writer": "UgwCJaUorV78IqaMpJ94AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도 있고 도 있는데 가 왜,",
+        "writer": "UgxhqAlrrSAqf425d-p4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름 초성 인데 사랑 이란건 오늘 절때 안 왔습니다만",
+        "writer": "Ugy7vXl4ldKIg0KseQd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는사람눌러주다가 한세월 다가네",
+        "writer": "UgwosDTCaMf9diaCVPF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없다, 없는분은 종아요좀",
+        "writer": "Ugy0SZE8msby27YiNp54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "있는데 얻는게왜없어",
+        "writer": "UgyJ3hb6eBo_xbpkr2p4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜난 없냐",
+        "writer": "UgwmiAKqzSA8QGw10-p4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자도 없네,",
+        "writer": "UgzSC42Mqy3XKtVLkwF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요 구걸 하지말자,",
+        "writer": "Ugz5brqDyFHryY2Hs3J4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 이름이 서빈인데 초성이 (비속어) 크흠, ( 아무튼 없음 )",
+        "writer": "Ugx-yGUzjo640nq-9Ap4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배, 배, 배탈.",
+        "writer": "UgzBjHJPam7MXaGRzSB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말 안 해도 되죠 ,",
+        "writer": "Ugwf8m9RDofnWl-7zi14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난왜 사랑",
+        "writer": "Ugwmz282_sUaPbU6cT14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 분",
+        "writer": "UgxBCp-Hk2W7uIyYK-J4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 왜 맨날 없냐",
+        "writer": "Ugx_aI5seD_hP3u7h7N4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 이따가 치킨먹는데 배탈,",
+        "writer": "UgzIzQxIO_lh1Eck7QZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난업음 진짜 오늘얻은거없는데",
+        "writer": "Ugz_3o3_gAEvH8DRXPR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다솜 공짜밥",
+        "writer": "UgzDqF4A8w9t6Ui1N0R4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 흑역사라니",
+        "writer": "UgwLn83hIt0BY8CDc4h4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤 나 지금 겁나 피곤한데,",
+        "writer": "UgxMj1eDWQdizIgSJap4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ",먹을 복",
+        "writer": "UgxKW6zsAmpIRl4FOJZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종아리알과 스트레스를 얻음",
+        "writer": "UgyeexBhoX0T4bbgewB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 분",
+        "writer": "Ugxd31LuLpXNszH1v0F4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑 히히릭후후",
+        "writer": "Ugx9k96096kchCvOF2l4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 인데",
+        "writer": "UgzMOlBjtmdu7q_IuBR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말인것같아요 나 오늘 물건분실 되서 피곤한데, 하,",
+        "writer": "UgybxPVRs6NTHntL25B4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어요 큐",
+        "writer": "Ugx1eBt4idQ3lRIrjOl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤이 몰려온다",
+        "writer": "Ugzg5DA4boSm99S1EAF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름 혜온인데 없음 이라고 나왔내요",
+        "writer": "UgwHQfVJ40-Mi27nalp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하람 없어",
+        "writer": "UgxgBckEq2mDEKgcGZZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애초에 외자임",
+        "writer": "UgxCSQfQNVDju8xLyVd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어요 ,",
+        "writer": "UgyY9IbabePe1JuRzr94AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 소은 인데요 요세 피곤한거 어떻게 아셨나융",
+        "writer": "Ugyve14aAjZ5sLyGCvh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 인데 없어",
+        "writer": "UgzBpYAqlHHn1LljoMJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 관심",
+        "writer": "UgyiBzgP6u5ZM3mncg94AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 초성 없누,",
+        "writer": "UgxEUf9w9lbnEVeA6s94AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 바탈이고오빠는 길가다헌팅이네용.",
+        "writer": "UgyWuZR8MjuogqyzkyF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 초성은 인데",
+        "writer": "UgzhTnuCLGNBE4-fM814AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없써여, 없는분 있나요,",
+        "writer": "UgxecnxiAlFGuysNENl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 성 말고 그 뒷 글자 않이에요 저는 피곤 이에요",
+        "writer": "UgwH_GBZ9Z5Y3SH5J7l4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못 얻는다. 내가 사야지.",
+        "writer": "UgxBnIjh0ng1UVXAQdd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름이 없군요",
+        "writer": "Ugx8_iLwWHMvu0ldbHR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 사람",
+        "writer": "UgwKdaV0seyKeUhmVxd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오머지 오늘아이스크림 먹고 이영상보는뎈",
+        "writer": "UgwM70Gg2FoGD-7JIu54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림 이당",
+        "writer": "UgwJBBuCytOEcIqtaAN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 있어서 다행,",
+        "writer": "Ugz_eSbGzUihDCZmIaR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 관심이다.",
+        "writer": "UgyI2kyChJ9pgveBSK14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 인데이네",
+        "writer": "Ugwo52cEMzMCDLyLySp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어, 어맛, 없네, 하.하",
+        "writer": "Ugzm7AvkpJZY9HJDGut4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 은 없어요",
+        "writer": "UgwygP5Z3TbS686GRkx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내사랑 아이스크림 (이름)입니당",
+        "writer": "UgwTRzgMvDg7o_6exDR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내성은태씬데 그엄난 뭘얻는(혐오표현)",
+        "writer": "UgwelOKX0SRji_1388V4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "있다 시연 피곤,",
+        "writer": "UgyX2Pz7VAzETx183v14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 없는분 나없엉 없는분,",
+        "writer": "Ugz_1vlk-fRATol_VLZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 피곤해,",
+        "writer": "UgxfQFu6dfY5f4Z6Voh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길가다 헌팅",
+        "writer": "UgwrAMtmqhighpH_cEV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕 하세요 제이름은요(이름)이에요",
+        "writer": "UgxPH3M4KkQnuWA3YHp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 저 이구여",
+        "writer": "UgyYH9TI7GtM7ZHeIYd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자 없는사람 이거눌러",
+        "writer": "UgwFEry-y7a6hRHaROh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 없는데,",
+        "writer": "Ugz47QE8Gd5gp6Ud5B54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니나는 이름이(비속어)이야 어느사람,",
+        "writer": "UgxaO9uDqBsuF0GqT-R4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 친구는 인데",
+        "writer": "Ugy781dSaS_wSOEqTPB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑역사라니 물론 오늘 제로투를 췄지만,",
+        "writer": "Ugwoxdx8Utks4E_-UFJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 피곤이네,",
+        "writer": "UgzKcMZ55cpRAs9Nng54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무도 없음",
+        "writer": "Ugz_1vlk-fRATol_VLZ4AaABAg.9QJr8m4lO8m9QK-DGERDGU",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤인데 다없데",
+        "writer": "UgyQNHq0qSZroKyZVjV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는분은 댓글에없어요 라고 써주고 좋아요 눌러 주세요",
+        "writer": "UgxWBjslyJzIuhuyIGV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는뎅 나만 없낭 없으면",
+        "writer": "UgxvbXaZlqgaNmiIKdx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 있어",
+        "writer": "UgxJB1XkmmPCSEOdJE94AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도 추가점",
+        "writer": "UgwnXHdrsj-NsX-YPax4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 피곤 이에요",
+        "writer": "Ugz6Q6LDSrWGuq9iLnV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없네여, (하 , )",
+        "writer": "UgxPjIgWKeEGqKDvG0R4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 초성 없니",
+        "writer": "UgwNq4k9RZsNJOcdYOx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없습니다 임",
+        "writer": "Ugy3jxZZ1ElKyHs5jZJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름에 있는사람",
+        "writer": "UgxCJZCVtWDlOuGVBxN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은 없나",
+        "writer": "UgzcRK-7V63XuX30iPB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 없네 뭔가 나올법도 한데",
+        "writer": "UgwYN2yabueWiAR19nh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난, 흑역사, 근데 신기한게 그다음에 친구랑 통화하다가 보여줄거 있어서 보냈는데 어릴때 사진 보여줌,",
+        "writer": "Ugwso73Qy9prs3Y-XoV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 없어 없는 사람들",
+        "writer": "UgwLyj4Gz-2LIYyq5ld4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑 얻었다 야쓰",
+        "writer": "UgxIt2MAgaEE1kFPGO14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 이름이 효아데 없어야,",
+        "writer": "UgxZI2Fpvh2lv6TtpzR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 나오늘아이스크림먹었는데 이름초성이 에요.",
+        "writer": "UgzfbirOi50tgtcs2Rh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예지 찐으로 아이스크림 얻어 먹었는데 쇼츠 돌(비속어)니다 보게된 예지,",
+        "writer": "UgxXgLotmrSf2yl9XWJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어요, 업는분",
+        "writer": "UgxqBWxsxkz3qx0oPit4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 어딜가나내이름은 초성도 이름도 없어,",
+        "writer": "UgzsGk_0CAMcHJiiy3Z4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름이없어요",
+        "writer": "UgxCp6bueFNbutzs-KR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 분",
+        "writer": "UgzmhNzdRNqEYgE2i-t4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없음 걸려서 슬퍼요",
+        "writer": "UgwLIZjLR3l2uIuTAAp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 피곤",
+        "writer": "UgxSGIltHYbHiqGfojp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름은 인데, 이름 없는부뉴",
+        "writer": "UgwIFtZPy70EMJa-LwF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배탈 (비속어)",
+        "writer": "UgwI8WApmmHFDhXUt5l4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 분",
+        "writer": "UgzDuvVnxcrLKwaKTrV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌긴한데 말하는거 나만꼴받냐",
+        "writer": "Ugyom68hHMegLveOTbt4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림 이다.",
+        "writer": "UgwAYUJf-RftrVT0Hg14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림 먹고있는데 와 샌즈.",
+        "writer": "UgwaJ_sCeb_EjCatkYx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 없고 도없어",
+        "writer": "UgwDAcf9rjUlqIP9ykJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑 나두 없다 난 세나라서 없어 만 있어",
+        "writer": "UgwIFtZPy70EMJa-LwF4AaABAg.9QDfHTphs1b9QQIkARSr6K",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는예진, 엄마폰임",
+        "writer": "UgwIFtZPy70EMJa-LwF4AaABAg.9QDfHTphs1b9R1NBKuz6qt",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이름이 (비속어)임 그 욕 말고",
+        "writer": "UgwIFtZPy70EMJa-LwF4AaABAg.9QDfHTphs1b9R4tXN4y3jF",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 인데",
+        "writer": "UgwIFtZPy70EMJa-LwF4AaABAg.9QDfHTphs1b9R7vSKk6B4L",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 이예용,",
+        "writer": "UgwIFtZPy70EMJa-LwF4AaABAg.9QDfHTphs1b9RGj1BPfrXs",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 시현임",
+        "writer": "UgwIFtZPy70EMJa-LwF4AaABAg.9QDfHTphs1b9RIHrPeS3EB",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어 손 있어 발",
+        "writer": "UgzzXMA0kfF2f3zE1DJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 아이스크림 을 얻어가겠습니다. 진짜 얻음",
+        "writer": "Ugwano7QvdMX2DUTkVF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 아, 흑역사,",
+        "writer": "UgwtHNOtMLabv7V-BIJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜제이름이 흑역사에 들어가있네요",
+        "writer": "UgzRBUJE83KJeY-YfJh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹고살 힘들죠",
+        "writer": "UgwcQkdY1BHSdpMaRUV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브의 틱톡화, 진행중",
+        "writer": "Ugw8ibpN0Yj8jwPT6kp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들어는 가인는 데 없다라니",
+        "writer": "UgxY5tZRL5ELKnINE0N4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여친 없는 사람",
+        "writer": "UgxsuvmRXTjTClmsLtB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 사람",
+        "writer": "Ugwxb3gl75Cfe3-TtaN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름이 없어요,",
+        "writer": "UgwjdIUIH1rPdMf9bnF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 없지",
+        "writer": "UgyLl7N1el4inrsq4fB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 초성이 안보여, 나만 초성 없는건 아뉘지",
+        "writer": "Ugzoc2HNJ3Y0vl1IG4x4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 없음",
+        "writer": "Ugwxb3gl75Cfe3-TtaN4AaABAg.9Q5XgP45jqO9R5Y3ETHWBg",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희민 인데없어",
+        "writer": "Ugwxb3gl75Cfe3-TtaN4AaABAg.9Q5XgP45jqO9RBEnY8PXFd",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어, 대신 비슷한건있어.",
+        "writer": "Ugyt6PGdPhWX4j7Tpsh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 인데,",
+        "writer": "UgxvWxAJpv2OlprB-MZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름은 야",
+        "writer": "Ugw_oc4bOAAl9vNG1zJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인 만난다..",
+        "writer": "UgzGus-XXrgkiH9Dmtl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름이 없어",
+        "writer": "UgzJMAHZM6Lu1ZlwZol4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 피손",
+        "writer": "UgxGuhEGnm_69QXp-bx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름은 서연인데 졸리진 않는데요,",
+        "writer": "Ugw8w-DVxXLi5PozuOp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤을 얻어,",
+        "writer": "Ugxy2eZTRtKIz5bb0_N4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 임 없는사람 누르삼 자세히보기",
+        "writer": "UgxD_OpyScLCyndZAmB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 어제 시험 공부 하느라 11시30분에 끝났는데 다른 과목이 있어서 과학 시험을 오늘 또 해야돼는데 진짜 운세 맞다",
+        "writer": "UgyC0g0_XZORF_yZ2BF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 난 이니",
+        "writer": "UgzOrefAiZI64v_e46J4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 피곤 시윤 _",
+        "writer": "UgzyqxL7kxTtILLUPtd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 (이름)이스크림",
+        "writer": "UgzBVc6YdY_TOjsEW5x4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 없어,",
+        "writer": "UgxEfjAnboeKgEC26oJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 없어요",
+        "writer": "Ugxug8rEPiX78XkCPUh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 아이스크림",
+        "writer": "Ugwd0iR1t5dAf1138X54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 요",
+        "writer": "UgwTa3WJw3xcMJFj0Xp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 인데 없어요 없는 분 좋아요 눌러주세요",
+        "writer": "UgyK6PAZlZWh2RJWOhJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 인디",
+        "writer": "Ugz032vGHJQKLPLsZ6R4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프사이름 엄마이름이고 내이름은인데 없어",
+        "writer": "UgybISaPgLJ7koIxYoR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이륨이혜굔데왜아인이라했지 내친구이름예기했다",
+        "writer": "Ugw5wQXeMQaIWOaGWRR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난아인이여서 아이스크림",
+        "writer": "UgzwSWgvhtYhBtGRTgZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름은 없어요",
+        "writer": "UgxN3FY9ylHIr2y9lIV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어라, 저는인데 없네요",
+        "writer": "UgwZX8fXb2ptZv9kUwp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어이네요, ( )",
+        "writer": "UgyDoejzyW1dgNObkIN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는왜 피곤이냐",
+        "writer": "UgxmPGZH1voTqH47avh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 인데, 난 오늘 얻는게 없나 대박 심지여 내 동생 초성 도 없어, 아니 이건 좋은데 난 왜 없지 이름은 개인 정보 여서 초성 이(반사회적용어).",
+        "writer": "Ugwsgl4yyn-xl6NoJNh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 인데 없어",
+        "writer": "Ugwsgl4yyn-xl6NoJNh4AaABAg.9PyrSubZcB59Q2dg9CC3mJ",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜네 나 오늘 배탈 나고 형은 자는 중,",
+        "writer": "Ugz4IehsaxpNK3Ub4Hd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공짜밥 주세요",
+        "writer": "Ugy_1LgtmfMyMcBxUYR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 하은인디 찾아서 오. 이다 이러고 봤는디 없네(쥬륵",
+        "writer": "UgzvCHYE93poyP7nEpl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전, 이데요",
+        "writer": "UgyPYDif3n_wyZiPBvF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 이름 없는데, 저 인데 없는분, 동지 구해요,",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 닉네임 보시면 인데 아이스크림 먹으면서 보고있었어요",
+        "writer": "UgwZ5e__2f-4xRR_RdJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없잖아 내 이름 이 없자아",
+        "writer": "UgyY1_0ZmosSFQPMN554AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는, 인데, 업네,",
+        "writer": "Ugzq_ZGyc6arX-q3VEd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름 나예인데,",
+        "writer": "Ugwj1xs4p21G8NBaTTN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 인대,",
+        "writer": "UgwaLS91oydrdIIMQGN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 건강한데 배탈",
+        "writer": "UgxlxC_fDWkM9DMLPwl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 인데",
+        "writer": "Ugw6RIFlXbZjyZyo4xF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "있네, 근데 오늘 아무것도 못얻어,",
+        "writer": "Ugx-W6ax48wiouZ-1JF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름이 없다고",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QNUTF49LkS",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너 태권도 다녀",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QNUV8ffYOd",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이에요,",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QNd1jS52He",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Zero zero님.저도 인데..똑같네요..",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QU8aRctVP7",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이에요",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QUapbtek1N",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 인데",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QV7oPKzjD-",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이예요.",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QVW5fL975a",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 인데,",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QXcuRit1ZL",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 인것도 똑같은건 머지",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QY8AFQd5Oy",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 인대 없어",
+        "writer": "UgwbVWZBNGCsjzTcGS54AaABAg.9PyLJm07FES9QfRdray4Ja",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없다, 이없다 ,",
+        "writer": "UgyM4nDCrggR3HaGanR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 없다, 으엥",
+        "writer": "UgynoOhMJYUxnHJWErF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내초성은 인데,",
+        "writer": "UgxVN9VfrNMID7PyGlt4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히히 관심",
+        "writer": "UgxvWCGfU3qzyRveDW14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없다 없는분 댓글좀",
+        "writer": "UgxW__vI0Q4gmlgAkHx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 이름, 이 없어요",
+        "writer": "UgyB-tIo8gUHHoGcNb14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 없어유",
+        "writer": "UgxuzPPsgLRKK8nzFOF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 은왜 없어요",
+        "writer": "UgwfJaXbjb-aPmlXcoV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데없네 뜻얻는게 없음",
+        "writer": "UgwQy3RnsKGngmahU8t4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 없음..",
+        "writer": "UgxHZUTMFnwLripLQYF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는분 말해주세요.",
+        "writer": "UgxW__vI0Q4gmlgAkHx4AaABAg.9PvXF_cTNWd9PvXJ98z14A",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 이 영상 6월20일 건데 오늘이 오늘의 나한텐 오늘이지만 내일에 나한테는 내일이 오늘 아니에용",
+        "writer": "UgzkK_j4JUAJtVm2MOV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는이여서 피곤",
+        "writer": "UgxSsXsAGUZBdpUQFuB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은 없어요",
+        "writer": "UgyhdxIVWWa5M32ybJN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 없어요",
+        "writer": "Ugwc0Aam9Q5BMYjn-WR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 오늘 학원에서 아이스크림을, 선생님께서 사주셨죠",
+        "writer": "UgwnhkzSvyVIHVHaltp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천 이름이 여기 초상 일 없어요",
+        "writer": "UgzE5nqGC9vn1j83Y5x4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 인데",
+        "writer": "UgzGPkmtRLwpMizY5pl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림 이랑",
+        "writer": "UgwA6-9BxAQm83a7K-l4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인사람 저요..",
+        "writer": "Ugw6UMxc9XuP6Sg39WB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나피곤해",
+        "writer": "UgweKw_leKTRYq3v2Pd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 효은인데 없네요",
+        "writer": "UgxnL_z-r7hS-Gv0D8x4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름에 초성은 이닷, 크흑,이름 없는분",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑역사 아림",
+        "writer": "Ugy9hpfFKje-lUWOr7F4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저랑 이름 초성이 똑같네요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Pvdh10GNB4",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 초성 인데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Pw7kTwA6MY",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 인데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Q-zh-Xyd0s",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 이다잇사람",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Q8EfWUnJUR",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 성하고 이름운 있네요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QXjMJm261V",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠만 나돈데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qh8pa5l5uQ",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저랑 이름초성이 똑같네영",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QhHnpv7r4r",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괜찬아요(저이 엄마도 없어요, )",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QhQbgUz48g",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가옵댜 (초성인부뉴)",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qinav74vwh",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 있음",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QineQ467vX",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 초성임",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qiprh9h-yb",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름은 입니다",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qj7wexRH9Y",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕이 아니라 제 이름 초성이 이에요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QjZhicPkdC",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 인데,",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qjb_5MCMuM",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 인데,",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QjiWHgktpA",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 ,",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QnRmaGtlZm",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 저기에 이름없어용인뎅",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QniJHCD5WD",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 이다",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QpBpnrvF1d",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 영태",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QpHg-vdVub",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입니다 없네요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QqIXYzsNKm",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름에초성은 왜없지",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QqT0972zUT",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저요 없으뮤",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qqmm2eo-R-",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 이다",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qr4RqPjjXA",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 이름 엘리샤",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QrZqq-FXvU",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나여, 이름없는 사람,",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QsUqZODgCF",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 인데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qtl-sMaG0Y",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 아 내프로필이 이름이구나",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QuYGjCTHDo",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저요 전이 이름초성인데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QyOqmYq0Em",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 .",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qz1w_3hH9r",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저서 이름 인뎅",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qz2-m0IqWa",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 인데 없어요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219Qz9QSeOzwQ",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두 인데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219QzT69hKNqe",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름은 없어요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R-Ys_3rMS7",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 인데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R0eh4CZPLy",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 ,",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R0h-UGdwyp",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저요 저는 인뎅.",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R19Vy1ij_T",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 입니다",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R2ZAdFM3c3",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름이 없어요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R2qukkY3cu",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 인데",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R2ssLpZHox",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름도 없어요 제 초성은 에요",
+        "writer": "Ugzizo8hsPkmYfHHaLV4AaABAg.9PrHBV-uD219R3a9-2E6xf",
+        "write_date": "2021-09-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림인데 과연 받을수 있을까",
+        "writer": "UgyY2XzB92Yp8lSdJ0V4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난없다, 없는분",
+        "writer": "UgyidVaPiYyIFRzBoF54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 피곤",
+        "writer": "UgxNHbXcmP0gj5uQ4gl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심 나 (비속어)인가",
+        "writer": "UgyoIyqDLS4OJK2Wdvd4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이요 없는분",
+        "writer": "Ugyp5G8WSP4l7Tl0Gst4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어여.(비속어) 인데 (욕아님)",
+        "writer": "UgwEP-SCEXL1qhswoUR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쒸, 흑역사 얻는데,",
+        "writer": "Ugz6fs8LYjOoNFbHGhp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 이름이 예리니까.보자,엇.흑역사.",
+        "writer": "Ugxf74u4-ppON0KPiTF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걸렸다나 성준인데",
+        "writer": "UgyBb8z4IIIX83dmPvV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑역 .",
+        "writer": "UgzxOChZs-0oD49K6rJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는분, 나 인데",
+        "writer": "UgyYsc1PKLPqtBKTtGJ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 이름이 뭔가요, 저는",
+        "writer": "Ugz6fs8LYjOoNFbHGhp4AaABAg.9PonGh3Zl0q9PvTzKVul69",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나왜 배탈이야",
+        "writer": "Ugy4ulbbtU6zVTcGzkF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 사람",
+        "writer": "UgzcN43CN6f0MtW5Ca54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는 분,",
+        "writer": "UgwVMXTjEMQn22yOvlh4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 4보",
+        "writer": "Ugwdv5KHJ1V0Z4pphrZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은 없나",
+        "writer": "UgwjDvyyagn3mX8dgqN4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 흑역사네여 짜증나",
+        "writer": "UgyVOgf4DeBxvKx_Hl54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤 맞네요",
+        "writer": "UgxK9233fPdVxYkLwxp4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 음, 피곤.. 없는줄 알았더니 인네.",
+        "writer": "Ugynnf7e-VbIxIuf0pV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 피곤",
+        "writer": "UgyZjnzZ1NOVuqmNBmV4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 없어",
+        "writer": "UgxZp8t7aQKi2Q5nvit4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 은 있누",
+        "writer": "UgwYEwAMYWjk2cy_Ii14AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 없어",
+        "writer": "Ugxj5-z0mQJu6TkU3u54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 이라서 찼아봐도 없으니까, 저도 없습니다",
+        "writer": "UgzcN43CN6f0MtW5Ca54AaABAg.9PnFr5ch-jS9QVNXIBym5w",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저요 전 인데",
+        "writer": "UgzcN43CN6f0MtW5Ca54AaABAg.9PnFr5ch-jS9QgNdJbUE7K",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름은 없고 친구 이름 해봤는데 없음 이라",
+        "writer": "Ugwl1-n2f-I_fyuFrgR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 이 없어요...",
+        "writer": "UgzpQzHpfVlIfSfYDoZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 없어요",
+        "writer": "UgxynuCRja00RT4UXBl4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이없네유",
+        "writer": "UgzpHLc3zRfW60sSKpx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은 엄마 인가",
+        "writer": "UgyxshzfYahbMbEv0up4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서윤, 피곤,",
+        "writer": "Ugx17qBptHJBpdFpJT54AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌 (비속어) 오늘 신들린 드립력을 했는뎈 초성이 이야 개(이름)눜",
+        "writer": "Ugzxx826IX-4OFBfqNt4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어, 없는분",
+        "writer": "UgyqZAWuQpmhDpOQBWR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 없네요 전 나은입니다 신.",
+        "writer": "Ugwaeb0s9t_S7ESmq-F4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 없음",
+        "writer": "Ugx9YF7u5QGQE1pGxOF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날언니개정으로쓰는데 저는 지윤인데이없어요",
+        "writer": "UgxgU-acaBRuKBFkl954AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 아이스크림..",
+        "writer": "UgythxXDUS1YNn7EfRB4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 인데",
+        "writer": "UgzpHLc3zRfW60sSKpx4AaABAg.9PeFFZTB42P9PiFmHiemUe",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 피곤행",
+        "writer": "Ugz1L_CdklMYtFNxcHZ4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름은 인데",
+        "writer": "UgzDjJO-iCKRQ7cVX_h4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 없어요",
+        "writer": "UgxfmVu_10iQkGgP8ux4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 제이름이 (이름)인데 왜 없죠 왜 가없냐고....",
+        "writer": "UgwqxDORwItYs5nkYwx4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 피곤인데 피곤 아니기만 해봐",
+        "writer": "Ugx-PVI8R7DRCwHMttR4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 시은이라서 피곤",
+        "writer": "UgzZUUmMC3BLnSoNZ9p4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아하.그래서 난 맨날 학교갈 때 피곤하구나..( )",
+        "writer": "UgwhjFTnUhLpsxxVsOF4AaABAg",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 없어요",
+        "writer": "UgzF7GgjtilUNEZ8gUd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 아이스크림",
+        "writer": "UgxkT2pnXJE2Hgz4GJV4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름이 없어",
+        "writer": "UgzVtZMRuyQP7gFPbVF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름은 없네",
+        "writer": "UgwgvoHsTDP2q1d1exR4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없다, 내이름인데",
+        "writer": "UgxVK5PLE2o9QDpGFFF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 딱 맞네요. 아침부터 지금끼지 쭉 피곤했어요",
+        "writer": "UgwgxvVRr8zjnX9cf6d4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈이는 좋겠네",
+        "writer": "Ugy0Hhn0wMWAU8ZbFWh4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 관심이다",
+        "writer": "UgxhHeF3_h7ALgKKYml4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난피곤앗.나지금피곤해잘까말까하늠데 .",
+        "writer": "Ugy0uh7sC8h0Go1j5KR4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 이라 아이스크림 걸렸어요",
+        "writer": "UgzW401oMXLrlEV6EIV4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 초성은 인데 와우 아이스크림(이름) 오늘 아이스크링 먹었는데, 초성 이신분들",
+        "writer": "UgyMc0hThNGwF7wMOEl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오.진짜 있어요",
+        "writer": "UgwyAA1kRAEmyXiTVvZ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 흑역사야",
+        "writer": "UgzoHIEF9Gw7bQVF-Rt4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 이름 초성이 없네요,",
+        "writer": "UgwLDv5OYpmx7BmR0cV4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 있는데 건 없어",
+        "writer": "UgygWfklv34yppv3fdx4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 소연입니다, 하, 어쩐지 피곤하더라니,",
+        "writer": "UgzVbsWKFXfdfWH7w394AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 없는 사람들은",
+        "writer": "UgzGavPE7f3djmH6rJh4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 오늘 진짜 배탈났는데,",
+        "writer": "Ugwo9TSYMDbOkAL9w6V4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하연 없음,",
+        "writer": "UgySccvZo50_7P9Jo5x4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길가다헌팅, 근데 저녁이에요,",
+        "writer": "UgzLeQcSdFe3P9du7WJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없w8xeah xsx2dv",
+        "writer": "UgzBVbMRrYlJI_EoxLd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 없어여",
+        "writer": "UgxoQ2xR98H30Q1fKa54AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑역 ,",
+        "writer": "UgzRlJgxPIaJPfFJdf94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐오늘 먹음",
+        "writer": "Ugz98P6Wycqiifgct5p4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 관심이네",
+        "writer": "UgyHodMJqt8t_h1NsDp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 관심",
+        "writer": "UgzY9Ya31ExE5nV7JCl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이에요",
+        "writer": "UgyMc0hThNGwF7wMOEl4AaABAg.9PSl6WCOoJt9P_JtobjDsF",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 (이름)이에용.. 이름이 비슷하네용..",
+        "writer": "UgzVbsWKFXfdfWH7w394AaABAg.9PS_GV4VmxH9PXyZpHYz6V",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 없어",
+        "writer": "UgwG2q5rfqfoX_BgrWN4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하윤인 사람. 아무것도 없는게 좀,",
+        "writer": "UgxMXgxEWDTLUwSvCfJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희생자색다름 남다름 여다름",
+        "writer": "Ugzx4nyiEE7mHxrxCNJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 친구이름 있다 근대 흑역샄",
+        "writer": "UgxbEOLSS5ESTb2CKnl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 내 이름은 없징",
+        "writer": "UgxJyCRrY4MozyOA8OZ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘내가얻는겄 관심,",
+        "writer": "UgwQh881D8yXh6upWqd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저요 저도 없어요",
+        "writer": "UgyR3s_jKfo4ayWAKUV4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 없네",
+        "writer": "Ugz6kygSKo2gqwYJCBt4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 배탈, 그래도 재밌으니 다음에 또 해주세요",
+        "writer": "UgxhdVOJCDz_26-uRVN4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름이, 없다,",
+        "writer": "Ugya8GTpXMDnlfWZxtd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이수 먹을 복 근데 왜 내가 이 채널을 보고있는걸까 항상 걍 넘겼는데 이런건 좋지",
+        "writer": "UgzEjKJERbWBAEsYnWp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 아이스크림 먹으면서 봤는데",
+        "writer": "UgxG6WR47ZcYHg6LEzp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인 만나는거 나왔다 .",
+        "writer": "Ugz0OXHPMMTa6Of96sF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 초성부터가 없는데,",
+        "writer": "UgxCRWjnGcau8wpVVqF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제친구인데 오늘 컨디션안좋고 머리아프고열나서 학교안왔어요..",
+        "writer": "UgxULvOSVqpxLsm7av14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(한국이름)(영어이름)이 없어요",
+        "writer": "UgwzrZkdw6hhSEQWM994AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 내친구 인데, 피곤, 오늘 피곤해 하느냇같던대",
+        "writer": "UgxQ-QkSNsHLHlGLd054AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없는게 네",
+        "writer": "UgzoHUb-iRvXaNi94Ll4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 다민인데 없네",
+        "writer": "UgxqUHwFw1FENFlpGFN4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 배탈 맞쳤다.",
+        "writer": "UgzXpcCeZZz_XHIqdBF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 아이스크림.",
+        "writer": "UgzZeWuDF4464ftuuVJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 하은인데, 없음이야",
+        "writer": "UgyPx_5g_Qxayxa-pnt4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름은 초성으로 하면 ((이름))임 없음 우리 오빠이름도 없음",
+        "writer": "UgwWwUQl9d70EUKzJb94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름 아애 없눈",
+        "writer": "UgwT6BvzbiugamptCRp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 하영인데 없음",
+        "writer": "UgyPx_5g_Qxayxa-pnt4AaABAg.9PPknCTmxO99Pl2C1XZlBN",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강 바다",
+        "writer": "UgwWwUQl9d70EUKzJb94AaABAg.9PPdydKi2Uo9PvsY7cuiTv",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요미 정확히 맞았네요 제이름은 (이름) 예요",
+        "writer": "UgwWwUQl9d70EUKzJb94AaABAg.9PPdydKi2Uo9Q-_WoCjX8D",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 (이름) 바다를 좋아하세여",
+        "writer": "UgwWwUQl9d70EUKzJb94AaABAg.9PPdydKi2Uo9Q-ed8G6A8Z",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없네, 이,",
+        "writer": "UgxUytIg_90QPRyVjSF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 얻네",
+        "writer": "UgxtP3XSyagWBQsNLpN4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름이 없는데,",
+        "writer": "Ugx-tY_QJID-i3uxGSh4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름 없다",
+        "writer": "UgyDP1kFoZun5t4h-3B4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 없는디",
+        "writer": "UgwhJ_F9q6ytllFI0I14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 관심이네요",
+        "writer": "UgxPapjTcM-u1WCFfTl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배탈, 으아아악 왜요 왜냐구요,",
+        "writer": "UgwzpZUKRnFo439Q8M94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 먹을복이다",
+        "writer": "UgwI0Nl-iVQ2HhCTHkl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림이요 예원이거든요",
+        "writer": "UgyUe025d3KTUWpG23Z4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 아으스크림 친구가 꽁자로 사(비속어)는대 래알이내.",
+        "writer": "UgzPIM6UHbHzJ9plPWB4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "는 X져",
+        "writer": "UgxE8trSNTQYNfXoa194AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "는 사자인뜻",
+        "writer": "Ugw8l6grNpG0HjUcANt4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피콘이 모에요",
+        "writer": "UgxgxizqQbncPWxPapp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 어디감",
+        "writer": "UgyDP1kFoZun5t4h-3B4AaABAg.9POAy-6XLup9POAz2pyHeA",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 아이스크림 친구가 공짜로 사 줬는데 레알이네 맞춤법 레알이네",
+        "writer": "UgzPIM6UHbHzJ9plPWB4AaABAg.9PNHYUksPdA9PShINKzc6H",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 아이스크림이네요오",
+        "writer": "Ugw_p62vCm8O1j7XtWl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤, 맨날 피곤해요",
+        "writer": "Ugy5agYgAs9IjMQYKMJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 피곤",
+        "writer": "UgwJLLgA_H-YteM1n3t4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심, 나 관심없는데,",
+        "writer": "Ugz56Tkm7CPzaiNfl3x4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배탈, 지금 아이스크림 먹고있는데, 그만 먹어야하나, 지금한개 째인데,",
+        "writer": "Ugxyj6eL3WmYKTHhjf94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이라 없음 얻었어요,",
+        "writer": "Ugw5KLz-9HQc4OQrryt4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 없다",
+        "writer": "UgyIIo-ce-6LyAsXAQh4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 오늘 관심 받음 맞는데,",
+        "writer": "UgxcDC4mPzFcDwanRsB4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 나 방금 아이스크림 먹음.",
+        "writer": "UgwJUNFAOHG_w8KV_1l4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 길가다 헌팅인데 당해본적 없음,",
+        "writer": "UgzAUszUZ-8A-GSKGOl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 사랑나옴",
+        "writer": "UgwJ0KnxiH64eMQbKl94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 인데 없어요",
+        "writer": "UgxLaO7WriTlg7yNON94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 이름이 문초민 인데",
+        "writer": "Ugz7YMvhoEsGrk58SiF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도연이 없어요",
+        "writer": "UgzWjbegG7OfvUzdgsF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑역사, 하하, 어제 흑역사당했는데,",
+        "writer": "UgzshrDl-cCj9KRJlCZ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)딱맞다 나오늘 배아파 죽는줄알았는데,",
+        "writer": "Ugzq_5HhM5UVfvdCO2J4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름을 초성으로 하면이라 한번 찾아봤는데 많네 그 다음 내가 사는 동도 찾아봤는데 있네 왁 대박",
+        "writer": "UgxYnsylInUDsAuhqqp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐, 흑역사 ..",
+        "writer": "UgzZDiujsf7Jp7UzrYl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 아이스크림",
+        "writer": "UgxzGDIDJVXzgoynMpl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 , 사랑",
+        "writer": "Ugy2Ypz8rJu_jBnh6e94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 이여서, 없어요,",
+        "writer": "Ugz7GStBgTaYZDixrQh4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배탈을 얻었다,",
+        "writer": "UgwGGmiIAk9qanzHC4R4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 내 초성 없어,",
+        "writer": "Ugx1R-dpRrK1bU48Rw14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 사랑",
+        "writer": "UgzfWHqCfeJe16TjSW14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 친구 이름 한율 인데 이거 했는데 없음 , 그리고 제 친구 이름 수정인대 배탈 , 제 친구는 지향인대 관심이고, 제 언니는 해영인데 없음, 크흠,",
+        "writer": "UgxEEZAnym7wEis6bnp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큼, 저, 제 이름 없어여,",
+        "writer": "Ugyr3Z0NTP6-Lt10Li14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 배탈",
+        "writer": "UgzB9360wUedKqK-jyJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채라가 없어....",
+        "writer": "Ugxh3Rz0Q7iAVhO9ce14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 은 없지",
+        "writer": "UgyyhXYGTiZefKWFlRd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데, 없엉",
+        "writer": "UgyQp6yqCeireraZGlZ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지우, 없네",
+        "writer": "UgxEZC6y11C9jtVKo454AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심 좀",
+        "writer": "Ugxz5Oq7chT6O-HjuYl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 나없어",
+        "writer": "UgxjEJnjxgqLTHEAaHp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹을 복",
+        "writer": "Ugz7LU4G1CSU5y-oF3B4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심, 나쁘지 않군 내 친구는 배탈, 내가 낫다",
+        "writer": "UgyBI-tZEhiCYu5MFTJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름이 없어요",
+        "writer": "UgwO7JoaMZgYV6b-Cnd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 흑역사,",
+        "writer": "Ugx2EmqOcHpTfK6gC514AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어요 이름이 인데 안보여용 다시 영상올려서 해주세요",
+        "writer": "UgwFGXf5VfD7yIdM0Q54AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 연애인 민남",
+        "writer": "UgxLOUKUm0K00cffyi94AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 오늘 흑역사야",
+        "writer": "Ugzrva9cLQCLv2lo2NJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심 힛",
+        "writer": "UgyRFMjrmpoyrShe-wJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 난 없지",
+        "writer": "UgxFCcKYU0BsKeYrXD54AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림인데 저 감기걸렸는데요",
+        "writer": "UgyHSRVtMg8gAhAX2394AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내이름 초성이 없도다.",
+        "writer": "UgzY1paLEX5lSQFqErN4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어, 안돼......",
+        "writer": "Ugy6a-B0Iz-bt3L2cVx4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 배탈이쥬",
+        "writer": "Ugx_3Gyr_r_GUV-nL9Z4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 (비속어)인데",
+        "writer": "Ugy9mgCl5J8zlF5rwwp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 진짜 댔어여..",
+        "writer": "Ugyk0D18VHD8eAtX4VZ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 하윤이인데, 없음, 웅에에에에에",
+        "writer": "UgznXnmU38DNNiN5rVt4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다정 없다,",
+        "writer": "Ugxo1s_otA93FHoWE_R4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤을 얻었다.... 오늘 하루종일 피곤했는데 와. 우 대박이다앙",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마동석형은 공짜밥 먹겠네, (나는 귀차니즘)",
+        "writer": "UgyZZGLVusP7W8hfk054AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찬희 잔희",
+        "writer": "UgzdRelhPsziJoRk5ht4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심에 내 이름있다",
+        "writer": "Ugw4ySBGrQA973ZpPVd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도현 없어요",
+        "writer": "UgyZC6ue-hRbjJMBhS14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없넹 이없어용.",
+        "writer": "UgxSd_V62mLNk4X1RHR4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은 없나요 제 이름 지은인뎁",
+        "writer": "UgzTaEgoQ0BjQmLJjbh4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "없어 없는분",
+        "writer": "UgwOlMJve_QFtE3AIsF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심,제 이름지혜",
+        "writer": "Ugxsa1Pr9vWoD136UFV4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찾아보니 스트레스,",
+        "writer": "Ugxo1s_otA93FHoWE_R4AaABAg.9PHuSUbS11R9PIC4q2WTIv",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 피곤이네요",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg.9PHsawWWuXc9PPPAa91Ai5",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피곤을 얻었다 뭐야 오늘컨디션 괜찮은데",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg.9PHsawWWuXc9PSk4IL344S",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈셩이 .",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg.9PHsawWWuXc9P_IUXYKitf",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스파하는 라이크 네엥",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg.9PHsawWWuXc9P_IVMM9eED",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 피곤이에요",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg.9PHsawWWuXc9QIMVKXZ5jt",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 피곤을 얻었다. 내친구는 아이스크림인데 .",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg.9PHsawWWuXc9QQPgYwnbu6",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 이름은데",
+        "writer": "UgzTfboyVXAwoNfxN554AaABAg.9PHsawWWuXc9QSsbmBG8Io",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저두욥,",
+        "writer": "UgwOlMJve_QFtE3AIsF4AaABAg.9PFtFCeKuHh9QKqv3BZoyy",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저돟",
+        "writer": "UgwOlMJve_QFtE3AIsF4AaABAg.9PFtFCeKuHh9QXWW2LWeiJ",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저도",
+        "writer": "UgwOlMJve_QFtE3AIsF4AaABAg.9PFtFCeKuHh9QXdoaBk2MM",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저도",
+        "writer": "UgwOlMJve_QFtE3AIsF4AaABAg.9PFtFCeKuHh9QY3eUWIRt4",
+        "write_date": "2021-08-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐, 나 오늘 밭은게 진짜로 써져있어 아이스크림 (브라보 하얀바닐라맛얻음)",
+        "writer": "UgzJPG1P6nZg2UHF67V4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은 갑니다,",
+        "writer": "UgyH13zUJFdd58YvslJ4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 이요.",
+        "writer": "UgyEEzLzJPpT7MSPctl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 외자인데,",
+        "writer": "UgyUCpQWnV1SgvuL0Jt4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 전데 지금 피곤하고 절친 해봤더니 절친이 이거든요 근데 오늘 아이스크림 먹었어요",
+        "writer": "UgxW-bXgwXZer0vXYlR4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 관심 준혁이니깐",
+        "writer": "UgyHRJRX6hQbhjxbwul4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹을 복",
+        "writer": "Ugz_YioMbA7ZFPdSpV14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고리즘에 그만 뜨세요",
+        "writer": "UgxC3yVblbDm_gatJ8x4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은 (비속어) 빡치누 왜 없누 공짜 이런거(반사회적용어) 없으믄 좋은디",
+        "writer": "Ugzgza2iHZ6BbJd8T094AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 피곤",
+        "writer": "Ugxe3XEYSsLjdbZsayl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심이지만 오늘 하루가 끝나간다,",
+        "writer": "UgwWPLcqxb6NABLk4v14AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 진짜 피곤하누",
+        "writer": "UgxenJ3WBbFZCRaONup4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나예령인디 흑역사,",
+        "writer": "Ugxj2qGnS18rQ060dOd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이스크림 인데 저 아까 아이스크림먹었,",
+        "writer": "Ugwus7vIHDvpd3N7CaF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 관심",
+        "writer": "UgzIqGcGia4ZcBM4edV4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 없징 (내 이름이 안 흔해서 )",
+        "writer": "UgxcFwwdZp11RE-C-Nd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인 만남 안만났는데 연예인 만나기 힘든데요",
+        "writer": "Ugx5-zBTa-KjB9KyLIV4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허헐, 진짜로 오늘제동생 이 연아인데, 아이스크림,얻었어요.",
+        "writer": "UgzYUlLb12bsmUbsrTp4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 인데",
+        "writer": "UgxoP6TTSR_0EiVRAEx4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얻.는.다 와. 좋.다 아하하",
+        "writer": "UgyksrsCQp3xNyoZhdl4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겁나 (이름)네 오늘 관심 받기는 했는데",
+        "writer": "UgyfwmA8uV7q6347aEF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름이없 는 데",
+        "writer": "UgyXnB1o1dG39Q1pwgF4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 피곤",
+        "writer": "UgzejXwzT_pg2KuYG3Z4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공짜밥 (은평소에도얻는데, )",
+        "writer": "Ugy1tTQxKb6d-pzHqE54AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배, 탈",
+        "writer": "UgxA3K_4TQCVI3gvLYN4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "럴 정확하네 치곤함데",
+        "writer": "UgyvofXrhKxerMsWN1p4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어, 내가 이런 거에 이름이 나왔따...근데 내가 오늘 공짜밥을 얻나,",
+        "writer": "UgwlVhy8jAgbSDYIaoB4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀차니즘 그건 맨날 얻는데",
+        "writer": "Ugx-nbI3utxQ5rwqGHd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름이, 없써여,은 웁니다,",
+        "writer": "UgyCQkOctYG6ub-hL854AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 실제이름 원다솜 입니다",
+        "writer": "UgwlVhy8jAgbSDYIaoB4AaABAg.9PEHPI-PlD19PEHT9zk1La",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인데 얻는게 없네요, 없어,",
+        "writer": "UgzYC1KASlCenDh7F3x4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리아빠없어 아얘 울압 임 나만 나와있네 네이스",
+        "writer": "UgzlxHZ0uzZC5pC74i54AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마없어 아얘 울엄 임",
+        "writer": "UgyEcVa-_nGiCQjDB3l4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠없어 아얘 울 옵 임",
+        "writer": "UgyPIBKPg18PlmhdiBd4AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나 없어 나 인데",
+        "writer": "UgxJ9g5TezDVGiLjGq54AaABAg",
+        "write_date": "2021-07-08",
+        "url": "https://www.youtube.com/channel/UCq4UnCu-5TmhWNQIrhKlv-g",
+        "parent_url": "https://www.youtube.com/watch?v=CKQDDPVZcWE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

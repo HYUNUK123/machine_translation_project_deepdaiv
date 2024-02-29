@@ -1,0 +1,676 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001679122",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001679122"
+    },
+    "text": [
+      {
+        "content": "닌자기린 울면서 카페탈퇴한거 (비속어)",
+        "writer": "UgzDKN7_qPvpPytwdOR4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "떨어지는거 액션영화같네",
+        "writer": "UgylUj2DKKa-KikoaS54AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모래반지 (비속어)이네",
+        "writer": "UgxHedNx-KGe73fGxJx4AaABAg",
+        "write_date": "2021-05-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양쪽으로 날아가서 떨어지는거 (비속어) 웃기네덤프트럭 레게노",
+        "writer": "UgyyWwaMF6lH5oUnizl4AaABAg",
+        "write_date": "2021-02-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혐자혐린이 또",
+        "writer": "UgyqCviXZq2KLJ6MrwR4AaABAg",
+        "write_date": "2021-02-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번보세요 세 번보세요",
+        "writer": "Ugz8OxUg8FyduQ-Nfld4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숨은꿀잼편인데 조회수가 짜네",
+        "writer": "UgwM2BI-PzyzPjurwjR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지자마자 (비속어)냥 실화",
+        "writer": "Ugx7OKoJd70H5z8oV654AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해 존잼이야",
+        "writer": "Ugy2j6netldmsd-D7TB4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)하라니까 왜 밑에서 쳐 도망가고있음",
+        "writer": "Ugy0zHhGBWkg2-582pl4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닌자기린 (비속어) 대놓고 까이네",
+        "writer": "Ugx70WkQWPqM-Rj5wyp4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윾시 남탓하나는",
+        "writer": "Ugz4pXC7BxinJWc-5qd4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 재밋당",
+        "writer": "Ugi653TLuZy1hHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내리까 내리까 (쿵.) (떨어짐)",
+        "writer": "Ugi0_ilq5cBv1ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혐자기린 언제 언제울었쪙",
+        "writer": "UgjelT_tHJ7yf3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀란 떨어졌는데 (반사회적용어) 안하고 깝치는거 (비속어)",
+        "writer": "UghH0a7WRao9q3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "떨어졌으면 빨리뒤지지 (비속어) 시간끄네 루즈해지잖아",
+        "writer": "Ugj074UWVsIZX3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 애들 죽으라고해줘.",
+        "writer": "UghuKCqi34RImngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 마지막에 우승자 나올때 엔지니어님이 입고있는 (반사회적용어)옷 옷가게에서 안팔던데 한정판매 했던건가요 저옷 사고싶은데,",
+        "writer": "UggeppqsL_dMtXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 (반사회적용어)텽 너무 좋아,",
+        "writer": "Ugho8Bs719DsW3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왼쪽위 하얀점 거슬린당",
+        "writer": "UgjMXkh6tS_bXHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 보면서 느끼는(혐오표현)만 (이름)은 자신이 이기거나 잘하거나 캐리하는 작은 항상 띵작이다 개 잘만들었다 재밌다 라고하는듯 까려는 근데 사람이란게 자신이 잘되면 재밌는거니 깔수는없음",
+        "writer": "UghprwefgpCkQHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한우먹고 싶당 ,",
+        "writer": "UgjQQCyQhtasN3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소 다음은 돼지다.. 올뉴 피그",
+        "writer": "UghheyavgHQDBXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀란님 스트리머 되더만 오디오 꽉꽉 채우시네",
+        "writer": "UggBZ9fmTQ1Mr3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 그타 올린 것만 본다",
+        "writer": "Ugh6Jzz8Uu8z03gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형형 왁흑굳 너무 좋아",
+        "writer": "UggYUh-oRYPADXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나나냥님 네임드 실패",
+        "writer": "Ugh8s1khmfBCQXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 레전드네",
+        "writer": "UggI9DJPGYcsX3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 소 시리즈 작업 제작자입니다 왁굳형이 재밌게 해주셔서 다행 소 시리즈는 계속된다.",
+        "writer": "Ugie-Sp00d-faHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 커서, 왁굳형이랑 결혼할거야",
+        "writer": "UgiYuUwPvS5qHngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 버그로얻는거임",
+        "writer": "UggeppqsL_dMtXgCoAEC.8PC5myik7nR9EImk64q6uW",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추보국 이 작업은 15년 12월과 16년 1월1일 올렸던 소싸움작업의 새로운 버전으로 오히려 (이름) 청자분들이 먼저 기획한 작업입니다. 무작정 (이름)이 먼저 했다고 생각하시면 안됩니다.",
+        "writer": "Ugj0qI1fQCguXHgCoAEC.8PBVYywJPwN8PBi3oV2wFU",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 작업은 해외 작업도 비슷한거 널렸기 때문에 굳이 누가 한거네 이런걸 나눌 필요 없다고 생각해요",
+        "writer": "Ugj0qI1fQCguXHgCoAEC.8PBVYywJPwN8PBoeGXxR8Z",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초나 초나님 말씀이 맞습니다. 똑같은걸 가져다썼는데 자기가 만들었다고 주장하는게 (이름)(혐오표현) 컨셉은 충분히 비슷한게 여러개 있어도 이상할 것 없다고 보네요.",
+        "writer": "Ugj0qI1fQCguXHgCoAEC.8PBVYywJPwN8PBsUHW5M85",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먼저 올린거는 왁튜브지 암",
+        "writer": "Ugj0qI1fQCguXHgCoAEC.8PBVYywJPwN8PBtn4Kkb4q",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추보국 만물울큰고설 gta도 울큰고가 만들었다고 하지 왜",
+        "writer": "Ugj0qI1fQCguXHgCoAEC.8PBVYywJPwN8PChq72GMry",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울큰고 (비속어)(혐오표현) 인성(비속어)(비속어) 머하러보누",
+        "writer": "Ugj0qI1fQCguXHgCoAEC.8PBVYywJPwN9AfqitnrmT2",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초나 초나님이셨어요 이번꺼 진짜 재밌었어요 특히 마지막 일기토",
+        "writer": "Ugie-Sp00d-faHgCoAEC.8PBIaSNwkoM8PBptgiLLBP",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초나 LTS 어떻게 추가하나요 저번에 몇번 추가하기 해봤는데 한번도 안되든데",
+        "writer": "Ugie-Sp00d-faHgCoAEC.8PBIaSNwkoM8PICbOKWIYl",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에서 아이슈쿠림 토네이도 퓨시이이이우 본거같은데",
+        "writer": "UggDTnnTGeYbIHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 왁굳형 너무좋아",
+        "writer": "UgiZv_pVUmvCrXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 왁굳형 너무좋아, 이말한 네임드가 누구에요",
+        "writer": "UggpehjkV3peqngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형형 왁굳흑 너무 좋아,",
+        "writer": "Ugh8jMkcOp9dZXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이기면 갓작 지면 (반사회적용어)",
+        "writer": "Ugj9RdpLNjEjt3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어)두번째(비속어)",
+        "writer": "Ugjzf2WBFTHTaHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 사랑해",
+        "writer": "Ugg4RINMRdRyF3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자라규 얼릉,",
+        "writer": "UgiGDeJge-szHXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윾시 그타작업은 꿀잼이다",
+        "writer": "Ugj_j3xVFReOBngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "작업은 왠만해선 다꿀잼띠",
+        "writer": "UggXsvcj3ZrTYngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 나랑 결혼하자",
+        "writer": "UgiM_PPM_gEZ0XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알람 너무 느려 45분느려",
+        "writer": "UgjI2K9Ah2JuWXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 왁굳텽 너무좋아",
+        "writer": "UgheovQMCsW3pHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형형 왁굳흑 너무 좋아,",
+        "writer": "UghQL7YkHoYDmHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "작업너무꿀재미양 힝",
+        "writer": "UgjIxmcDk9-zuXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금까지 안자고 오쨩 영상 기다렸다니, 왁창 (반사회적용어) (난 여기서 뭐하고있지,)",
+        "writer": "UggTUzPR-pUd_3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿고 보는 소싸움 이번에도 소싸움은 대박이었습니다",
+        "writer": "UghkeioGKXYOgXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 왁굳띠",
+        "writer": "UggE-G7bME6B0XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정우광 왁초리 맞는 만화",
+        "writer": "UggpehjkV3peqngCoAEC.8PB0bLCSDuk8PBOeaI5F3L",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "굳굳 왁(반사회적용어) 너무 좋아,",
+        "writer": "UgjdJSv_oqLIaHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8시에 자고 새벽 3시에 일어나서 공항가느라 당신을 즐길수 있어욧",
+        "writer": "UghT5tI2K9XcCngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네임드되기 참 힘들구먼",
+        "writer": "UggE46QWwwdYnHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생밭못봤는디 이시간에, (반사회적용어) 업로드다",
+        "writer": "UgjjPFjRh0eFeHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Wakgood is love 왁초리로 맞고싶다 하앍",
+        "writer": "UghFf4TRCERo3XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리의 작업은 계속된다.",
+        "writer": "UgjhCfgRORkNo3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후속작업은 윾시 기대를 저버리지 않는다.",
+        "writer": "Ugg7wM9urmc4qngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫어요1개 누구냐 불자",
+        "writer": "UggVBvkK-hME7XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당신의 영원한 왁창이 도착했소",
+        "writer": "UgjRoqFA6NUFeXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽 이 시간에 올리는 건 반칙이야 내 심장에 무리가 가",
+        "writer": "Ugjvl2drpFrbYngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 왁굳형 너무좋아",
+        "writer": "Ugg8v_YmdB_P2HgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 첫판은 왁굳엔딩",
+        "writer": "UghlsipgCKFQFngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁왁 흑굳형 너무 좋아,",
+        "writer": "UgiTVbSvG5mGO3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽 빨리자 월요일이야",
+        "writer": "Ugiym_ZRkLJRlngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화질 좋구먼",
+        "writer": "Ugj5SL5iAvDed3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽때메 내가 잠을 못잔다 잠을 못자",
+        "writer": "UgjeDQauqXDSy3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소 시리즈는 계속된다.",
+        "writer": "UgjhCfgRORkNo3gCoAEC.8PAWydQMRrh8PCG-CJq5nP",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네임드 실패,",
+        "writer": "UghlsipgCKFQFngCoAEC.8PAVYrGctfR8PAWvBvncE-",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 화질 좋은데",
+        "writer": "Ugj-5HuIDHIB2ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크흐 따끈따끈하구만.",
+        "writer": "UgiOnjM2zm28UHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화질이 영",
+        "writer": "UggqU2eRKR-m3ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠 일로 이 시간에 올리셨네",
+        "writer": "UgjorXjuBgqWlngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 화질죠음",
+        "writer": "UggqU2eRKR-m3ngCoAEC.8PAUVtA4RuR8PA_AXbbK0w",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네버모어 웬",
+        "writer": "UgjorXjuBgqWlngCoAEC.8PAUPcqBWNC8PBaIYSMvkX",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=Rm2dHR2xFYg",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

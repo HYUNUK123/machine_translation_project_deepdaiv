@@ -1,0 +1,820 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001678289",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001678289"
+    },
+    "text": [
+      {
+        "content": "엥근데 왜 맥크리로 난리지",
+        "writer": "UgwJdlZSZgAVhbKVcBd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 한조위도우 조합은 현재 대세가 됨.",
+        "writer": "Ugw0yTT0myLGx-t7vX94AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚫었어 (비속어)",
+        "writer": "UghOfA2_vUWJmngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에임플래 센스브론즈 이하",
+        "writer": "UggptQ0macoPVngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아뭐야 이거 내가맨날 위도우있는팀에서 한조할때하는소린데 위도(반사회적용어)조 크로스 (비속어)",
+        "writer": "Ugi6c1A57wy9ZngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오마이갓 한조인가 빠네 플레기 구간에서 이정도 위도우면 잘한(혐오표현) 그마(반사회적용어) 되나",
+        "writer": "UggCY6Le57eytHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리퍼 개깉이도 채팅쳐대네 개시끄럽네",
+        "writer": "UghiUd20CzK3kXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분12초때 (이름)이 특수문자썼자나여 그거 어케쓰는가죠",
+        "writer": "Ugi3B8GBUJUncXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 왁굳햄...",
+        "writer": "UggucsHkEdtt2XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조, 의 하우두(비속어),",
+        "writer": "Ugi3TBDBIJd0Q3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠만한 100렙은 헤드만다맞추는데 대표적인게 파인",
+        "writer": "UgjvtkXAWKvjQngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저격으로 솔져를못잡아",
+        "writer": "UgjjELqGXe8TWXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트레는 게잘하는데",
+        "writer": "UgiPO5fsnJ_51XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위도우 못하는데 황금무기 왜사요",
+        "writer": "UghPJGY-QKKMN3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조 솔킬하네",
+        "writer": "Ugh7XCPb4QMYTXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "킹 엠페럴 갓조 영상이었네",
+        "writer": "Uggsmxksh5UQ1XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대체 뭘 위도우 잘한다는거야 위도우하는사람 못봤나, 실제로 이러면 겜 할맛 싹 사라지고 나머지 유저만 힘들지뭐",
+        "writer": "UghxAxzscigeJngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "홍솸 누르고 스페이스 왼쪽에 한문키",
+        "writer": "Ugi3B8GBUJUncXgCoAEC.8Od3ggqj-qP8U4205Qbf1M",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱봐도 어려보이는게 뭘 그리 잘안다고 (비속어)이여",
+        "writer": "UgjvtkXAWKvjQngCoAEC.8K4QDB2NM7M8axxYp-u-5-",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조하면 바꾸라고 (비속어)하고 한조캐리하니깐 암말안하고 끝내는 인성봐라",
+        "writer": "UgjzXWNrLuMbmngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위도우 괜찮게 하긴 하는데 잘하는건 모르겠네",
+        "writer": "Ugg5MWRAuawgMHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위도우 실력이, 왜 한조보다 궁차는게 느린지 설명좀,",
+        "writer": "Ugjyt27Y85rglHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 피파 17 은 란제올릴거야",
+        "writer": "Ugg9Wmt8NKZeLHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조보게 개잘쏜다",
+        "writer": "UggqK-EIRiYXQHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목부터 살이 떨린다,",
+        "writer": "UghzgDrV9TVjL3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁형 위도우 넘 잘해",
+        "writer": "Ugi4iqL-WcnlbngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조가 잘했구만, 근데 왜 플레에있어라니 한조만 보면 까",
+        "writer": "UghrmNuyCjNnWngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 이기네 상대팀 상태가",
+        "writer": "UgiuO0e5rF7lwngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈스턴으로 조져버리고싶네",
+        "writer": "UggOV72jQoYfJ3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들어 올때 제데로 약빨았다고 생각했는데 아니군",
+        "writer": "UghHTXuMIrp_LXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이조합으로이겼다고 왁굳캐리",
+        "writer": "UggRYfWH1DDKRXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지가 탱해야지 경쟁전에서 이런(비속어)보면 같음 (비속어)",
+        "writer": "UghDQLkLoRsW5XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형 토낄때 채찍만 잘쓰는 무빙치면 위도우 지릴듯",
+        "writer": "Ugix5Bv04DM193gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런데 디바 윈스턴 겐지 한조 카운터 셋이 다모였는데 한조를 못짜르는거 보니 적팀도 진짜 (반사회적용어)인듯",
+        "writer": "Ugjb3IjvjbOZQngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 열받는게 느껴진다 너무재밌어",
+        "writer": "UggmXfIo85luW3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 그래도 힐러는 욕하지마",
+        "writer": "Ugibb9JkU1NO3XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전원처치에서 뿜었다",
+        "writer": "Ugj-wjvM4856-3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왁굳매크리 힐팩 찾으러 돌아다닌 시간이 더 많은거보면 걍 수비도 위도우해서 으쌰으쌰 하는게 진짜 위도우X한조 크로스가 됐을텐데",
+        "writer": "UghzZanktsLXkXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명해줌 한조가 잘 맞춰서. 이런것까지 알려줘야하나",
+        "writer": "Ugjyt27Y85rglHgCoAEC.8Jlhk59bL3o8JlozZwoIcE",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌려까기도 설명해줘야겠니",
+        "writer": "Ugjyt27Y85rglHgCoAEC.8Jlhk59bL3o8JlpG9aX-qq",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조궁이 원래 빨리참",
+        "writer": "Ugjyt27Y85rglHgCoAEC.8Jlhk59bL3o8Jn_wb8WafC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳은 별로 한게 없고 한조캐리인데 제목도 크로스가 아니고 (이름) 죄송염이라고 해야하고",
+        "writer": "UggRYfWH1DDKRXgCoAEC.8JlBLYyc(반사회적용어)z8JlpfbzgcGc",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 니도 탱안해",
+        "writer": "UghDQLkLoRsW5XgCoAEC.8JkwnxuAL8c8JlpjUXpyCe",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 세기말 경쟁전 왁굳형은 자기가 엄청 잘하는줄 알고 자신있게 픽하는데 같은팀으론 만나기 개싫음,",
+        "writer": "UghDQLkLoRsW5XgCoAEC.8JkwnxuAL8c8QoApR1s6Al",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트위한 처음보나 왜저런",
+        "writer": "UgjkkaEZWc1TSXgCoAEC.8Jkv5xvbnRP8Jlph4LgZfi",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디바 윈스는몰(반사회적용어) 겐지는 카운터가아닙니다.",
+        "writer": "Ugjb3IjvjbOZQngCoAEC.8JkuuzbZrWs8JlLCcFLh9y",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리퍼가 고생했겠다,",
+        "writer": "Ugiuqzk0ObQ1EHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁도우개잘해 와, 배우고싶어요",
+        "writer": "Ugh4Qf8ShCsNFXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 잘하는 한조와 (반사회적용어)인 적팀이 적절히 만난 영상이네요",
+        "writer": "UgjoxoC2WZRXBXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 이건 아군 한조도 잘하고 적팀이 너무 못한거고 일반적인 상황이었으면 지는게 대부분임",
+        "writer": "UggVy3QWDn6GbXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 수비는 개념임 할때 소름 돋았다",
+        "writer": "UghBq2Gv1t-lO3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 형이 너무 좋지만 아군으로는 만나기 싫어, 공도우가 웬말이야.",
+        "writer": "UggRDmm4YRk_3XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분 황금무기라고 다 잘하는건 아니에요 근데 언제 황금무기 맞췃지",
+        "writer": "Ughyw8J8-3NTfHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 갓조",
+        "writer": "UggRFfCQJ0eZQXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 분 소신픽 그래도 경쟁전인데, 팀원들도 그렇고 자기 잘하는 거 말고 희생해주면 좀더 행복워치가 될 것인데,",
+        "writer": "UggH4kle4iwt2XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경쟁전에서 뭐하는 짓인지",
+        "writer": "Ugik7XWC43X5AngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 마지막 한조가 오카미 스킨만 꼈으면 흰삐까 간지 오졌는데",
+        "writer": "UghVUmzXzN9FpngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔져 수상해",
+        "writer": "Ugg8-PRI1gtGK3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔쟈 에임핵 같다",
+        "writer": "Ugh0dyyux2-piXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 한조 잘하네",
+        "writer": "UghIFSH6s0gVhngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상대 솔져 핵 아닌감",
+        "writer": "UgihukuG7aRfmHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조도 잘하는듯함",
+        "writer": "UggeyIOWjR8IlHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 갓조다 킬 다 하넼",
+        "writer": "UgjniHyfH6VX1HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)에 안주무시고 올리시다니",
+        "writer": "UgiFOO8d9gMQWngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가봐도 위도우는 별로고 한조가 갓한조인데",
+        "writer": "Ugh4Qf8ShCsNFXgCoAEC.8JknM6d_zim8JlpErEJ2qW",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위알못아닌데요 프로(비속어)머도아닌 우(이름)이 일반인치고 이정도면 잘한다고한건데 딱히 파인보고 질(비속어)진않아요",
+        "writer": "Ugh4Qf8ShCsNFXgCoAEC.8JknM6d_zim8KpujpKCy92",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cohol Al 쟤 옵치 사지도못하고 어디서 주워들은거랑 본걸로 그거는거임 신경쓰지마셈",
+        "writer": "Ugh4Qf8ShCsNFXgCoAEC.8JknM6d_zim8NyNvX1pLDO",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프사 커여워,",
+        "writer": "UgjoxoC2WZRXBXgCoAEC.8JkmtHUAWpB8Jm2lRy-aBI",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 (비속어)",
+        "writer": "UgjEJvyM6WuqqngCoAEC.8JkmR_JBXFT8JlpoJ-0KUd",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공도우가 오히려 요새 메타에 맞는 말이지 않을까요, 수비보다는 공격에서 더 효과가 있는 영웅이라,",
+        "writer": "UggRDmm4YRk_3XgCoAEC.8JkiWKypi8q8Jkz5NJa70S",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 공도우 실력 보시면 (비속어) 하실겁니다.",
+        "writer": "UggRDmm4YRk_3XgCoAEC.8JkiWKypi8q8JlBSUuS-Ud",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 (비속어)할 실력 전혀아니신데",
+        "writer": "UggRDmm4YRk_3XgCoAEC.8JkiWKypi8q8Jln14p8EqD",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)할때도 있는데 어쩔땐 제발 빼줬으면 할때도 있음 실력기복이 좀 있는듯 잘할땐 잘맞힘",
+        "writer": "UggRDmm4YRk_3XgCoAEC.8JkiWKypi8q8Jm1IzOPRHf",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁청자로서 (이름) 공도우 지릴때도 많지만 윗분 말처럼 실력기복이 심해서,",
+        "writer": "UggRDmm4YRk_3XgCoAEC.8JkiWKypi8q8JmV3lZZMnt",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3000점 생기셨는데 금삐까 끼면 무시못한다고 위도우에 낌.",
+        "writer": "Ughyw8J8-3NTfHgCoAEC.8Jkfl5uT6ZC8JlBZ5l88F1",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오버워치 웃긴장면인가 거기쯤 있음",
+        "writer": "Ughyw8J8-3NTfHgCoAEC.8Jkfl5uT6ZC8JlovcJ0eo5",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희생하면 재미있겠냐 그리고 희생안하고 이런식으로 이기면 HAPPY엔딩이지",
+        "writer": "UggH4kle4iwt2XgCoAEC.8JkfEq4vXAf8Jlp8nB5nVM",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어이쿠 글쓸때 힘을 너무 썼나 너무 진하네",
+        "writer": "UggH4kle4iwt2XgCoAEC.8JkfEq4vXAf8JlpBtpuKWy",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔져 패치된거 모르는 사람이 이러던데",
+        "writer": "Ugg8-PRI1gtGK3gCoAEC.8JkNvjd8E4Z8JlpnRrvMkG",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔져가 너프같은 버프받음 솔져 쏘는게 에임이 빨리벌어지고 빨리 오므라듬",
+        "writer": "Ugh0dyyux2-piXgCoAEC.8JkLf_tYWHX8JlpPBFmKRK",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 말대로 3점사 잘하면 잘박히는 솔져, 타 BJ발언이긴 하지만 지난 오버워치 BJ리그때 대정령이 보여준 솔져를 보시면 모범답안입니다.",
+        "writer": "UgihukuG7aRfmHgCoAEC.8JkGk0tVMB58JkzHyqToRb",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형은 위도 증말잘하는데 피관리를 안해",
+        "writer": "UgjtxdfrOLlC6ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제 겜하다가 우왕굳 만났는데 낚시였네 힝, 우왁굳이였어",
+        "writer": "UghjqidRgXXg1HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공격 끝나고 한조 배신하는거 (이름)요. 내로남불 오졌습니다.",
+        "writer": "Ugi9npN4Ks8OI3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 오버워치할때 입털면 안되는이유3 아닌가요 크로스가아니라",
+        "writer": "UgjA1criG1bRVngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨으루 본방 봣었는뎅 이렇게 잘려서 올라오는거군요",
+        "writer": "UghO6y1SlJ-qN3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 판에서 디바가 쓸모가 없는데 상대방측 디바가 계속 안바꾸고 하네 윈스턴으로 빠르게 픽을 바꿔야지 흠,",
+        "writer": "UgjmgmfRHEkuYHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별 뭐야",
+        "writer": "UgjeDCvOrFcIzngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경쟁전에서 누가 한도위도우 두명다골라. 생각이있는거야 없는거야",
+        "writer": "UgidI42kPPd9-XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 제목 갓조님 죄송합니다로 하자니까 이 형이 끝까지",
+        "writer": "UggMqSvggy1Wy3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안자고 기다렸어 앙 기모리",
+        "writer": "UgheFwEB1HogvXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금단의 영역1",
+        "writer": "UgiKCo6E3FSACXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 몸좀 체력관리만 잘하시면 훨씬 괜찮은데,",
+        "writer": "UgjtxdfrOLlC6ngCoAEC.8Jk6ldNMKw18JkpY5B5IHf",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닉중복되서 우왁굳이어도 사칭일수도 있음",
+        "writer": "UghjqidRgXXg1HgCoAEC.8Jk2b5u5vyO8Jlpa_jNpGl",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게 크로스는 무슨 한조걍 캐리인데",
+        "writer": "UgjA1criG1bRVngCoAEC.8Jk0VH41m4K8JlpYkzg8Eh",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형규야 미안해는 아냐. 그건좀 아냐 ,",
+        "writer": "UghO6y1SlJ-qN3gCoAEC.8Jk-8IDotr_8Jk-FbbFKbN",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동감 형규야 미안해까지는 아님 오른쪽 위보면 형규한조는 평범하게 팀원으로 1인분 한 정도고 왁굳팀 리퍼랑 정크랫이 하드캐리 잘했음. 특히 킬 뜬거보면 왁굳팀 리퍼가 상대방 연속킬한게 대부분,",
+        "writer": "UghO6y1SlJ-qN3gCoAEC.8Jk-8IDotr_8Jl73k2on5g",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경쟁전 점령전",
+        "writer": "UgidI42kPPd9-XgCoAEC.8JjxE6w7QJA8JjyhbVQSo5",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아시고서 하신듯",
+        "writer": "UgidI42kPPd9-XgCoAEC.8JjxE6w7QJA8Jk0cnQ_1Pa",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽에 저같은 앰새위해 자주올려주세요",
+        "writer": "UgidI42kPPd9-XgCoAEC.8JjxE6w7QJA8Jk0ev8OBq8",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 th가지 없는 (비속어)들.",
+        "writer": "UgidI42kPPd9-XgCoAEC.8JjxE6w7QJA8Jk3tW5s-hO",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=VbsyB0IAWkk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

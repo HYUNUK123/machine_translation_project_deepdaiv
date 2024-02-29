@@ -1,0 +1,804 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001639717",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001639717"
+    },
+    "text": [
+      {
+        "content": "자다가 숨막혀일어남",
+        "writer": "UgznZbdTOlEFQRflS514AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람말을 알아듣네",
+        "writer": "UgzqKXPdxftsgDnIUf14AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 남자 목소리 여자처럼 내는거 개토나온다",
+        "writer": "UgxZ3ZBF40cSJfUPz2x4AaABAg",
+        "write_date": "2021-08-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이 배고팠구나 너무",
+        "writer": "Ugwp_7FZKqjPTyKu6ax4AaABAg",
+        "write_date": "2021-08-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 (이름)까 흉부 눌러버리네",
+        "writer": "UgzFECFKCAY84b2vjKt4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 아빠부르듯이 애교만땅으로 울음소리내는거 너무 사랑스럽다,",
+        "writer": "UgwTHpCYM3jVx-wnKVV4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제아보구 싶어서 들어와있어요, 제파님 모닝소리 어쩔",
+        "writer": "UgzQakUaUj9O5IbgaM94AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이의 밥 얻어먹기 힘드네 찐표정",
+        "writer": "UgweUqqcOmaLOq9vxuZ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 제이랑 (이름) 보는맛에 산다",
+        "writer": "Ugzlh5UvbDMcPefP4XR4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 이쁘게 생겼어요 귀엽네요",
+        "writer": "UgykTVF2GC5qvU4szUN4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(심장이 쿵해서 사망)",
+        "writer": "Ugzj8oUxzkcSN4803h14AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 좋우시다, 고양이 최고오88 고양이가 세상을 지배한다.",
+        "writer": "UgxrIbpxtUXuRoKLVaR4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오구오구 이쁜애기 넘 이쁘네요.",
+        "writer": "Ugyx0uGsjjB_frzAjAx4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일어나서 샤료달라는거 같음",
+        "writer": "UgxHJ4ZZroux_nOFxMV4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생긴 제이",
+        "writer": "UgwbBRphPx0zm5_Ga0N4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애교가 아니라 협각인뎅",
+        "writer": "UgzKsfHdpLIycWOL7ah4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 들이대니.",
+        "writer": "Ugx2b7jcQQfYNkYfUoV4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무이뿨 물론 쩨야만",
+        "writer": "UgyEcSAMFXn030xwPnd4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으흑 제이 너무 귀여워요, (비속어), 울음소리에 녹아뿌린다옹",
+        "writer": "Ugw33weLP4rnHPBFv4V4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있었어 오야 이러는 거 너무 좋아요",
+        "writer": "UgwYzvthio4nOip3IYd4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴 천재가 애교까지 부럽 저희집 고(이름)은 배고플때는 애교 봇물 터지고 배부르면 집사를 쌩갑니다 이것이 (이름)거져",
+        "writer": "Ugz0-2Gq69J6lBJrQap4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재이야 나한터 와줘..",
+        "writer": "UgydyEhT9U7xL28Xqa54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이 목소리 진짜 애기가 아빠하고 부르는 것 같다",
+        "writer": "UgxbwvSDjU294VTUurt4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허(이름) 허제이가 아빠닮아서이쁜짓 귀여운짓멋있는것아니에요 제가볼때는요 허제이가 애교스럽네요",
+        "writer": "Ugza1NeovRVYRCkFf214AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오매 귀연그",
+        "writer": "UgwiljSAZPy-s8gQTBV4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오야 이거면 끝.",
+        "writer": "UgxVZ6DZwX5NdxDk_rx4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이가 무슨 종인가용",
+        "writer": "UgzJt5x_m_QTw2EA5FJ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일어나라오오오옹 너므 커엽디 켜켜",
+        "writer": "Ugy7iNb041dzRP4sVPF4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워서 어쩌나 제이야",
+        "writer": "Ugz3USgxJIpJxXZGpax4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 대박",
+        "writer": "UgzNenRtTc__ew7GUb54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥안주면 죽일듯.",
+        "writer": "UgybxYYiUx81FHSFmOV4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마하고 부르는거 같아요",
+        "writer": "UgzsrbJtskL7Iuopp2h4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싫어요누른1명 누구냐 나와라",
+        "writer": "UgxBZe4hj36cnk26y7h4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무너무 귀여워요",
+        "writer": "UgysTcqEr9lVP50mkfZ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 너무영상이 짧아요 10초에 끝나는느낌이",
+        "writer": "UgzQI_ZZkVV5m6cjc214AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 넘 착하고 예뻥 제이 영상 하루종일 보고싶당",
+        "writer": "UgxFa5o4S0WCKZLkKc94AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘보았어요, 저,부탁을 해도 될련지요. 괜찮으시다면 음악소리를 조금만 줄여주시면, 제이의 골골송과 목소리를 듣고싶은데 음악소리가 제이의 골골송보다 크게들려서요. 죄송해요 감사합니다 .",
+        "writer": "Ugx8DGipv2Nwt-_j7wh4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩨야 애오옹 (밥조) 애오옹 (노라조)",
+        "writer": "Ugw4djsOQh-WdIzmC8l4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허세상 눈빛이 너무 강렬해..",
+        "writer": "Ugx49-LrHowbxEEiyq54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허(이름) 시점에서 보는 제이너무 좋네여, 제이 정말 세상에서 제일 귀여워",
+        "writer": "Ugz1Zo5YAcbjbDrZfR14AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 애교를 부리지 않아도 귀여워서 애교를 하는 지 안하는 지 구분이 안가네",
+        "writer": "Ugw58ddki32SqBsjof14AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와아앙, 아앙,와앙 와아아,앙,",
+        "writer": "UgzIWPuf3zLDg1L2TP54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이 미모유지 비결좀 알려주세요 맨날 이쁘기만하고 안이쁜적이 없어요...",
+        "writer": "Ugy585gxxdRh9hAL_6h4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울음소리도 귀여웡",
+        "writer": "UgxjLAH_6KcDiArRE-p4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일어서라 어서 일어서 넌 모든 고양이들의 자존심이야",
+        "writer": "UgzOXGIY2sd9QeSFUZ94AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도공감요 제이 목소리가 너무 예쁘고 (이름) 목소리는 멋지셔서 더 선명히 듣고 싶어요 백뮤직, 쫌만 따운요",
+        "writer": "Ugx8DGipv2Nwt-_j7wh4AaABAg.9MAQIGMelXX9MBfZoS6dS9",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애교쟁이 물범",
+        "writer": "UgxehsJFlD1XFjBMD4R4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 제이가 우앵 할 때마다 따라해요",
+        "writer": "UgwXZJV06cDjfTtjKBl4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 너무 귀엽다",
+        "writer": "Ugza67yMGQ0GDDOHGOF4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이씽 너무 귀엽자나 으허어어",
+        "writer": "UgygnpAEUR2f6uSOIF14AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짧은 영상 멈춰.",
+        "writer": "UgxTDM9kIv_lzjlurGB4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미남냥, 제이",
+        "writer": "UgwqJ_HMQuKux5Xkxwx4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그릉그릉 힐링댑니다,",
+        "writer": "UgwISiuq0cAvqjhJMnt4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어서일어나 밥을 대령하거라",
+        "writer": "UgwP3028Dexw0-nx6894AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나봐도, 어여뻐,멋있어, 잘생겼어늘, 새로워 짜릿해",
+        "writer": "UgwtCsqNlVlcIC_NXHp4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑이 애교쟁이",
+        "writer": "Ugw2ZV75HBztJkkyiCV4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이 너무 예뻐요",
+        "writer": "UgyrsZaxn2klHH-NFQt4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표정은 무심해도 애교짱 (이름) 냥이",
+        "writer": "UgzIyOfnBmyb5-5Jeg54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부탁좀 할게요 shorts 말고 제발 20분짜리든 뭐든 길이 상관없으니깐 긴거 올려주세요.... 이미 긴 영상 3번씩 다 돌려봤는데 빨리 제이를 더 보고싶어요..... 이 댓글에 동의하는사람 좋아요 눌러줘요",
+        "writer": "Ugy2zIWLs9V3GxkJc_54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 귀여워",
+        "writer": "Ugx09AM8E3sauPwC3E54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이보러 뛰쳐왔습니다.",
+        "writer": "UgyQMJInsSHPlGJkA7B4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘편 주제요약 1. 쓰다듬어라 닝겐 2. 밥 내놔라 닝겐 3. 안내놓으면 가슴팍에 올라탈거다 닝겐",
+        "writer": "UgxVX77kdTHvTOqUUsN4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침일찍 일어날 때마다 밥을 달라고 애교를 부리는 허제이 귀엽네",
+        "writer": "UgyVoeXz2oZlz2nLvK54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한 제이 이쁘기두하여라",
+        "writer": "Ugwlb5_T4EeLKjGLhgR4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁜쩨아 사랑스러운 쩨아",
+        "writer": "UgzrWkit2CCX2o5_tb94AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람들 멈춰",
+        "writer": "UgxTDM9kIv_lzjlurGB4AaABAg.9M9cjFTVJNK9M9cmAx_PRj",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙해져 앙해져여",
+        "writer": "Ugw2ZV75HBztJkkyiCV4AaABAg.9M9bXuAJqQg9MOayPVXU6v",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 채널 특색이니 적응하세요 저도 맨날 지난 영상 돌려봅니다 여유와 기다림을 배우게 해주는 제이와나유튜브",
+        "writer": "Ugy2zIWLs9V3GxkJc_54AaABAg.9M9a4CzB92G9M9c-TeacL4",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김두울 으앜",
+        "writer": "Ugy2zIWLs9V3GxkJc_54AaABAg.9M9a4CzB92G9MGIp3-clvd",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 그러라고 하고 있는데 (비속어)째 말을 듣지 않습니다",
+        "writer": "Ugy2zIWLs9V3GxkJc_54AaABAg.9M9a4CzB92G9MMKVRqdFDy",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨간망또 괜찮아요 그거 핑계로 라방 한번 더 하는거죠 뭐",
+        "writer": "Ugy2zIWLs9V3GxkJc_54AaABAg.9M9a4CzB92G9MMKxAu7mjk",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "30번째 댓.",
+        "writer": "UgxdfmfQaemXNXdR6FN4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애교 제일 많을때 이럴때 보면 참 똑똑해요",
+        "writer": "Ugz6mx-Atq7GMOjZ_oZ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 진짜 애기애기해 울제이 오늘도 넘넘 사랑스럽구 세상귀요미",
+        "writer": "Ugwgt-L3XlTxRPRJuCF4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집사 시점으로 제이 보는 거 넘무 좋다",
+        "writer": "Ugxn2Jer53luVuXpQLd4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그게 과연 애교일가",
+        "writer": "UgzPjIYVGocdEIL-rbd4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애교가 통한다는 걸 알아버린 허제이 애교 더 부려줘",
+        "writer": "UgwCdUb_T8GBbY-I7i14AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고, 내심장, 병원갔잖아요,",
+        "writer": "UgzYQPF1wwEveRfo0Pl4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 배가 고파서 밥달라고 (이름)까 애교부려서 먹을려고",
+        "writer": "Ugw__TlhR1PuBX3NR3t4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 제이는 아빠 너무 좋아하는듯 쁜쁜슈 고양이귀여워,",
+        "writer": "UgwAaPsUGFdl0yN66y14AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "() 허집사 철푸덕하세요. 허제이 녜. (철푸덕) 와앜 너무 귀여워...... 제이야 귀여워서 미치겠다",
+        "writer": "UgxbKtsf3tgiZdHWwV54AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀아달라고 애교부리기도 하는데 놀다가 피곤한데 눈치없이 계속 놀아주면 물고...",
+        "writer": "Ugw8pyQxYyJ40DmKi9B4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이야 24시간 귀엽구나,",
+        "writer": "Ugwchios_dxXsdmYfxV4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚱뚱쓰, 너무 귀여워, 언제까지 귀여울건데,",
+        "writer": "UgzTUhn57pumHHtM_D14AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 제이가 우앵 할 때마다 따라하는 (이름) 병에 걸렸어요 어쩌죠",
+        "writer": "UgxGQhsY2HpiFHOGCKF4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘마먹기전에는 밥달라구 애교부리는거구 맘마먹은후에는 잘 먹었으니까 애교부리는거잖아요 쩨아는 애교냥 사랑둥이냥이니까요. 오늘두 예쁘다 우리 쩨아",
+        "writer": "UgxPXdQtRDVVhelkb614AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맘마 시간이래요 제이야 엉아 버리고 누나한테 (이름)",
+        "writer": "UgzDW5eoRVZux50qLS94AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짧지만 역시 귀여웡, )",
+        "writer": "UgxmVWsM4-WPb3jL6El4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 하, 심장이 아프다, 제이가 얼빡샷으로 냐아아아 하는걸 매일 실물로 보는 제파님은, 강철심장인가요,",
+        "writer": "Ugxjp23WaEa6sIfdklZ4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기 배고푸구낭 목소리도 이뽀",
+        "writer": "UgxPQ8cXCX7NJZ2gYmx4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수성티비 이런 (비속어)(비속어) 무시",
+        "writer": "Ugxn2Jer53luVuXpQLd4AaABAg.9M9YlgYyAe09MBWWDeOY1v",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언젠가는 제이와 대화가 가능하시겠어욧",
+        "writer": "UgxGQhsY2HpiFHOGCKF4AaABAg.9M9YDCfUFmi9M9ZCx5LJHb",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SU ssu 아 그럼 더 열심히 연습해야겠네요 쩨아 기다료바",
+        "writer": "UgxGQhsY2HpiFHOGCKF4AaABAg.9M9YDCfUFmi9M9ZRFMChnu",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김두울 제이와 영상통화 도전...",
+        "writer": "UgxGQhsY2HpiFHOGCKF4AaABAg.9M9YDCfUFmi9M9aheN81h3",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SU ssu 제이미모에 저 오징어 될 것 같은데여 영통은 좀,",
+        "writer": "UgxGQhsY2HpiFHOGCKF4AaABAg.9M9YDCfUFmi9M9c8-JAOfc",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기보다 집사가 더 귀여워서 질수업찌 하고 더 귀여워지려는 거임",
+        "writer": "UgyOWEeYmxTLybiG0rF4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일어나 캔따개.",
+        "writer": "Ugy7If45uexBuJos3tl4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 애교부리는거옹",
+        "writer": "UgxSVTzEaP12ZJR6JS94AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곧 파랑 호랑이가 말도 할 수 있었냐는 답글 올라옴",
+        "writer": "UgyOWEeYmxTLybiG0rF4AaABAg.9M9Y0usAcHv9MCDWvEjlT6",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCf0Mkch3BAnkioVz7XQGYtw",
+        "parent_url": "https://www.youtube.com/watch?v=70o6c2DBKXU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

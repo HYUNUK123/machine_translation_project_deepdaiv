@@ -1,0 +1,932 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001638249",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001638249"
+    },
+    "text": [
+      {
+        "content": "영상들 보시고 퍼니 정말 많이 컷다는 댓글이 많아서 3개월간 비교영상들 만들어서 올립니다 진짜 제가봐도 차이가 엄청나네용",
+        "writer": "UgwVbUj8bFOlYKWX9zF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 유튭 허스키 영상 중에 퍼니가 젤 이쁜",
+        "writer": "UgwRDd10c_YkIt2S4pl4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 외모 정말신비한외모를물려받았네요 눈빛은세상에서 최고멋져요 꼭 2세를남겨야됩니다 사랑합니다할머니도요",
+        "writer": "UgzqrQHk4lk3i7DxTiN4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 볼매임다.",
+        "writer": "Ugz_j1gSwgqTmazN8dt4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 넘 매력가이야 정말 멋져",
+        "writer": "UgwU3lfhLA8BzLyxedp4AaABAg",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 애기때부터 키우셨네요",
+        "writer": "UgzdsoTG7IaVXxEadgh4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이집개가 다른 유튭 개들 보다 맘에 듬.. 애들이 사는 지역이 어딘가요",
+        "writer": "UgwV8URAjQ1r3rkaaVV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 장난감 공 뾱 하는 소리에 저희 개가 자다 깨서 뾱뾱이 꺼내달랍니다, 6살 도베르만입니다",
+        "writer": "UgzjIsdI5Stu16AdFaJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 퍼니는 유난히 특이하게 멋짐 눈빛.....",
+        "writer": "UgzDs8KLMQh6TVixFyJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 쪼끄매 소중해 귀여벙",
+        "writer": "UgwDNoBNhw6AkuUJ6sx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와진짜 기엽고. 이뽀라 아기때",
+        "writer": "Ugwoq8N0xC7qkmi_P094AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인형같다 (비속어)때는",
+        "writer": "UgylbYRQMuLTR81ce5F4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이마 무늬 피구왕통키생각남",
+        "writer": "UgxvvD0uxsTxx213fe54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기가, 잘 알 생겼네 탐나네",
+        "writer": "UgznHxVb8wuD7u_Eijp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니야 이누나는 너가 정말좋다",
+        "writer": "Ugz2MrxNEBCFhV065Rd4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대형견이아니라 중형견아님",
+        "writer": "UgwVbUj8bFOlYKWX9zF4AaABAg.8pv-UbQ8glU8pyR7e7j99M",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "bosellipietro 리트리버는 대형견이고 허스키는 굳이 나누자면 중대형견(이름)",
+        "writer": "UgwVbUj8bFOlYKWX9zF4AaABAg.8pv-UbQ8glU8rmIFYl04FS",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물만 묻히면 동공 엄청 커지네 귀염둥이",
+        "writer": "Ugy_9wSOm1SJNwF-wXZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무너무귀여워서 매순간 좋아요 누르고싶음 (물론 해피도 기여움 )",
+        "writer": "UgyRKMEeD6b6HGjg_eZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키는 중형견이고 자주씻겨주면 별로 안좋습니다 이중모라 아주 잘 말려줘야 된답니다 감사합니다",
+        "writer": "Ugx188nlXM_IsVRMBK94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)마 (비속어)가 대물이네",
+        "writer": "UgwL5dy3FmH2YOLNWSZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현재랑 저때랑 비교도 해주세여",
+        "writer": "Ugwpz6UzjLpHTQ0MhDZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니가 할머니를 더 좋아하는구나",
+        "writer": "UgwM8-h4R0g4xDrU8kl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무한거 아뉴울 애기퍼니 어디갔슈, 어따 버리고 큰 못생긴 비스무리한 멍이가",
+        "writer": "UgwwUP1kKJccUc0fzHd4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동물이나사람이나 아기들은 정말 천사같다 해피퍼니 3",
+        "writer": "UgzvugMpec-2gucm9214AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니가 남잔줄 짐 알앗네요 퍼니야 귀엽다",
+        "writer": "UgyldeYa8TFG28oEx114AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아구 이뽀라",
+        "writer": "UgxWRZpIWLTiQgZhidZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키는 배 만져 주는 거 좋아하나요 궁금, 허스키 (비속어) 키우게 됐는데, 완전 개구장이에요. 자꾸 물고(아기라 아프진 않음) 얘를 우째야 할까요,",
+        "writer": "Ugz7Yepyr65ipeWhF7F4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이왕 만져주는거 (비속어) 쪼물딱 세워주지, (비속어)",
+        "writer": "UgwVPh3txcoLrxZyxrN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니님 퍼니를 어디서 분양했나요",
+        "writer": "UgyXJnnsFcD0-WB37714AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀욤 심쿵",
+        "writer": "UgyUQcIHftcNLLvUO7V4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋짐 주의",
+        "writer": "UgyuoxcWkcPbF9EkpOt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무우 애기여서 못하다가 하는것들 내가 다 뿌듯",
+        "writer": "UgyxLIlealitIN6V_Tx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여오 4분20초간 귀여워만 백만 스물 두번 했다. 퍼니는 원래 귀여웠다",
+        "writer": "UgwwIchTTphB3OJBf694AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스러워라 두리 사이도 좋아보여서 더 예뻐요행복하게 잘 살으렴",
+        "writer": "Ugw-UoiUnnbiVt3c9SR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뽀시래기 시절보니 퍼니랑 더 친해진 느낌",
+        "writer": "Ugx79pjkMh-omFIW2AF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키는 파란눈이 너무 매력적",
+        "writer": "UgwLnZaFmrtF15RlFZB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 사랑스러워요 .. 너무 사랑하는 맘이 느껴져서 넘 좋구요..",
+        "writer": "UgzSRfKIUq1hu0VVX_F4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목욕을 무지 얌전히 하네요",
+        "writer": "UgyZbo6xD2-wON0UHSV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 너무 잘생깃다",
+        "writer": "Ugy-G67lQRh3fEmXgjd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1년아닌가요 3개월(이름)",
+        "writer": "UgwNY7kpEsv7ILQ35u54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와..저희집 (비속어)랑 똑같네요.. 저희집 (비속어)는 눈이 갈색인데 퍼니는 파란색 이네요..",
+        "writer": "UgxJT7nt8FbcoobtxOV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈 윤회안 급",
+        "writer": "Ugz911aaPvYUJrFc1Vh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키 애기 너무귀엽네요",
+        "writer": "Ugwx0RnH4CV2pJyX2d14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 근데 애기 시절 분홍분(이름) (이름)니네 화보같다",
+        "writer": "Ugxx4kzQKNHFyW083WJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 진짜 잘생겼어요",
+        "writer": "Ugxzt1BNDqNptxYTcf14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭 평생함께행복하길",
+        "writer": "UgzuKP7CoXRUysbhdfB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상남자 퍼니",
+        "writer": "Ugz0gIq6U8bxJBcxuc14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓰다듬어도 가만히 있네요",
+        "writer": "Ugw998o9cwQB1ZRzskl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 잘생겼당",
+        "writer": "Ugx_0EDR545Wg2qPZdZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈물나게 사랑스럽다.",
+        "writer": "UgyRWzN-c6atgi_Ntht4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐어 귀엽다",
+        "writer": "Ugx6cjV6SmxdKTCV9_p4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심장 터진다 진짜",
+        "writer": "UgyBxEeDOob5OCFanyF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀요미 쌍남자로 변신중",
+        "writer": "Ugx_0EDR545Wg2qPZdZ4AaABAg.8u9P3X7cma88uA7HuySqLo",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분(비속어)부터 1분36초까지",
+        "writer": "UgzsoM8PIdpuLGuI9RZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)초부터 36초까지 동(비속어)진",
+        "writer": "UgzMP-2j5W6LlQfZSlB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저격이요, 내 심장을 저격한 죄",
+        "writer": "UgwJe9rTEtXkHldIf9B4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 허스키 분양가즘 알수 있을까요, 꼭 답변즘요 반하겠어요",
+        "writer": "UgyD3NVqJ626ASOsCD94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목욕씬에서 급성장 깜놀",
+        "writer": "UgzPqV2tarnoU8ivMCZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘게도 컷네요",
+        "writer": "UgyH1d9wBr_SA3O7Oh54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 눈빛이, 진짜 멋있다,",
+        "writer": "Ugzc0uF1vFI2ia6qx_d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생겼어요.",
+        "writer": "UgyO_OzYeF0C-Mk9vGV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 제가 번 허스키 중에서 가장 예쁜것같아요. 너무 귀엽네요나도 퍼니같은 개 있었으면,",
+        "writer": "UgwrDY8yJznSdw7K-HR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 개잘생 허스키 개잘생겼어.",
+        "writer": "Ugz7MgPrZPAu0xeOltB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 사랑스러워요",
+        "writer": "UgzPioRypDglMgz_rNV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안에서 지내기엔 너무 커버린거 아닌가요, 나가서 지낼때가 된듯",
+        "writer": "UgzasT-6Ib8PPf5GADt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 마니컸네여 부끄는 다커서 입양된아이라 이런시절을 잘 몰라서 아 귀여워라..",
+        "writer": "UgxB-rbh88x6siqWiVd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워요 근데 허스키는 중형견이 아닌가요.",
+        "writer": "Ugwto2xkdGixt7XY_eR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리트리버는 몇개월 키우면 저렇게 크나요",
+        "writer": "UgxCblGnva2_6iNCjGd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 상남자가 되어가는 퍼니에 모습, 기엽고 (이름)네요 해피와 퍼니 끝까지 꼬옥 지켜주세요",
+        "writer": "UgxbO3XOJk_S9VcOYo94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 눈퍼런거 (이름)다",
+        "writer": "UgxyJWkek2xEBMAyk1t4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각지 못한,",
+        "writer": "UgwJe9rTEtXkHldIf9B4AaABAg.8s0GKhInCCp8s0LrSrHiI4",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가정분양은 35만원 (이름)고 샵(샵에서 분양받으시는 건 추천드리지 않아요.)에서 분양을 받으시려면 여아는 300만원 남아는 250만원 정도 돈을 내야 한다고 들었어요. 정확한 답은 아니지만요",
+        "writer": "UgyD3NVqJ626ASOsCD94AaABAg.8rvIe80TLGJ9-NbHZ99bow",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 저도 매일같이있는데 느껴질 정도니 성장이 엄청 빨라요",
+        "writer": "UgzPqV2tarnoU8ivMCZ4AaABAg.8rguNFM_b368riF6GgAnCv",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 더 클일이 많았다는게 이제 6개월 넘었어용",
+        "writer": "UgyH1d9wBr_SA3O7Oh54AaABAg.8rdEOQpy96g8rdIUoyuwzN",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌍남자 멋쟁이 퍼니 입니당",
+        "writer": "Ugzc0uF1vFI2ia6qx_d4AaABAg.8raywH3R_m78rb77wIfOdC",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌍남자 퍼니 입니당",
+        "writer": "UgyO_OzYeF0C-Mk9vGV4AaABAg.8rZzg8xM_jD8r_2ccvKOEo",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 이쁘게 봐주시다니 감사합시당 꾸벅",
+        "writer": "UgwrDY8yJznSdw7K-HR4AaABAg.8rTyaUizJ7d8rUEPq4bmhW",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중성화 했다는게 안타깝네요 (비속어)가 너무 좋운데",
+        "writer": "UgwrDY8yJznSdw7K-HR4AaABAg.8rTyaUizJ7d91Ml7Ws6GFY",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘게 봐주셔서 감사합니당",
+        "writer": "UgzPioRypDglMgz_rNV4AaABAg.8r4VNAL5Hgp8r4VuAPjFCL",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마당에서 지내게 할려고 준비중입니당",
+        "writer": "UgzasT-6Ib8PPf5GADt4AaABAg.8r-15E8lJxo8r-1Sj_d8FW",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날영상 쭉 봐보세용 저도 보고 깜짝합니다",
+        "writer": "UgxB-rbh88x6siqWiVd4AaABAg.8qqoatFOghz8qqx06m_NyR",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)27kg라니 중형견 분류가 맞을거같네용 근데 또 중현견이라고 해도 애매 하고 무럭무럭커서 대형견보다 더 크면 좋겠네용",
+        "writer": "Ugwto2xkdGixt7XY_eR4AaABAg.8qjKwBe7Kfa8qkKohH08R_",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "56개월차 정도면 저렇게 될거에용 지금 리트리버해피가 10개월 넘은 상태인데 더 클거에용",
+        "writer": "UgxCblGnva2_6iNCjGd4AaABAg.8qWNvHmcFBT8qWRVWMIIcW",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 보고도 어떻게 3개월만에 다른얼굴로 변신했는지 신기해용",
+        "writer": "UgxbO3XOJk_S9VcOYo94AaABAg.8qU7XfUHgb18qU99av9Vrw",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 Happy Funny",
+        "writer": "UgxbO3XOJk_S9VcOYo94AaABAg.8qU7XfUHgb18qUBXZu2b7m",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 궁금한게많으시네용 죄송합니당 특히 햇빛받으면 눈동자가 작아지고 저녁되면 눈동자가 커져요",
+        "writer": "UgxyJWkek2xEBMAyk1t4AaABAg.8qBw2OAaLd_8qBxlKCyrni",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 가족활력소에요",
+        "writer": "Ugxzm_b114WEXrxepQN4AaABAg.8q4vUPbIxD-8q4xuv3TkPX",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 엄청난 차이....",
+        "writer": "UgxhCfLb9jLKViCEd9B4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키 대박",
+        "writer": "UgxssrCIvKvnHkVsjsd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3개월에 이렇게 크다니 (이름) 뭘 주신거에요",
+        "writer": "UgwsW3_lwKlHpSGADpl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이렇게 비교해 놓으니까 (이름)니네요",
+        "writer": "UgyHoc0VXeWFuj52hZZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 이뻐라 애기때는 귀엽고 사랑스럽고 지금도 너무 귀엽고 멋지고 이쁘네여퍼니야 쑥쑥자라렴",
+        "writer": "UgymmqTLrXPIT0Jy4UF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 이렇게 큰거 실화냐",
+        "writer": "Ugz_t_a4DLCY6BaWN7F4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기때 너무 예뻣네요 돌아와 퍼니야",
+        "writer": "UgyJ-HCeNfOPry6G4p14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세월 지나 애기 때 영상 보면 뭉클 해져요. 이렇게 영상으로 많이 남겨 두니까 부럽네요",
+        "writer": "UgwbxBGZ5xfhGt6cj6h4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 저땐 하루가 다르게 크죠. 울집개 10년전에저랬지.",
+        "writer": "UgxhU0upYp1XCscgZid4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 차이 엄청나네, (비속어)들은 진짜 금방크는거같아요",
+        "writer": "UgyajkoMbvo2OACwebJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루가 다르게 크네요",
+        "writer": "UgwFhwi5Z7zK5Rrv4aB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 이쁜아이네요",
+        "writer": "UgxuAr6sN2AvVA9vJwV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 비교해서 보니 엄청 컸네요 앞으로도 무럭무럭 이쁘게 자라거라",
+        "writer": "UgxdUsHhB9m3M5WZeM94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 양손안에 거의 다 들어갈정도였는데 이젠 안아줭할정도로 컸네요",
+        "writer": "UgxR6B72x_VWgke_Aw54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸은 아직도 청소년 사이즈인데 얼굴은 상남자같네요,",
+        "writer": "UgzuCrJ-UbFvnL8Z1jZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어렸을 때 엄청 작고 귀여웠는데 벌써 해피 따라가네,",
+        "writer": "UgwxpK3a9SEJKz5UHON4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단 3개월만에 이렇게 변하네용",
+        "writer": "UgxhCfLb9jLKViCEd9B4AaABAg.8q3wwZjIsjk8q3yWvY4Rch",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나노 강화제",
+        "writer": "UgwsW3_lwKlHpSGADpl4AaABAg.8pvjmJNfRaW8q-sIAdaDlz",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 항상 감사합니당 꾸벅",
+        "writer": "UgymmqTLrXPIT0Jy4UF4AaABAg.8pvOgLezsMG8pvgRO3pqTa",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인스타에서 그런이야기들어서 (이름) 많이 남길려고 노력중이에용",
+        "writer": "UgwbxBGZ5xfhGt6cj6h4AaABAg.8pvDzkiKy5y8pvF1I1_s2c",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇일 못만나면 진짜 달라져있을거 같아용",
+        "writer": "UgxhU0upYp1XCscgZid4AaABAg.8pv9lVLfPRt8pvExePUYWe",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘게 봐주셔서 감사합니당",
+        "writer": "UgxuAr6sN2AvVA9vJwV4AaABAg.8pv0-b8bYvh8pv1YoQpqjX",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이렇게 3개월동안 성장했는지 몰랐어요",
+        "writer": "UgxdUsHhB9m3M5WZeM94AaABAg.8pux-974EHn8pv-MhTkX2Q",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 저한테 달려오는거 보면 제가 다칠거 같아요",
+        "writer": "UgxR6B72x_VWgke_Aw54AaABAg.8puuP6j8Tnt8pv-KZXGVhG",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그쵸 얼굴만큼은 성인 허스키 못지 않아요",
+        "writer": "UgzuCrJ-UbFvnL8Z1jZ4AaABAg.8putzIRtm2I8pv-G_sMBw2",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너구리 인정이요",
+        "writer": "UgzuCrJ-UbFvnL8Z1jZ4AaABAg.8putzIRtm2I8q4y-3IFjh1",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3개월만 더 있으면 해피한테 뒤쳐지지 않을거 같아용 해피도 계속 커가고 있어서",
+        "writer": "UgwxpK3a9SEJKz5UHON4AaABAg.8putcvFd2vu8pv-DUO4WMc",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=N1sYeAEfIKQ",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

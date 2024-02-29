@@ -1,0 +1,260 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001401192",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001401192"
+    },
+    "text": [
+      {
+        "content": "퀴즈 문제를 랜덤으로 제시하려면 어떻게 해야 하나요",
+        "writer": "UgwBwnk2VdhtgmW77Jt4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cl(비속어) Word def __init__(self word ex1 ex2 a1) (이메일) (이메일)1ex1 (이메일)2ex2 (이메일)1a1 (이메일)() (이메일)() def question(self) print(f (이메일) 의 뜻은 ) print(f 1. (이메일)1 ) print(f 2. (이메일)2 ) def answer(self) (이메일)2int(input( answer )) if (이메일)1 print( 정답입니다. ) elseprint( 오답입니다. ) wordWord( 얼죽아 얼어 죽어도 아메리카노 얼굴만은 죽어도 아기피부 1)",
+        "writer": "Ugx7e-iqQaL-ZgekLoR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫번째 코드에 word word( 애빼시 애교 빼면 시체 애들은 빼빼로 시시해 1) 를 저는 word .__init__( 애빼시 애교 빼면 시체 애들은 빼빼로 시시해 1) 으로 했는데 오류가 뜨네요 다른 (이메일)_puestion() 이나 (이메일)_answer(int(inpot( ))) 처럼 괄호 안에 값을 클라스에 있는 함수로 보내준다고 생각하고 그럼 word클라스 속 __init__함수가 실행 될거라고 생각했는데 왜 틀렸는지 (이름)들 알려주세요",
+        "writer": "UgwQ8FLbNP-7V8rPZrB4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 코딩 (반사회적용어)",
+        "writer": "UgwJxf2upneZWSYEbRN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "user_input 은 따로 지정해주지않아도 프로그램자체에 있는 명령어같은건가요 user_input input에 사용자가 입력하는 값이라 생각하면 되는거에요 따로값을 지정해주지않아도",
+        "writer": "UgxNxvP2lVccj1S7NNF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 나도(이름). 코드를 실행하면 터미널이 아닌 output에서 실행이 되는데 output에서 글자를 입력하려고 하면 cannot edit in readonly editor 라고 뜨면서 입력이 안되네요. 어떻게 해결하는지 알려주시면 감사하겠습니다.",
+        "writer": "Ugy3uWujMVY3-67pFYd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 강의 잘들었습니다. 제가 입력값을 1 이나 2로 제한 하고 싶어서 try와 except ValueError을 썼는데 숫자를 3이상을 입력하는 경우는 정상작동하지만 한글이나 영어같은 다른 문자열은 ValueError문구가 나면서 프로그램이 꺼집니다. 이유가 뭘까요 Input check로 answer ans_num으로 작성했습니다 def check_answer(self check) (이메일) check try if check 2 if check (이메일)_num print( 정답입니다. ) else print( 틀렸습니다. ) else raise ValueError except ValueError print( 올바른 값을 입력해 주십시오. 얼죽아에 아이스가 빠진거 같아요.",
+        "writer": "Ugx9hV9xmx6qbyS852h4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코딩은 어렵지만 나도(이름)덕분에 공부에집중이 되요.",
+        "writer": "Ugz8Y3ysMIWWM07ClRJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기본편 들으러 갑니다",
+        "writer": "UgzI3-TB-0vtOurXMZl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 썸네일은 못참지,",
+        "writer": "UgxHNZcG6JmI79u668R4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 나도(이름), 이제 코딩세계에 입문한지 일주일차 되는 코딩생초보입니다. 제가 하고싶은 일이 있어 공부를 시작하게 되었는데요, 나도(이름)의 동영상을보며 많은 공부가 되었습니다. 그런데 아직도 이해하기 어려운 부분들이 많아서요. 뭐부터 배워야 제가 하고 싶은곳에 이용을 할 수 있는지도 잘모르겠습니다. 너무 바쁘셔서 이글에 대한 답변을 주실수 있으실지는 모르겠지만, 어디로 연락드려야할지 몰라 이렇게 댓글을 답니다. 본론을 말하자면, 제가 웹페이지 운영을 해보고 싶어 (이메일) 기초부터 영상을보며 공부를 하고 있는데요, 어떤것을 집중적으로 공부하면 제가 목표한 지점에 도달할 수 있을지 아직 잘 모르겠어서 방향을 잡주시면 감사하겠습니다. 제가 하고싶은것은 (유저페이지생성 그유저를 관리할수 있는 관리자페이지 생성) 고객이 제 웹사이트를 방문하여 회원가입을 하고 웹사이트 안에서 충전을하여 그 금액이나 포인트로 물건등을 구입할 수 있는 시스템을 만들고 싶은데요, 어떻한것들을 공부하면 이 시스템을 구축할수 있을지 모르겠어요, 나도(이름)께서 답변주시면 저에게 정말 엄청난 도움이 될것 같습니다. 바쁘시겠지만 답변주실거라 생각하고 기다리겠습니다",
+        "writer": "UgyFrLhRAqxrl9voLEZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군대가는 준비를 하느라 요새 못들어오고 있었네요, 군대에서도 폰받으면 열심히 듣겠습니다 항상 좋은 영상 감사합니다..",
+        "writer": "UgxVGJnM33zx9ZOPu7d4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼른 기본편 다 듣고 만들어보고싶어요",
+        "writer": "UgyZddRSA7sluLnKVVt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기본편 정도 뗀 초보한테 cl(비속어) 연습을 할 수 있는 좋은 퀴즈입니다. 혹시 만화가 주호민 (이름)이 진행하신 위펄래쉬 라는 컨텐츠 아시나요 만화 투고를 받아서 만화 구성이나 편집에 관한 리뷰를 하는 컨텐츠였는데 비슷하게 나도(이름) 영상을 보고 코딩에 입문한 코딩 초보들로부터 코드를 투고받아 첨삭 하는 컨텐츠는 어떨까요 물론 활용편 강좌 등 컨텐츠는 많으시겠지만 한번 생각해봐주시면 좋을 것 같아요. 항상 좋은 영상 감사합니다.",
+        "writer": "UgwELtLnh-ggHW5wJj14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네이버 주식 조회 닷넷 겉핣기 버전 a9uli2YS",
+        "writer": "UgzuGzvjI-vX77nPDQd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 강의 감사합니다",
+        "writer": "UgzP1gydoCah9f65Uxl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 요즘 코딩테스트 기타면접할떄 파이썬 정도만 알아도 될가요 자바 C 보는데도 있다고 들은거 같긴한데 좀 옜날 자료라서 글구 논문이나 깃허브 자료를 이용해서 전처리 이후 프로그램 만드는 중급 강의도 만들어주세요",
+        "writer": "UgzYJoL6vxC1Vb2D8gR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도(이름) 올려주시는 강의마다 너무 잘 보고 있습니다. 혹시 활용편 4편 업무 자동화 강의는 언제쯤 업데이트 예정이신지 여쭤봐도 될까요",
+        "writer": "Ugyi6ws6hgqT6q6EdIl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자서 코딩 노노. 나도코딩이 있잔아. 고품질 무료 코딩 유튜브강의.",
+        "writer": "Ugz6pXpEnYoi28-N1pd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "user_input은 그냥 변수 입니다. input 이 자체 내장된 함수이며 user_input input 은 여기서 얻어지는 값을 user_input 이라는 변수에 저장해라. 라는 뜻입니다. 일례로 저는user_input 대신 num 이란 변수를 사용했습니다. 함수에 대한 이해가 부족해서 이런 질문이 올라오신것 같은데 (이메일)_answer(int( input( ) )) 이라고 했으면 이 함수안의 int( input( ) ) 으로 부터 얻어지는 값을(여기서는 input 으로 부터 얻어지는 값이므로 사용자가 입력한 값) 위에서 정의한 변수에 저장 해라라는 뜻입니다. 여기서 위에서 정의한 변수란 def check_answer(self num) 이렇게 적었으므로 num 이란 변수에 저장하란게 되고 즉 num int( input( ) ) 가 되며 이 num 이란 값을 비교 하느데 사용할 수 있는 것입니다. 함수에 대한 이해 부터 하셔야 할 것 같네요.",
+        "writer": "UgxNxvP2lVccj1S7NNF4AaABAg.9JXbuTxW5qH9OapuxlLKVl",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "value 는 값 으로 숫자 에 관한 처리 입니다. valueerror 말고 Typeerror 로 바꿔 주세요.",
+        "writer": "Ugx9hV9xmx6qbyS852h4AaABAg.9I2KCA2UGh89OaosjhSyIo",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "spring 으로 제작하는 쇼핑몰 강의 내용을 보면 도움 될 것 같습니다. 예제로 이런 링크가 있겠네요 70 그리고 공부는 하시다보면 무엇이 더 필요할지 무엇을 더 공부해야 할지 눈에 조금씩 보이게 된답니다. 지금 공부중이신 html css javascript 를 먼저 완료 해보시고 거기서 나온 내용을 응용해보면 실력도 쌓으면서 부족한 부분을 발견하게 되실 테니 조급하게 생각지 마시고 차분히 공부하시면 될겁니다",
+        "writer": "UgyFrLhRAqxrl9voLEZ4AaABAg.9EKIfeeIBmf9ENQkMkBgjU",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도코딩 답글감사드립니다 혹시 메일로 질문하나 드리는데 답변해주실수 있는지요, 오류가 계속나서요,",
+        "writer": "UgyFrLhRAqxrl9voLEZ4AaABAg.9EKIfeeIBmf9ENcbhy0z11",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박단비 강의 관련 내용이라면 도움드리겠습니다.",
+        "writer": "UgyFrLhRAqxrl9voLEZ4AaABAg.9EKIfeeIBmf9ENd5ia2KkS",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 좋은 제안 감사드립니다 급한 불( ) 먼저 끄고 나서의 컨텐츠 구상시 함께 고려해보겠습니다. 위펄래쉬 찾아봐야겠네요",
+        "writer": "UgwELtLnh-ggHW5wJj14AaABAg.9EBztYBOyt_9ECkoQ2d3W9",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코테를 쳐본지 하도 오래 돼서 잘 모르겠지만 자바 정도까지는 알고 계시면 더 좋을것 같네요. 언어보다는 문제 해결 능력이 중요한데 회사별로 어떤 언어를 제공하는지는 잘 모르겠습니다.",
+        "writer": "UgzYJoL6vxC1Vb2D8gR4AaABAg.9EApHHKc2qU9EBrhJueZce",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 일정으로 활용편 강의가 늦어져 죄송합니다. 업무자동화편은 10월말11월 중에 업로드 예정입니다.",
+        "writer": "Ugyi6ws6hgqT6q6EdIl4AaABAg.9E9JtBjPln89EA2PHXaqG3",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 랩실에서 코딩하는 (반사회적용어),",
+        "writer": "Ugw0ooRl2nvc9gK0C6x4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼또니 코딩그와 (반사회적용어)데수우.",
+        "writer": "UgzR1covqrxXQfxCqOB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자 코딩하면서 노래듣는중",
+        "writer": "UgzlW99gW43qkpXlPe54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 감사합니다 이번 영상도 잘 보겠습니다",
+        "writer": "UgyH2DgnV-4lrQi1jLZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=btpZOB_TvQ4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2900 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0000979994",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOEN210000979994"
+    },
+    "text": [
+      {
+        "content": "무야호 족구잘하면 축구는 어느정도 할꺼같은데",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779DWqQb2PEOL",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고은성 (혐오표현)",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779DXyvyu5fXa",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고은성 .",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779D_2Q_AI-SN",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 차력만 남음. 엉덩이에 젓가락 10개꼽고 힘줘서 뽀개기 이런거",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779Dh0eg2H4j0",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조개줍는 뚱이 조개 몇개임 같이 먹자",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779Dz7hXAE3NY",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고은성 배우야",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779EB7HHdpvMw",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트월킹 가자",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779EDrnK2Kcks",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김아름마다 오세요",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779EG7RdvuJPR",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고은성 섹.",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779ERCBHNyPp8",
+        "write_date": "2020-10-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4.3천에서 내가 누르니까 4.4천 됨",
+        "writer": "UgyzE1wqS2ybCqIFdLJ4AaABAg.9ChvpS9jH779FE7Ch63xOS",
+        "write_date": "2020-11-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 영화 보고 와 개쩐다 하고 배우신거라던데",
+        "writer": "UgypQ9h-kKw_-MjejM94AaABAg.9ChvizoclbE9Ci96j5L8hU",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 가보시면 영상있어요",
+        "writer": "UgxuPQNNgGjsn4SMsUl4AaABAg.9Chvc8wxCDN9ChwHASw4K-",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다치는 인원이 적다는 익스트림 스포츠네요 다음엔 어떤걸 하실겁니까",
+        "writer": "UgzKZrYjGgs6-oQWQeN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근손실 나서 왔는데 새로운 영상이라니",
+        "writer": "Ugx2QoXTGp9Fdl6Wq5l4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하늘을 수호하는 날다람쥐 .",
+        "writer": "UgxkIgOD8i48O62Yae94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자만 하늘에서 누워 계시네요 개인주의야",
+        "writer": "UgyuqtPcJ8bfhRe3RQZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 레드셀에서도 그렇고 이 인간들은 브(반사회적용어)저도 멋진걸 쓰네 브금좀 알려줘요",
+        "writer": "UgyZC69gpb6gbv0QhjJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 새벽에 올려서 지려버리게 만들면 어떻게 해란말입니까 자야하는데",
+        "writer": "UgxqpdPIR2B_dSHYyll4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다칠수가 없는 유일한 스포츠",
+        "writer": "UgzKc5Cz78xUGd6IX794AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 그저 빛 이근(이름)은 자기가 이렇게 멋진걸 아실까",
+        "writer": "UgzFv2Hyc_lSYtPxg4N4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제는 이근대위 영상이 안올라오면 불안할 정도다",
+        "writer": "UgxYqRpdATjnh1RT0th4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그 부상자가 가장 적다는 스포츤가 사고나면 다 죽어서.",
+        "writer": "UgzKeSBI3xv4_LWQAy94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 이거 조심해서해 이거 부상률이 가장 낮고 사망률이 가장높은 익스트림 뭐시기래매",
+        "writer": "UgweUlRl-utyOtz3N2p4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트가 젤 위험하다고 함. 시속 200를 맨몸으로 그대로 박으면 그냥 즉사고.항상 안전하시길 기원합니다",
+        "writer": "UgywcnWRS3Avn1m8Zpx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섹시 라는 단어는 이근을 위해 만들어진것임",
+        "writer": "UgwA0b5FYlqDGProgXp4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "된다 개멋있다",
+        "writer": "UgzA7BWgs9ZcXGLNpRF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "적진 말고 구독자 맴에도 침투하는거 실화냐 .",
+        "writer": "UgxmBbriK8Pq8Y79PmJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상을 새벽에만 업로드해 인성문제있어",
+        "writer": "UgzI86f5JGkotZ2ugvl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 아 이제 자야지유튜브 이근(이름) 윙슈트 타는거 않을래 나 치즈 크러스트",
+        "writer": "Ugxav_TUOfZfF1wM8Y54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽에 이근뽕 제대로 맞았네요 이 근 하 자",
+        "writer": "UgzKKJlpR98iq9w7kBJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈크러스트 추가요2000원 입니다",
+        "writer": "Ugxav_TUOfZfF1wM8Y54AaABAg.9ChvLtbJo019Ci-zzSoW9w",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페퍼로니도 추가요",
+        "writer": "Ugxav_TUOfZfF1wM8Y54AaABAg.9ChvLtbJo019CiH7aTL8uu",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갈릭 디핑소스 추가여",
+        "writer": "Ugxav_TUOfZfF1wM8Y54AaABAg.9ChvLtbJo019CikIF0NZ-G",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 제가 한번 먹어보겠습니다",
+        "writer": "Ugxav_TUOfZfF1wM8Y54AaABAg.9ChvLtbJo019Cj3v9ZHzTF",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 그만",
+        "writer": "Ugxav_TUOfZfF1wM8Y54AaABAg.9ChvLtbJo019CjsrTmH-aL",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 잠이 안드신건가요 깨신김에 업로드 하신건가요 다시 잠드실 건가요",
+        "writer": "UgzUh3tVRiLWGhM6tSF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 식사 하시는거 아무거(반사회적용어) 좋으니 많이 올려주세여 제발",
+        "writer": "UgzvEP5W9uYuCst7JH94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 남자들이 생각만 하고 끝날걸 실제로 다 해보시는거 같내요 멋지십니다 ...",
+        "writer": "Ugw9ZqjvJ6hcs-Q4-dN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오래된 영상 인줄알았는데 20분전 업로드였다",
+        "writer": "UgyVGdPm7PmWLZZ2Thx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 세계랭킹 3위가 아무것도 안하고 1위됐는데 그게 12등이 죽어서라는 그 윙슈트인가요",
+        "writer": "UgxHTMAXUR4vSPlwZSh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저의 생일과 가입일이 똑같은 이 유튜버가 고정시켜 준다면. 를 신청 하겠습니다.",
+        "writer": "UgxZ-bTlOGUvWf0NJtx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지형이나 지평선 같은 거 보니외국 이네요 한국 울퉁불퉁한 못생긴 산들이랑성냥갑 아파트들 안 보이네요이근 (이름) 정말 넘 멋이 있네요",
+        "writer": "UgyEA1W1ea2F0x49Zz54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리부터 발끝까지 존경합니다",
+        "writer": "UgwXgsAZuLosYjBLjxF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋찜 총 쏠때도 멋찜",
+        "writer": "UgwYTssk4XL2bMBpw6R4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽업로드 굉장이 좋습니다",
+        "writer": "Ugzj_lu0U5P8wCYLQYR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날다람쥐가 되신게아니라 날다람쥐를 잡으실것 같네여",
+        "writer": "Ugw1d-Nxkih8kraDS7t4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근 (이름) 영상 잘 보고 있습니다. 코로나가 많이 심각화되고있는데 건강 조심하시길 바랍니다. 항상 존경합니다7",
+        "writer": "UgyznWpKdtBHZARJ8Ct4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 코멘트 350개. 이게 (이름) 방식의 영상인듯너무 용감 무하심(반사회적용어)어한 착지",
+        "writer": "UgwR_mB6vzxXQDVyFa54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숙제 하고 이근 진짜 행복하네",
+        "writer": "Ugym28R2SaQR3syFtr94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 이건 뭐죠 영상 보기전에 선댓글 남깁니다",
+        "writer": "Ugw4IaMEUnHvgPWgAfl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못하는게 대체 뭐야.인스타 사진 한번에 업로드하기",
+        "writer": "UgzBawyb_ORSKeYAGLF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 급해요",
+        "writer": "UgzvEP5W9uYuCst7JH94AaABAg.9ChvJrter7e9ChvLXUsukS",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 위험한 그 윙슈트 맞숩니더",
+        "writer": "UgxHTMAXUR4vSPlwZSh4AaABAg.9ChvGHmG2qM9CiMZoh_uCS",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산같은데서 협곡 사이로 나는 게 아니라 비행기에서 저렇게 뛰어내리는건 그렇게 위험하진 않다고 합니다",
+        "writer": "UgxHTMAXUR4vSPlwZSh4AaABAg.9ChvGHmG2qM9Cia0Esg8vb",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞습니다산에서 비행하면 사망 확률이 높습니다",
+        "writer": "UgxHTMAXUR4vSPlwZSh4AaABAg.9ChvGHmG2qM9CieZHRLJjc",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산에서 윙슈트 하는사람은 대부분 그냥 스포츠용이고. 이근같은사람은 침투 목적으로 배워둔거임. 그래서 산에서 할필요가 없죠",
+        "writer": "UgxHTMAXUR4vSPlwZSh4AaABAg.9ChvGHmG2qM9D2DybLJh_2",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침투 목적이니깐산에서 할 수도 있지",
+        "writer": "UgxHTMAXUR4vSPlwZSh4AaABAg.9ChvGHmG2qM9D2auZvE6Lj",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예 구걸 입니다 구걸이 싫으시면 좋아요를 눌러 주세요",
+        "writer": "UgxZ-bTlOGUvWf0NJtx4AaABAg.9ChvFwTM24n9ChvUQV9xNQ",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스페인이라고 써있는뎀",
+        "writer": "UgyEA1W1ea2F0x49Zz54AaABAg.9ChvFXh4abo9Chv_9gv5kU",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 죄송한데 선택적 한국인이세요 한국 한국군 무시하면서 혜택은 다 받아먹고 ,,",
+        "writer": "UgyEA1W1ea2F0x49Zz54AaABAg.9ChvFXh4abo9CjWF18qPZ-",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4 번은 혼자만해 머리부터 발끝까지 이기적인 4 번 4 번은 혼자생각만해",
+        "writer": "UgwXgsAZuLosYjBLjxF4AaABAg.9ChvFWQSBEJ9CiKRuwDz46",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 어렵고 위험하다던 윙슈트 역시 독보적 클래스다",
+        "writer": "UgwlyoAkGvTkq3W2nCl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽까지 버틴보람이있다 이거만보야지",
+        "writer": "Ugz0nlYs3oag50SS9xB4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간에 올리시다니. 자려다 심장에 무리가",
+        "writer": "UgwfZx8pEN6e3A3HjDh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 맨날 액티비티하시는거 보기만해도 아찔한데 진짜 너무대단하세요.",
+        "writer": "Ugw8KDU6sjaeU_rbSCh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "챔스 기달리는 사람 손.",
+        "writer": "UgzoS99yayXyrYftkSZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트는 부상률이 가장 낮은 스포츠 중 하나입니다. 사고나면 바로 뒤지거든요",
+        "writer": "Ugxfty2zRkq2zfLHBix4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브금까지 죽이네.",
+        "writer": "Ugw3yii3teGPQMYFiLx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름)이 결혼안하셨으면 얼마나 좋았을까요. 참고로 전 남자입니다.",
+        "writer": "UgxfQAcNaMVnFowT9B54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 말이 안나오네 진짜 거 같다 저사람",
+        "writer": "UgxSNM-TWt4jw-sHwlV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리는 디스커버리채널에서도 알수있다싶이 이근(이름)을 따라다니시는 카메라분도 대단하다는것을 알 수있다",
+        "writer": "Ugy0Uhqzx4FbcXBFsDZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트를 입고. 공중에서 낙하하고. 헬멧까지 썼는데, 벗길수없는.그의 선글라스 그는 일류다",
+        "writer": "UgxLbpPO6GaEXPmbIy54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 그 따기 어렵다는 윙 슈트 자격증을.",
+        "writer": "UgyZ-k59FRvWVaIs1SN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 올리셔도 저희는 볼수가이쑵니다.",
+        "writer": "UgyUQzhV-nBjCr7ZSBF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺅 (이름)",
+        "writer": "Ugze9FiF1K5vJIsy_VN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화보다 더 영화같다.",
+        "writer": "UgxR2_XOl94uwuSvPKN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴이 뚫리네요. 역시 이근(이름). 싫어요 없는 영상은 또 처음이네요. 대세십니다.요즘 답답했던 마음 바람 맞고 시원해지는 느낌입니다.",
+        "writer": "UgyZ73P_KcuelPFxJmF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 업로드 시간 너무 짜릿하다",
+        "writer": "Ugz1FXnITeXDIE0HwL54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님들아 이근(이름) 결혼하셨음",
+        "writer": "UgzmqUhKXwaNAuXCtQF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐히 아. 지금 코로나하고 다른 이슈들로 입막음 하게하고 이 사건을 모르게 하고 있습니다. 조금의 시간만 내서 읽어주십쇼,.9356222058685740 아",
+        "writer": "Ugw3yii3teGPQMYFiLx4AaABAg.9ChuqlUQDp19CleIPR-ouh",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물개 지나가는 아. 그걸 이제 알았네.",
+        "writer": "UgxfQAcNaMVnFowT9B54AaABAg.9ChupPkG8MK9ChvRpfwWUZ",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물개 지나가는 친구로(반사회적용어) 남고 싶네요.",
+        "writer": "UgxfQAcNaMVnFowT9B54AaABAg.9ChupPkG8MK9ChvzOuZVWR",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민호한 하 아. 지금 코로나하고 다른 이슈들로 입막음 하게하고 이 사건을 모르게 하고 있습니다. 조금의 시간만 내서 읽어주십쇼,.9356222058685740 아",
+        "writer": "UgxSNM-TWt4jw-sHwlV4AaABAg.9ChulgAi3Ah9CleLiLsUjq",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런말하면 싫어요 생김",
+        "writer": "UgyZ73P_KcuelPFxJmF4AaABAg.9ChuhoOPHrM9Ci8-40uWtU",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왈왈 이병헌배우 생각나네요. 으아악 안 돼...",
+        "writer": "UgyZ73P_KcuelPFxJmF4AaABAg.9ChuhoOPHrM9CiENT2RtIb",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 외로우신가봐요 영상만보고 시원해지노 결혼도 나미짱 이랑 하세요 영상만보고 느낌이 오시니",
+        "writer": "UgyZ73P_KcuelPFxJmF4AaABAg.9ChuhoOPHrM9Cizda05m05",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 이 새벽에 무슨 눈호강입니까7",
+        "writer": "Ugyr7bx93lHu6NpBMSR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 저거도 가뿐히 하면세계최고높이 번지점프는 하나도 안무섭겠네요",
+        "writer": "UgwiUimjIkNdtjsQw694AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나방같기도 하고 박쥐같기도 하곸",
+        "writer": "UgxRIXni4wKt0FqrvSF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근은 개인주의야2. 근은 혼자만 멋있어2. 근은 혼자만 간지나",
+        "writer": "Ugxb0lmJujiS2PT4fWR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상은 누가 찍어줌",
+        "writer": "UgyScPKdTme8TNIsokV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇안되는 풍성한 분이시군요.",
+        "writer": "Ugzg2X2qcReoaSqJ8ep4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름)의 말씀을 교훈삼아 할머니를 이겨보 할머니보다 늦게 자기 위해 버티고 있는데 이 영상이 올라왔군요. 역시 이근(이름)이십니다.",
+        "writer": "UgzvNKwMEwdSb028v4p4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근대위 진짜 너무 영화캐릭터 같다",
+        "writer": "UgxwSqfWBdMt3yfb7ix4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너 영시작부터 끝까지..편집자 이브금모야 편집자 위로.",
+        "writer": "UgyjyRwB0sMFgBLCBhl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 윙슈트 는 영화나 다른 메체에서만 봐왔던 건데 실제로 보니 멋있네요",
+        "writer": "Ugzw_APC4kQfdwkKpkJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레드셀 박종승 (이름)이 편집 도와주셨나보네요. 막판에 레드셀 사격 영상 인트로 노래가 들려요.",
+        "writer": "Ugy-MgjxX3BQ0Q7qoHh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "챔스 기다리고있는데 갓근(이름) 영상 딱대",
+        "writer": "UgxnGagekyYI0uq3mAt4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름)의 현 위치가 한국이라고 확정지을수없습니다 썸네일의 대한민국은 대한민국을 대표하는 플라잉 슈터 이근이라는(혐오표현) 대한민국 플라잉이아닙니다",
+        "writer": "Ugw5_gg5QZLdfL1u6td4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제야 이근이 보이네 이제야 이근이 보여",
+        "writer": "Ugz54m_IOGctuNWnkLN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안자고 버틴 보람이 있다.",
+        "writer": "Ugw6cGEMt81W837fm9N4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형은 개인주의야 정말.",
+        "writer": "UgzsxdywqGvb1r-IKxl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이시간에 몰래 몰래 올리고 그러면 좋아요랑 구독으로 참교육 해줘야지",
+        "writer": "UgxGNNEM7pt5lZxRjtJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제야 이근이 보이네이근이 보여",
+        "writer": "UgwTmDJjawG77AvU-p54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전쟁은 새벽에 일어난다 라는말처럼 아주 가차없는 이근(이름) 7 늘 긴장풀지않고 이시간에도 보시러 오시는 구독자분들도 7",
+        "writer": "UgzYiNexh1mOE8nxhhl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으 와. 으마 으마. 날다람쥐.간신배일본 때려잡으려면날다람쥐 특전사부대빨리나와야 합네다..",
+        "writer": "Ugya6dFG4u9dF1_OXVl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 진짜 하시는 걸 보게 되다니.",
+        "writer": "UgzAj710ZXjAFtxWUBd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라는 이근보유국가 입니다..",
+        "writer": "Ugz37fLH7XzhQ30Eko54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 지금 안자고 뭐하고 있지 다들 월요일인데 안 자도 돼요 직업이 뭐예여 다들",
+        "writer": "UgxOGfzpOREHIiVHfox4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 멋져요",
+        "writer": "UgzkVEG3N5OwgPUh5qV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형아 나죽어",
+        "writer": "Ugyt8zZW78UD0LOBbLh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 8분전 이건 못참지",
+        "writer": "UgzR-qIbPliZCWHWby14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 사람은 한계란 없는건가. 진심으로 멋있다",
+        "writer": "UgzD4L75SxIb6CWeYyt4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 고공낙하 500번이상인 사람만 할수있다는건가",
+        "writer": "UgwjecEc7d22MpPIDDJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찾아보면 윙슈트 영상이 없어서 아쉬웠는데 영상 감사합니다 잘보고 갑니다",
+        "writer": "UgyWVkLACQeLjZFHIbJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽에 2근 (이름)을 보니 두2근 두2근",
+        "writer": "Ugyl9zbPwNN6fB6oGXV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와대박 새벽에 심심해서 이근대위 검색해본건덕",
+        "writer": "UgyNuBmUPCoZ4FSHg-R4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름) 멋져요",
+        "writer": "UgyQALcLwbv8ErzJf9l4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgxkEMBai8tvP_JMOz14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김계란은 있음",
+        "writer": "UgzD4L75SxIb6CWeYyt4AaABAg.9ChuDYP_qo59ChuOFC-hTH",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한계란 없다를 몸소 보여주는듯",
+        "writer": "UgzD4L75SxIb6CWeYyt4AaABAg.9ChuDYP_qo59Chw3Ig8J8q",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6분간 넋놓고 봤다. 가슴이 이근이근 거리네",
+        "writer": "UgzuvWsj72wyGEiKK1F4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2시 반 어림도 없지",
+        "writer": "UgwBGT6-SaTzQj4AlZ54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "볼줄알,,았나. 영환줄",
+        "writer": "UgzdncvZp9C3LiU7eNJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미 씻 다",
+        "writer": "UgwPp4uNrvI2oo3fpLR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 날다람쥐들 뭐냐고 귀여워",
+        "writer": "Ugy9B5foLSWhQcAaH_l4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 형 큐앤애이좀 해달라고.......",
+        "writer": "Ugz_-VMq1KUKXYpdyqV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미미미미미미미 뭐지 왜 귀엽지",
+        "writer": "UgwldKHoqAYP15YrFEp4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름)은 현재 미국에 계셔서 지금 올리시는겁니다.",
+        "writer": "UgzLQvZSBzXpdDTNUqJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 멋져요...",
+        "writer": "UgzHdxqe_ZqJ4lL4vep4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놔 어케 이렇게 다 잘할수가 잇어요 빵꾸 하나쯤 잇어야 하는 거 아니냐구요 하놔 개멋잇어 진쨔",
+        "writer": "UgxzFvYpSiWl2zggH5p4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 세상 간지는 혼자 다 가지셨네.",
+        "writer": "UgyGb5iZMMQoFO1JVVt4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 1일2근..윙슈트도 보고 덕질 할 맛 납니다",
+        "writer": "UgydC56C6eiYHFYc4hh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근 (이름) 날다람쥐같아요 넘 귀염터져요 그래서 개인주의에요 혼자만 귀여워서",
+        "writer": "UgxsaQoF6l7VWzTpxLx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고소공포증 있어서 보기만해도 아찔한데 이근 (이름) 진짜 대단하십니다킹근 갓근",
+        "writer": "Ugx3Il-bussNGg4cHKF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 지금 업로드한 지 얼마나됐다고 댓글이",
+        "writer": "UgxNjBuiWvXy8JJwjax4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트 탈때. 빵꾸는 없는지.확인 합니다.",
+        "writer": "UgxzFvYpSiWl2zggH5p4AaABAg.9ChtyI_kmO19ChvJR8pUgT",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번에는 비행기 탑승전에 안넘어지시네요",
+        "writer": "Ugxcfr1Gu2UKgLNR87Z4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 영상을 보러 온사람들과 우린 함께 한다 앜.그러니 이근 형은 개인주의야. 이시간에 올리면 못볼줄 알았겠지.",
+        "writer": "UgwuV0shThLe5mAIuMx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 했으니까 이근(이름)도 근예의 본격 이두근 먹방해주세요",
+        "writer": "Ugw9IxGtqG1a4X-yf6h4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개멋있다 와.",
+        "writer": "Ugw-TeJROeWf-ysLgpV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형도 가짜사나이 2 지원해보는건 어때",
+        "writer": "UgxAVr2swovBeL7S2At4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심장이 두근두근하네요",
+        "writer": "UgxuxOSxMCwDpGUe1R94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근은 한국다람쥐 한국 한국다람쥐",
+        "writer": "UgzvcYYrS707ab-YXxR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 (반사회적용어)이랑 부딪히는 줄 알았는데 알고보니 그림자",
+        "writer": "Ugwi9am4dD4BbigWcRd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽이 되어야 영상이나 사진 올릴 시간이 나시나봐요 늦게까지 열일하심",
+        "writer": "UgxqwsUHtx2UMWFEJBd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간에 보고 있는 나도 레전드 이근 대위도 레전드이 새벽에도 5분만에 천회를 넘어가는 화력 레전드이근손실 안나서 숙면할 내가 레전드",
+        "writer": "UgxLcqVTPbLniIw66OJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름)도 챔스기다리고있다는게 군대의 총성",
+        "writer": "UgyMh7UFSTQfkY7fJJl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근 오피피에이 팬싸 팬미팅 열어주세여. 전 다 준비되었어여",
+        "writer": "UgzxfPQsmElVOViLKTp4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리는 한다 존버를",
+        "writer": "Ugw_taf60-Nwnn4WCbV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와보기만해도아찔하네요 대단하신듯",
+        "writer": "UgxE4k2PAehYid1Vka94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒷모습 보자마자 누가 이근(이름)인지 바아러 알았지용 히히 배트맨같아여",
+        "writer": "UgzO6l3_MBu67qA9r5F4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스카이 다이빙 250번과 베이스 점프 45번나도 해봐야겠다물론 다음생에",
+        "writer": "UgxdImjJb_ypbZRv1ml4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른나라여서 그때는 아침아님",
+        "writer": "UgxqwsUHtx2UMWFEJBd4AaABAg.9ChtnhJhJ_39CjAQkRdjLf",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하는데 돈이 얼마냐",
+        "writer": "UgxdImjJb_ypbZRv1ml4AaABAg.9ChthMV2PAv9Ci-f-VMrZu",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인생 3번살면 난 겨우할듯",
+        "writer": "UgxdImjJb_ypbZRv1ml4AaABAg.9ChthMV2PAv9Ci1N4Ts2cx",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거하면 다음생으로 넘어갈거같은디",
+        "writer": "UgxdImjJb_ypbZRv1ml4AaABAg.9ChthMV2PAv9Ci549g2k0k",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 종쳐. 다 못하잖아. 니 몸으로 더 갈수없대.",
+        "writer": "UgxdImjJb_ypbZRv1ml4AaABAg.9ChthMV2PAv9Cizl_1yqwQ",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름) 영상들은 참 한결 같네요. 오늘은 비장한 음악에 하늘을 날고 있으신 모습 보며 힘겹게 덕질합니다. 이런영상도 좋으니 제발 많이만 업로드 시켜주세요",
+        "writer": "UgxbnuRoIMp4wUbSAul4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트 요저번에 끔찍한 걸 좀 봤더니. 걱정이 많이 되네요 (이름)은 다치지 않게 조심하세요..",
+        "writer": "UgxW5d-iShYrSSjfu_54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날다람쥐같아 귀여웡",
+        "writer": "UgwUh5Gtw1wCoP7yJKF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모든남자의 로망이자 엄청난남자임을 밝힌 멋진남자 하지만. 아직 나란남자를 얻진못했지.",
+        "writer": "UgyWTprpLfPpsa_j3iV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 왜 못봤나 했더니 새로올라온 영상이었잖아 이제야 새 영상이 보이네 이제야 새 영상이 보여",
+        "writer": "UgxV-pnmgsUQyvx5_zh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간이 늦어서 못볼거라 생각했다면 어림없지 이시간에 올라와도 우린 본다 이거야",
+        "writer": "UgyY4gWHTawjHNffaLh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋진 영상 감사합니다. 익스트림 스포츠 영상이나 영화 트랜스포머3에서만 봤는데 국내에 단4명이라니 멋집니다.",
+        "writer": "Ugzk2CaMVT1Z51CPmsN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5분도 안됬는데 조회수가 1.1천회 역시 이근코인이 짱이야",
+        "writer": "UgwwuqrZizMYUoVk4KN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그는 대한민국의 어벤져스",
+        "writer": "UgwCXGLoSGe0N1TaaX54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 또 혼자만 멋있게 검은색 입었네",
+        "writer": "Ugz62P9b3EagZKtchmd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 새벽인간 켄리 새벽인간이 행복한 점.",
+        "writer": "UgybKBRDFLIacnfP68J4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안자길 천만다행이다",
+        "writer": "UgwxSYrnU_4iN5Y4pkJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근 대위그는 전설이다.",
+        "writer": "UgzakLXdVxCcvq3_g5d4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 댓글단 174명은 뭐하는 사람들이지",
+        "writer": "UgzeV2AIyi5zIbPgpq54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 몰로검색함",
+        "writer": "UgxW5d-iShYrSSjfu_54AaABAg.9Chtgyd0Wsw9Ci5fNOztPM",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건 지상 비행이 아니라 그냥 스카이다이빙이라 비교적 안전해요 지상비행은 위험하죠 장애물들이 있어서",
+        "writer": "UgxW5d-iShYrSSjfu_54AaABAg.9Chtgyd0Wsw9Cj-DywYOkg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 다 부끄럽다",
+        "writer": "UgyWTprpLfPpsa_j3iV4AaABAg.9Chte9JB5HY9ChwtYZgNwu",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 너를 왜 얻냐고",
+        "writer": "UgyWTprpLfPpsa_j3iV4AaABAg.9Chte9JB5HY9Chwwo7DD1h",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘모르시는 분들위해 참고로이 근 (이름)은 28평창동계올림픽 대테러전담요원팀대장 이셨읍니다.",
+        "writer": "UgyY4gWHTawjHNffaLh4AaABAg.9ChtdEftPqB9ChxAE3PClz",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 안자는 사람 많네",
+        "writer": "UgyY4gWHTawjHNffaLh4AaABAg.9ChtdEftPqB9Ci02btorBt",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 다음 백수 인증",
+        "writer": "UgyY4gWHTawjHNffaLh4AaABAg.9ChtdEftPqB9Ci08pAprrX",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5 본인소개를 이런식으로 하네 키야",
+        "writer": "UgyY4gWHTawjHNffaLh4AaABAg.9ChtdEftPqB9Ciz_lEHbnL",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근대위 수면 문제있어",
+        "writer": "UgzPI8EaRP2QXbm_Jut4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한번 타보고싶은.",
+        "writer": "Ugwv1xr1iqgR1jmrBjp4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간 진짜 남달라 너무 좋아",
+        "writer": "UgxR0jWAi0be5GgYDzR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지 이 시간에 올리는건 새벽에 내 심장을 부수겠다는 소린가",
+        "writer": "Ugz6QCfiEwRuLE1oMvx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 느낌인지 궁금하다. 물론 난 떨어지는 순간 기절해서 눈뜨면 저세상이겠지만.",
+        "writer": "Ugw-7exmvwStG22B-y94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이근(이름)의 신규 브이로그잘 감상합니다.",
+        "writer": "UgyK_j71LKF86FuP-Ml4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임에서 본 윙슈트를 현실에서 한국인이 한건 처음본다.",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2근 형 때매 내맘이 두근두근해.",
+        "writer": "UgyI653lUz5BpmERm_N4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저기 하늘에서 등간지러우면 어떡하지",
+        "writer": "UgyQ7L1CDNm2BQz87Bd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 새영상",
+        "writer": "Ugz_-le0ZC2MaHL9vOB4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 (이름) 대체 생활패턴이. 새벽 2시 반이에요",
+        "writer": "UgxWvLZvKegv7Pj0lVZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 오호. 그렇지.이제 윙슈트 좀 쓸 줄 아네.",
+        "writer": "Ugz6UZigVz0BdBqNyp14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 그 유명한 다 죽으니 다치는 일이 없다는 윙슈트군요 대박",
+        "writer": "UgwwkmlOsDmtFa1LlNx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 간지지",
+        "writer": "UgxI_-lAiq078eNe69d4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 시작된 일주일. 모두 건강하고 알차게 보내세요",
+        "writer": "UgyWzNqSS5KjB4ELpbt4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트 작격증 우리나라에 가진사람 몇없음 그중 한명이 이근대위임",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CiR1fGdXv4",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4명이라고 본문에 이미 나와있는데 굳이 왜 또 니가 아는거처럼 설명함",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CiRov-eKSR",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안읽어봄 그렇다고 와서 시비 걸 필요가 있음 좀 나대지 말자",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CiS19Hc8Hn",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김덕배 우리나라를 말씀하시고 싶으셨던건가요",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CiTmljMRuk",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재현이 아는척하다가 딜폭격맞고 쫄튀했노",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CiVL_V5IWV",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명해줄수도 있지 하냐",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CiaNbhoite",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인성문제있노 저게 아는척 하는건 아니지 않나 .",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CihvqvItTX",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 힘들죠 그래도 힘내세요 화이팅",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CijCOT1m5s",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인생 사는게 힘든 애다",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9CilO1df0NT",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 혼자 하누",
+        "writer": "UgyhVR7k5xE-MXYtE0t4AaABAg.9ChtQ5AiVf-9Cj56d4EvOi",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추가정보 원래 안잤다 내 얘기",
+        "writer": "Ugz_0qvIjVuTlKAVhpx4AaABAg.9ChtPx3Bvug9ChwP5qgSj8",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "등으로 착지하면 되지 않을까",
+        "writer": "UgyQ7L1CDNm2BQz87Bd4AaABAg.9ChtPepMbIr9ChzndhHoz6",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 그 생각함. 코 가려우면 어쩌지",
+        "writer": "UgyQ7L1CDNm2BQz87Bd4AaABAg.9ChtPepMbIr9Cj-JdiJtuk",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 육해공을 정복하셨네.",
+        "writer": "Ugzehs_Q3HgxZ5GTPJZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트 재밌어보인다. 근데 엄청 위험하다는게 흠,보기만해도 위험해보여",
+        "writer": "UgxjPtenmPDnl9a9RoB4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 저 날다람쥐처럼 피고 날라가는거 일반인이 타면 기절하고 얼굴 덜렁덜렁거릴거같음",
+        "writer": "UgzMKB5N12slQXqkKvN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 날다람쥐 예",
+        "writer": "UgzE_eyNtKF9JV2C-tp4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2분 지났는데 댓글이 144개 라니 제엔장 이기주의냐구",
+        "writer": "UgyH_A8b7MmguRdq4id4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 트랜스포머에서나 보던걸",
+        "writer": "Ugyrqdybf6YivpgfPUd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국내에서 윙슈트 가능하신 분은 총 5명도 안된다고 합니다. 그중에 한명이 바로 이근대위이십니다.",
+        "writer": "UgzGTPCL_BylLpAz72B4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근은 2시 반을 반으로 죽일꺼야.",
+        "writer": "UgzuP9-F5MBXrl0e-fV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리근 너무멋져",
+        "writer": "UgyHF0GdjUmAlWKVult4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간에 올려도 나같은 이기주의 침대한테는 어림도 없지",
+        "writer": "UgwBybuIjtNS0n19Sp54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쯤되면 (반사회적용어)주 실천이 아니라 그냥 잠을 모르는 인간병기인가",
+        "writer": "Ugzqm-jIdsz8ULBYOvx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보고 자란 뜻 악....",
+        "writer": "UgzCIBBo5ZGH0y4cyM54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안 자길 잘했다 (이름) 채널에서 132등이면 개좋은(혐오표현)",
+        "writer": "UgyCTZl17f3GY3A5E2d4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 올리시면 안볼줄알았나요 어림도없죠",
+        "writer": "UgzBjetYcIoGy_tqWdx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핑크색 윙슈트 입으신분 프로젝트 이렐리아랑 색이 똑같음 프젝이렐같음",
+        "writer": "UgzbGZr45MY8p5J1XNJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 평범한 일상 올리셨네요 다음에 사살 로그도 부탁해요",
+        "writer": "Ugx7cMixYRaC2Vnl9Sl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 단 4명 중 한명인 이근(이름).",
+        "writer": "UgwNvHOHTmZ0_Er1q914AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근은 이근주의야",
+        "writer": "Ugzj4OIVuL-T4-l-akF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약 6천만 분의 4",
+        "writer": "UgyHyyPyUs1phH5Njl94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우린 02시 47분이지만 (이름)이 계신곳은 낮일 수 있어요.",
+        "writer": "Ugzqm-jIdsz8ULBYOvx4AaABAg.9ChtCYu19Ou9Chuzqwl86U",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "망고스틴주스 아 그런생각은 못해봤는데 정말 그럴수도있겠네요",
+        "writer": "Ugzqm-jIdsz8ULBYOvx4AaABAg.9ChtCYu19Ou9Chwl-eSsSb",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨셉이죠 해외라 시차가 있는데.",
+        "writer": "Ugzqm-jIdsz8ULBYOvx4AaABAg.9ChtCYu19Ou9ChxCvrRuVr",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 국내에 계시지 않나욤 이건 예전 영상이구 해외면 입국할때마다 자가격리때문에 국내 스케쥴 생각하면 국내에 계속 계시는것같은뎅",
+        "writer": "Ugzqm-jIdsz8ULBYOvx4AaABAg.9ChtCYu19Ou9ChxfWXVC5H",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서쩡 지금 방송도 많이 잡혀있고 또 최근에 영화 시사회 뭐 그런 스케줄 예정이셨으니 현재 국내에 계신것같아요",
+        "writer": "Ugzqm-jIdsz8ULBYOvx4AaABAg.9ChtCYu19Ou9Chy_q3I-rT",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악으로 해야져...",
+        "writer": "UgzCIBBo5ZGH0y4cyM54AaABAg.9ChtCNIATOx9ChtLc0_lez",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스트라이크 악..",
+        "writer": "UgzCIBBo5ZGH0y4cyM54AaABAg.9ChtCNIATOx9Citn3jDS9G",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 멋지네요 진짜 종 3번치는거 말고 못하시는게 뭔지 궁금합니다",
+        "writer": "UgyH6XCKZw0(반사회적용어)7BiS6R4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 개멋있다",
+        "writer": "UgyCY-A2pncci0yWPbl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 하늘을 날고싶어지네요.",
+        "writer": "UgwUO-2Sj-Z9SUWt3sl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 날다람쥐가 될거야.",
+        "writer": "UgzfNqTFKiPzXFODKaJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼히어로 같다",
+        "writer": "UgzOS27jxHWhcguwQZ54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 올리면 못볼줄 알았죠 어림없지 근손실 채워버리기",
+        "writer": "UgxgRLFSw79dOcG0Ihh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙 이시간에 올린다고 그러면 이근(이름)은 아침에 주무신다는건가 아 ,아니겠지 그럴리가없어",
+        "writer": "UgxHih3J8mVKurlJeq14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형은 하트 안 달아줘",
+        "writer": "Ugw5WdC9UJVfO9p3iWl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 (이름) 경치가 너무멋지십니다이근은 개인주의야 이런 경치 혼자만 봐.",
+        "writer": "UgzLWEanHOe-WdyTlZJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 저 아직 안잡니다. 불침번 서는 중입니다.",
+        "writer": "UgxyKCI6QPrRfICZF0F4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근은 이기주의야 자기만 멋있어",
+        "writer": "UgwEPtoE7yc81g5bpyx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대한민국 대표 생존가",
+        "writer": "UgwQIf6jTNsoyiH5jI14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날다람쥐 같아서 귀엽다이시간에 올린거 진짜 너무해",
+        "writer": "Ugw4abYP2iWtpvKUR_h4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 이시간에 올리면 못 볼것 같으십니까 어림도 없습니다",
+        "writer": "UgzCPX0yyqrLsSvqhRR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오우 적이게 멋있고",
+        "writer": "UgzI-HxZOfLe6isZxKZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코리안 퍼스트 캡틴코리아...",
+        "writer": "Ugxd(반사회적용어)wQkkQXCkfxb7N4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프사 얼핏보고 꽈뚜룹인줄",
+        "writer": "UgzLWEanHOe-WdyTlZJ4AaABAg.9Cht7GLfque9Chtzm3TxWt",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정저렁 앜",
+        "writer": "UgzLWEanHOe-WdyTlZJ4AaABAg.9Cht7GLfque9ChuBQCi0MK",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간대에 올리면 못볼줄 알았지 이근은 개인주의야 혼자밖에 생각안해",
+        "writer": "UgyrLQVPeun3E2z6RyN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 밤새고 보는 맛이 최고죠.",
+        "writer": "Ugzc7Qcb4wNx2nTcz8N4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로달려왔다 (이름) 짱짱 가짜사나이2기에도 많은 유행어좀.",
+        "writer": "Ugwaea6crkFxkIPT4CV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 올리면 못볼줄 알았지 .",
+        "writer": "UgyrL30QGdxSILault14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근 (이름) 진짜로 윙슈트 실착하셨네요.",
+        "writer": "Ugwl4UEhPKJfycIKHQZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간지 그 자체",
+        "writer": "UgwUPs2Jrc6QQfCsDX14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 올리시면 못 볼줄 아셨죠 머리부터 발끝까지. 머리부터 발끝까지.",
+        "writer": "Ugzf2v45Zuam3WJqxyl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윙슈트 전세계에서도 몇명 못탄다는데 그중 한명이 이근(이름) 볼수록 대단하신분",
+        "writer": "UgxFhXJ1KB7fTjeMsLl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 형은 일상이 영화네.",
+        "writer": "UgyahokeblW51J3kt054AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사고나면 무조건 사망이라는 윙슈트를.",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 관심있는 비트가 생겼는데 ,(이름)의 ,",
+        "writer": "Ugz4NW-jFKPDkdgJMK14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상보기 좋은 시간이군요",
+        "writer": "UgwZRPIRMVqTS0ABFd94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근이 이근했다",
+        "writer": "Ugzai1c7uwBpEIlvajF4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 간지 끝판왕이네. 멋있다 정도로 표현이 안됨",
+        "writer": "Ugwf8WDOL61vgZriY7V4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 세상 간지다.",
+        "writer": "UgyxPU_VaWC0eybgajd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 윙슈트도 하심 못하는게 뭐임",
+        "writer": "UgydDUGWUgdPaWmx-B94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호호 이시간에 올리시면 저희가 못볼줄알았죠",
+        "writer": "Ugxh62OR1XJoNFPwa5l4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2에 안나옴",
+        "writer": "Ugwaea6crkFxkIPT4CV4AaABAg.9Cht2ISpHa_9Chx2rZt-hu",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전세계는아니고 우리나라가 5명이랫나",
+        "writer": "UgxFhXJ1KB7fTjeMsLl4AaABAg.9Cht0EFPEox9ChvnBoAtTr",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다섯명도 되지않는",
+        "writer": "UgxFhXJ1KB7fTjeMsLl4AaABAg.9Cht0EFPEox9ChwFRDxDRS",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라 인구가 5천만명이니까. 천만명 분의1 인거네,",
+        "writer": "UgxFhXJ1KB7fTjeMsLl4AaABAg.9Cht0EFPEox9Ci1v_aIEQ_",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서울메트로 헐 그렇게 위험한거예요",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9ChtxJyuWYP",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거의 모든 스포츠중에 제일 위험하다 보면됨저거는 실수하면 무조건 사망임",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9Chu1Kju0P5",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오마니 그래서 부상이 없대요. 실수하면 사망이라.",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9ChutA5oxxL",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부상확률이 0라죠 왜냐하면 사고나면 그냥 사망이라서",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9ChuzCPyYul",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오마니 윙슈트개발자도 죽었음 저거타다.",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9ChvKFCWUDr",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오마니 위험하죠 것도 엄청많이 저걸 타기 위한 라이센스 과정도 힘들고 산 꼭대기층 절벽 에서 고속기동하다가 까딱 팔한짝 잘못움직이던가 해버리면 바로 사망은 사망인데 시체가 그나마 온전하거나 산산조각이 나던가 둘중 하나입니다 패러글라이딩 공수랑은 조금 다른 개념으로 이해해셔야해요 사고시 불구자가 된다거나 그런거 없이 바로 사망이라 사(반사회적용어)율이 적다고 합니다. 대신 사망률이 경악할만큼 높고요.거기다 국내에 윙슈터 분들이 3분인가 5분인가 밖에 없는걸로 압니다. (이름) 존경",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9ChvVtO8057",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4명이라고 하네요 위에 적혀있어요.",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9Chyks0yGev",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에드몽웰즈 아아.. 그렇네요 감사합니다",
+        "writer": "UgxjSr9QxuFqEadS8Bd4AaABAg.9Cht-hVGNNK9ChzBfM1dJB",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발음 못함.(혐오표현). 복장.이라 했다가.그거빼곤 못하는게 없지",
+        "writer": "UgydDUGWUgdPaWmx-B94AaABAg.9Cht-F-nal69Chv3M5ywt5",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인스타 사진 묶어서 업로드를 못하십니다.",
+        "writer": "UgydDUGWUgdPaWmx-B94AaABAg.9Cht-F-nal69Chv7QqXrAn",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우우 (이름) 너무 멋있으십니다 사랑핮니다",
+        "writer": "Ugxg3ghvlPonhbLorTl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박 맨..",
+        "writer": "UgyNz5aF7zaaGCBK2Mx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이시간엨 오늘도 멋있어요.",
+        "writer": "Ugx98gwmEtCDUf3cwdp4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "굉장히 빨리올리셨네.",
+        "writer": "Ugz44SW1AH4v73Jtpm94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 형님",
+        "writer": "UgzWEmV9eGgAyeqvdjh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간에 올리면 못 볼 줄 알았습니까 다섯번 반복재생후 취침하도록 하겠습니다",
+        "writer": "Ugyczl9cmoap79nMI4J4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 광대 내려와.",
+        "writer": "UgwibawBU18pjz-sch94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 ,이시간에.",
+        "writer": "UgyfFBwcvj6hCMVgCxd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 궁금한게 있는데 댓글 읽어보세요",
+        "writer": "UgxieuVCKBOv4OC9k6J4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인주의 개인주의..",
+        "writer": "Ugxv-ljySXGGLxA0ct94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 올린다고 좋아할줄알아 잘알고있네",
+        "writer": "UgxsIgEDCHy33c8YUYZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 챔스보려고 안자는거야 난 개인적으로 뮌헨이 이겼으면 좋겠어 난 뮌헨 팬이거든",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달려왔슴다 2근(이름)이시간이면 못볼줄 알았져 으흐흫흫역쉬 이기적이셔",
+        "writer": "UgwaFablZiGihhoUEzh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "런 시간에 올리시면은.정말감사하죠",
+        "writer": "Ugz0L4eWZKVVMbckg1l4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간에 올린다 이근은 이기주의야 아무도 영상 못보게 해",
+        "writer": "UgzrkJipnAG6Yb0I3ax4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상이 새벽에올라오냉",
+        "writer": "Ugzzkf_uIxwPXzjQAph4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그는 한국군이 아니라 미균이 되었어야 했다",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9ChuAyx2OV9",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5 네다짱",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9Chubk2md8z",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5 69빠누",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9Chv1-ZlXVW",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대한민국 평균이 이근 반푼어치만 됐으면.",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9ChwE0ylbu2",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 미국인",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9ChyTuGE7QJ",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)의 (이름)에 헌신하기로한 이근 (이름)의 결정 폄하하는 소리임 까기만하면 다 되는게 아니야 정신차려",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9Chyh3SMdWP",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 너무 어리썩었다 .그래도 (이름)이 차리리 한국 보다 미국에서 잘 되었으면 하는 개인주의적인 소망이었슴다 .",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9ChzaWMKieI",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그렇게 생각합니다",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9ChzleIhOdA",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머나 . 여기서 한거 인증해버렸네. 미안해요 많이 불편했죠 이젠 안불편할거에요. 지워버렸거든비꼬는거 아닙니다.아니 이거 어떻게 말해야 안비꼬는것처럼 보이나.",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9Ci-2fxxbJ2",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싸움 수준 실화냐",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9Ci-S0-RjcX",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싸우는걸 보니 (이름)께 혼나고싶은 모양이군.",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9CiIuAqozRL",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넌 개인주의야",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9CiM0YE_Hxi",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어리썩은건 뭐냐",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9CiZr-pmXo9",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국국적 포기했는데",
+        "writer": "UgzD7zSF4AwSfBOkgHp4AaABAg.9ChsyOOBX6M9CinOwaDV5f",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고윤서는 개인주의야.",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg.9ChsxzhsYEY9Cht_CtGS9g",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "챔스하는지 몰랐네 몇시에요",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg.9ChsxzhsYEY9ChuE9RR0xQ",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "압도적 감사",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg.9ChsxzhsYEY9ChuX3croRA",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "챔스하나 보려고 내일 온라인개학 하는데 밤샌다 결과는 뻔하지만",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg.9ChsxzhsYEY9ChvtWCALpq",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정환 출석찍고 자면되자나",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg.9ChsxzhsYEY9Chw3Ds7Wp4",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한다혜바라기 죄송합니다만 제가 하도 늦잠을 자서 온라인 개학 출석을 한번 새벽 2시 했더니 다음 날 담임샘께서 문자로 아 너는 새벽에 학교 가니 다시 출석 하세요라고. 답변이 왔슴다 허허 이상 공포자 고3 이었습니다. 무튼 새벽 출석은 불가능,",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg.9ChsxzhsYEY9Ci0pxIV2Gb",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부바 푸념은 여기까지하고 챔스보러 고고",
+        "writer": "Ugyd0sWuwLvO3GzNCkN4AaABAg.9ChsxzhsYEY9Ci1E68heLt",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 할머니도 이것보단 빨리 주무시겠다",
+        "writer": "UgzrkJipnAG6Yb0I3ax4AaABAg.9ChsxdVsZ-A9Chts3tM4Oy",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이보는데 뭘 못보게해",
+        "writer": "UgzrkJipnAG6Yb0I3ax4AaABAg.9ChsxdVsZ-A9ChxRq_De9r",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오이오이 이근",
+        "writer": "UgywcU9YId2pvP1iaL14AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "휴우 다행이다 오늘도 이근손실이 나지 않았어",
+        "writer": "Ugz_MHx7ndI-bPPUke94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근대위는 개인주의야 새벽2시30분에 영상 업로드해 혼자밖에 생각하지않아.",
+        "writer": "UgxArQW81yeWsQco7Dl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수없는데 좋아요 12개",
+        "writer": "UgzoH6eWppQZGut11DJ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "업로드 시간 너무 개인주의적이지만 동시에 넘모 좋다",
+        "writer": "UgyfpXWr9-dE6zsP-hl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근 득근",
+        "writer": "UgyX0Lqc8ol(반사회적용어)sCGu4J4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 죄송한데 지금 한국은 세벽이에요.",
+        "writer": "Ugy25WNmC-nfyGSnT9V4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 새벽에 올리시네",
+        "writer": "UgzNjOJphC7IBB_jRiB4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인성문제있어 왜 지금 올려",
+        "writer": "Ugy_w091wS7VUFarj5Z4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상올라왔다 새벽까지 안자고 버틴 보람이 있네 언제나 존경합니다 이근(이름)",
+        "writer": "UgymB0oX82Qa9Nm1at94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽에 올리면 안볼줄 알았죠",
+        "writer": "UgydhOweAWSJ8sVEUTl4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 윙슈트 뭐시기 어렵다 힘든거다 보고왔는데 타이밍 노",
+        "writer": "UgwCQ30ZTwObYHLsgfd4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름) 너무 멋지십니다 크으으",
+        "writer": "Ugy14A9IVQxwhzowwDt4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시간에 올리면 저희가 못보실꺼라 생각하셨나요 7",
+        "writer": "UgzRB_ov4UQNKCUpwEx4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 사랑해",
+        "writer": "UgxArQW81yeWsQco7Dl4AaABAg.9Chsx3h6TRq9ChvP8RqitP",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 좋아요",
+        "writer": "UgxArQW81yeWsQco7Dl4AaABAg.9Chsx3h6TRq9ChyBIWYtEg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인주의고 나발이고 영상보느라 잠못자게 생겼네",
+        "writer": "UgxArQW81yeWsQco7Dl4AaABAg.9Chsx3h6TRq9ChzpNnoEMM",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외국에 있어서 그런듯",
+        "writer": "UgxArQW81yeWsQco7Dl4AaABAg.9Chsx3h6TRq9Ci-q6oiAj3",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 이근대위는 멋져",
+        "writer": "UgxArQW81yeWsQco7Dl4AaABAg.9Chsx3h6TRq9Ci-u8DFI-A",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1일 이근 누가 그랬었는데",
+        "writer": "UgxArQW81yeWsQco7Dl4AaABAg.9Chsx3h6TRq9Ci77O3OXQX",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 할무니도 이시간엔 안 올리갰따.",
+        "writer": "UgyfpXWr9-dE6zsP-hl4AaABAg.9ChswhZZf8D9ChyV5vh07K",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5 할머니말투",
+        "writer": "UgyfpXWr9-dE6zsP-hl4AaABAg.9ChswhZZf8D9Chzhlyf9Rf",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇다고 안보면 반으로 죽일거야.",
+        "writer": "UgyfpXWr9-dE6zsP-hl4AaABAg.9ChswhZZf8D9Ci-lUTxU7j",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽까지 버티네",
+        "writer": "UgymB0oX82Qa9Nm1at94AaABAg.9ChswQ5o7b39ChtgGP_AGW",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배게에 박고 대기중이었지롱",
+        "writer": "UgzRB_ov4UQNKCUpwEx4AaABAg.9Chsw9aDZTj9ChujhEaHWs",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으림도 없다 암 아아암",
+        "writer": "UgzRB_ov4UQNKCUpwEx4AaABAg.9Chsw9aDZTj9ChvClFp9Q5",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어림도없지 바로 들어와 버리기",
+        "writer": "UgzRB_ov4UQNKCUpwEx4AaABAg.9Chsw9aDZTj9ChvJL-kfpV",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 일찍왔다..",
+        "writer": "UgyoJZR3Ue6kYj_Bzat4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낙하 문제있어",
+        "writer": "Ugy4B8H2ZH1olVJ7pRB4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 존경합니다.",
+        "writer": "UgyqhQKfzonGNIoidMV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8초전.이라 황급히 오다.",
+        "writer": "UgxB0P0GiPDea8WSbLR4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "업로드 시간 문제 있어",
+        "writer": "UgzMuJ6gLOrdkqaGBnV4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 우리나라 사람이 윙수트로 나는걸 볼줄이야",
+        "writer": "UgynOTrBVQgvzM12kvh4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이근(이름) 나이가. 몇살이시지 간지작(혐오표현)가",
+        "writer": "UgwCTlnO8kD0t5WN9T94AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 드립좀하네",
+        "writer": "UgwCTlnO8kD0t5WN9T94AaABAg.9ChsvF3OuE09ChuxVXGBs1",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 대박 (이름)",
+        "writer": "UgzaTUU87-mYIjQGNN54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멋집니다",
+        "writer": "UgwbUEV3S08dQLldhVZ4AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 형님",
+        "writer": "UgwHqopcwL-EfiB-wh54AaABAg",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2초 늦었넹",
+        "writer": "UgwHqopcwL-EfiB-wh54AaABAg.9ChsuAw14PJ9ChsyNJ8mvS",
+        "write_date": "2020-09-22",
+        "url": "https://www.youtube.com/channel/UCySPtgDjPFwDa6ZWvMzPbyQ",
+        "parent_url": "https://www.youtube.com/watch?v=GrzNq50AGPk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

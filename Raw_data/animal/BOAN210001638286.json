@@ -1,0 +1,956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001638286",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001638286"
+    },
+    "text": [
+      {
+        "content": "착한 아이들 장난인줄알면서 다 받아주네요",
+        "writer": "UgyQ8Xcv-j1syHpDdpV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 해피 살짝 애기티가 난다. 요즘 영상에선 완전 어른이던데",
+        "writer": "UgzIj5txBpkT9n68YWJ4AaABAg",
+        "write_date": "2021-04-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 소년,",
+        "writer": "UgyxC9tVmK8EAZqAXv14AaABAg",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사료셔틀 무엇",
+        "writer": "Ugwr3BifQmwl4IpgpYR4AaABAg",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대형견은 무서워서 피하곤했는데 해피와퍼니는 너무너무이뻐요 둘다 (이름)고 싶네요.",
+        "writer": "UgxFS16GbvWI93svHQp4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 해피 견성보소",
+        "writer": "UgxmaWnUE-06L8zppbF4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 (비속어) 또 발연기 시작이여",
+        "writer": "UgzEL0-AdMKFKMIlSIh4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이뽀 감동이야 애들",
+        "writer": "UgwOIpAOCkxdkQse5pR4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니들 개껌도 먹는지 첨 알었다,",
+        "writer": "UgwBGSotJW7lANXuQ3R4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양치기 집사",
+        "writer": "UgwEtUAWT4KvYsLDm-p4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이왕 연극하려면말없이 누웠어야죠 아이들이 영리하고 의리 있네요",
+        "writer": "UgyAiYLSiycn-LgtflZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 아 짱나, 언제까지 받아줘야 하나,",
+        "writer": "UgwRRFli8b0SCfOqr2l4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늑대의 눈빛",
+        "writer": "UgwPGyt-xYBvMiaa8mx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠만해선 안부러운데 진짜 얘네들 너무하네, 좋겠어요.",
+        "writer": "UgwLvCBnqJuvc1Gmt714AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니도 달려와 줬는데, 해피만 너무 의존하는거 아닌감 하긴 큰놈이 더 믿음직하긴 하지, 그래도 퍼니가 속상할듯, 칭찬은 공평하게,",
+        "writer": "Ugyf-kUeuh8pONFnccB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1년 지났으니 이제 향상된 연기력으로 다시 보여주세요",
+        "writer": "Ugyuoky-EoXUbI_M_VB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)끼야 간식만 주면 좋다하지 무슨",
+        "writer": "Ugxwa-ek2i0Q9sSq76R4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 개 아님 인간으로 변신중",
+        "writer": "UgypfjvoI550Wh-IK5t4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쟤 또저런다 반응해주자 느낌",
+        "writer": "UgwWu2302MoivAjveop4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발연기 쩔음에 오 역시 해피 이대목이 왜케 욱기지",
+        "writer": "Ugwm-Oo1beYLyXjnkix4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 귀여우심",
+        "writer": "UgwSwnsPdeu5BveWnrR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번영상은 배경음악이 너무 커서 영상 집중에 방해가 되네요,",
+        "writer": "UgyUWy8zCw0-L3GFYrd4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(퍼니) 양치기형 적당히 해 이 스키얔 집사형이 감동 먹었다면 저흰 그 걸로 족합니닷",
+        "writer": "UgzbP3jRt82EolrY0R14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 퍼니 진짜 반사적으로 빠르게 돌아오는거 걈동 (이름) 퍼니가 먼저왔는데 왜 역시 해피만 하세용",
+        "writer": "UgyECpRKhvNXKephpgJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아앜 해피. 으윽 해피야. 너무 해맑게 쓰러지시는거 아니에요",
+        "writer": "UgxdizbCcTXIfkNNexx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 퍼니( 웃으며)셔틀셔틀왜 왜 이러면서 오는거 같아요",
+        "writer": "Ugzh-tUFr2aYzy6NWpx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애초에 애들 이름이 비상시 조용히 운명을 따르셔야 할듯",
+        "writer": "Ugx9jDHF_iLa4wVUtER4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 참 든든하시겄어요.",
+        "writer": "UgzbkcTe-3y7f0gnkhF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 연기가 너무, 애들 꼬리흔들며 달려오네요",
+        "writer": "UgxJ31d2p9YyFFotNMl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인 키우느라 고생이 많다 해피 퍼니야",
+        "writer": "UgyDLXTMi8foLBMXsIt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시는 뭔 역시옄오두방정을 떨고 쓰러지면 지나가던 냥이도 들여다볼듯 꼬리흔들면서 오넼",
+        "writer": "UgydNt3_UC3HmvYUdal4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 사료셔틀에 빵 터졌네요",
+        "writer": "UgxbTBKK9RyCXWRe-ml4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미로 하는거 개들도 알아요. 개들은 냄새로 아픈지 이미 알아요",
+        "writer": "UgyLloYqBXnSqsY7KK54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 웃기시고 유쾌하고 해피퍼니 (이름) 포에버용",
+        "writer": "UgxfUZYr10sQ8nvT7e94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사료셔틀 짱웃겨 근데 너무너무 행복해보여요",
+        "writer": "UgzTuT88GrTBrg1xJrZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피궁뎅이에 노란색먼지털이 (비속어)",
+        "writer": "UgwZ5fXLArfJE-tfmGR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐앙 해피 너무 기여웡 퍼니두 달려오는거 너무 기욤",
+        "writer": "UgzUx6oishSHeMXknB54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발연기도 발연기도 이런발연기가 없어유",
+        "writer": "UgxcJs_DlXoJvueLzvl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니도좀 예뻐해 주세요 사료(이름)",
+        "writer": "Ugx7mXtO0Hc5y1hTpAJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집사는 장난꾸러기였던것이였다",
+        "writer": "UgycVIS9_SX0N6_aSRx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 부르니 오는듯, 잠시왔다 놀러가는걸 보니 궁금해서 와 본듯",
+        "writer": "Ugy9u6VvxkjlV0q4eMV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실제로 진짜로 아픈건 알더라고요. 전에 포메키웠을때. 한번 폐렴걸려서 제대로 아파서 낑낑댄적있엇는데. (제가 ) 아파죽겠는데 뭐이리 뛰어댕기는지 집도 안큰대 집 끝에서 끝가지 계속 뛰더라고요. 한참을 그러다 짖고. 또 다시 뛰고 그러다 와서 몇번 핥(비속어)가 다시 뛰고 그렇게 어머니가 올때가지 그러더라고요. 그때는 아파죽겠는데. 얘는 왜 이러나 싶었는데 다 걱정되서 그런행동을 한거구나 생각이 들었어요",
+        "writer": "UgzBiL4b3-k-017Inlx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복받으러 들어옴",
+        "writer": "UgzWqFF2tv8qxbbH7DN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 귀엽",
+        "writer": "Ugz9bK_qA1w-gZaQ0oR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 퍼피야 발연기하면 확 물어버렼",
+        "writer": "UgyxLOKkjpMVN87hWKJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 배꼽 빠지게 웃었네요",
+        "writer": "UgyQiFWUeHLfWQWKpBx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 천사넹",
+        "writer": "Ugx-4OYTNpzxGY0KaCl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Fuuny 귀여월",
+        "writer": "UgwcdlE85CPn-69VT8t4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에는 오지 않아요 해피 퍼니 기특.",
+        "writer": "Ugwe1wGJdg0X5TcmuRN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나중되니 (비속어) 뭐지 이런 반응",
+        "writer": "Ugzq1LsCbF8skWKcvzN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 아부지. 대체 뭘보고 애들한테 감동을,",
+        "writer": "Ugy4jNyJY8EOHvP1Grp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연출 연기가 들어가니까 비추가 늘어났습니다 저는 좋아요 눌렀어요",
+        "writer": "Ugw_2CZ5kYw1JyBLE0x4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 본 허스키중에 젤 착하게 생겼다",
+        "writer": "UgzRgGjfQOQYhd0C9Fh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사료셔틀 (이름) 든든하시겠어영 아가들 진짜 듬직하고 저리도 이쁠까 넘 자주하지마세요",
+        "writer": "UgxhKrZmFQO32w4Hbc94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거짓말도자꾸하시면 애들이 아(비속어)또거짓말하는구나하고 속아주지않을것같은데",
+        "writer": "Ugzy2kKTWh7CqaULB6h4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)들도보살펴주시고 감사합니다",
+        "writer": "UgwbNh9cvAeEDIIb8qd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찍어주는 사람이 없어 슬프다",
+        "writer": "UgwOzjAG1xHZf4yzVW94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이름을 부르면서 쓰러지는건 나 지금부터 쓰러질테니 달려와줘 하는거랑 뭐가 달라요 사료셔틀은 답정너였군요",
+        "writer": "UgwFctpLQZl74GctUox4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자꾸 놀리면 실제 상황에선 안와요 늑대소년처럼요",
+        "writer": "UgyQIA3f9rS7s9dAQtl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날도 더운데 (비속어)",
+        "writer": "UgwJFiJ8CV4_Ndmoq194AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽고 이쁘고 나도키무고싶다",
+        "writer": "UgywdArphPwk9PjBhF14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 감동인데요 저희집 애들은 또 누워있는구나 이러고 놀 것 같아요",
+        "writer": "UgxApRuL9VrnESqFneV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 개귀찮",
+        "writer": "Ugxtf01oe9bH9MbxXGZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길 가다가 해피 퍼니가 아픈척하고 쓰러지면, 주인이 어떻게 하나 보고싶어 장난한다면, 주인이 걱정하면서 달려오면 해피.퍼니도 감동받겠죠,",
+        "writer": "UgyOatuP_Oek_m7RQbt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 빵터짐요",
+        "writer": "Ugy8UDawMYkdADQb2NR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘자주하면양치기소년 됩니다",
+        "writer": "Ugw0RMxyEOiNLe71Jyl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반려견 키우는 사람이라면 한두번쯤은 해봤을 저 행동 열번이면 열번 똑 같이 달려와 주었던 울 럭키나중엔 한숨을 쉬길레 나도 모르게 웃음 빵 터졌던 기억이 나네요.",
+        "writer": "Ugx_4B49Rd4XDzN7XSp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집사 남우주연상 급 연기",
+        "writer": "UgxiBSSiFpSQTPCYqQd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양치기 견주",
+        "writer": "Ugzy2kKTWh7CqaULB6h4AaABAg.8x8gd3_sceV8x8hWoZEFll",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 오랜만이네용 안올까봐 무서워서 쓰러지면서 부터 이름부르기",
+        "writer": "UgwFctpLQZl74GctUox4AaABAg.8wTDE7azJ9w8wTEbeGTFco",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양치기소년이 되지않겠읍니당",
+        "writer": "UgyQIA3f9rS7s9dAQtl4AaABAg.8wSlxBX7Hd88wTEo3qJw2W",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 봐주셔서 감사합니다",
+        "writer": "Ugy8UDawMYkdADQb2NR4AaABAg.8wQu3-k68A18wR5AzClcSA",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한숨까지요 기여워요",
+        "writer": "Ugx_4B49Rd4XDzN7XSp4AaABAg.8wQd9HuuElN8wQjSytnWnh",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기특한 아가들, (이름)도 무지 웃겨요.",
+        "writer": "UgzZ0RxCEnvY6a_-lr14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니, 내 사료",
+        "writer": "Ugw_z3yaZblgw5KQo8h4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 길바닥에 몇번을 드러누우심",
+        "writer": "UgwJQEXh_4z60uAPWX14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 재미난 놀이한당 역시 갓트리버",
+        "writer": "UgyW8EHlRStAcBI0g_54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걱정이 아니라 먼일이여 하고 온거같은데",
+        "writer": "Ugwe4TH9Zk-P6LflUAh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃으면서 오는데요 둘다 깔깔거리면서 오는데 걱정하는거 확실해요",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 구독자가 점점 늘고 있네용.. 우리 해피퍼니의 사랑스러움이 널리 퍼지기를",
+        "writer": "UgytwjNoaBYolpI9JsZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 자주 써먹지 마세요 나중엔 뭐징 하다가, 점점 무관심으로 돌변합니다 정말 진짜로 아파서 부르는데놀자고 공가지고 옵니다",
+        "writer": "UgzV14F2BUV44ZI-4tt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 댕댕이들",
+        "writer": "Ugzx7wx4EvsUV4Ih-HN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 엔돌핀 아침 햇살같은 너 해피, 한번 더 웃을수있게해줘서 너란 개에게 너무 고마워 그리고 개아빠도 고마워용",
+        "writer": "UgxxtCiRkqKJ2ccP9RB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 해피 퍼니",
+        "writer": "UgzBFMSuDQQO3_SuAct4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃겨 이 더운날 그것도 여러번이나",
+        "writer": "UgzHlK73iSLfH_hzCbN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 기분최고,",
+        "writer": "UgwRWvXSUIqr-3R5zcJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 눈꼽",
+        "writer": "UgzVHhYV2B40KhnxDB14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 감동허스키도 달려오는데,해피만칭찬,",
+        "writer": "Ugz5Khbsmxm1fupNHpx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실험, 그대로 다른데로 가면 좌절 애기들 이쁘네요 자주 올게요아 구독도 필수로 했어요",
+        "writer": "UgwBSDGKoin9Y8GpH0t4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무웃겨이정도면 연습과 훈련 아니에요 귀여워",
+        "writer": "UgzXGeVDBK6FTqKy7GV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 놀라요 이제그만",
+        "writer": "Ugyqv38y9Wk1E77JBFx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 자신이 한심합니다,",
+        "writer": "UgwJQEXh_4z60uAPWX14AaABAg.8wPqlNBv7dT8wPvp245JrW",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소리치면 달려가기게임",
+        "writer": "UgyW8EHlRStAcBI0g_54AaABAg.8wPZqPyT_hK8wPvm_i5dR5",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금보니 그냥 저랑 놀이하는 느낌",
+        "writer": "Ugwe4TH9Zk-P6LflUAh4AaABAg.8wPWNO_jVGd8wPvjoDMZLl",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀이정도로 생각하나",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V8wPJpAi5z1R",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표정은 이인간이 장난하나 인데, 요",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V9B8reeSapPa",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 Happy Funny 개고기는 절대 주지 마소마",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V9B9mVu5rzHC",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남임사문 이사람 계속 해피퍼니 영상마다 이런댓글 다는데 되게 무례하다. 새로운 (비속어)인가",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V9BMHfEw2nOk",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오드리햇밤 오드리 햇반 널 맛있게 먹어주마",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V9BMIEtDF3ii",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남임사문 개고기 얘기하니까 급 먹고싶어지네 , 예약하고 저녁에 먹으러 가야겠다",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V9BZJPK0YnZH",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남씨 할일없으면 빈대덕부(비속어) 찌그러져라, 여기와서 물흐리지말고",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V9CQ4VqWYGSV",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘자유롭게 늘자유롭게 오늘도 개고기푸짐히 자시고 개거품 물며 웬 (비속어)야",
+        "writer": "UgzYJaInk7Caqmytl8d4AaABAg.8wPItDkRC4V9CQ68UjwrYY",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 응원해주신 덕분입니다 감사합니다",
+        "writer": "UgytwjNoaBYolpI9JsZ4AaABAg.8wPE5ghkCoV8wPJy0OhoNG",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 응원해주시 덕분입니다 감사합니당",
+        "writer": "UgytwjNoaBYolpI9JsZ4AaABAg.8wPE5ghkCoV8wPK-qAR618",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 그럴거 같아요 놀자는줄 알듯요. 양치기소년 되면 안되겠어용",
+        "writer": "UgzV14F2BUV44ZI-4tt4AaABAg.8wPCcpH9bt08wPKBImkLrI",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 퍼니",
+        "writer": "Ugz5Khbsmxm1fupNHpx4AaABAg.8wOtXmmnQtM8wP6YvjlEKQ",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 Happy Funny 엥, 편애극심하네,",
+        "writer": "Ugz5Khbsmxm1fupNHpx4AaABAg.8wOtXmmnQtM8wP6y6uyAau",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무시하고 갈줄알았습니당",
+        "writer": "UgzXGeVDBK6FTqKy7GV4AaABAg.8wOiJFiI0wH8wOn4GZ8ls9",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발연기 어쩌실겁니깤",
+        "writer": "Ugxa_iPGFt2wI8RhWzZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안돼 내 사료셔틀...............",
+        "writer": "Ugyd1sFW6e5wlB2vrZ94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라이언 일병 구하기 오버랍 되네유",
+        "writer": "Ugylz4bxnD3cvLG0G9V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심이 담긴 리버슥히 영상 잘봤고요 집사냥반 구독자 6천백명 달성축하요",
+        "writer": "UgxLtLqh9mIX0vScD-94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효녀 효자 해피여사 퍼니형 개감동",
+        "writer": "UgwrHweQcvD25h3afqh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오호 발연기인지 알고도 (이름) 달려오는 해피여사님",
+        "writer": "Ugy2D2M3Q9TCh3KCYol4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개껌에 두개골 열일하는 여사님",
+        "writer": "UgxbX2u8QqM8vTUs7hV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배우감 아닙니까",
+        "writer": "Ugxa_iPGFt2wI8RhWzZ4AaABAg.8wOgzzIGS7b8wOmyq6mOQl",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다욧 꾸벅",
+        "writer": "UgxLtLqh9mIX0vScD-94AaABAg.8wOf3po49Um8wOmn1TiHrx",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무시하고 갈줄알았는데 감동",
+        "writer": "UgzFxdIdhs5nomUD_u54AaABAg.8wOeJwX5UvV8wOmqedrZxs",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=zSifx3WVO4k",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

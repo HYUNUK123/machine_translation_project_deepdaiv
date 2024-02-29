@@ -1,0 +1,908 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001664038",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001664038"
+    },
+    "text": [
+      {
+        "content": "건후 멋져",
+        "writer": "UgyFQ-iuUHX5FAUva1N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 아가 목소리 참 우렁차네",
+        "writer": "UgxsF3GTdW0S5C3w3BN4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리찐우먹기위한발버둥 넘 학구열넘친찐건우 예쁘고착(이름)(이름) 더없이귀엽구이쁘구 으이그 난오늘도미소로시작이다여,",
+        "writer": "UgwaM_jytVukxpqN2ox4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 입이 똑같애 귀여워,",
+        "writer": "Ugynq8NAcSPXsHIdePJ4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밑에 아이들은 큰 애들 보고 커서 그런지 잘 하더라구요",
+        "writer": "UgxFrWdRabtwMatSVCt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불편하게 진우는 집에서도 가방 을 매고 다니네요 진우 는 말 을 빨리 할것 같네요 넘 귀여워요",
+        "writer": "UgwJeM7JPeeFDlzsHZx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩌면 삼남매 다 저렇게 착하고 인형처럼 예쁠까, 슈돌 건후네만 보는데 순서 좀 바꾸지 마라 맨 나중에 하든지 맨 처음 하든지 하면 좋겠다",
+        "writer": "UgwJLw348uGFKcfjMzx4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 처음웃을때 (비속어)",
+        "writer": "UgwfvEMopl0abZ3kXSR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 네가 최고야 나은이 최고",
+        "writer": "UgwHDC33XHK9OMVzZqd4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 가족",
+        "writer": "UgzEeOiC8LgC9oqITpN4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼메니에 나은이네식구가안나워서 속상햇는데나오니가 너무(비속어)타 나는하루에도몃번식봐 너무이버",
+        "writer": "UgwujFZH8kuZ4DLIkN94AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린 막내를 안고 먹여야죠 큰 애 는 혼자 먹을수 있는데 무심하다",
+        "writer": "UgzP8yv8JEnqOiuvmH94AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파추호 패밀리 보면 기분좋다 살랑해용",
+        "writer": "UgxK6431UqdcdYx0_FZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복한 가족들",
+        "writer": "UgxbsxSoKgf0i5LGdNt4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 하차해서 나은이네도 여행 좀 가자. 그동안 한집에 제작지원 다해주고 형평성에 맞게 좀 해주시라.",
+        "writer": "Ugy7WWncJ3IAn6UEUHR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "큰애는 먹이면서 밥달라는 막내한테 무심한 아빠다",
+        "writer": "UgwH93aYmxHc705cO0l4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 이쁜아가들 처음봐 심성도 인성도 다 갖춘 아가들",
+        "writer": "UgygTjU0FDk9IQMO-h94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 그렇게 아주 어린이가 냄새별로인 치약을 더달래하며 양치질에 신난 경우는 드물고드문데 어떻게 양치질에 앞장서는 개념충만아로 자랐나 부모양육에 놀랄 노자다.",
+        "writer": "UgyB2t6z_ue43rj6LXx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(비속어) 치카치카 하자니까 따라가서 씻고 나와 아(비속어) 같이 데리고 밥을 먹여야지 큰애들만 앉히면 진우슬플 텐데 아(비속어) 분위기를 모르 네",
+        "writer": "UgzAdGK1MkMjIlARGL14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈퍼맨에서는 세남매가 젤이쁘다",
+        "writer": "UgxoGLD9pLYmSAGUQ6l4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 집 애들은 세남매가 다 어쩜 이리 사랑스럽냐,",
+        "writer": "UgxeVo__OSUpQdOLUxF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양치도 잘하는 진우 착하다",
+        "writer": "UgxUv-DNvaCdx8fRSqF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후도 그렇게 귀엽더니 진우도넘귀엽네요 보고또바도 보고싶은 귀요미들",
+        "writer": "UgxRAAt102OhBNzaZNd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후보다 진우가 말 더 빨리하겠다",
+        "writer": "Ugx0y_jUS7KZ2h9OIVB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아웅 이가족은 어쩜 이리 다 예뻐요 _",
+        "writer": "Ugx5Txo8xr5z9_GWf914AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은 건우 진우 전생에 (이름)들이야 늘 기도 삼매경 하다가도 쉴때 우리 아이들 본단다 그러게 부디 건강하게 잘 자라서 세상에서 꼭 필요한 사람으로 잘 자라다오 일체 중생들을 남김없이 제도하는 지도자로 어쩜 지금도 너희들은 (이름) 화신되어 충분하게 잘 하고 있어",
+        "writer": "UgyPsTXP4q9DQ_TL8Ct4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 진짜 많이 컸다",
+        "writer": "UgyQhB5a-fK8_JznMy54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은건후 진우 넘예뻐요 행복한가족 보기만해도 뿌듯합니다 사랑해요 특히 진우 엔돌핀 나와요 넘예뻐서 보기만해도 웃음이 나와요 호호호",
+        "writer": "Ugwp-5CSjtdMUuTUcmx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 너무 이뻐",
+        "writer": "UgyxRNuDvCpZf8bbzOV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘 헤밍턴의 밀린 출연료는 정리 했나",
+        "writer": "UgxsHbau3Fw_I5taexJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 슈퍼맨이 돌아왔다에 처음 나왔을 때 아빠 못알아봐서 웃펐는데 이젠 제법 친해진 것 같아서 보기 좋아용 박(이름)도 이제 덜 속상하실 듯 삼남매 너무 귀여워요 요즘 찐건나블리 영상 보는게 낙입니당",
+        "writer": "UgxvhtF45AIfwdyN5RV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아찌누 너무 이뻐서 미치겄다",
+        "writer": "UgzYzQeTFs3MRkYCvkt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 네 맞아요",
+        "writer": "UgyPsTXP4q9DQ_TL8Ct4AaABAg.9LbXC9ps7kW9LfE_64A0px",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 진(반사회적용어)테 많이 익숙해졌구나 그래 그러구 형아되는거야 둘째가 힘들지, 건후파이팅.",
+        "writer": "UgyIPbSfvjUZIbYBuMl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 언어습득이 엄마닮아서 건후에 비해 확실히 빠르군요",
+        "writer": "Ugw8Wn3YqCtCNiaQnpl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치카치카 도 잘 하는 울 지누 말도 잘 하네 밥주 진짜 귀엽고 이쁨",
+        "writer": "UgzEw-T31JjphjHfQWt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 쪼꼬만 입에 칫솔이 들어가다니, 충격적이게 귀엽네,",
+        "writer": "UgziXJ6Iw-DDnAu7LT14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후는 왕자 책읽는 멋진 남자",
+        "writer": "Ugw2OIWQzmeJXx_QI5J4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 저 백 매는거 누가 해주는거얌",
+        "writer": "UgzelDyYheIN_LnFOVF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 다 컷네",
+        "writer": "UgyUiHQY7qQIMgT4flB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 다 비주얼이네,나은이는 크면 더 이뻐질듯",
+        "writer": "UgyAv3ATeLdDB5LXwIh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 나은이 애기때랑 완전 판박이네 (이름)다",
+        "writer": "UgwoUdIEpu_b_xw4Jzp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 진우 치카치카 너무 잘해요 너무 이뻐요.",
+        "writer": "Ugyo5rWtq1OOAH5Q7wV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적으로 진우가제일귀엽다",
+        "writer": "Ugzd833kQ_8-awc1Mfx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐흐, 더줘,또어줘어.",
+        "writer": "UgxFAdsfbEMmpVz9oAN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기운없을때 얼굴보면 힘이 쏟는 나의 자양강장제, 찌누",
+        "writer": "UgzZzrcKVvHEm2OUWQh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성격도 좋고 균형감 뛰어난 진우는 커서 운동선수 될듯,",
+        "writer": "UgwCmlB_Q7TQaaeJGHZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌누는 아무리봐도 요정이다 요정 아힝",
+        "writer": "UgyM0TveuP7BOH90nix4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추호는 좋겠다,",
+        "writer": "UgyOerVa2c1Qw9tFgq14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 너무 귀엽다 ,하",
+        "writer": "UgyIXWgjwA7JDnHG_3d4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 건후가 넘 조용해요 진우나이때처럼 활동 했음 좋아",
+        "writer": "UgyIPbSfvjUZIbYBuMl4AaABAg.9LQ8FYRybT-9P7ekIwk0TN",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이크 라고 하던데요",
+        "writer": "UgzelDyYheIN_LnFOVF4AaABAg.9LI5URDGdHK9LM7J3TYxGx",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 이쁘고 사랑스러워요. 볼때마다 제 마음이 뿌듯하고 즐거워지네요.",
+        "writer": "UgxB_L2q2aMau1XzJp94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "양치를 좋아하는 아기가있다니 놀랍다, (나의 경험상 본 적이 없어서)",
+        "writer": "UgwPNfcf0tb3vN10duF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 치카치카 하면서 더줘 이제 말도잘하고 정말 쑥쑥 자라는것같아 온 가족의 사랑먹고 너무 귀여워 밥빠 밥줘맘마 말도 잘한다. 진우야 너무 사랑스럽다 요즘 진우 건후 나은 보는재미로 산다,화목하고 서로 챙겨주고 서로 나누고 사랑해 아가들아",
+        "writer": "UgyM3r6RfERZsUHC8-F4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이도 얼마 없는 게 양치질을 뭐 저리 열심히 해, 넘 귀엽다 미쳐 진짜",
+        "writer": "UgzTzvjSoqkueswzMGx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 가방 메고 있는거 보기가 넘 불편하네요 왜 메고 있는건가요 설정인가요 어깨에 짐이 넘 안쓰럽네요",
+        "writer": "Ugy9iEr9WwYOCQwDkDx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 형도 아빠 옆에있는데 막내만 밑에서 빙빙 돌게 하니 올라가고 싶지요 막내 를 챙겨야 하는데",
+        "writer": "UgyyxtCnrcpJcBI2TCl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하목소리 듣기싫다",
+        "writer": "Ugy0JHNBi6Suw7pSdHl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘고 잘생기고 귀엽고가 다 있네",
+        "writer": "UgxjJsbr-aWBlXz-nBx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 정신없어",
+        "writer": "UgxjTOaGghDjFd6UdtN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후는 아역 배우같아 진우 이거줘 말도 잘하고 너무 잘 웃는 진우 웃는모습이 너무 맑아 내마음도 맑아지네 예쁜진우 밥줘말도 잘하고 사랑스런 진우",
+        "writer": "UgyefCfAQYZkHnTCMwh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이가족은 걍 다 너무 사랑스러우뮤찐건나뿐만 아니라 파추호 (이름) 마저",
+        "writer": "Ugw9H9Mt9iCdEBVkcEZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 유튜브 안나와 집에서 보면 이젠 진우 아기 의자 아닌 건나처럼 자리에 앉아서 혼자잘먹드만요",
+        "writer": "UgxRvVqKy4PiVZ_a_8x4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거미를 너무 좋아하는 울건후스파이더맨사랑 (이름) 같이 예쁜 건나진은 사랑이다",
+        "writer": "Ugz3raau1LhcFsfX4Mh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건우 진짜 청순애기다, 넘 귀여워",
+        "writer": "UgyuCv2ESpQegB99TMp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 좋아",
+        "writer": "Ugw3bAKudJKIf8AEIkR4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 귀요미들 안녕 우리 아가들 보면",
+        "writer": "UgwiVOaA91eoXirwhch4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이크 들어있는 가방입니다",
+        "writer": "Ugy9iEr9WwYOCQwDkDx4AaABAg.9L5UZ50KltI9L5_Pq-wUcV",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 굵고 차분해서 좋기만하구만",
+        "writer": "Ugy0JHNBi6Suw7pSdHl4AaABAg.9L4HnxQXE3L9L5bXpJ1AfA",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기들 나오는 프로에 막걸리 목솔을 섭외할 수 있을까",
+        "writer": "Ugy0JHNBi6Suw7pSdHl4AaABAg.9L4HnxQXE3L9LBsnlg6n_F",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 행복해",
+        "writer": "UgwiVOaA91eoXirwhch4AaABAg.9L2u5owg40W9L2uBGlMP1X",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우는 진짜 너무 분내나는 애기, 광고하나찍으면 대박인데, 분유광고 이런거, 진우보면 기분이 너무 좋아져요.",
+        "writer": "UgyjY06-YyoudU1wU194AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이러다가 진우가 건후보다 더 먼저 줄줄 말하겟네",
+        "writer": "UgwOS9oCHQR5DAZEP914AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 안의 그냥 모든 나쁜 생각과 그냥 그냥 다 씻겨나감 천사다",
+        "writer": "Ugw1n74R4OwMHc0ysBh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 옹알이너무귀여워,",
+        "writer": "UgwOYv929McP8gmCp-d4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가짜아닌 진짜 조아요",
+        "writer": "UgztGe_ErR58VnBBmmh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후때문에 반복듣기해서 진우 말 빨리 배우겠다 ( )",
+        "writer": "UgwbX5bZC24CQ-xOtE94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어느 새 커서 이도 혼자 닦고 밥 달란 말도 하구 다 컸네.",
+        "writer": "UgxqB5-Z-u52BlJiinJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽다 )",
+        "writer": "UgwNGQr2Quw8TsrUa7x4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌누 밥주먹는거에 진심이구낭....",
+        "writer": "UgzqLmCf3VhhLi1BXVh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하 좀 빼 깬다 깨, ...",
+        "writer": "Ugwmkt1V6ecqF8nc0gd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건우가 관심받고싶어할때 왠지 내가 더 무안하네",
+        "writer": "UgwH4-w0IhSIoA9Xjfh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 밥 밥 밥주 하는거 이뻐요. 오구오구 배고파요",
+        "writer": "UgwrGp7fyKjynhWZSCt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우 밥 밥줘건후 시끌시끌 해도맛있게도 욤뇸 잘먹는다 먹는모습도 이쁘다",
+        "writer": "Ugwe1X6yU5FU9Kun3I14AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무너무 귀엾다 아(비속어) 양치하잔말에 건나진 셋이서 쫄쫄쫄 따라가네 예뻐라",
+        "writer": "UgwWAbJz5fPby2wIcm54AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이가 진우과자주고 진우가 건후형 과자먹여주네거누는 지누손에 부딪쳐도 아프단말도 없이 또받아먹고 삼남매 쵝오",
+        "writer": "UgwKnnzBFovm3VCxW4N4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후는 동화속 왕자가 분명해요항상 책을 보고있든지 옆에두고 있드라고요예쁜아가",
+        "writer": "UgwAbcgTcNyhJYCCT3x4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화들짝 놀란다니까요.",
+        "writer": "Ugwmkt1V6ecqF8nc0gd4AaABAg.9L-tfrymFHl9LBsu87E5sz",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진우도 양치하네요 너무귀엾다",
+        "writer": "UgyodaU37tbTpOxrmQN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 같이 먹었어 너무 귀여워",
+        "writer": "UgyxytJegBy8-OQUhhJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽁냥꽁냥 사랑스런 가족 모두 이쁘네 건후의 사랑스러움은 여기서도 진우랑 서로 먹여주기 하는 거 너무 보기 좋다",
+        "writer": "UgzaRmTigfhIQkx2_nF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이는 너무 이쁘고 건우는 잘생겨지고 있고 진우는 너무 귀엽잖아",
+        "writer": "UgxI3Eb1vkHTII4lMNN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워서 미쳐버리겠어",
+        "writer": "UgwtdS-DyaxHOkQ8JFF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 가정이 있는 삶이 천국 아니겠나 싶다",
+        "writer": "UgxZncrIt-b4j-5FB6x4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거누지누 볼이 찹쌀떡이야",
+        "writer": "UgzKvpRSfxkCb0utiYp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하 나레이션 도경환이 너무 잘했던건가",
+        "writer": "Ugx9cYkHi7pQH5TrBkx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 진우 너무 이뻐. 코로나땜에 우울한데 요즘 진우덕에 기분좋아. 오죽했으면 진우사진 인터넷으로 찾아 컴퓨터 배경사진으로 올려을까.",
+        "writer": "UgxqvI3EKTEd58KQCaR4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 인형이다",
+        "writer": "UgyqYe2hIGbBE5tjmup4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Drawing Jin woo from the return of superman 샤프로 진우 그리기3 보셨습니까",
+        "writer": "UgxXzGQ7WEScoy0_4654AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 동영상이랑 왜 혼자 대화하세요",
+        "writer": "Ugxv3mAOy10vvDTaez14AaABAg.9L-6IXR3HXJ9L5bVaLXZcI",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건 후",
+        "writer": "UgxI3Eb1vkHTII4lMNN4AaABAg.9L-5w8FP41O9L2ehltj84w",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셋다 너무 이뻐용,",
+        "writer": "UgxI3Eb1vkHTII4lMNN4AaABAg.9L-5w8FP41O9L38hnBlDJh",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건우가 아니라 건후에요",
+        "writer": "UgxI3Eb1vkHTII4lMNN4AaABAg.9L-5w8FP41O9L5Yjao9Zo6",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가정을 천국으로 이끄는",
+        "writer": "UgxZncrIt-b4j-5FB6x4AaABAg.9L-0M88y8gE9NrhBWDC6ve",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱 맞는 표현이에여.",
+        "writer": "UgxZncrIt-b4j-5FB6x4AaABAg.9L-0M88y8gE9QjvZOL1T33",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "격하게 공감하오",
+        "writer": "Ugx9cYkHi7pQH5TrBkx4AaABAg.9Kzx9-SJSSI9L3hx9_HssQ",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하는 재밋진 않아도 (이름)고 같이 귀여워해서 좋은데 각자의 장점이 잇는거죠",
+        "writer": "Ugx9cYkHi7pQH5TrBkx4AaABAg.9Kzx9-SJSSI9L4IwW2-QBh",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하도 애기 아빠라 공감도 깊고 예뻐하는 마음 한가득 넘쳐보여 따뜻해요 도라지 아빠와 하하는 다른 사람이라 서로 다른걸 인정합니다",
+        "writer": "Ugx9cYkHi7pQH5TrBkx4AaABAg.9Kzx9-SJSSI9LItcRQOnLw",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 꼬물 꼬물 아빠한테 붙어있네",
+        "writer": "UgxtM9AQRcfOlHzkoMN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표현너무 귀엽다",
+        "writer": "UgxtM9AQRcfOlHzkoMN4AaABAg.9KsPUeXYKBM9Lfv4onHS6c",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희와 성 ...",
+        "writer": "UgxtM9AQRcfOlHzkoMN4AaABAg.9KsPUeXYKBM9MmtU9Ics6h",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=7H6fSpDnWlw",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409683",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409683"
+    },
+    "text": [
+      {
+        "content": "나쁜사람 싸람 듣자마자 구독 눌렀어요",
+        "writer": "UgxTJOFNioR_JLUsEmx4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 구독 과 좋아요 눌렀어요 힘내세요",
+        "writer": "UgwesBGMcQS6_XwLbrV4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄청 손가락 노동이네요. 유투브 썸네일 응용해서 만들어 봐야 겠네요.",
+        "writer": "Ugz98kvpHbj3Y3K9M-l4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기존에 배웠던 내용들로 대두 쌉가능",
+        "writer": "UgxRJOgGkvtoNkXhAFh4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 잘 보고 있습니다. 질문 한가지 드릴게요 펜툴로 잡은후 복사를 하면 왜 얼굴만 없어지고 몸만 복사되는걸까요",
+        "writer": "UgwXUjwaiE-3dc9ojBB4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 엄청간단하네요.. 오늘 너무 재밌었습니다 감사해요.",
+        "writer": "UgyRjh0sg_iuXFfJf-14AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새해 복 많이 받으세요.",
+        "writer": "UgxUOZUkCVCURbJ_yAB4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리부분을 키우는것이 아닌 원본의 크기를 상대적으로 줄이는것이 중요한 포인트군요. 생각하지 못한 부분이네용",
+        "writer": "Ugzk0uA98AvncVHUKJx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2020인데 브러쉬툴을 선택한후 (이름)로 가지고 오면 적용이 안되는건 왜일까요 항상 잘 배우고 있습니다.",
+        "writer": "UgzlO9xtJP_CC3hIljZ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜너무 웃겨요",
+        "writer": "UgxPgdW-lFEyxdCx9Gd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 강좌 잘 보고있습니다. 그런데 저는 머리부분 펜툴 따고 ctrlenter 해서 선택영역 만들고 ctrlJ 하면 그 딴부분을 제외한 나머지가 복사가 되는데 이거는 어떻게 하나요 , (제가 딴 부분만 그부분만 없어져요) 제가 설정을 (이름)게 한걸까요",
+        "writer": "UgxyK5k-kAW3V2k9aVV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 깨짐을 방지해 기존 사진을 작게하는 우디쌤의 디테일에 감탄하고 갑니닷.",
+        "writer": "UgyVUCBMsP_ungrC3PB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대두만들기는 있는데 소두는 자연스럽게 못 만드나,",
+        "writer": "Ugx7sE9suaDjPrsilrJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇번이나 돌려보면서 연습했내요 좋은영상 감사합니다",
+        "writer": "UgyXAvexVE117x5_oT94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "47 오늘도 재밌고 쉽게 알려주셔서 감사해요.",
+        "writer": "UgwRuyY1g4eJKkq4D9J4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 잘보고있어요 귀에 쏙쏙 들어오는 명쾌한 강의덕분에 저의 포토샵 실력이 쑥쑥 올라갑니다학원두달다녔었던거보다 더 잘배워집니다 최고최고",
+        "writer": "UgwF_5KfTovnT749MVl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨(비속어) 엔터를 눌러서 선택영역을 따고 컨(비속어) 제이로 레이어로 만들었을때 얼굴 사이즈를 키우려면 어떻게 해야되나요",
+        "writer": "Ugw9GuP2BsfX9iU_fsJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광고 함",
+        "writer": "UgwuoYU1c4orPoYS7U94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랫만에 해보는 거네요 (비속어)(반사회적용어) 만들기",
+        "writer": "UgxUwBrqC5ccN8I7CJJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깔깔 반가워요 앞으로 같이 재밌게 공부해 봐요",
+        "writer": "UgxTJOFNioR_JLUsEmx4AaABAg.9QlbG9SB5cM9Qlu4zmbaPg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반가워요 . 앞으로 같이 재밌게 공부해봐요.",
+        "writer": "UgwesBGMcQS6_XwLbrV4AaABAg.9PFsqvuno1J9PG9Jc9DHpx",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 포토샵 뉴럴필터에 해당 기능이 베타로 있던데 아마 곧 버튼 한방으로 만들 수 있지 않을까 싶어요",
+        "writer": "Ugz98kvpHbj3Y3K9M-l4AaABAg.9M5kae0OVEP9M6Y4Hg8DKM",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짝짝짝 )",
+        "writer": "UgxRJOgGkvtoNkXhAFh4AaABAg.9JZeHwB1c6A9JZspc96e6J",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펜 툴로 path 따실 때 모드가 New or Combine인 더하기 모드가 아닌 빼기 모드로 되어 있어서 그럴거예요 펜 툴 선택하시고 상단의 옵션 패널 보시면 모드가 있으니까 더하기 모드로 바꿔서 해보세요 )",
+        "writer": "UgwXUjwaiE-3dc9ojBB4AaABAg.9IuKRWeVwHg9IuOOi8zabn",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "즐겁게 공부하셨다니 저도 즐겁네요 .",
+        "writer": "UgyRjh0sg_iuXFfJf-14AaABAg.9IANHbax9vc9IArDuE7G84",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 새해 복 많이 받으시고 새해에도 같이 즐겁게 공부해요",
+        "writer": "UgxUOZUkCVCURbJ_yAB4AaABAg.9Hyttq5b1yX9HywOxEuBye",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 뒷부분이 가려져야 하니까요 ).",
+        "writer": "Ugzk0uA98AvncVHUKJx4AaABAg.9Gb6VKPtXyl9GbHBumY-3p",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글만 봐서는 어디를 놓치신지 모르겠네요 강좌 천천히 다시보면서 특히 레이어 패널 이 나와 같은지 비교해가며 잘못된 곳을 찾아 보세요 )",
+        "writer": "UgzlO9xtJP_CC3hIljZ4AaABAg.9GEtZTr8XdX9GF-avcuK_A",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깔깔깔 )",
+        "writer": "UgxPgdW-lFEyxdCx9Gd4AaABAg.9DeOyMbYdsc9DetIhta12L",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "펜 툴 선택 2. 상단의 컨(비속어) 패널에서 현재 빼기 모드로 되어 있는데 이걸 더하기 모드인 Combine Shape 모드로 변경 3. 다시 작업하면 제대로 될거예요 빼기모드(Substract)로 선택영역 따면 선택한 곳을 제외한 나머지 부분이 잡히는 거랍니다",
+        "writer": "UgxyK5k-kAW3V2k9aVV4AaABAg.9DZndmK8_mV9D_5zmLF-VY",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 진짜 감사드려요.",
+        "writer": "UgxyK5k-kAW3V2k9aVV4AaABAg.9DZndmK8_mV9D_c7ctobnK",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 저도 지금 이거때문에 지금 막히고 있었는 데 넘감사합니다.",
+        "writer": "UgxyK5k-kAW3V2k9aVV4AaABAg.9DZndmK8_mV9DuCUdUf3qL",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깨알같은것들도 다 이해하시고 너무너무 잘하고 있어요 ).",
+        "writer": "UgyVUCBMsP_ungrC3PB4AaABAg.9Biwpb5QF8Q9Bj7tP_gR2c",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소두도 결국 목부분 이어지는게 문제기 때문에 리퀴파이로 목을 얇게 해주면 될거 같다.",
+        "writer": "Ugx7sE9suaDjPrsilrJ4AaABAg.99w5zbrfKjq99xUTfA5BbI",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 열공하고 있군요.. 히히 )",
+        "writer": "UgxExuIYRIsF6jZck2R4AaABAg.99MK034n6PS99MbmoZxv9V",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 연습하다보면 금방 잘하게 될거예요 .",
+        "writer": "UgyXAvexVE117x5_oT94AaABAg.98dLtEvJCyH98etgRlWScf",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 대두( ) 만들어보세요",
+        "writer": "UgwRuyY1g4eJKkq4D9J4AaABAg.9795cHH0KaN979Ar8a3Gfd",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메인 채널아트에 이렇게 적혀있죠 학원은 왜가 우디와함께 독학하자.",
+        "writer": "UgwF_5KfTovnT749MVl4AaABAg.96pS8G3Cm1w96phqEP1WR9",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사이즈를 키우고 늘리고 변형하고 회전하고 등등 이런 작업의 통괄은 ctrl T 프리트랜스폼으로 가능하답니다 )",
+        "writer": "Ugw9GuP2BsfX9iU_fsJ4AaABAg.95rWpo8yuln95s-1Bwf-rh",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키킼 (비속어)(반사회적용어)",
+        "writer": "UgxUwBrqC5ccN8I7CJJ4AaABAg.95Sdj6WHW7J95TNz3pDqP4",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음 배경을 복사할때 배경을 끌어서 복사하는거랑 배경레이어 Ctrl J 누르는거랑 차이가 있나요",
+        "writer": "UgxAbYpqiPLLzxkZ3YN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호홓, 이것도 기억이 그냥 나네요.",
+        "writer": "UgwXiWUNExnuAua7dxd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 크리스마스 카드로 재미있게 연출해도 좋을것 같아요 감사합니다",
+        "writer": "UgyVIsnDCOIizDDxlGR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 재밌고 쉬운 강좌 감사드립니다. 꾸준히 실력향상 하고 있어요. 수첩에 적으면서 실습도 같이 하고있는데 첫강좌부터 지금까지 쓰고보니 벌써 수첩에 반을 썼네요. 피가 되고 살이 되는 강좌 최고에요.",
+        "writer": "UgzvlJad3qMiCVI0Stx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 영상으로 잘 배우고있습니다) 궁금한게 있는데 지우개툴과 브러쉬로 마스킹하는 것에 어떤 차이가 있나요",
+        "writer": "Ugx-cr3ppfR8ffS9xmB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자연스러움 을 추구하는 우디의원, 덕분에 성형중독보다 무섭다는 포토샵 중독에 빠졌습니다,",
+        "writer": "UgwBbWfUfb-HxpIl5Tp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼른 구독하세요,",
+        "writer": "Ugy1_lnuma1r7UkcCZV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)처럼 레이어창에 오브젝트( )들이 꽉차게 보이려면 어떻게 해야하나요 전 캔버스 배경 기준안에 작게 나와있어서요",
+        "writer": "UgyKVlSx4zfIW-c71iN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고있습니다 근데 조금만 천천히좀 해주세요, 너무빨라요,",
+        "writer": "UgzpX0cA3GR4FlyflYt4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포토샾 강의 모두 다 청취하고 이제는 강좌 따라해보기 감사합니다",
+        "writer": "UgzmRlcJ3Lp7zFGJjnp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 잘 보고 있어요...그런데 혹시 기회가 되신다면 사용하시는 pc나 노트북 리뷰도 해주실 수 있나요 새로 구입하려는데 정보를 잘 몰라서요",
+        "writer": "UgxjfumwH_1IUli9VJ14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 강좌도 재밌네요 늘 감사드립니다..",
+        "writer": "Ugz_XlkUNVMlei_xUPl4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강은 괜찮으신가요 (이름) 강좌 기다렸습니다. 재밌게 대두로 만들어서 인스타 올리면 인싸 될까요. 영상 감사합니당",
+        "writer": "Ugxlfu-7qvZJoae-rkd4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유용하게쓰겠습니다 후후후후후",
+        "writer": "UgwR10GXTdzm8xoSsIx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 잘 보고있습니다. 늘 감사하는 마음이에요건강하시고요",
+        "writer": "UgzpkVVaGcMsqwd17ad4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑같아요 제가 드래그드롭으로 복사하는건 갑자기 단축키 쓰면 잘 못보실까봐 일부러 천천히 보여주(비속어) 그렇게 하는거랍니다 )",
+        "writer": "UgxAbYpqiPLLzxkZ3YN4AaABAg.93RF146Cxbg93RrXInerqF",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "열공하시는 열정에 박수 짝짝짝 )",
+        "writer": "UgwXiWUNExnuAua7dxd4AaABAg.93PsIax4uQs93Rq_P1IFGd",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주변 지인( )을 이용해서 카드로 만들면 예쁘겠네요",
+        "writer": "UgyVIsnDCOIizDDxlGR4AaABAg.92cS7gCCtNU92caq6paKw9",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와아, 지금 이 열정이시라면 정말 누구보다 잘하실 수 있을거예요. 한 번에 많이 하려는것보다 10분 1시간이(반사회적용어) 꾸준히 하는 습관이 훨씬 더 배움이 크답니다 ) 정말 화이팅이에요.",
+        "writer": "UgzvlJad3qMiCVI0Stx4AaABAg.92FB-WAihrD92FD7cjoeLe",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지우개는 말 그대로 그냥 지워 버리는 친구에요 지우고 나면 끝이죠, 반면 마스크를 씌워두고 브러쉬 툴로 작업을 하는건 색상을 칠하는 개념이 아니라 검정 지우기 흰색 살리기의 개념이라서 언제든 색상만 바꿔서 작업하면 되니까 복구하기가 아주 편하답니다",
+        "writer": "Ugx-cr3ppfR8ffS9xmB4AaABAg.9-uha1XacuL9-uturAwsV1",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 감사합니다. 왜 색상을 검정으로 하는지까지 이해가 갔네요... 환절기에 건강도 조심하시면서, )",
+        "writer": "Ugx-cr3ppfR8ffS9xmB4AaABAg.9-uha1XacuL9-v5gvTzXMN",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼요 언제나 한듯 안한듯 자연스럽게,",
+        "writer": "UgwBbWfUfb-HxpIl5Tp4AaABAg.8yiM_48VaG58ykuAoHWMce",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 구독.",
+        "writer": "Ugy1_lnuma1r7UkcCZV4AaABAg.8xGjJKbRyFn8xHPJq5cFfr",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레이어 패널에서 아무 레이어 섬네일 위에서 마우스 우클릭 해보시면 섬네일 크기 조절하는 메뉴가 나와요 )",
+        "writer": "UgyKVlSx4zfIW-c71iN4AaABAg.8vYOEtuL1fe8vZErB435lT",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄훠낫 눈으로 보는거랑 또 직접 해보는 거랑은 다를 수 있어요 ) 하다가 언제든 어려운게 있다면 댓글로 질문 남겨 주세요",
+        "writer": "UgzmRlcJ3Lp7zFGJjnp4AaABAg.8p6gsL20f0c8p7CxRB1WUN",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그러시군요 우선 저는 애플컴퓨터인 mac 을 사용 하고 있어요 단지 맥은 디자인 작업만 한다고 가정하면 이만한게 없겠지만 특히 공인인증서가 필요한 일을 해야할일이 있으면 무조건 윈도우즈 일반 ibm pc를 사는게 좋을거에요) 노트북과 데스크탑의 차이는, 사실 무조건 데스크탑이 같은 가격을 주더(반사회적용어) 더 스펙이 좋을 수 밖에 없구요 본인이 생각하기에 (이름)면서 pc를 사용해야 하는 일이 있다하시면 노트북을 아니시면 pc를 추천 드립니다 ) 나중에 기회되면 말씀하신 강좌를 기획 해보도록 할게요.",
+        "writer": "UgxjfumwH_1IUli9VJ14AaABAg.8oa-K4UNw1f8oa4g8g2B0p",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 너무 빠른 답변 감사드려요 항상 응원하겠습니다.",
+        "writer": "UgxjfumwH_1IUli9VJ14AaABAg.8oa-K4UNw1f8oaAFVZlkBl",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넵 ) 지금은 괜찮아요 걱(이름)셔서 너무 고마워요.. 한번 만들어서 올려 보세요 친구들이 좋아 할걸요 키킼",
+        "writer": "Ugxlfu-7qvZJoae-rkd4AaABAg.8oT5bwkTeXF8oTZPwd_YEn",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제 한 번 친구나 지인들 사진으로 써먹어( ) 보세요",
+        "writer": "UgwR10GXTdzm8xoSsIx4AaABAg.8oRD5x2YIUe8oRIWw7H7Me",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넵 감사합니다",
+        "writer": "UgzpkVVaGcMsqwd17ad4AaABAg.8oRD4bV8F1f8oRIUF6FZjQ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=TZmmJ831uTA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

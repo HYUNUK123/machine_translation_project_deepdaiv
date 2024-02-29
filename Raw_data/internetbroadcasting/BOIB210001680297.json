@@ -1,0 +1,956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680297",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680297"
+    },
+    "text": [
+      {
+        "content": "와(이름)이 11000원과 유튜브각을 보내주셨습니다",
+        "writer": "Ugz1FoJS-Cht-xHs-Q54AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영상첨보면서 짱친 관계의 케미를 알아버린뒤 (이름)영상에 와쨩영상전부와 와짱영상의 견와영상을 하루에 전부다본 내가 레전드 우결도재밌지만 짱친과의 케미가 넘사인듯",
+        "writer": "UgzD0aFzxxCQfFQB-ct4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자희 연희",
+        "writer": "UgxD1aisNjezZ-rrtRN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 연희 신화각성함 2020년에 보는사람 손..",
+        "writer": "UgzH5oR6Ego7qEm6wVF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 연희갘견(이름)이였다닠",
+        "writer": "UgzJxseW9_SMCj4E1-V4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 저도 하고 싶다 트위치,",
+        "writer": "UgxoWPVGdLKWMB5AzK54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날에 연희 좋았는데",
+        "writer": "Ugxy9MeLdcNQ3k-oN154AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸흡, 아",
+        "writer": "Ugxnrwiwl-v9paShk3p4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안그래도 이틀전에 3년 접었던 세나복귀했는데 영상 시작하자마자 (이름) 더빙이, 퍄퍄퍄퍄퍄퍄퍄퍄퍄퍄퍄퍄퍄퍄퍄퍞 퍄퍄퍄",
+        "writer": "UgyDp100fq0gNTjR_bh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세나하길 잘한 듯",
+        "writer": "UgxXYtHFq-qJm0hj7494AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜에요 .",
+        "writer": "UgwWij0dQdz7eSKv_RZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 소름, 연희목소리가 (이름)(이름)",
+        "writer": "Ugy9IXCoeZJLwZ1DIh14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 성우세요",
+        "writer": "UgzCN8V9eHsATZ8-6hV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일해라 141",
+        "writer": "UgwH1VD_LNsTP6HCSrt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 기우제는 끝나면 비가 옵니다 그 이유는 비가 올때까지 하기 때문이죠",
+        "writer": "Ugws3V1h8ETAgx4r58B4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 연희 견(이름)이 하신거였구나,",
+        "writer": "UgzE8G4Q6DyUUv31sr14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 부터 들리는 노래 뭐죠",
+        "writer": "UgyJNG-w4_hEAYtDe9h4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빌리 아일리쉬 bury a friend",
+        "writer": "UgyJNG-w4_hEAYtDe9h4AaABAg.8y6fqoqkDii8y9glQN1eeL",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 (이름) 세나 성우하셨음 대박, 소름",
+        "writer": "UgzN_VZPH2tBm6iYbiN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 이건 천원이잖아.",
+        "writer": "UgzYgWUdaCB77gI-j294AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녜 뒤에 그리고 전 사실 이거 오타맞죠",
+        "writer": "UgwcigPubIml3-G1OM54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 연희성우셨어",
+        "writer": "Ugwd4pAweMEtNDgV3dF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원기 (이름)가 왜 나와 141 141 141 141 원기 사퇴 기원",
+        "writer": "UgxHvGUdJUi2JbZrTNZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)때 Cv누구누구 욕인줄알고있던사람손",
+        "writer": "UgyPK10Tco0sXmBxfzh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보고 세븐나이츠 다운받으러 갑니다",
+        "writer": "UgxTknZjlZNgQEYHQ614AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 들려줘, 너의 비명소리를..",
+        "writer": "UgxAkwRuRlsZjWgqrYd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도오 (이름) 같은 친구 가지고 싶드아아",
+        "writer": "UgxNCBLHS1FKqEOyQbt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준호나이츠, 자희나이츠,",
+        "writer": "UgwfzsDzaNfQWaJePT94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원기의 구체라 (이름)의 구체를 제거해야해",
+        "writer": "UgwWr1Tj3enV2OW1-dJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일이 맘에 드는군요",
+        "writer": "Ugybyhou0n2HqqMehAJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 종언은 언제 내려주시나여",
+        "writer": "UgxWSbWr32HqWi0i_xZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연희 최고자너",
+        "writer": "Ugw7dAuJmtDiYJVlCDp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연희가 (이름)꺼였어,",
+        "writer": "UgwZeQIN6AB3svW-bRt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크큭 내가직접 종. 언을 내리겠어,",
+        "writer": "UgwaXnWfK5HLHq0aY5d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 와나나한테 10만원 도네하는 룰렛 걸렸을때의 표정을 보고 싶다",
+        "writer": "UgxhCfGJeoqwZodLrgJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견(반사회적용어) 귀여워 뒤에 현타온거도 귀여워",
+        "writer": "UgzwoliuiQDNPPp4WGV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 말은 와나나로부터의 모든 수금을 암시하는 말이었다",
+        "writer": "Ugyr6uIp-LJeM41UcpV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캐릭터가 찰리브라운이네 오랜만이군",
+        "writer": "UgznUPdOGLN2H7ID9AZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와나나 받아치기 잘했다",
+        "writer": "UgyDz4OoaQmhY6Pwiyx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩐지 어디서 많이 들어본 목소리더라",
+        "writer": "UgxlfNvDD3BweaYMNoJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 나의귀는 힐링,",
+        "writer": "UgyuD8UAfMDX1pJT21Z4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 매운데",
+        "writer": "Ugw9xsOhXmyMZSzyCCJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견나나 듀오 너무 재밌고",
+        "writer": "UgwWtBp2rvn5wKacD4J4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜희쨔응 넘나 좋다는",
+        "writer": "UgyA8fm8zehHlDx9Ott4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견(이름) 목소리 너무 좋아요 사랑해요 견(이름) 7월 주간 핫클립 영상 감사합니다 재밌게 잘 보고 갑니다 사랑해요",
+        "writer": "UgwVQ5kBQh2b50mUjTR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨첫번째 영상 진짜 (이름),",
+        "writer": "Ugy44hv_KqL0JMNY9c54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨부터 연희영상 나오네 세나로 (이름) 알게 됐으니 반응 보는 것도 꿀잼이네요 연희 신각해서 (이름)이 다시 녹음하는 날이 오기를",
+        "writer": "UgwHnt8VYEMR-KBRuI94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발 사라져라 제발 사라져 제발",
+        "writer": "UgyckDAA8rCqM9H-Beh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 김(이름)인 줄 와(이름)이었네",
+        "writer": "UgyB-0o3mV_sH3UOIQB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연희가 견님이였어요",
+        "writer": "UgxZIZ1KFZ3t5EfiAz14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈 많이 주는 좋은 친구 두셨네요",
+        "writer": "UgwdiWHgoeXpi1_EgSJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자두만 멀쩡하면되지",
+        "writer": "UgwAIx8mkRW5Nel3Z1x4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더빙 진짜 한거에요",
+        "writer": "Ugz45kT2Lnoy0MxdrNp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스x피 썸네일인데 웃고있지않다 ,",
+        "writer": "UgzIZInY8ICEgUXgb-Z4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세나에 짜히님 목소리 많아요",
+        "writer": "Ugz45kT2Lnoy0MxdrNp4AaABAg.8xOxcjT8gVU8xPRkEZYhoA",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세븐나이츠 갓겜입니당",
+        "writer": "UgzEDx0PkIC4cnw4_BZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 그림은 감성적이네",
+        "writer": "UgzdSQQ4pBXsKVLC0n54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 솔직히 이것 때문에 (이름) 입덕 했는데",
+        "writer": "UgyB4MqqRzTHaOvpFMF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여윽시 성우 견(이름)",
+        "writer": "UgxHG4DxNgs7_FmaWFZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맥주 ASMR ,",
+        "writer": "Ugy1W5kev1Zi9JSXUMZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 밥한끼사셔야 겠네요",
+        "writer": "UgwdJkuSyXFoDUT1WCV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와(이름) 요즘 계속 추한 컨셉 가져가시네. (이름) 멘탈 강하시다. 얼마나 많은 어려움을 이겨내신(혐오표현)",
+        "writer": "UgyMkJ-zWniDK6sFQcZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘은 주종 관계를 짱친이라 하나여",
+        "writer": "UgyrgevUNXYkpqJoHcZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차가워진 목소리를 들으니까 그 뒤에 나오는 웃음소리도 사악하게 들리네",
+        "writer": "Ugz-QKNK1m5u7ASDAil4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 귀여워요",
+        "writer": "UgwKmvhW_9Z51NsQQSt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱친(한 (반사회적용어)와 주인)이라고요",
+        "writer": "UgyBzAUG9UgMO33s6rF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇지 않으면 트수들이 봐주지 않을껄",
+        "writer": "Ugzu2P0uS8X0kWjob0x4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와나나를 바오밥에서 그랜드 캐, 크흠",
+        "writer": "UgxX_zLLr2zdPivSldF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱친 쩔어",
+        "writer": "UgyFQitJNO-WOzJaSGh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 너무 귀여워",
+        "writer": "Ugwo-aThq9Rzx8EOSQh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 (비속어) 접어서 이젠 못듣는 연희",
+        "writer": "Ugw7yBshjStIRtaPd_J4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야돈하셔서 짤 중에 야 돈으로 보내 라고 카톡치니 야돈사진 보낸 거 생각하고 있었는데 뒷내용이 마침 짱친 짱친하다",
+        "writer": "UgwzG78Y8ltaOyCoZT14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 진정한 친구요 진정한 지갑인것 같은데요",
+        "writer": "UgxbvBT8NjrR9CXDtJ14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어으, 목소리는 너무 좋은데,대사가 너무 중2병이야,",
+        "writer": "UgxHG4DxNgs7_FmaWFZ4AaABAg.8xOechfVjrG9Dbb8QsbxUx",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말한거처럼 컨셉이니까여",
+        "writer": "UgyMkJ-zWniDK6sFQcZ4AaABAg.8xOZPNlL1U691cBcB7vjIu",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽁돈은 좋은거야",
+        "writer": "UgxUBkRZ1kD2M2CvXZl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이야 이집 매운맛 잘하네.",
+        "writer": "Ugy5rqbcE2Sddc2sEoV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견와 조합 너무 좋잖어",
+        "writer": "UgxwZ3ji_N18nyCOnlF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구 잘두셔서 행복한 (이름) 잘보다갑니다. 월요일 (이름)덕에 저희도 행복해요.",
+        "writer": "UgxnzHcgYjqeoB2CJ7V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 사랑스럽 그자체",
+        "writer": "UgyWrH77PjYsQUc96Hd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자괴감을 맛보는동시에 돈을 주지,",
+        "writer": "UgzhtQLiuQjC5uSpPKR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기 목소리에 고통받다니 이것이 성우다 절망편",
+        "writer": "UgxYrLqYlezFdiOa_qh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연희를 뽑아야되는 각이다 몰랐는데",
+        "writer": "UgxdS3Y0c_6PLNDi9-F4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 친구 두셨네요 너무 부럽다",
+        "writer": "UgxYckzLDVakhtOGhM54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연희가 견자희였다라 어쩐지 강하시드라",
+        "writer": "UgyXvPigSwpwIRKZ9Ep4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오, 늘 내용은 여러모로 조금 무섭네여 녜,",
+        "writer": "UgzBUn0N5MiItUowRip4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너의 불행은 나의 행복, 정말 짱친이군,",
+        "writer": "Ugz1qM1doqOuEJ97OLV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 처음 나온 저거 진짜 견(이름) 더빙임",
+        "writer": "UgwGsTCv8HM1dHviZHV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 이래야 짱친이죠",
+        "writer": "UgxyBtMdS0JIGGYrpI54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 여기 계세여 올라가세여",
+        "writer": "UgywnUvYeFy_zmGABzJ4AaABAg.8xOIgxZEmmW8xOpEcpfcaE",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두간님이 왜 여기에, 어여 올라가셔야죠",
+        "writer": "UgywnUvYeFy_zmGABzJ4AaABAg.8xOIgxZEmmW8xP61Hvs9wp",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올려가셔야죠 왜 아래에",
+        "writer": "UgywnUvYeFy_zmGABzJ4AaABAg.8xOIgxZEmmW8xP6OEdu0qk",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세나유저들은 항상 (이름)에게 감사하고 있숩니다,",
+        "writer": "UgxaD6brq9zCNgijgcp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 뭐야뭐야",
+        "writer": "Ugzvpc1NLowRDSwud314AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 한개에 희로애락이 모두 담겼다.",
+        "writer": "Ugx6jT0x_9j-lFeE0G14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) .",
+        "writer": "Ugw5zCvs9cL1Q0cUtmx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "은근히 귀여워서 중독되는 구간",
+        "writer": "UgycxAJo1ROiSK6fan54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견(반사회적용어) 너모 귀여움 목소리 진짜 신기해요",
+        "writer": "Ugw4RpPEEZ6N5un0Tbl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 견넛츠 넘 귀여운데요",
+        "writer": "Ugxa4yWrsUaSBrX_7Gh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 연급 와나나",
+        "writer": "Ugy0GCzMteLyqon4Dep4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음부터 세븐너이츠 라니 세나유저 로서 참 좋습니다.",
+        "writer": "Ugyqj392vMUuGFl9eM54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜히 어린이 어, 너도 나랑 그나, 아낌없이 주는 와나나",
+        "writer": "Ugw9v22aE6Kk96ctF114AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 연희나 세인 쓸 때마다 소름돋음",
+        "writer": "Ugy9SsFdjYavumKPiJF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 연희 성우가 (이름)이셧어요 . 오늘 첨알았네",
+        "writer": "UgxtBPU3hiUhJNe8Z-54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘의 아웃트로 너의 불행은 나의 행복(이름)는걸 보아하니 짱친관계가 확실하군요",
+        "writer": "Ugys4czvk0wlI2(반사회적용어)0jl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녜에 자막 뒤에 뭐가 있네요",
+        "writer": "UgwaOluoC2aAPVb2oMN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낮술 각이다",
+        "writer": "Ugyz0We5y7P5Pp-aWxZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐요 쿨하다고요 (풉)",
+        "writer": "UgwHDAZocWh6jl4CMjd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세나 다른 여캐 많이 했어욬",
+        "writer": "UgxtBPU3hiUhJNe8Z-54AaABAg.8xO4aRFQKT78xQ5KQ9PmIb",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세(반사회적용어) 했던걸로 알음",
+        "writer": "UgxtBPU3hiUhJNe8Z-54AaABAg.8xO4aRFQKT78xT5u-ieg3g",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제, 혼란과 좌절만이 가득찬 이 세계에, 내가 직.접, 종언 을 내리겠어.(진지",
+        "writer": "UgykqcBtQ1oRs_K--VJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛집 영상",
+        "writer": "UgzvaMIQTqRlgyPgkiR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아앗, 너무 커여우십니다,",
+        "writer": "Ugx356RqnetaobEkF4B4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견튜브보며 출근길,",
+        "writer": "UgzmrXiONCD1tPiciv14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빠르다 견동부...",
+        "writer": "Ugx4TLgd3OAzjC6_NkV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작부터 딜작",
+        "writer": "UgxOmG6vZ3ORlabg3_94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오눌도 선댓 후 감상",
+        "writer": "UgxQ28G4gucihfYiALd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음날 견(이름) 숨쉰채로 발견되,",
+        "writer": "UgykqcBtQ1oRs_K--VJ4AaABAg.8xO3eukWebO91J6RtzdanY",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=voVW6KBHYP0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

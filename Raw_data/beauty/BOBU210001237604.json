@@ -1,0 +1,556 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001237604",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001237604"
+    },
+    "text": [
+      {
+        "content": "런스타 하이크는 별론가요",
+        "writer": "UgyWOFH9ho8W9Gg66nx4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무난한 조거팬츠에 뉴발530이나 574 죠",
+        "writer": "UgxmjsWfpufZEWpXb4B4AaABAg",
+        "write_date": "2021-07-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조던 1 미드 트랙레드 사셈",
+        "writer": "UgyyxNu9xgMS6ei0uN14AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빅볼 청키는 괜찮을 까요 유행이 많이 지나서요",
+        "writer": "UgxEQmn-oJYiIC2JKKN4AaABAg",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덩크 로우 범고래도 괜찮겠죠",
+        "writer": "UgyEPvOwA_LIaexJb2p4AaABAg",
+        "write_date": "2021-05-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가성비로는 뉴발530이 쵝오인듯,",
+        "writer": "UgyfeNyAoh_W6UkVXVV4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조거팬츠로 트레이닝 셋업 샀는데 도움이 많이 됐네요.",
+        "writer": "UgytmBwjq5guj-2Zsg94AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "급식때는 그냥 에어포스 컨버스가 국룰이다",
+        "writer": "Ugyu8q1_8TO9UT7fJcF4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "베이지색 조거에 데이브레이크 무슨색이 좋을까요",
+        "writer": "Ugz07-rJZ0h0fDmpfFl4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡(이름) 아디다스 오즈위고는 별로인가요",
+        "writer": "Ugyk9xCt3jqAlp6eQ6R4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 핏 좋고 옷 잘입음",
+        "writer": "UgzLr_SIrBhEH-WaoL94AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 미안한데 왤케 형 얼굴에서 탁재훈이 보이지",
+        "writer": "UgzmtyoR_H4bMFesNZt4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후드티 어떤거에요",
+        "writer": "UgwMhxRl1Y1VPNagNXR4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 조던 아니고 덩큰데,",
+        "writer": "Ugwsc7qAtaJghUtF_rJ4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 벨트 추천점야,",
+        "writer": "UgydoP1niPF7giRcFnB4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 오늘 조던 덩크를 보신곳은 kream(크림) 이라는 신발 의류 등등 한정판 거래 플랫폼 입니다. 참고 하셈",
+        "writer": "UgzqyDnfLyNx4zaE4xh4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사카이는 별론가요",
+        "writer": "UgyyjhfmGN2oz0z45Z94AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "런스타하이크는 조거팬츠에 별로인가요",
+        "writer": "UgxseM9NvkR9HsKK-q54AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아식스 지금나온거는 어때요",
+        "writer": "UgyO2uPxZPRnAKjSASV4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 그감성으로 갈려면 베이퍼와플이 낫다고봄 비싸다면 차라리 에어모나크가 좋을듯합니다",
+        "writer": "Ugyk9xCt3jqAlp6eQ6R4AaABAg.9LQdeN1Y_8L9LW6hziPmZG",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sld 언제적 구찌 벨트",
+        "writer": "UgydoP1niPF7giRcFnB4AaABAg.9LMLd3WUZdN9TJ20lP3cg8",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포켓달린 조거에는 별로 안 이쁘더라구요 그냥 스웻조거는 괜찮은듯",
+        "writer": "UgxseM9NvkR9HsKK-q54AaABAg.9LLPWwvxGAk9LRURQqeIQ1",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스트링 조거에는 이뻐요",
+        "writer": "UgxseM9NvkR9HsKK-q54AaABAg.9LLPWwvxGAk9LT6zveJO5j",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 신발 사이트 어디임",
+        "writer": "Ugxz29t9UgVYpjCUjNV4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형님 후드티 어디꺼에여",
+        "writer": "UgzS1BYdssDqGncx2f14AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨날 느끼는건데 진짜 하윤철 닮았어요",
+        "writer": "UgzPvpfwM-6kCiSOgeZ4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 여기 아니야 일진들아 나가",
+        "writer": "Ugyt7flDGzt-RXS2ef94AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조거팬츠에는 조깅화를 신으면 되겠죠 님(개그아님)",
+        "writer": "Ugw3l4L4SE96yGSI-6l4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형의 를 듣고싶어,",
+        "writer": "UgwS1CU62qu74laC4Ox4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 그니까 (이름) 팬 애칭 로 픽스 된거져 앙 조아",
+        "writer": "UgyXIpjWUBffhFGXbIp4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리학교에 방역 봉사하시는 분 방역복에 사카이 조던 신어,",
+        "writer": "UgwX40f_ppRnmh-4kzN4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mlb 빅볼청키는 별론가요,",
+        "writer": "Ugxz4f6nIea7mn1dMHx4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옾화unc있는데 어떻게 코디할지 모르겠어요",
+        "writer": "UgzmzxwRvmxBJrZShux4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여름 코디 알려주세요",
+        "writer": "Ugwd2W8qc2SFoFoGSvN4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "휠라는 쫌,",
+        "writer": "Ugyi0G_Z9pO8nyneL1Z4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "Ugw30Xc7sWic71asMZx4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명품도 한번봐주세용...",
+        "writer": "UgyisY9EWu_gX2og4ft4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이키 업템포는 어때요,",
+        "writer": "UgzTtbu3oN7KHI38oFt4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형은 옷걸이가 되서 형광 바람막이에 치마입어도 예뻐 형은 뭘입어도 돼",
+        "writer": "Ugw0sF-Hp2dQAXB6-0F4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 라는 말은 의 자식이라는 뜻으로 이말을 들으면 저희 (이름)께 죄송한 마음이 듭니다 다음 영상 시작할때 이부분에대해서 (이름)의 의견및 해명을 요청합니다",
+        "writer": "Ugw7FvUplHbBaXycs1l4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스웻셋업에 반스볼트 올드스쿨블랙은 안맞나요",
+        "writer": "Ugxk8GZ8105A5I7iLt54AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "읍매식만 아니면 됨",
+        "writer": "UgxcHe3Oszsz4-eK4I14AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공익 아님",
+        "writer": "UgwX40f_ppRnmh-4kzN4AaABAg.9LJdXT3KLRI9PuDo8jX7P6",
+        "write_date": "2021-08-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 학교도, 스캇 조던",
+        "writer": "UgwX40f_ppRnmh-4kzN4AaABAg.9LJdXT3KLRI9S69UQdkugd",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찐 테크웨어네요",
+        "writer": "UgwX40f_ppRnmh-4kzN4AaABAg.9LJdXT3KLRI9SRH0CZFKiI",
+        "write_date": "2021-09-24",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 개인적으로 브랜드 맞춰서 조던 옾화 트랙팬츠에 잘 어울린다 생각합니다 저는 돈이 없어서 옾화 UNC 대신 걍 UNC를 착용합니다,",
+        "writer": "UgzmzxwRvmxBJrZShux4AaABAg.9LJZPkih9Qg9LJf6gLSMPr",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Jake Lee 오 참고 하겠습니다",
+        "writer": "UgzmzxwRvmxBJrZShux4AaABAg.9LJZPkih9Qg9LJfXmqFI60",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 상당히 잘어울린다고 봅니다",
+        "writer": "UgzTtbu3oN7KHI38oFt4AaABAg.9LJUFwQM9t-9LJ_J6I5aES",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마 받았냐",
+        "writer": "Ugw0sF-Hp2dQAXB6-0F4AaABAg.9LJSwBEm7aj9LJbrOr8fCY",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 쫌",
+        "writer": "Ugw0sF-Hp2dQAXB6-0F4AaABAg.9LJSwBEm7aj9LJgS5XGdO6",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최성준 이정도면 백단위는 될듯",
+        "writer": "Ugw0sF-Hp2dQAXB6-0F4AaABAg.9LJSwBEm7aj9LL0ajs0HkV",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최성준 너어는 진짜",
+        "writer": "Ugw0sF-Hp2dQAXB6-0F4AaABAg.9LJSwBEm7aj9LOJtMDwZsy",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미유 아, 아,",
+        "writer": "Ugw0sF-Hp2dQAXB6-0F4AaABAg.9LJSwBEm7aj9LQcJlOGjSC",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별(혐오표현) 스타일리스트란다",
+        "writer": "Ugw0sF-Hp2dQAXB6-0F4AaABAg.9LJSwBEm7aj9O3tFKcwD7V",
+        "write_date": "2021-06-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이키 옷에 조던 덩크만 신어도 핏 상관 없이 패피되는 그 사이트",
+        "writer": "UgxcHe3Oszsz4-eK4I14AaABAg.9LJNtr5iSJ09LJT1_LcItU",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 사이트 이름이 먼가용",
+        "writer": "UgyySiGvyYyNVQpdG0d4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대는 쩡대다",
+        "writer": "UgySb6lLUeodM-_9NSd4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 이외의 런스타나 조던1 스모크 그레이 찰떡",
+        "writer": "UgzftX1u5rSzZBHFHBR4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "축구보다 같아서 오빠영상이나 볼래",
+        "writer": "Ugx24XjxtFuiWYcjWAN4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조던4 토로 신는뎀, 흠,",
+        "writer": "UgypsiwpculhGWu_pZl4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분전은 못참징",
+        "writer": "UgxtTd3oBikBRdzuY9J4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 20이야,",
+        "writer": "UgwpIge1B7o5azNQdVx4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 꾸안꾸로 입고 나갔는데 친구들이 왜이렇게 대 입냐고 하고 인스타분들은 꾸안꾸룩 너무 예쁘다고 하는데 어떻게 입어야되요,",
+        "writer": "Ugw96roV-PEWFrxqx_N4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕하는게 왜 이렇게 부자연스러워지셨어여 ,",
+        "writer": "UgxjMg5xpSiuvZbvtYl4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "는 못참지",
+        "writer": "Ugx4vYLcXqvgSpDRN1h4AaABAg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 크림이라고 스니커즈 중개 사이트임",
+        "writer": "UgyySiGvyYyNVQpdG0d4AaABAg.9LJN6Uqrvot9LJStx3EDCH",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스트링팬츠에 컨버스 하이 신는 거 어떨까요",
+        "writer": "Ugw96roV-PEWFrxqx_N4AaABAg.9LJKYp3dMng9LJL8tUlzFg",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤어 스타일링도 중요해요. 손질 잘 못하신다면 안경이나 모자로 포인트 더해주시면 꾸안꾸룩 완성도 좋아져요",
+        "writer": "Ugw96roV-PEWFrxqx_N4AaABAg.9LJKYp3dMng9LJLX2SOUoV",
+        "write_date": "2021-04-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=GXWFr5366Go",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

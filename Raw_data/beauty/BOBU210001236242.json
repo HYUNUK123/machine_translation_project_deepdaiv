@@ -1,0 +1,988 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001236242",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001236242"
+    },
+    "text": [
+      {
+        "content": "참기름소금장에 채소를 바로 먹어봐야겠어요.",
+        "writer": "UgxqdXm_pWsrvSbbqxB4AaABAg",
+        "write_date": "2021-10-01",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참기름도 좋지만 들기름에 찍어먹으면 더 맛있어요 팽이(반사회적용어)에 치즈 파스타 느낌나네요 박수",
+        "writer": "UgzQyxreGTE6tA7C_694AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참기름 소금장에 고기 찍어먹을 생각만 하는고기러버인데 이제 보라남 레시피 따라서 개과천선하겠습니다",
+        "writer": "UgxhPPJrzKi6xc_k_6J4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집에 있는것들로 간단하게 짱...",
+        "writer": "UgzrjVthUv5lFREpsX14AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 댓글 달아봐요 팽이(반사회적용어) 까르보나라에 한표 꾹",
+        "writer": "Ugz-A8rwpBXLJUToN8Z4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽이까르보 해봤는데 생각보다 맛있고 좋았어요 아이디어가 좋은거 같아요",
+        "writer": "UgyzJi4noTkjGlHkbLB4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런영상 너무 좋아요",
+        "writer": "Ugyq05VdhKeO2Ue6fup4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해먹었는데 진짜 꿀팁이요.. 이 시리즈 계속 해줘요.",
+        "writer": "Ugwih4a0vLMgQSEPpkp4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들기름이 몸에더 좋데요 들기름찍어드세요",
+        "writer": "UgwEGtpaqDgpeS6GBul4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 누워서 자극받고 감탄만 하다가 고대로 잠에 듭니다,",
+        "writer": "UgxAHzN54_mNVyqQjmZ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 식단공유 영상 은은하니 너무 좋아요평소에 관리하시는 (이름) 넘 보기 좋고 닮고 싶어요 팽이(반사회적용어) 조리하는 팬은 계란말이 팬인가요 오븐 돌리실때 쓰는 (반사회적용어)모자도 궁금해요어떤거 쓰시는지 공유해주시면 감사요 )",
+        "writer": "Ugy0U8mumoF_OdL87tV4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "센스있는 (이름) 덕분에 생활이 더 즐겁고 윤택해졌어요. 알찬 영상에 진심으로 감사드려요",
+        "writer": "Ugz1nCA1iCLAo2-ubFN4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)치즈해먹었어요 아이들도 잘받아먹어요 저도 급운동하게되네요",
+        "writer": "Ugw5MouJ-2FSdciYpUV4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤어밴드 브랜드이름쫌 가르쳐주세요몇년전 주문했었는데 기억이 넘 간편해서 좋더라구요",
+        "writer": "UgzxqCKKx5IbHw-qIqR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)위에 치즈는 무슨치즈예요",
+        "writer": "UgxGJs5fMy33a9WZyKR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기름장 샐러드 아이디어 좋네용 다이어트 어려웠는데 샐러드 많이 먹고 밥은 좀 줄여야겠어요",
+        "writer": "Ugw5GBuyiR2ZEvGL9Kl4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복근 만드는 습관 영상보니까 평상시에도 이거 드시는것 같던데. 혹시 매일 이거 드시면서 복근 만드시는 건가요",
+        "writer": "UgwszUvkIEwN6FuDhVN4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야채기름장을 남편이 보고 읭 하더니 먹어보곤 맛있다고 계속 먹네요 넘 색다른맛.에 놀랐어요.",
+        "writer": "Ugx8rQnzlxka-SXe27B4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 제일 반가운 간단식단 아이디어.. 예전것들도 다 유용하게 잘 이용하고 있슴다 _",
+        "writer": "UgxL6C2FE8pt4BVJR154AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제 영상 보고 해 먹었는데 진짜 맛있었어욬 잊고 댓글을 못 달았네요",
+        "writer": "UgyZzMuh2XQZpn9jIoR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계란말이팬 해피콜 제품이고 모자는 아크네꺼에요",
+        "writer": "Ugy0U8mumoF_OdL87tV4AaABAg.9RFpSA30-z_9RHgfcslTs6",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bora Claire 감사해요",
+        "writer": "Ugy0U8mumoF_OdL87tV4AaABAg.9RFpSA30-z_9RHiEUbwi0W",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽이(반사회적용어)이 파스타 가락 같은 착시효과가 있네요 밀가루 못 끊는데 이런식으로 해 먹으면 칼로리도 생각하면서 맛도 느낄 수 있어서 일석이조",
+        "writer": "Ugzrt0GraD2jzHbysPl4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런영상 넘 좋아요",
+        "writer": "Ugzb_pmCcwGYme6iycx4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상보고 위밀알게된 후로 시켜먹고있는데, 요거다요거.. 또알아갑니다 역시항상 유용한팁들이 많음",
+        "writer": "UgzgxE_O40MEUCZX4Ch4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다이어트를 할떼는 스파게티 스쿼시도 좋아요. 스파게티 스쿼시를 삶고 물에 당구면 속안에 가 면처럼되요",
+        "writer": "UgxfrDpDZMb28PyHNnR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강해서 좋아요 디자이너분이라서그런가 창조적이시다",
+        "writer": "UgztGKnqNZ3wiDSZv5h4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오이 소금참기름에 먹어봤는데 정말 잘어울려서 웃음이 나왔어요 다른 것도 먹어볼께요",
+        "writer": "UgySWi7NFOABIBXGuPl4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바질 어떤 제품 드시는지 궁금해요",
+        "writer": "UgzXjBYSOL37j5MRo8J4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동하고 돌아오면 음식하는것도 귀찮은데 초간단이라서 해 먹기 부담스럽지 않네요",
+        "writer": "UgwtOWBTOud5BDGuO5N4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 정말 귀여우셔요. 러블리 .",
+        "writer": "UgzDPHRzYgOun2fhz0l4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "필라테스 배우고 싶었는데 하시는 모습 보니까 더 하고 싶어요 비싼게 흠이네요",
+        "writer": "Ugx4jl3Dvt9DDqdB99d4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 오늘 당장 해먹야겠어요 정말 맛있을 듯..",
+        "writer": "Ugyz4KsawvbCw49SGv54AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음식 준비 할 때 먹는 건 국룰이죠 간단한데 먹음직스러워서 괜찮네요 간혹 다이어트 음식은 맛이 없어 보여서 곤욕이더라고요",
+        "writer": "UgwkfvzptkX7LWaQ2PB4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)처럼 식단하면 그 몸매 훔칠 수 있나요 출산하시고도 예쁜 몸매 유지하시다니 너무 대단하세요 관리하는 여자는 언제나 멋져요",
+        "writer": "Ugxu74uN2BgmPp6CzQJ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 너무 재밌어요 식단 영상 진짜 좋아요",
+        "writer": "Ugxbpn6Mvf7bZRyW8PB4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 방금 파프리카 잘라서 기름장 찍어먹어봤는데 대애애애애박...넘나 조화로운 맛이에요...단짠 과자같은 맛...",
+        "writer": "UgyEhJRq96XkPsqxo6d4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘봤습니다 바질페스토 안먹어봤는데 궁금하네요 어떤제품쓰신건가요",
+        "writer": "UgzMVC3PNGlNRzRqe6x4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 맛있으면서도 칼로리 생각해야 하는데 저는 무조건 맛있고 고칼로리만 먹어서 살이 디룩디룩 하나봐요",
+        "writer": "Ugwc7pVWgGzoaW4dc8V4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기름장으로 찍어먹을 생각을 못했어요.. 고기 먹을 때만 그렇게 먹었는데 자르고 기름장 만들어서 먹으면 입맛도 돋우고 맛있겠네요..",
+        "writer": "Ugz_RDMrZoxlz7owCuV4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺅 맛있겠다 역시(이름) 다이어트 푸드센스도 남달라요",
+        "writer": "Ugzi44dzW71aH18Ck1B4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "통밀 카나페 간단하면서도 영양소도 챙길 수 있어서 더 좋은 것 같아요 상큼한 사과 때문에 계속 먹고 싶은게 함정이겠어요",
+        "writer": "UgwzVkp-2wHwL-bViPZ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 맛있죠",
+        "writer": "UgySWi7NFOABIBXGuPl4AaABAg.9R6gbZ9bk5S9R7GdWsaCef",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3lpqNap 이거에요",
+        "writer": "UgzXjBYSOL37j5MRo8J4AaABAg.9R6RvVs96ba9R7HgGCsNHQ",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출산하고 (이름) 두돌 정도 되었을때부터 1년반정도는 제법 운동 열심히 해서 살도 빼고 근육도 좀 만들고 이후에는 겨우 유지하는 정도에요",
+        "writer": "Ugxu74uN2BgmPp6CzQJ4AaABAg.9R5ze4sB6xd9R7HEEpiri7",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이유없이 맛있죠",
+        "writer": "UgyEhJRq96XkPsqxo6d4AaABAg.9R5lmgS-1DQ9R7H0GjVCCG",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bora Claire 네 완전 .. 방금은 허브솔트를 넣어 먹어봤는데 이것도 맛있네요 1일1파프리카",
+        "writer": "UgyEhJRq96XkPsqxo6d4AaABAg.9R5lmgS-1DQ9R7pWFyybR3",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3lpqNap 입니다.",
+        "writer": "UgzMVC3PNGlNRzRqe6x4AaABAg.9R5WfADuCDI9R7HhZ-9WWn",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 야채를 기름장에 찍어먹으니 의외로 맛나네요. 건강식 꿀팁 감사해용",
+        "writer": "UgyVaFeoTtpRMl3x_j14AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부이로그 너무 좋아요",
+        "writer": "Ugxvsfg8rY6pj5mDPXB4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경기 (반사회적용어) 사시나봐요, 카트에 병원로고가 똭... 더 반갑네요, 지역주민이시면,전 태전동 살아요, 전에는 외국사시는 줄 알았어요,",
+        "writer": "UgwnrH6UMSrXdX0wHMt4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여유있는 하루 재밌게 잘 봤어요",
+        "writer": "Ugwqq9a4wgNEggVJ2Xh4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 넘 좋아요 좀 엉뚱한 질문이지만 오븐 정보 부탁드려도 될까용",
+        "writer": "Ugy93f1QWNsMrOMsTjF4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초간단 다이어트 레시피 좋네요....",
+        "writer": "Ugyg7mUIXie7NQQ4bDx4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 요런 레시피 .. 목마름에 단비같은 꿀정보.감사해요 내일부터 해먹어봐야징",
+        "writer": "Ugwgw-xkhzycV085iZx4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호밀빵에 그릭요거트 바르고 아오리사과 올려먹어도 완전 맛있어요 댓글 적다보니 시나몬이랑 꿀 조금뿌리면 더 맛잇을거같네요",
+        "writer": "Ugy65weZQtQ7Mowz6TF4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 미를 아는사람이라 그런지 오이 요렇게 잘(반사회적용어) 예뿌네용. 별거아닐수 있지만 저한테는 꿀팁 팽이 식감 시러하는데 건강정보 유튜브보면 건강에 좋더라구요 ) 그래서 기대되는 요리 세가지 다 해먹어볼래요. 남펴니도 살빼구 있어서 좋을것같아요. 찐정보 감사요",
+        "writer": "UgwAEAKRBR8mDOnN-jt4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바질페스토 어떤건지 알려주세요..",
+        "writer": "UgzndNmGPgOx8hKJ9Ut4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽이 까르보는 엄청 간단하면서도 먹고싶은 맛을 느낄 수 있어서 저도 당겨요",
+        "writer": "UgwpBB774QUXIzwkhZN4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 너무 유용한 식단꿀팁. 2탄도 기다릴께요 오이 기름장 술안주로 당장 도전.",
+        "writer": "Ugzay6yeADfj-WdjcOd4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복잡하게 만들어 먹는게 아니라 운동하고 나서도 에너지 안 빼앗길 거 같아욬",
+        "writer": "UgxCVY87appw3wMsP9h4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽이(반사회적용어) 까르보나라라니, 꼭 만들어 먹어볼 거예요.",
+        "writer": "UgywexBslxgrZVBD2_N4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)까르보 인싸레시피 등극각이네요 .",
+        "writer": "UgzGPRaZgzcLcJxliI14AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 통밀빵에 바질페스토말고 크림치즈 발라서 사과 올리고 계피 뿌려먹으면 진짜 맛있을거같아요, 다이어트는 지만",
+        "writer": "UgxaYF558CsJLeo2RUN4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관리가 철저하셔서 몸매가 아름다우셨네요.. 저는 이와중에 치킨 뜯고 있는데 내려 놓게 돼요",
+        "writer": "UgyTqdrUeS7_EMWwxUJ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 언니 복근",
+        "writer": "UgyYMZXlSBTl55IUiTR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽이(반사회적용어) 볶아서 치즈 녹여 먹으면 완죤 맛있어요. 저는 후추 후추 후추 듬뿍 갈아 넣어요. 소금 한꼬집 (이름) 커피 머신 어디꺼 쓰시나요",
+        "writer": "Ugz5kJM4DCKG-xMXYDl4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 팽이(반사회적용어) 포크에 찍어 둘둘 돌리니 정말 파스타 느낌이어요 예전에 소개해주신 두유 콩국수 레시피도 정말 요긴하게 잘해먹었는데 요번에도 다다 맛날 것 같아요 감사합니다.",
+        "writer": "UgwQ96uGNLGa6PhUSOV4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용인 살아요",
+        "writer": "UgwnrH6UMSrXdX0wHMt4AaABAg.9R4zZfP9W6m9R7HsPEYlJk",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집에 빌트인 제품이라 잘 모르겠어요. 오븐전자렌지 기능 동시에 되는거에요",
+        "writer": "Ugy93f1QWNsMrOMsTjF4AaABAg.9R4ml9a4Hw79R7Hbx7uCmD",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3lpqNap 입니다",
+        "writer": "UgzndNmGPgOx8hKJ9Ut4AaABAg.9R3rrpIewaJ9R7HuhWDSg5",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치즈는 어떤제품 쓰셨나요",
+        "writer": "UgwIPeLruNQvNfCZRaV4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 예쁘고 날씬한 건 없다는 (이름) 일상 노력이 돋보임요 최고 일상이 늘어지면 아무리 타고난 것두 별 수 없다는",
+        "writer": "UgxCAwqJbxsx7bCM2354AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운전 영상 너무 너무 좋아요 장롱면허 겨우 탈출중이라 (이름) 운전 영상 운전 꿀팁 운전 스타일 운전하실때 듣는 노래 너무너무 궁금합니다 진짜 못하는거 없으시네요",
+        "writer": "UgyM7lPtTnK14RFwRDJ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마스크 쓴모습 진짜 배우 심(이름) 닮았어요. 아름답다 느린마을막걸리 영업당해서 최애막걸리 됐어요",
+        "writer": "UgyydZ1H0e6Fhmgt27V4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 이런 영상 넘 좋아요... 이런 초간단 다이어트 레시피. 앞으로도 많이 올려주세요.",
+        "writer": "Ugy3Gj0VV1IkxKUhaCx4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽이(반사회적용어) 구워서 소금후추만 뿌려먹어도 의외로 맛있던데 치즈까지 올리면 더 맛있을꺼 같아요.",
+        "writer": "UgyUzxKoyLSFzw05htR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "통밀빵은 어디서 구매하세요 동네 빵집인가요",
+        "writer": "UgxEV2Vdkmom_WVAokJ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헛배채우기도전 모두 맛있어보여요 해먹어볼께요",
+        "writer": "Ugzz1C3L0qoyQnx3Si14AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 출산이면 아기엄마라고요 지금까지 몰랐네요.",
+        "writer": "UgwWBaTCsuYkXc8rj6p4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가을 겨울 패션 트렌드 알려주세욤 이제 가을옷을 빨리 사야겠어요",
+        "writer": "UgytYAx74IhMfvYETB14AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 진짜 맛있는 레시피가 가득하네용 팽이 까르보는 너무 아이디어 좋네용",
+        "writer": "UgxJz6cHGfD308lywsl4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세가지 다 너무 맛있겠어요 해봐야겠네요",
+        "writer": "UgylrhNSj0xqH6WeiLZ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 브라탑 정보 알수있을까요 요리 한번 해먹어봐야겠어요감사해용",
+        "writer": "UgwPpmJyC-_7nOM37HN4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단백질 좀 더 얹어먹으면 딱 좋을 것 같아요",
+        "writer": "UgxWd8475UN_MzUTUSh4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초간단이 쵝오예요.. 유투브 눈뜨게해준 (이름) 첨 댓글 남겨봅니다",
+        "writer": "UgxeIv-TVubIRsiHrMN4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매일 저녁은 똑같은 닭가슴살샐러드 먹었는데 시도해볼게 세가지나. 당장 트라이. 채소로 헛배채우기는 진리입니다 배불러요",
+        "writer": "UgyhscoxMjjf3G9L5Bt4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다이어트 식단 정보 너무 간단하고 조아요 다른 메뉴도 올려주세요",
+        "writer": "Ugz8mmsF5-VB6W6dJpN4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서울우유 뼈에 쏙쏙 칼슘치즈 썼어요",
+        "writer": "UgwIPeLruNQvNfCZRaV4AaABAg.9R2p9dksWQv9R7I-BLcN7D",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "온라인으로 구매해요 위밀 검색해보세요",
+        "writer": "UgxEV2Vdkmom_WVAokJ4AaABAg.9R2ae25Cbig9R2dhavKHhM",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bora Claire 아이고 감사합니다",
+        "writer": "UgxEV2Vdkmom_WVAokJ4AaABAg.9R2ae25Cbig9R2i2ZggN0_",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "appgoods21410 입니다",
+        "writer": "UgwPpmJyC-_7nOM37HN4AaABAg.9R2WHZSp7Mz9R7HQ7Wi8Vm",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니의 이런 브이로그형식의 영상 너무좋아요",
+        "writer": "UgwOEJ0Rmr3S2p08oDh4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹방 좋네요.",
+        "writer": "UgyrNvXej1O_MgysgfR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 (이름) 식단영상이 글케 좋아요. 꾸미지 않은 진짜 일상의 자연스런 느낌",
+        "writer": "Ugzko78s1OBT4LiJl8d4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금당장 해먹어 야지이쁜 보라끌레르",
+        "writer": "UgwL_UzhoIzbbLlZQvB4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야채에 기름장 좋네요 전 두부면 넓은거에 토마토 소스 후라이팬에 버무려먹거니 두부면 넓은거에 바질페스토 넣어서 따뜻하게 해서 먹어요",
+        "writer": "UgxgyKS_ENm4eg12rlt4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와간단한데 맛있어 보여요 오늘 당장 트라이 해볼게요",
+        "writer": "UgwnxTEOCXiq5E3zDI94AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요거 베스트1 팽이(반사회적용어) 까르보나라 2등. 야채 참기름장 풍덩 3등.. (이름) 간단하고 맛잇는 다이어트요리 당장 따라해볼래요 즐거운 연휴에 동해바다 드라이브가고 있어용 늘 애청하고 즐겁게 보구있어요 보라 끌레르는 사랑입니당",
+        "writer": "UgzUdAuJznqLAwHUqc14AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오꿀팁 레시피 피티 열심히 하고있는 딸과 같이 먹어봐야겠어요. 젤 당기는 비쥬얼은 사과올린 통밀빵이에요 좋은 하루 보내세요",
+        "writer": "UgxmtYbTpLZB0d2AzmF4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 야채 기름장.. 어제 파프리카 다 먹었는데 또 사와야겠네요 완전 꿀팁",
+        "writer": "UgwVSsiEu0uxZO5AY3N4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안 짠 바질 어느제품인지 궁금해요. 보자마자 아침에 만들어 먹었는데 진짜 짱맛,",
+        "writer": "Ugzr-wINCoCGpP91RA54AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당장 재료 삽니다 꿀팁 감사해요",
+        "writer": "Ugy-xwJdDPP-CLwE7rd4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도토리묵은 어떻게 조리하는지 궁금하네요",
+        "writer": "UgyQ45Mm7eDl5Dw_1Kx4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 따라해야겠어요.",
+        "writer": "Ugy_(혐오표현)zprtfivKWS1p4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 못혀 (이름) 봄서 대리만족 할래유 내뱃살 어쩔",
+        "writer": "Ugx-qRliAwiOnJ37ICZ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다욧중인데 너무 감사합니다 다욧하면 먹을수있는게 너무 한정적인데 정말고급스럽게 다욧하는기분 날듯요",
+        "writer": "UgxLVIw7xfvBWeijspp4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다이어트의 일상화에 도움되는 최적의 식단인데요 언니 짱짱 0 ......",
+        "writer": "UgzxwW4rVHiywx31dS94AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초간단 다이어트 레시피 접수 완료 당장 따라해봅니다 요런 레시피 많이 올려주세요",
+        "writer": "Ugy7I0kRPveHhE5jxVt4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팽이까르보 꼭해먹어야지",
+        "writer": "Ugw5blF5N4KmCt-DSW14AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)까르보나라 맛있겠다요 전자렌지돌려도되요 치즈암꺼나써도되요 꿀팁고맙습니다",
+        "writer": "UgxpDOSL6lwAKJ8tHzR4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 시판 바질페스토에 직접 잣을 갈아서 섞어서 먹으니 덜 짜고 더 고소하고 맛있어요",
+        "writer": "Ugzr-wINCoCGpP91RA54AaABAg.9R2M-cTqNtL9R2N8xKUiqQ",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸른바다 좋네요 잣도 넣어보는 걸루.",
+        "writer": "Ugzr-wINCoCGpP91RA54AaABAg.9R2M-cTqNtL9R2SlAr-1f_",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3lpqNap 입니다.",
+        "writer": "Ugzr-wINCoCGpP91RA54AaABAg.9R2M-cTqNtL9R7I1Vlh7d1",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bora Claire 감사합니다 오늘아침에도 먹었어요",
+        "writer": "Ugzr-wINCoCGpP91RA54AaABAg.9R2M-cTqNtL9R7NX5IXb_n",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전자렌지 돌린거에요 치즈 한장 녹을정도의 시간만 돌리면 됩니다",
+        "writer": "UgxpDOSL6lwAKJ8tHzR4AaABAg.9R2HINvKfJl9R7HU8nBe1D",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복한 휴일 보내세요.",
+        "writer": "UgyIM49Z_IU48j5C05R4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제 9시 업로드 안되길래 바쁘신가보다 했는데 오늘 9시 넘 반갑네요",
+        "writer": "UgxGGB7jojq7IX17C3B4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜버라서 관리하시는 거에요, 아님 일상이 관리, 대단하세요",
+        "writer": "UgyuI2nT93ZPBs1fZHJ4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 자주만나요 일등",
+        "writer": "UgyS0kzPktzPNvRhvHh4AaABAg",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다려주셔서 감사합니다.",
+        "writer": "UgxGGB7jojq7IX17C3B4AaABAg.9R2FjBi3hIB9R7I4ybpn-2",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유투버라서 좀 더 신경쓰이는건 사실이에요",
+        "writer": "UgyuI2nT93ZPBs1fZHJ4AaABAg.9R2FegNJEJz9R7GyeH8RAK",
+        "write_date": "2021-09-15",
+        "url": "https://www.youtube.com/channel/UCSrRZH9QT6li5PIAv0r_6QA",
+        "parent_url": "https://www.youtube.com/watch?v=3fj8Q_LW0b8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

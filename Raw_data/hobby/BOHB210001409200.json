@@ -1,0 +1,956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409200",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409200"
+    },
+    "text": [
+      {
+        "content": "영상 속에 등장한 장소 1) 숙소 김녕 안녕 김녕sea 종달리 달집 게스트하우스 2) 맛집 세화 부엌in세화 하도리 살찐고등어 행원리 수카사 3) 카페 하도리 카페 록록 평대리 카페Aa 세화 카페공작소 4) 관광지 봄 가시리 녹산로 여름 종달리 수국길 가을 애월 새별오름 겨울 중산간 비자림 세화해변 아부오름 함덕해수욕장 다들 제주도같은 하루 보내세요",
+        "writer": "UgwjWmxqlTnu0CIkubJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미치도록 아름답네",
+        "writer": "UgwQNQXzFWaBKayLDuJ4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 가고 싶게 만드는 영상. 맛난 것도 먹고 분위도 먹고 오늘 무쟈게 더운 여름밤이지만 션하게 머물다가 갑니다 선물도 드리고요",
+        "writer": "UgxdBKre5YnZXzhM2Bh4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 진짜 미치겠다 너무 좋아요 감사합니다",
+        "writer": "UgwTfWEdK1r5rel9oKd4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 인생 최고의 섬, 영상미도 너무 좋아요..",
+        "writer": "Ugy8f50wbBfxuNhCdzJ4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예이츠 이니스프리 그섬에. 가고싶다 쇼팽. 녹턴과 함께하면 더욱 환상적이겠네요",
+        "writer": "UgyYTUB2vNF-vZmeOV54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 , 이 영상 넘 좋음",
+        "writer": "Ugxir4-85JkcTxA0GQN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 제주도 갔는데도 왜 저런 기억이 없지 했는데 생각해보니 가족여행이어서 그랬나보다",
+        "writer": "UgxfW8B3AMA1b28k7Vp4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋있다 역시 제주도. 편집 너무 아름답습니다",
+        "writer": "UgyS7fnxpSnoqKzo0ap4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 예쁜 영상 너무 잘 봤어요 설레게 해주셔서 감사해용",
+        "writer": "Ugx2VDpWMdmcKuVIGEZ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와제주재주하네요 내가 제주도에 계속 사는 이유와 같네요",
+        "writer": "UgwDhuJyIyZ451iWab94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이영상은 봐도 봐도 질리지가 않네요, 제 최애 영상 혹시 글씨체는 뭐 쓰시는거에요",
+        "writer": "UgwUYEp4TiLyEqQbaul4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 제주도는, 중독, 끊을 수가 없음.",
+        "writer": "UgxXDyu-JzJl-IWVCkN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 어딘가요",
+        "writer": "Ugwo0GI4YMZap9c2k_p4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 뭔가요 알려주세요",
+        "writer": "UgxSO4JLfv9Vqjhas7l4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4달주기로 제주도는 가게됩니다. 제주도는 사랑,",
+        "writer": "Ugz8iIFcz34Dz2Dv0f54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 매년 4번이상은 제주도 가는데 진짜 갈때마다 굳이 멀리갈 필요가 없다는걸 느끼는 곳이죠.. 저도 세회해변 좋아하는데 영상에서 보니까 또 가고 싶어지네요",
+        "writer": "UgxAZPmycJQptD-sf7d4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 클라스",
+        "writer": "UgzMFAdMh4D0jHA3u714AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상에 나오는 노래 알 수 있을까요",
+        "writer": "Ugy1xQuOLSlDkCMk3gN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 만드시느라 고생 많았어용",
+        "writer": "UgwjWmxqlTnu0CIkubJ4AaABAg.8xUPPS0y07-8xUV_xnikjG",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여행(비속어)치다Travelholic 또 자연모델과 출장보내주세요",
+        "writer": "UgwjWmxqlTnu0CIkubJ4AaABAg.8xUPPS0y07-8xUvFkoAjD0",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "달집은 참 언제나 가도 좋아요",
+        "writer": "UgwjWmxqlTnu0CIkubJ4AaABAg.8xUPPS0y07-8xXPdEBOBvx",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음에는 (이름)이 모델로 나오시면 안되나용",
+        "writer": "UgwjWmxqlTnu0CIkubJ4AaABAg.8xUPPS0y07-8xY-otKbwQB",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민su , S2 따랑함미다",
+        "writer": "UgwjWmxqlTnu0CIkubJ4AaABAg.8xUPPS0y07-8xhziQQr-Bc",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "when i m with yousheffield 입니다.",
+        "writer": "UgxSO4JLfv9Vqjhas7l4AaABAg.8z7vFXfxiGf8zAvcEsJnxZ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기태 감사합니다.....",
+        "writer": "UgxSO4JLfv9Vqjhas7l4AaABAg.8z7vFXfxiGf8zM1-_5r4rj",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7살6살4살 세딸키우는중이라 여행이 고행이될까 국내여행도 제대로못가고있습니다 막내가5살되는 내년엔 제주도여행갈수있지않을까 기대중인데 이렇게영상으로(반사회적용어)보니 너무좋네요",
+        "writer": "UgzQXDOTzk-YuCV-Czl4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 좋죠, 가본곳이라고 하여도 구석 구석 안본 이상 늘 새롭죠,",
+        "writer": "Ugx4zEPU-858_RrdAaV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아예 제주도 와서 살면 되지 않나요",
+        "writer": "UgzY-Z94CujR5BtFtD94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋다 너무",
+        "writer": "UgzIHmIhtq73WLdTNSJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 색감이 너무 이쁜데 혹시 카메라 뭐 쓰세요",
+        "writer": "Ugyxh4DSvmnaFIfr3XZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘 어트게 찍은건지 대체 당장 카메라 들고 나가고 싶네요",
+        "writer": "Ugw0wD10N8yWU369nZB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 1년에 제주도 4번가는데 갈때마다 감동받고 위로받고 왔어요 영상 보면서 제가 느꼈던 감정들이 그대로 영상에 녹아있는 것 같아 울컥울컥 했네요 잘봤습니다.",
+        "writer": "UgyrS5UAvl4MDTHVoj14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주에 사는데요, 제주가 예쁘고 아름다운 곳이 맞죠,근데 이런 모습만 볼게 아니라 그 속에 여러문제도 주목해주세요, 반드시 (혐오표현) 잘 버려주시고 아름다운 환경 보존할수 있도록 노력해주세요.. 일본말고 제주옵시다 여러분..",
+        "writer": "Ugz_SM0_BP97SqudqYV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분위기 자연만 좋지 바가지에 맛없는 음식만 가득한곳",
+        "writer": "UgxstDPJRT6O8-rv1T54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "bgm 검색해도 안나오는데 제목 궁금해요",
+        "writer": "Ugzl7jzTw0CqdwbDy2F4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇보다 제주도가 더 특별해 보이는 건 내가 마주하는 풍경마다 각자의 소중한 순간을 보내고 있는 사람들이 있어서 더 설레고 몽글거리는 것 같아요)",
+        "writer": "UgwO3O20orG4I8MKsjp4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주 너무 좋죠 그래도 해수욕 하시려면 조금은 조심해 주세요, 얼마전에 함덕에 상어 출몰한 거 아시죠 요즘은 커다란 해파리가 나온다네요,",
+        "writer": "UgyqGYYMLNFUlXcF9zR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도요, 지금 비옵니다",
+        "writer": "UgwZMUcr397jHuH15y94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은정보 좋은영상 너무 감사합니다",
+        "writer": "Ugwca1ogbAN7GFT0p3t4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 퀄리티 정말 일반 유튜버는 따라갈 수가 없네요 ) 같은 제주도 여행기인데 쭈그리되네요 갑자기",
+        "writer": "Ugyt2pTEoUVaB-fDXWV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도를 사랑해주셔서 정말 감사합니다. 저는 매번 보는 풍경이라 자연스러운것인데 육지에서 친구들이 내려오면 별이 보이는게 신기하다했죠 그날은 유독 별이 적던 날이였는데요 다시한번 제가 사는 이땅의 아름다움을 느끼는 시간이였습니다. 영상 만들어 주셔서 감사합니다. 구독 좋아요 누르고 자주 찾아볼게요",
+        "writer": "Ugw4rlqrvjDOtlAObdx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수많은 우연을 인연으로 이어주는 곳이기 때문이다 저도 힐링하러 고고",
+        "writer": "UgySTpYu8ycGLk8s2714AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우도가 그리 이쁘더라구용",
+        "writer": "UgyCa5c31S2_Z44MkOV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)가셨던 분들.. 가서 무슨 생수 사 드셨어요 내일 바로 가요 빨리빨리",
+        "writer": "UgxNTXRebvGK8rmkMlx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정답 도민들 똘똘뭉쳐서 육지사람 벗겨먹고 지들만의 파티벌이는곳",
+        "writer": "UgxstDPJRT6O8-rv1T54AaABAg.8xi3SYRLTPf8xvjdcjkhCp",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 지워졌지, 이 분 인스타 보니까 원래 필터 많이 쓰시는거 같은데 주제넘은 말이지만 영상은 필터 조금만 덜 써주시면 좋을거 같아요 제주 바다랑 하늘 리얼 색감도 보고싶어요 영상 내용은 너무 좋습니닷 .",
+        "writer": "Ugwfzu7U9YEgTcSaXyd4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아으 계란 토스트. 시작부터 좋다 배고파 영상도 좋지만 BGM 선택도 신의한슈.....",
+        "writer": "UgyIK7a2GNySNSk6Jgx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해 유독 제주도 혼자 오시는 분들이 많데요... 저도 며칠 전에 뚜벅이로 다녀왔는데 너무너무 좋았어요 핑크빛 일몰 애월바다 뚜벅이로 가시는 분들 일반버스는 배차간격이랑 시간표 확인하기 힘든것 때문에 저는 프라이빗 버스투어 추천해요.. 요즘 일정 알차게 구성된 곳 많더라구요 삼만원대에 하루 재밌고 편하게.",
+        "writer": "UgzasbqMyrEROOxu7ul4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 제주에 또 가느냐고 제주를 제대로 느껴본 사람이라면 다 알지요.",
+        "writer": "UgzPWOP8ald_eZnZKoR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주는 계절이 바뀔때마다 항상가야죠..",
+        "writer": "UgyqPOHfpmR3NxUCgfh4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저만해도 일년에 제주도만 4번씩은 가는 사람입니다",
+        "writer": "UgxdyK7wTimJ0wFqp7V4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 올해 제주도를 한 번도 못가다니,",
+        "writer": "Ugy8o84RC1vmdlZXS2V4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "I havent been back in four years (living in 대전) but hope to be back soon with this video )",
+        "writer": "UgxuLHQECPMARHLewSR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 보고 가요 제주도에 가고 싶어지네요",
+        "writer": "UgzcnkVor61i5lVAXfR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 여행은 물론 제주에서 살고싶다는 생각을 꿈에서 확신으로 바꿔주는 영상이네요. (이름)은 제주의 자연과 정말 잘어울려요",
+        "writer": "Ugy_TuZH64lOt2I0QzF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다녀온 여행(반사회적용어) 다시가는 이유. 이방인에서 방인이 되어가는 과정이 참 좋네요. 단골집이 생기고 날 알아보는 사람이 늘고. 설렘과 편안함을 동시에 느끼는 곳. 영상 너무 예뻐",
+        "writer": "UgxknQL_0Mx99PEeZRJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도 가서 도민들이 가는 고깃집 가시고 도민들이가는 고기국수집 가시고 도민들이 가는 갈치조림집 가시고 하시면 돈도 그리 많이 안 들 것 같아요. 지나가던 도민 올림",
+        "writer": "UgxSXLs7o2ctUBeX-FF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주 여유",
+        "writer": "UgyjB3jDWDtboB2g4E14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인스타가 인스타했네요 이쁘다",
+        "writer": "UgzL4VWjqolymEpfOKJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 자꾸자꾸자꾸 가고 싶은 제주 가면 항상 사진 오만장과 5kg살을 달고 옵니다, 하",
+        "writer": "UgxOHSIRObhJMA1UNxR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상에서 나온 노래제 너무 찰덕같이 어울려요",
+        "writer": "UgzXM5mfuPtSAJXYYO14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광고영상처럼 이쁘네요, 잘봤어요",
+        "writer": "UgwaqmHePAqNtbIUULt4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주요정이 또 제주했다",
+        "writer": "UgyR_HdH8w02LHGgZ1d4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이 영상으로 (이름)이 왜그렇게 제주를 많이 가셨는지 알 것 같아요. 저는 짧은 여유가 생겨도 늘 국내보단 해외로 돌다 저번달에 고등학교 수학여행 이후로 처음(7년만, ) 제주여행 하고 왔는데요 가기전에 (이름) 인스타 피드에서 정보 많이 얻어갔어요. 직접 제주여행 다녀오니 해외만큼이나 아름다운 제주더라구요 그래서 올해 가을에 한 번 더 제주여행 가려고 해요. 그땐 이 영상 속 장소들 가보려구요 제주노을은 필수. 너무 예쁜 영상 정보 감사합니다 )",
+        "writer": "UgyGF7iLc7HEVKNfjil4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚜벅이 vs 렌트카 어떤걸 추천하시나요 .",
+        "writer": "UgwCWnJIJoOyPpXBhDB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "르해피 제주도민이 가는 식당으로 가도 메뉴판이 아예 다르다던데요 제주도민과 여행자들을 자리도 구별해서 앉히구요",
+        "writer": "UgxSXLs7o2ctUBeX-FF4AaABAg.8xVb21OuSuH8xWSkHwqELE",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이금영 그런 식당이 있다는 것에 놀랐습니다, 물론 도민들이 가는 곳에 가려면 해안보다는 시내쪽으로 가셔야 하긴 하겠지만요",
+        "writer": "UgxSXLs7o2ctUBeX-FF4AaABAg.8xVb21OuSuH8xX1NeQYVQ3",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "극 공감합니다, 하..",
+        "writer": "UgxOHSIRObhJMA1UNxR4AaABAg.8xUwB3z3N348xW1hPFaGAj",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이다현 헤헷",
+        "writer": "UgyR_HdH8w02LHGgZ1d4AaABAg.8xUmnAnIMRn8xUpEzsVmus",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩌닝 제 마음을 알아주셨다니 넘 기쁨니다 가을 제주라니 .. 가을 제주도 정말 기가막혀요. 날씨도 제일 좋고 억새들이 흐드러지게 피는데 최고에요_ 가을에 가셔서 꼭 끝내주는 노을 억새 다 잡고오셔요",
+        "writer": "UgyGF7iLc7HEVKNfjil4AaABAg.8xUjDSCpl6C8xUpCveAgHC",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 수카사는 제 인생 맛집이에요",
+        "writer": "Ugy7KEnRnmzFZ42O32R4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 너무 예뻐요색감 미쳤고 배경 미쳤공 저도 제주도 혼자 놀러갔을 때 우연히 무지개를 보게됐는데 영상 보니깐 또 가고싶네용",
+        "writer": "Ugy9ZTodcY4TqnOMe_t4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 제주도가고 싶다, 흐규",
+        "writer": "Ugxgz_RVMXQAoJD9xa14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구추천으로 윤(이름) 인스타피드 열심히 보다가 제주도가 갑자기 너무 가고싶어져서 군대서 휴가나와서 6월에 급하게( ) 다녀왔습니다 제주도가 제주도했다",
+        "writer": "UgyHZ38oPen8NKTP9v94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라는 뭐 들고가서 찍으셧나요",
+        "writer": "Ugwu_8UMmb4JNjMs4Nx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말 그대로. 여행이 미쳤네요. 제주도 진짜 미쳤다. 저도 제주도 가서 촬영 한번 해야겠어요.",
+        "writer": "Ugy2k3EpLq5jqGmQhgF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도는 바다에서와 산에서 4계절이 각각 다 다른 것 같아요. 그래서 항상 가도 안간듯한 느낌이에요. 전 올해 지금까지 3번 갔어요,",
+        "writer": "Ugw_BaGMA1S62TmX9hR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 제주도는 가도가도 질리지 않고 어느 계절에도 예쁜 소중한 우리제주 이번 여름에 가족들과 함께 갑니다 올해는 외국이 아닌 제주도로 모두 떠나는건 어떨까요",
+        "writer": "UgyMBUvOvUHi7Z7UyxV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도를 다시보게 되는 영상인 것 같아요 갑자기 가고싶어지네요.",
+        "writer": "UgzQatImkzf8PSHVKXh4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주는 언제가도 좋은걸",
+        "writer": "UgyYfbOb2kOsSMusRUV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가고싶다 ,",
+        "writer": "UgwzaGp23yS9tlxlB5J4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상미가 너무 좋아 4년동안 꾸준히 제주에서 매번 다른 추억을 쌓고 단골가게가 생기고 게하에서 만난 인연으로 친구가 되고 정말 대박인것 같아요 노을도 너무 이쁘고 잘봤습니당 (담주에 갈 때 참고해야겠어요 )",
+        "writer": "UgyFysL2WAjv5qQli8R4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2016년 첫 제주 여행을 시작으로 으쩌다보니 올해는 상반기만 7번을 여행했네요 껄껄. 4년간 제가 수없이 들은 질문의 답과 제주를 향한 마음을 잘 풀어준 욘상 당신은 채고야 궁금하신거 있으시묜 마구 댓글 달아주세요 . 제주요정 자연",
+        "writer": "UgybYUq-95AzMU5EDOZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 진짜 너무 영상색감도 열일하지만 제주도에 애정가득한 크루들 덕분에 이렇게 제주도의 사계가 그렇게 아름답고 빛나는 것 같아요, 두근두근거리네요 3",
+        "writer": "Ugwc9fMr2kJEW_lUlQ14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 제주도가 제주도했다,",
+        "writer": "UgwYq_ye9voLFXfyb1d4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주 여행은 다른 카테고리에 포함할 것이 아니라 그냥 제주 여행인 듯 어여 가서 힐링 해야지 나두",
+        "writer": "UgyTk4bN-vxhKMDHsrB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저세상 갬성",
+        "writer": "Ugz90rYH2kdCpbQ1nzd4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "육즙 넘치는 돈까스집 좌표 공유 부탁드립니다",
+        "writer": "Ugxgcwd7MXwZF4Wzi5l4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도는 앞으로 이 영상 하나로 종결됩니다, 감성 그자체,",
+        "writer": "Ugzj03K7Ut4V4j7Pe9N4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분들보면 제주도 이번여름에 가고싶네요.",
+        "writer": "UgwQBC7DICPQk8CoOop4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둥흰 진짜 혹시 해장으로 드셔보셨나요, 그냥 브런치로 먹어도 끝내주지만 해장 브런치로는 더 끝내줍니다(속닥속닥).",
+        "writer": "Ugy7KEnRnmzFZ42O32R4AaABAg.8xUiRCd(반사회적용어)Wx8xUpO5neMYX",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "yunnature 진짜요 . 담에 갈 때는 술먹은 다음 날 가야겠네요..",
+        "writer": "Ugy7KEnRnmzFZ42O32R4AaABAg.8xUiRCd(반사회적용어)Wx8xUqde9eZHY",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sidney Choi싣초이 엇. 제주에서도 무지개 보기가 쉽지않다더라구요 전 태어나서 선명한 무지개를 영상 속 그날에 처음봐서 진짜 감격의 눈물 흘릴뻔했어요_",
+        "writer": "Ugy9ZTodcY4TqnOMe_t4AaABAg.8xUhgx0CVxD8xUpXqP1Ng9",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Mile 저두요",
+        "writer": "Ugxgz_RVMXQAoJD9xa14AaABAg.8xU_MGgZPaI8xUpdsaE9q-",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김이현 앜_ 조촐한 피드 열씨미 봐주셔서 감사합니다, 제주도 너무 좋져 앞으로도 좋은 곳 많이 많이 소개해드릴게요.",
+        "writer": "UgyHZ38oPen8NKTP9v94AaABAg.8xUYm64zfgr8xUppCFalRh",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sony A7s2 입니다",
+        "writer": "Ugwu_8UMmb4JNjMs4Nx4AaABAg.8xUW67U3F-R8xX0nDaaGuE",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걷기타고 배우신 분이시군요, 사계절이 정말 뚜렷하게 다른 곳이라 진짜 1년에 4번은 필수에요_",
+        "writer": "Ugw_BaGMA1S62TmX9hR4AaABAg.8xUTpcet1UW8xUpcHMpot7",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "yunnature 제주요정 정말 여건만 되면 1달 살고 싶은 곳이에요,",
+        "writer": "Ugw_BaGMA1S62TmX9hR4AaABAg.8xUTpcet1UW8xbIoHM9mP9",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 제주는 언제 몇 번을 가도 질리지 않는 곳인 것 같아요. 제주도는 그저 사랑입니다",
+        "writer": "UgyMBUvOvUHi7Z7UyxV4AaABAg.8xUT9h_eu8p9J8SwwRp2UF",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠이리 4계절 마다 한 번 1년에 4번은 필수 맞죠 .",
+        "writer": "UgyYfbOb2kOsSMusRUV4AaABAg.8xUQO6-oBOK8xUR0QDjvYD",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 제주도에서 출퇴근한다는 것이 학계의 정설,",
+        "writer": "UgybYUq-95AzMU5EDOZ4AaABAg.8xUPSpY4SRn8xUVg6-tVFl",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2분 40초 쯤에 나오는 음악은 어떤 음악인가요",
+        "writer": "UgybYUq-95AzMU5EDOZ4AaABAg.8xUPSpY4SRn8xV75fdJg-F",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여행(비속어)치다Travelholic 하긴 제 동생도 여행중에 5시40분에 일어나서 출근했었더랬죠, 호텔이 노형동에나 탑동에 있을때 그랬었어요,",
+        "writer": "UgybYUq-95AzMU5EDOZ4AaABAg.8xUPSpY4SRn8xbJ3JxayDI",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "best wish 헝, 따듯한 말씀 너무 감사드려요. 저의 애정하는 마음을 고스란히 담아준 (이름) 채고 그 마음을 느껴주신 best wish님 더 채고십니다...",
+        "writer": "Ugwc9fMr2kJEW_lUlQ14AaABAg.8xUPQy5-ChW8xUpvqwv41i",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여행하는조이ZOEY 양주연이 양주연했다",
+        "writer": "UgwYq_ye9voLFXfyb1d4AaABAg.8xUPQOb-sLG8xUoSKM8ffd",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "yunnature 센스쟁이",
+        "writer": "UgwYq_ye9voLFXfyb1d4AaABAg.8xUPQOb-sLG8xUvIaDGItD",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 유스님 띵언제조기세요",
+        "writer": "UgyTk4bN-vxhKMDHsrB4AaABAg.8xUP72L2tIw8xUPbXj1xtW",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갬성이 터져벌였습니다,",
+        "writer": "Ugz90rYH2kdCpbQ1nzd4AaABAg.8xUP4scMNUD8xUPe10M4v4",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하도리 살찐고등어 프리미엄돈까스 메뉴입니다.. 일반메뉴랑 가격차이가 좀 나는데 진짜, 돈가격합니다,",
+        "writer": "Ugxgcwd7MXwZF4Wzi5l4AaABAg.8xUP3TXx6cx8xUPhlSvgKk",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이스토리 꼭 먹어보겠어요",
+        "writer": "Ugxgcwd7MXwZF4Wzi5l4AaABAg.8xUP3TXx6cx8xUPvKpGnIJ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ",극찬, 좋은하루보내세용 _ ..",
+        "writer": "Ugzj03K7Ut4V4j7Pe9N4AaABAg.8xUOyHZiwbO8xUPS5KMXbM",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 이겁니다, 제주감성의 섬",
+        "writer": "Ugzj03K7Ut4V4j7Pe9N4AaABAg.8xUOyHZiwbO9JB7iATL_Ij",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디갈지 고민마시고 제주도로...",
+        "writer": "UgwQBC7DICPQk8CoOop4AaABAg.8xUOR7tA72S8xUPUGY81E5",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여름 제주도도 또 매력터짐니다. 수영스노쿨링 하러 떠나셔요 ..",
+        "writer": "UgwQBC7DICPQk8CoOop4AaABAg.8xUOR7tA72S8xUpjExuZ2A",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제주도에 바다 영상 찍으러 가고 싶은데, 드론 들고 당장 떠나고 싶게 만들어주세요..",
+        "writer": "UgxF5xYNlWTYL3VDHaR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 보고 나니 좀 떠나고싶어지셨나여 _",
+        "writer": "UgxF5xYNlWTYL3VDHaR4AaABAg.8xUOL1FRaDW8xUPZkWU06y",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이스토리 금주말 에어비앤비 검색 중입니다,",
+        "writer": "UgxF5xYNlWTYL3VDHaR4AaABAg.8xUOL1FRaDW8xUPsVL2x56",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=I9O_nSTplZU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001674780",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001674780"
+    },
+    "text": [
+      {
+        "content": "레알 (비속어)잼",
+        "writer": "UgwA4p_KDLGW04WG5Ld4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반전 모야 모야 미쵸",
+        "writer": "UgyXHdvp5x_UFPyoeXJ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모야모야모야모야 귀여워...",
+        "writer": "UgwKMwx9m1q8FmCfqnl4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 주인공이 외계인임.",
+        "writer": "UgzWPIpj3HQ2aAL3qtB4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반전에 행복해하는 모습 너무 귀엽잖아, 형좋아",
+        "writer": "UgzuZUIL3ah-PuVh5ZJ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 무슨 웹툰에서도 비슷한 반전 봤는데. 외계 종족의 뇌 조각을 발견했다고 자기들 보다 수천년은 앞서있는 문명을 세웠을거라며 기뻐하면서 뇌 조각 샘플을 기반으로 몸을 복원해서 만들었는데 인간이야. 잉 하고 (비속어) 어리버리 깠는데 우주인들이 헬멧 벗으니까 외계인임.",
+        "writer": "UgxrESd72j5wIJOuo5R4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬치들을 보고 욕을 하지만 사실상 우리 모두가 팬치였던거임",
+        "writer": "Ugy3N_VLbUh8ppBLHNB4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜들그래 얘들아 이형 걷는거 잘해 돈걷는거",
+        "writer": "UgxnGD8yHDtqErd-llt4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 그 영상 좀 도네해봐",
+        "writer": "UgzztmZ_PexHDoarcip4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반전 있다길래 외계인 보고 딱 알아채버렸지",
+        "writer": "UgyK_JBhZAxNxYR0g4F4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걷기 시뮬중에 제일 마음에든다",
+        "writer": "UgyjTdO-NoEQpli3RlV4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 쌀택이형 나미칠거같아,",
+        "writer": "UgyQgf4d9n7EvNjLC394AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걷기 시뮬 디어 (이름) 하나만 더 해줘 형",
+        "writer": "Ugy8OMP_3L8R9X94y6B4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형이랑 나란히 걷고싶다, 형 사랑해",
+        "writer": "UgxKjT6GlkvSPqBP2yp4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별로 재미가 없었는지 다음부터 재밌는 게임 보여드리겠다는 속마음이 튀어나올뻔한 (반사회적용어)텽",
+        "writer": "Ugyh4BNd-FDrscwxtbV4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "창살 발음 안되는거 너모 귀엽자너",
+        "writer": "Ugw-sb1ilU9gjnQPdLd4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 기메리",
+        "writer": "Ugz6_cSuWXsATIGMDBF4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 걷는다, 계속걸어 막걸어",
+        "writer": "UgxAFIQX_WYleujHnI14AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 걷시뮬에 빠져써",
+        "writer": "Ugy-q_N_pF_ys7PH4fR4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형에 신선한쿠소 홝고싶어",
+        "writer": "Ugyct5oXuQDOfIdeMJp4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 형은쿠소게의 거장이야",
+        "writer": "Ugz5BMDZah812SX3-BR4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구한테 인사하러가는 시뮬아님",
+        "writer": "UgwUjra7CaytxJThh8l4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모야모야 누구야 모야모야 (비속어)탱 사랑해",
+        "writer": "Ugxd1Aa04t9Wrbl_EOd4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 시작할 때마다 사랑한다고 해줘서 너무 좋아,",
+        "writer": "Ugw4AMZNWTdnsEj0ghp4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반전임펙트 잇엇땈",
+        "writer": "UgwhnM3dAzToHNej0gZ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 생방봤었는데 (비속어) 개웃겼어 만든사람 제목센스",
+        "writer": "UgxfDtjpGnWlczh1Ih54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "창살발음 처음에 못하는거봐",
+        "writer": "Ugyu7Tr7Pfic8dshBBt4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호에, 나자나, 모야모야, 개귀엽자너",
+        "writer": "UgxPKoPE-Q8aPwkiiaR4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4분짜리에서 알찬 반전 인정한다",
+        "writer": "Ugw4upAujF1lVq1ULsN4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해최고 반전게임 인정할부분이다",
+        "writer": "UgyiN3SdZMT4T00rBLx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽 커엽",
+        "writer": "UgxxqqMFj1-JhDDEUVR4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 자꾸자꾸 걷네 이렇게(반사회적용어) 많이 걸으니까 얼마나 좋아",
+        "writer": "Ugyk2LN1t5LieeK-hDZ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 (비속어) 갈수록 이런 기괴한 게임만 해",
+        "writer": "UgwrEA741QcekVpz8Ep4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 형 요즘 나이들더니 조깅에 빠져부렷네",
+        "writer": "UgwAMqj6Q-UpDzZl-AZ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와쿠텽 요즘 걸어다니는 거에 빠졌엉",
+        "writer": "UgxjKf60Sp67taAfW3B4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 어이없어서 터졌네",
+        "writer": "UgyNF6gX7L3qAchd3LJ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에일리언 나와서 쫄아서 머야 이러고있는데 그게 엔딩이네,",
+        "writer": "UgywRgXhLbPik0s2QVV4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해 최고의 반전이였다 (혐오표현)",
+        "writer": "UgyEC8cjATCGvp_l6zV4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방종하자마자 들으면서 자려고 옴",
+        "writer": "Ugy7yHnTIRGthJU9wdV4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 생방에서 반응개웃겼음",
+        "writer": "Ugyk2LN1t5LieeK-hDZ4AaABAg.8ZvLQT_kpnP8Zv_5nXRdC7",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 왁굳 류제홍 팬이신갑네",
+        "writer": "Ugyk2LN1t5LieeK-hDZ4AaABAg.8ZvLQT_kpnP8Zw2roUqrSg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 님 남자면서 왜 , 아니다",
+        "writer": "Ugyk2LN1t5LieeK-hDZ4AaABAg.8ZvLQT_kpnP8_nYkTz--jI",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 걷냐",
+        "writer": "UgwGy-AN188a1XilyJx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외계인이 인사하네",
+        "writer": "Ugz-eOMak3KZO-v_GQ54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반전 미쵸",
+        "writer": "UgxWLMee1jat461svUB4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기전 왁형 웃음소리 행복한 하루였다, 사랑해 형",
+        "writer": "UgxF3nNuP6R-Ljx7oH94AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)텽 여기에서(반사회적용어) 걷고 좀 그래,",
+        "writer": "UgxeAUYirtP0kTcBRBt4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 대박이네요",
+        "writer": "UgxgeTL58ugQbd6HA6h4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 집밖에 나가서 걸어보기도 하고 그래,",
+        "writer": "Ugx5_5cDqbNsIPz-UiJ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짧고 굵은 영상이구만",
+        "writer": "Ugwv81kEaW_h1zcGaTN4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑분싸와 갑분핫을 넘나드는 우킹굳 당신은 도데체",
+        "writer": "UgymZ-PVTLLy91jlQeJ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁형 걷는 상상하니까 귀엽겠는걸",
+        "writer": "UgxkZjrfbt_kfjeAQ394AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4분 실화",
+        "writer": "Ugw0gP77yJnRcU0RNaF4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 리액션 미춐 짧고 강렬하다",
+        "writer": "Ugy8mwslKrUtnbY42HN4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아놔 팩하고있는데 끝에 개터졌다구욬",
+        "writer": "UgwtJLCXjlaG7xS865x4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앤딩실화 짧굵영상 조아염",
+        "writer": "Ugyw3uQ1MFHrBpxhgMl4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올라온지 얼마안댓내",
+        "writer": "UgzfEgebToZSFfBfH3h4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 리액션 뭔뎈",
+        "writer": "UgzrQjrU66UkgB4QSLZ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 외계인이었던 거임",
+        "writer": "UgzUYCG1XaPRT2_Ufdd4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 나왔어",
+        "writer": "Ugw9-DwpLEbvtt_kblJ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모야모야 (비속어) 기엽잖앜 외계인이였던거임.",
+        "writer": "Ugx5_5cDqbNsIPz-UiJ4AaABAg.8ZuukulMJeL8ZuvIBPo5IU",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 댓글 보고 집밖 나갔더니 팬치가 DSLR 들고, 침또선",
+        "writer": "Ugx5_5cDqbNsIPz-UiJ4AaABAg.8ZuukulMJeL8ZvUOhwkmIr",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스포는 다메요,",
+        "writer": "UgzUYCG1XaPRT2_Ufdd4AaABAg.8ZusH6CysBW8ZwF0ykLVF4",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모야모야 반전 미쵸",
+        "writer": "UgyPvw492VcYsQHoWoh4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁형 허허",
+        "writer": "UgxFtCEGGGSFXFIqps14AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타워즈 브금 후원에 놀래는 청자들 커엽",
+        "writer": "UgwzSoo4rO6ueQwImW54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크 짧고 굵네",
+        "writer": "UgyXdal-ghARh-cbQmF4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 안걷더니 여기서(반사회적용어) 잘 걸어서 보기좋다",
+        "writer": "UgxZcii6s68UWt57AmF4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 또또 또또또 걸어",
+        "writer": "Ugw7kSd40tW_hzQDEut4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결말 넘 감동적,",
+        "writer": "UgyJ1_akAN6u2XUhnHh4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 왹굳형 너무 좋아",
+        "writer": "UgxyuATdppwVutrn0G14AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래픽게임인데 화질이 안올라와서 뭐가 좋은지 모르겟다",
+        "writer": "UgzdaRkqzxyXmuXSXGx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 (이름) 영상 켜놓고 자요 목소리 진짜 좋아,",
+        "writer": "UgzJdtZwOZg046lA2PZ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 걷네",
+        "writer": "UgycUvvJi-5uqQZJbSl4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해 왁굳오빠",
+        "writer": "Ugxai_xVWz8Qd52oVVh4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=agYOZ7L0h6k",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

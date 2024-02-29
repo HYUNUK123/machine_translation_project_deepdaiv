@@ -1,0 +1,956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001674612",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001674612"
+    },
+    "text": [
+      {
+        "content": "나는2019년에 이영상을 처음으로 발견했다, 사용(비속어)정방이 저렇게생겼다니",
+        "writer": "UgwT7F4U82kyBmYOdC94AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문열리기전 오른쪽에 가려다가 급하게 정면으로 가려고 할때 좋네요. 저는 몰랐는데 좋은팁 감사요",
+        "writer": "UgikzUm2C2Vq3HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 몸집작은영웅으로 앉아서 작은공간에 들어간뒤 앞키누르면서 일어나면 되던디",
+        "writer": "UghhXOPfPR05hXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 진짜로 됨 진짜로",
+        "writer": "Ugg2-oeBezXgW3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니깍그리고 이거내가10렙때발견했는데 지금200이다",
+        "writer": "UghTogXmJwPLUngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 누가몰, 의자앞에있어도됌",
+        "writer": "Ugj8l95RwNSdRngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 (이름)이 먼저 함",
+        "writer": "UgjSI6j2sqTpYXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 매력적인 우(이름).",
+        "writer": "UgiU0BQUBEsSangCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고 있었는데 버그임 의자에 앉아서 버튼에 커서대고 V눌러도 됨",
+        "writer": "UgiTZN6xzhtZnXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽에 졸아서 못봤는데 찾으셨네",
+        "writer": "UghDFFt2jbu473gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거때문에 영정먹음 하지마셈",
+        "writer": "UgiqzUQ7AxjsQHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 끝이야 어",
+        "writer": "Ugi40Jd6Z8IIH3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 의자랑 벽이랑 사이로 들어갈려고하면서 근접공격하면 되던데",
+        "writer": "Ugg5YteLk1wYwXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 의자에도 계속비비다보면 텔포되요.",
+        "writer": "UgjyqTkUbjmd5HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 메이가 몸이너무커서 맵밖으로 나간판정으로 되사 다시돌아가는건데,",
+        "writer": "UghPUaZxkHS1RngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게든 조회수를 얻기위해,",
+        "writer": "UgisrNsP2TRcDXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덩치큰 캐릭도 되던데,",
+        "writer": "UgjK2d1mHOpv2XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모르고 계셨구나,",
+        "writer": "UggHatqyDWt4UHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 별거없는데 (이름)다",
+        "writer": "UgggQJS6hvQbpXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 알고있음",
+        "writer": "Ugi8sOVztxCgengCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모르는척 해주는게 예의겠지",
+        "writer": "UggrzEdjicEdzHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 정말 데단헤.",
+        "writer": "Ugh1KJVT4Byob3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 이미 아는거",
+        "writer": "UgjGjt-YZ_GCF3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 끝이야에서 터졌닼",
+        "writer": "Ughhc-U9txMwo3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형이거 사람들 다 알고있었네,",
+        "writer": "Ugi1UqpgqgbYc3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 처음 보는 이스터에(반사회적용어) (이름)다",
+        "writer": "UghrkMDU62pYoXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제적거에요 그거 영웅이 맵밖으로 나갔다고 되어 비행선 중앙으로 가게되는거에요",
+        "writer": "UghENx_Uut8MiHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 끝이야",
+        "writer": "UgiQ4K23pdFPgHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 영웅변경 저쪽으로가면 안떠서 텔레포트하게 만든거인듯",
+        "writer": "UggoWrHAi2T0GngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 느낌표가 세개나있는데 기대했음...",
+        "writer": "UgjDZ9DAp9EQkXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 다알어",
+        "writer": "Uggmspe5mfDb3HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 그 파란 버튼 있는 의자 반대쩍으로 가서 근접 공격 해도 되요",
+        "writer": "UgjHRcXUVe52QXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의자앞에서 앞으로 계속 쭉가도 되던데",
+        "writer": "UggWdUgiLcW-cHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 왁청자 드립력도 좋아서 봄",
+        "writer": "Ughvj2PzEVpeP3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시하는 뭐임",
+        "writer": "UgiRsqaDbUkOyXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 69번국도 공격시작하는 식당같은곳에 공중전화박스 5개정도 있는거요 그거 부수면 동전이 우수수 떨어집니다",
+        "writer": "UgiOVyB423Ke2XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 알고있엇는데 (이름) 반응이 넘나 귀여우시당",
+        "writer": "Ugiys3zjRbtwD3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청자 하이",
+        "writer": "UgiRsqaDbUkOyXgCoAEC.8ILiG_9LeK_8IMBDBkNwke",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피젯 PJS 아",
+        "writer": "UgiRsqaDbUkOyXgCoAEC.8ILiG_9LeK_8IMEcurXdAD",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 몰랐다",
+        "writer": "UgiN22Nm7gtv7ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청자들나중에 사회생활잘하겠다",
+        "writer": "UggubGYOXu_hxXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게무슨 이스터에그야 버(반사회적용어) 용어는 알고쓰자 왁굳형",
+        "writer": "UggNkUTZ9k2oXHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어차피 외국 유투버가 제일먼저 했는데 저작권따지는 사람들은 뭔지,",
+        "writer": "UgiK5L8YReY-DngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아프리카영정당함 왜트위치방송해요",
+        "writer": "UgiTej10xPTS_3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 첨알았어요",
+        "writer": "UghITdvMJQEHT3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "되게 올만에보네 옛날에 다른분거로봄",
+        "writer": "UginNpJ83rM4tHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 밖으로 나간걸로 판정되서그럴걸요",
+        "writer": "Ugiiw3jbaEsEcHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 알고있었는데",
+        "writer": "Ugh-iiA4oOv1BHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비행건에서 두개 버튼 왼쪽올라간 버튼하도 오른쪽내려간버틈 근접공격으로해도 텔레포트 되여",
+        "writer": "UggVgjeqeXG5rngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 별거없네 이런걸 왜만든거야",
+        "writer": "Ugjl04P0tVhYXngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 분명 또 유하가 뭔지 물어보는 댓글 달린다",
+        "writer": "Ugg2m2bG1P3fpXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 빠대나 경잰전에서 쓰면 신고먹음",
+        "writer": "UgifI1zI3j34y3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저의자로파고들어도 되는뎈",
+        "writer": "Uggy64QHy4rXfngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 주먹아니(반사회적용어) 돼던데",
+        "writer": "UgihlXhWUuyaKXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁청자들 유쾌한거봨",
+        "writer": "UgiE2-L7410CL3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가제보해서 했다는데 딴사람이 먼저했든 안했든 무슨상관입니까",
+        "writer": "Ugh0S1UcIoiOO3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 다알고 있을듯",
+        "writer": "UgiPVkNc-GjjBHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블쟈가 고의적으로 넣은건지 아니면 버그인지 (이름)이 어떻게 알겠습니까.",
+        "writer": "UggNkUTZ9k2oXHgCoAEC.8ILZtRzfG_98ILf4_LN7QH",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제보하신 분이 이스터에그라고 제보하셔서 그럼",
+        "writer": "UggNkUTZ9k2oXHgCoAEC.8ILZtRzfG_98ILmn9nYvN8",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제글 다시한번 읽어보시길",
+        "writer": "UggNkUTZ9k2oXHgCoAEC.8ILZtRzfG_98ILpHBOGJ3D",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트위치로 이전한겁니당. 피버 우왁굳클럽등 많이 옮겼습니다.",
+        "writer": "UgiTej10xPTS_3gCoAEC.8ILZ_-pOOhs8IL_WiRf2L-",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미사카 10032호 아아감사요",
+        "writer": "UgiTej10xPTS_3gCoAEC.8ILZ_-pOOhs8ILcHzZtsVA",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피버가 무슨말이예요",
+        "writer": "UgiTej10xPTS_3gCoAEC.8ILZ_-pOOhs8ILgKAj9vC7",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "DITTO CHEF 개(비속어)님 에렌디라님 (이름) 코렛트님 (이름) (이름) 등등 우왁굳 클럽처럼 여러 비제이들의 클럽입니다. 클럽장은 렛트님인걸로 알고있습니다. (맞게 설명한건가 )",
+        "writer": "UgiTej10xPTS_3gCoAEC.8ILZ_-pOOhs8ILhJgX8bn9",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미사카 10032호 개(비속어)님은 왁굳클럽",
+        "writer": "UgiTej10xPTS_3gCoAEC.8ILZ_-pOOhs8IMROdIj83P",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Logue 멍쨩은 왁굳클럽이자 피버인걸로 알고있습니다.",
+        "writer": "UgiTej10xPTS_3gCoAEC.8ILZ_-pOOhs8IMfd7z4oAd",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Logue 원래 피버클럽장은 (비속어)님이였는데 (비속어)님은 (이름) 클럽에 이미 계셔서 클럽장을 못하셔서 코x트님이 대신 하신겁니다",
+        "writer": "UgiTej10xPTS_3gCoAEC.8ILZ_-pOOhs8IMkqT8u3E8",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만든게아니고 우주선 밖으로 나간거 처리되서 중앙으로 이동(반사회적용어)고 만약 중간에 스킬쓴상태면 스킬 초기화된상태로 중앙으로 이동시켜짐",
+        "writer": "Ugjl04P0tVhYXngCoAEC.8ILRIJxCR2b8ILVC3aQgd_",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 이스터에그가 아니라 버그로보면됨",
+        "writer": "Ugjl04P0tVhYXngCoAEC.8ILRIJxCR2b8ILVGeZu1Ik",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유하가 머임",
+        "writer": "Ugg2m2bG1P3fpXgCoAEC.8ILR1K5DENs8ILRU4ZXQfP",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TLOZ 링크 유(튜브)하(이) 유튜브 안녕 하는거죠 보통 아프리카나 트위치 생방송비제이분들이 설명하면 유튜브에 올리는걸 아는분들도있고 그냥 유하 하시는분들도있죠(그냥 찍어서 맞추는거)",
+        "writer": "Ugg2m2bG1P3fpXgCoAEC.8ILR1K5DENs8ILW4GliXDj",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 달리네",
+        "writer": "Ugg2m2bG1P3fpXgCoAEC.8ILR1K5DENs8IMgnm58uAo",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경기에는 아무지장없음",
+        "writer": "UgifI1zI3j34y3gCoAEC.8ILPlFKpgu98ILQ-MaA9IG",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가 주먹이요",
+        "writer": "UgihlXhWUuyaKXgCoAEC.8ILPDLTpYgW8ILWBPiluBE",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오버워치하고싶은사람 (펠샌즈) 저기 (이름) 이 그냥 화면 만 보잖아요 그런데 주먹 가지고 뚜들겨도 돼고 겐지 같은 경우 칼쓰잖아요 칼가지고 뚜들겨도 돼여",
+        "writer": "UgihlXhWUuyaKXgCoAEC.8ILPDLTpYgW8ILYQvNo7LO",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김신웅 근데 왜 주먹 아니(반사회적용어) 돼던데 라고 하셨죠",
+        "writer": "UgihlXhWUuyaKXgCoAEC.8ILPDLTpYgW8ILhqdjqzcI",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그사람이 먼저 한 사람 껄 보고 말한 걸 수도 있죠. 이미 빅(이름)이 하신 건데,",
+        "writer": "Ugh0S1UcIoiOO3gCoAEC.8ILOVld4gFM8ILOj2DFDi-",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cheer cgag 아아, 감사합니다 제가 몰랏네요",
+        "writer": "Ugh0S1UcIoiOO3gCoAEC.8ILOVld4gFM8ILQbIbZC1G",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 스킬 초기화도 되요",
+        "writer": "UghRuUAyL_aIBXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이미 다 알고있았어,",
+        "writer": "Ugi8IkqjWSGIW3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많이 알고있는줄 알았는데 아니였넹",
+        "writer": "UgiEreR8ONxHgngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채팅창모르는척 신기한척 하는거 너무 웃곀",
+        "writer": "UgglXPhmisdrZXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 별거 없다, 신기한데 별건 없다,",
+        "writer": "UgjND3e11Hy5iHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 거기파란색앞에 의자에 낑겨서 앞으로가거나 주먹으로 치면 가지는데 저런방법이있었네",
+        "writer": "UgjWI0knkXgeXngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 쿨초도되요",
+        "writer": "UgiDKmotOugrQXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우(이름) 다른 유튜버가한건데, 주워먹으심,",
+        "writer": "UgjGX1kAvb8_BngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐, 뭔가 있을줄알고본 초보유저임다",
+        "writer": "UgjB11Tg9Yo5c3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 이스터에그가 아니라 버그로 알고있어요 거기서 하면은 캐릭이 비행선 밖으로 나가지는것으로 되서 그런것같고요 게임시작후에는 밖으로 나가도 되니깐 안되는 걸거예요",
+        "writer": "Uggv5r8_dFOsL3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 편집의 흔적이 보이네. 뭐라고 멘트날렸길래 채팅창이 저렇게 (비속어)거야",
+        "writer": "UghyN9ZW9HHvxHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이미 알고있었는데",
+        "writer": "Ugid5wPUac9ZV3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왕 (이름)당.",
+        "writer": "UghBWV_UEQjA9HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응 끝이야좋아요 내놔",
+        "writer": "UgjQ7LTdI_017ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오, 이건 몰랐네 특히 마지막 조았따,물론 왁굳 멘트가",
+        "writer": "UgiMXw1Zbs6_vXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 저땐 트위치 생방이라 채팅나오는 속도가 늦어서그럼",
+        "writer": "UgglXPhmisdrZXgCoAEC.8ILK7BbFr--8IMiVG5uMU1",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Judy Hopps 그게아니라 시청자들 다 알고있으면서 모른척 해주는게 웃겨서 한 말이에요",
+        "writer": "UgglXPhmisdrZXgCoAEC.8ILK7BbFr--8IMkpPzoQcn",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Judy Hopps 아마도 (이름)이 트위치 생방제목에 (반사회적용어)를 끌었겠죠 예를들어서 완전완전 신기한 이스터에그 라던지",
+        "writer": "UgglXPhmisdrZXgCoAEC.8ILK7BbFr--8IOxgStpDo2",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 컨텐츠는 돌고 도는거고 그럼 왜 누가 먼저 옵치했는데, 이말은 왜 안하시죠",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILVVerOQYI",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "jard21 0 그건 저작권없고딴사람한건 저작권있죠",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILVsEkgNbv",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바람마크 이런건 저작권을 논할 필요가 없어요, 그렇게 치면 국제 저작권 문제로 넘어가지 않나요 외국유튜버들이 먼저 다 찾았는데",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILWUuU3q5h",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바람마크 이스터에그 영상에 왼 저작권",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILWvELRnzb",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 그 유튜버도 블리자드가 만든거 주워먹은거네요",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILa3fIFdps",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크르르르르릉, 멍, 멍,",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILefsyPsoZ",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)한거 인증하네",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILgJ2EH6H7",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 최초발견도 아니고 그냥 알려주려고 발견이라는데왠 (비속어)",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8ILmKpqk4Ll",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러면 누가 오버워치 먼저하고 우(이름)이 하신거면 다 주워쳐먹는거냐",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8IM4Fl5q5AO",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런거에 저작권이 왜 있음 급충아, 제발,",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8IM4YBJQW_1",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가야 저작권은 (이름)이 하신 gta5 독점작업 그런데나 있는거야 이스터 에그 영상 밝히는거는 다른 사람이 찾더(반사회적용어) 블리자드에서 원래 만든 거기 때문에 저작권이 없단다",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8IMd-iWSsOx",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한두명만 말하면 되는데 욀케 많아 댓글이.",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8IMk6BX52TG",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청자가 제보한거라잖아 (비속어)아",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8IPGKtfKYKz",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "BackCat B 님드라 그만좀 해요. 공격적 해",
+        "writer": "UgjGX1kAvb8_BngCoAEC.8ILG17QeAba8IRA5cBtPIH",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 궁금하네요 뭐라고 하셨을까",
+        "writer": "UghyN9ZW9HHvxHgCoAEC.8IL7Hm5MlCZ8ILAVH4fKuc",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찾아보니까 영상 찍다가 후원터져서 다시찍었네요",
+        "writer": "UghyN9ZW9HHvxHgCoAEC.8IL7Hm5MlCZ8ILPWppFdg8",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명중인데 후원분 일끝나고 들어오자마자 쏘신분인데 정말 뜬금이여서 조용히 끊고 갔어요 왁쨩도 이해해줌",
+        "writer": "UghyN9ZW9HHvxHgCoAEC.8IL7Hm5MlCZ8ILhUNqwGiu",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오쨩의 (비속어)는 언제들어도 (비속어)",
+        "writer": "Ugj09Q2qZnTmLngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싱기하당 .",
+        "writer": "Ugjp2Tz-LPGhfXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엌 짧은데 (이름)네요 이런게 있었구나",
+        "writer": "UghWHPeDMV0iUXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 편집자분 일 너무 열심히 하는거 아닙니까. 좀 쉬엄하세요.",
+        "writer": "UghSrSBb4iMsd3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 보고갑니다",
+        "writer": "UghD-VN4OYkg7HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=4y0FMz5mhAM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

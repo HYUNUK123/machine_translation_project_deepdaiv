@@ -1,0 +1,900 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001405484",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOEN210001405484"
+    },
+    "text": [
+      {
+        "content": "중간 중간 오자가 있는데 제가 전반적으로 검수를 할 시간이 없어서 그대로 올립니다. 그래도 내용 이해하시는데에 문제는 없으실테니 너그러운 양해를 구합니다. 편안한 주말되세요",
+        "writer": "Ugz67Zb0JmQ4YyVCllx4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래, 내가 지금까지 이렇게 힘들었는데 지금만 잘 버티면 행복한 날들이 가득할거야. 이제 마지막 관문이야 잘 해결해나가자.",
+        "writer": "Ugx3L9N6j9yDd7doVkJ4AaABAg",
+        "write_date": "2021-08-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 무교인데 종교같아요, 진짜 멘탈회복에 너무도움되고있어요 사랑해요",
+        "writer": "UgzIDqC8Xg_fpmwKrvJ4AaABAg",
+        "write_date": "2021-07-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 고맙습니다",
+        "writer": "UgxZk0E4bbsOmme89o14AaABAg",
+        "write_date": "2020-11-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 인상이 너무 좋으시네요. 각자의 소확행을 듣는 것 또한 행복인 것 같습니다. 피곤하고 바쁘신 와중에 구체적으로 행복을 찾는 모습을 보고 배워 갑니다",
+        "writer": "Ugy2PIGk3EMpzxZt-kN4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소확행 새 개념 넘 맘에 들어요 안좋은 상황에서 속으로 웃긴생각 할때 좋은 뜻으론 아 긍정적이다 내가 유머로 승화(비속어)는구나 아님 (비속어)(혐오표현) 힘드니까 내가 미쳐가는구나, 했는데 그. 소확행이었군요 본능적으로 살려고 그랬나봐요",
+        "writer": "UgzoWe97QcHurkigq9x4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강의할 때 보다 더 멋지심..",
+        "writer": "Ugyt8NUOljtO3UI580t4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힝 바로 보러 갔는데. 힝 비싸네",
+        "writer": "Ugwtrsfr55FaD9QMX9d4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저에게 소확행은 공부하기전 아메리카노 한잔을 얼음동동 띄워 만들어놓고 집중이 흩어지는 순간 이윤규변호사님 강의 하나 들으면서 스트레칭과 근력운동을 조금이나마 매일 하는거에요. 공부하면서 살찌긴 싫고 운동다니기엔 촉박한 루틴이라 이게 저에겐 일종의 보상인데, 내겐 지치거나 우울해도 변호사님 강의가 있다. 이렇게 생각하면 너무 행복해여, 윤규변호사님이 세상최고에요",
+        "writer": "Ugw_JEvR8Xl94kBWg-Z4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 가끔 맛있는 치킨을 시켜먹거나 냉면을 시켜먹거나 할때 아니면 주말에 아기랑 같이 시간을 보낼때가 소확행인것 같아요.",
+        "writer": "UgxIXONCjmjdwte7A694AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 소확행에 대해 생각을 많이 했던 하루였어요 친구랑 카톡으로도 얘길 하구요, 변호사님의 영상이 생각나서 한번 더 들으러 왔는데 지금 다시 들으니 변호사님 정말 대단하신거 같아요. 라이브 들을때 미처 못 느꼈던 세세한 통찰력에 박수를 쳐드리며 저는 이만 자러 갑니다 아까 산책을 좀 빡세게 해서 일찍 잠이 들수 있을거 같아요 오늘 라이브 해주셔서 감사해요 변호사님의 수요라이브도 저의 소소하지만 확실한 행복 중 하나입니다 조심히 귀가하세요 (이름). (아까 라이브때 이름 부르는 대목이 인상적이라 호칭은 생략해보았습니다.",
+        "writer": "UgyefdqZlgkS7fvOp1d4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인대 (천장강대임어사인야) 하늘이 장차 큰 임무를 사람에게 내리려 하면 하고 (필선노기심지) 반드시 먼저 그 마음과 뜻을 괴롭히고 하고 (고기근골) 뼈마디가 꺾어지는 고난을 당하게 하며 하고 (아기체부) 그 몸과 살을 굶주리게 하고 하여 (궁핍기신행) 그 생활을 빈궁에 빠뜨려 하나니 (불란기소위) 하는 일마다 어지럽게 한다. 는 하고 하여 (시고) (동심) (인성) 이는 그의 마음을 두들겨서 참을성을 길러 주어 이니라 (증익기소불능) 지금까지 할 수 없었던 일도 할 수 있게 하기 위함이니라.",
+        "writer": "UgxdAW-8nKkO9nVce6J4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일다니면서 주경야독 하고있는 한문임용시험 준비하는 수험생인데 감사합니다 변호사 님 맹자 구절이 생각나네요",
+        "writer": "UgznTfCqDI2fXBobdUt4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 유튜브로 좋은말씀 듣고 있지만 실천이 정말 어려워요 몇년째 준비만하는거같아요",
+        "writer": "Ugyc9LnXekUztSArC_B4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분명히 생방송을 봤는데 모든영상이 볼때마다 다르고 매번 더 느끼고 생각하게 되고 한번 더 보면 또 무언가 깨닫는 느낌이에요, 한번에 모든 것을 다 흡수하지 못하는게 너무 아쉽고 또 변호사님이 그만큼 대단하게 느껴집니다. 말씀하시는 내용들은 귀에 너무 쏙쏙 들어오고 나도 할 수 있을 거 같다는 생각을 매번 하게 되는데 주변을 보면 이걸 해낼 수 있는 사람이 흔치 않다는 생각도 들어요. 그치만 유튜브를 보시는 분들은 변호사님 처럼 자기 인생을 책임지고 노력해서 멋지게 살 수 있을거라 믿습니다. 저 스스로 하는 다짐이기도 합니다. 학창시절 막연하게 보던 자기계발서를 넘어서 유튜브가 변호사님과 1대1로 대화하게 만들어 주는 거 같습니다. 지금 저의 이 생각 이 마음이 변치 않았으면 좋겠습니다. 변호사님 말씀은 제가 체화 할때까지 수백번 수천번도 넘게 계속 보고 싶습니다. 항상 감사합니다 존경합니다.",
+        "writer": "UgzFDThzrgduqvtzGdx4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤규님 궁금한게 있는데 , 평상시 공부량도 적엇고 일을하고 나서도 공부량이 적어요. 분명히 마음은 다잡고 잇는데 일할때는 집증해서 하구 공부도 집증해서 2시간은 하고 잇는대여 , 총 에너지 총량을 늘이구 싶어요. 뭐가 (비속어)지모르겟네요. 에너(반사회적용어) 넘 많이써서 그런걸까요 하나하나에",
+        "writer": "UgxzsqdBYr44x-sXQl94AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자신의 삶을 책임지는 자기합리화의 왕",
+        "writer": "Ugz67Zb0JmQ4YyVCllx4AaABAg.9731h6TdMxu9732Afo3k1g",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바쁘실텐데도, 이렇게 올려주시는 것만으로도, 감사하죠.",
+        "writer": "Ugz67Zb0JmQ4YyVCllx4AaABAg.9731h6TdMxu97330tyxo4P",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자막 너무 감사해요 윤규형",
+        "writer": "Ugz67Zb0JmQ4YyVCllx4AaABAg.9731h6TdMxu973AmM8Rqcs",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 애들키우는입장에서 너무궁금해요 어떻게 그나이 대에 그만한 깊이있는 통찰력 선함 등등 을갖추게되신 배경이라고해야하나 그런게궁금해요 (이름)영향이실까요,",
+        "writer": "Ugz67Zb0JmQ4YyVCllx4AaABAg.9731h6TdMxu973ePAvTqTf",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 감사드립니다 변호사님 공부방법대로 공부하니 불안감이 줄었습니다",
+        "writer": "Ugz67Zb0JmQ4YyVCllx4AaABAg.9731h6TdMxu97JrnXXUeMy",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 저는 대학생 중학생엄마예요 시간날때마다 영상보면서 변호사님의 삶의 자세를 배우고있습니다 아이들에게도 밥먹을때 가끔씩 들려준답니다 엄마 이윤규변호사님 팬이냐고 수학공부법도 궁금한데 기회되시면 함 올려주시길 부탁드려봅니다수능공부하는 딸아이에게 큰 도움될것같아요",
+        "writer": "UgxF71fQvPugbQEe_nV4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 인생은 왜 만화의 주인공이 못되나 되지. 그걸 입증을 꼭 해봐라 쫌. 이걸넘어서면 인생이 레벨업. 성장 되지않을까 와, 이런 긍정적이고 자신감있는 사고의 전환은 어떻게하나요 그래서 전 윤규오빠 말 듣고 실천이(반사회적용어) 할래요.",
+        "writer": "UgxZsAvGNYRE(반사회적용어)dp-ON4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 며칠전에 슬럼프가 있어서 무리하지 않고 쉬면서 공부를 했어요 근데 슬럼프가 끝난 후에 다시 예전처럼 장시간 집중해서 열심히 공부하려하는데 잘안되네요, 어떻게 해결하면 좋을까요",
+        "writer": "UgxcmXy98VCl9xLmrQZ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘의 킬링포인트 (반사회적용어) 나와 서울임용 도전하는 저는 서울대 졸업한 사람이랑 붙으면 될까 라는 걱정을 했었는데 변호사님 말씀이 참 가슴을 울리네요 내인생의 등급을 내가 매기고 들어갈 필요없다. 안하니까 못하는(혐오표현) 하면된다. 인생의 주인공 기적의 주인공 되어 보겠습니다. 좋은 말씀 넘 감사합니다 변호사님.",
+        "writer": "Ugykyag8T6n6cQNKLOB4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매번 밝고 긍정적으로 살자고 생각하지만 쉽지 않았는데요. 영상을 보고 많은 것을 느꼈습니다. 잠시 스치는 생각이 아닌 긍정적인 마인드가 머리를 지배하게끔 매번 되뇌이고 생각하는게 중요한 것 같아요. 좋은 영상 감사합니다.",
+        "writer": "UgytyxuGDD1xzdoGMEp4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 멘탈관리랑 관련된 내용 많이 올려주셔서 좋아요. 비록 바빠서 다 챙겨(비속어)는 못 하지만 우울할 때 하나씩 꺼내먹어요 제가 변호사님만큼 똑똑하진 못하지만 행복을 찾는 것에 있어서는 비슷하게 생각해요. 변호사님 말씀처럼 대부분의 시간을 공부하느라 힘들게 보내기 때문에 작은 행복과 감사함을 느끼기 어렵지만 항상 긍정적인 생각을 가지려고 노력해요. 좋은 영상 감사합니다",
+        "writer": "UgzW_CVUqaZs19hUAW54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 이런 삶의 철학을 가지게 되신지 존경스럽습니다.",
+        "writer": "Ugx_QaH4vHw3dACLXet4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 꿈에 대한 집념과 이루신 모습 너무 멋있으십니다, 저도 그런 인생이 될 수 있도록 노력할게요..",
+        "writer": "UgyESGKuNJj7Qyvxd4J4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 윤규교 저도 이런 마인드를 갖고 긍정긍정 하게 시험기간을 버티렵니다........ 진짜 so moved",
+        "writer": "Ugzhupx6qq_XJLvIi2J4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 알라미 깔아 보세요 안일어날 수가 없습니다 히히 추천추천 책도 읽고 영상 꾸준히 보던 사람인데 알람 어플 알려드리려고 처음 댓글 다네요 그냥, 시간별로 알람해두신게 친근해서 한번 , 총총",
+        "writer": "UgxoxW2BaDmVS3ZuF4p4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 이렇게 좋은 영상을 꾸준히 올려주셔서 감사해요. 공부한답시고 책임감없는 제 자신이 (비속어)걸 인지 못했는데, 항상 힘들다고만 생각하지 말아야겠어요. 감사합니다 )",
+        "writer": "UgzOZIcasXaAbqCbsY54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 말씀 정말 감사합니다. 많은 위로가 되었어요.... 공부뿐만아니라 인생 살아가는 법 조금 더 인생을 행복하고 편하게 살아가는 법 을 알려주셔서 감사합니다.",
+        "writer": "UgzwhbUN7rRcm-25Yqp4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨에는 공부법으로 검색하다 우연히 알게된 채널이예요. 공부법 통달하신분이라 생각하고 도움 많이 받았는데 갈수록 학습뿐 아니라 인생도 통달하신분이네요.",
+        "writer": "Ugx9VR0rf9JVIA1fv_F4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 변호사님 조금 다른 이야기 일 것 같지만 댓글로 남기지면, 시간별 계획표를 쓴지 200일쯤 되었어요. 쓰다 보니까 제 감정 패턴도 보이고 하루를 부분 부분으로 보게 되더라구요. 일기 쓰는 시간은 행복한 시간 공부 다 하고 줄 그어서 없앨 때 행복한 시간 이 때는 집중한 시간 이 때는 집중이 잘 안되서 마음만 어려웠던 시간 등등이요 변호사님은 모르는게 없을 것 같아요, 공부 뿐만이 아니라 삶을 대하는 다양한 마음가짐을 설명할 수 있을 만큼 이해하고 계신 것 같아요. 많은 것들을 배워갑니다 오늘도 건강하세요",
+        "writer": "UgzEyg-kSsWEJrEpsOx4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 변호사님 임용고시 준비하면서 공부법 찾아보다가 알게 되었습니다. 1년 전부터 변호사님 채널에서 여러 영상을 봐왔었는데 오늘 처음 댓글 달아봅니다 공부에 대한 방향성과 삶에 대한 태도를 건강하게 만들어주셔서 감사합니다 그리고 존경합니다. 아직 여자친구도 없고 결혼은 하지 않았지만 자녀가 태어나서 자라면 변호사님 영상을 꼭 보여드리고 싶네요 지금처럼 건강한 모습으로 계속해서 활동해주세요.. 앞으로도 좋은 영상 기다리고 있겠습니다",
+        "writer": "UgyBA_gdDVjPFT8FcvJ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 덕분에 인생이 급변 했습니다. 모든 것들이 새로워 보여요. 행복할수록 절제할 줄 알고 지치고 힘들때도 힘을 낼 수 있는 생각을 기를 수 있도록 노력해야겠습니다. 오늘도 너무 감사합니다..",
+        "writer": "UgyvSAf-DupLoCNNegJ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 말씀 항상감사합니다 오늘도 정말많이배워가요.",
+        "writer": "UgxsudrYYnkobR0RXYd4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공부하다 쉴때 변호사님 영상보고 오늘도 긍정에너지 받고 갑니다 그리고 감사합니다전 레벨업 하러이만 총총총...",
+        "writer": "UgyJFBI__W-szus593p4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반성하고 갑니다",
+        "writer": "UgxcGOey8c60jdB8cwR4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다크호스 책에서 지극히 사소한 동기의 위력, 과 비슷한 맥락 인거 같아 보이네요",
+        "writer": "UgxTpT97NqbX0cBiVzN4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천천히 끌어올리셔야해요 바로 원래대로 복귀되지는 않아요 조급함을 조금만 버리시기 바랍니다",
+        "writer": "UgxcmXy98VCl9xLmrQZ4AaABAg.97EFdgroP4v97EICfoc1H2",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청해 주셔서 감사합니다 (이름)",
+        "writer": "UgyJFBI__W-szus593p4AaABAg.975VvQtumBJ975fFDrlSKW",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청해 주셔서 감사합니다 ar 님",
+        "writer": "UgxcGOey8c60jdB8cwR4AaABAg.975RvutTi-n975fIHVTlqC",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞습니다 시청해 주셔서 감사합니다",
+        "writer": "UgxTpT97NqbX0cBiVzN4AaABAg.975Q9gX8uKT975fJO2VA7N",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 이번 영상을 보니 행복의 기원 이라는 책이 생각났어요. 책 구절 속에 라는 글이 있어요 제가 좋아하는 책인데 변호사님이 하는 말과 일맥상통 한다고 느꼈습니다. 행복은 꼭 무언가 큰 목표를 달성했을 때만 느낄 수 있는 것이 아니라 일상 속에서 오는 즐거움 속에서 느낄 수 있는 것임을 기억하겠습니다 변호사님께서 한 말 처럼 행복을 느끼는 균형감각 그리고 그걸 발견하는 눈과 감사할 줄 아는 마음 항상 마음에 (비속어)면서 살아가겠습니다. () 오늘은 출근을 1시간 빨리 했어요. 직원들 아무도 없는 사무실에서 아메리카노를 마시며 책을 읽었습니다. 오늘 느낀 소소한 행복이였어요 ) 다들 이번주도 파이팅 입니다.",
+        "writer": "Ugy462f7-IGw5kqNStV4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소확행의 진정한 의미가 이거군요..시험 준비하는게 힘들다고 계속 마음이 생기면서 하루가 망가지더라구요 매일 이 영상 보면서 맨탈 잡아야 겠어요..",
+        "writer": "UgzqkCcgqsFjxq2H5IV4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시험을 실제 4번 떨어졌어요. 보다가 울컥 눈물이 났는데 너무 좋은 내용이라 좋아요 댓글 쓰고갑니다. 그나마 긍정적인편이긴 하지만 회가 거듭될수록 실패경험과 막연함이란게 참 힘든것 같아요. 올해가 마지막 준비인데 이윤규변호사님 영상이 많은 도움이 되네요. 정말 감사합니다 건강하시고 행복하시길..",
+        "writer": "Ugz40AKNrnbDVtc3xN54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 변호사님. 작년부터 소소하게영상을 챙겨봤었는데요 오늘아침에 이영상을 보며 부정이있다면 그것도안아가고 긍정으로 이끌자. 다시한번다짐하게되어 이렇게댓글을 남겨요. 최초로 유투브에 댓글을 쓰는건데 변호사님께 감사하다는 말씀을 드리고싶어 이렇게써내려간답니다. 긍정의 주인공.행복의주인공이되어 이과정들 잘 이겨나가고 경험치쌓겠습니다. 시험을 준비하고있는데 다음번에 댓글을 쓰게된다면 꼭 시험에 합격했다는말씀 드리고싶네요. 변호사님 감사드리고 오늘도 행복하고 사랑넘치는 하루되시길 바라겠습니다.",
+        "writer": "UgxfpLG_cYX1nuulZoJ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 잘 보고 있습니다. 직장인인데요 현재 기술사 준비하고 있습니다 변호사님 덕에 공부 아이템 갖고 하루하루 열심히 하고 있습니다 물론 지금 서술형이라 하나(반사회적용어) 잘 쓰지 못하지만 이해하려고 노력하고 꾸준히 그 방법대로 하다보면 그 서술형들이 보일 거라고 합리화 하겠습니다 항상 좋은 영상 감사드립니다 오늘도 좋은하루 되십시오",
+        "writer": "UgwbCHuh6yhXSBGN2_B4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저의 소확행은 헌혈 이네요. 헌혈 하면 기분이 좋아져요. 꾸준히 하다보니 헌혈을 많이하게 되었네요.",
+        "writer": "UgwaHvFp2AoWoiQbnwp4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 시청했습니다 인생의 주인공 되기 )",
+        "writer": "Ugy79uWXlkCqPtn2RAJ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 변호사님 저 학생인데 발신자번호제한으로 전화가와서 받았는데 (혐오표현)과 성적인말로 조롱을 당했는데 고소가 가능한지 알려주실수가 있을까요 , 너무 화가나는데 공대생이라 법쪽에는 사실 잘 관심이없었어서 어떻게 할(반사회적용어) 모르겠어요 , 실례가 되었다면 이글 삭제하셔도 좋습니다, 잠깐이(반사회적용어) 시간 내주실수있으면 , (이메일) 이쪽으로 메일 한통만 보내주세용 , 구독했어요",
+        "writer": "UgzB_slFpn-JXM2dLMl4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 변호사님 제 친 동생이 게임 계정을 바꾸기로 했데요, 근데 여기서 제 동생이 계정을 받고 안 주는 식으로 (반사회적용어)를 쳤습니다. 이 상황에서 상대방이 만오천원으로 합의를 봤습니다. 근데 몇 주가 지나고 고소한다면서 동생을 협박해 다른 많은 계정을 요구하고 가져 갔다는것을 오늘 알게 됬습니다 이 상황에선 누가 잘못 했는지 궁금 합니다, 17살이라 물어볼곳이 없어서 유튜브 영상에서 댓글 남깁니다, 참고로 제 동생을 만 14세 입니다",
+        "writer": "Ugy95clRkK-q7-vyi_p4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 영상 보며 제 소확행은 뭘까 생각해봤는데 저는 전업 수험생인지라 올해는 공부하다가 한 번씩 창문 보는 게 소확행이 되었어요. 코로나 때문에 어쩔 수 없이 집에서 공부하고 있는데 창문으로 바깥 볼 수 있어서 좋은 점도 있더라구요 1층이라 하늘이 잘 안 보이는데다 맞은편에 아파트가 두 채 있어서 틈이 좁긴 한데 그래도 날씨 좋은 날 파란 하늘 보이면 그렇게 좋을 수가 없어요 얼른 합격해서 탁 트인 하늘 보면서 여유롭게 즐기고 싶네요 변호사님 클래식 리스트도 궁금합니다.. 인스타에 올려주신건 한 번씩 검색해서 듣고 있어요. 저도 한 번 추천해드렸는데 들어보셨을지 모르겠어요 사라방드꺼예요",
+        "writer": "UgxTUo4sEkAJFK4L9Yl4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑자기 드는 생각이, 변호사님 사진에 아래 자막처럼 넣어가지고 공부하다 하기싫을 때보면 다시 하게 끔 만들어 주는 독한( ) 말 써서 공유해쥬시면 좋겠단 생각이 이 영상보면서 떠올랐오욬 프린트해서 책상 앞에 붙여놓게요, 영상볼땐 와 진짜 열심히 해야지... 이러다가 자고 나면 다시 나약해지려고 하거든요 일찍 일어나다가도 아 피곤한데 좀만 누울까 하다가 두시간 지나고욬 예전 영상에서도 침대 모서리에서 주무신다길래 저도 일부러 불편하게 자는데도 왜케 자는거죠 저도 시간이 없는데,",
+        "writer": "UgyMsIH0bPKCYvBRn2Z4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 너무 귀여워요 진짜, 처음부터 끝까지 몰입해서 봤네요 항상 좋은 말씀 해주셔서 감사합니다 _",
+        "writer": "Ugzm5bv5dcUwKuI9BzN4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 궁금한데 몇번째 인생이세요,",
+        "writer": "UgxhYzyye1UPom80Fe94AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "for 이윤규 변호사 님 힘드실 때 아래 음악 바람처럼 자유롭게 가 벗이 되면 어떨까 싶네요 행복은 완벽한 고통없음 이라 생각합니다 (결코 쉽지 않죠 ) It3GzzN2rk (가사 해석이 있는 동영상이에요)",
+        "writer": "UgzAWSZsdgIHhA8jpg94AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 잘갱겼어요",
+        "writer": "UgzkZAxHGukwl91LVo14AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 감사합니다. 저는 걱정을 많고 하고 부정적인 사고를 하는 습관이 있는데 영상들 보니까 조금씩 고쳐지기는 하는 거 같아요. 공부법이나 멘탈면에서 정말 배울점이 많으신 분 같아요. 영상 매일 (비속어)만 오늘도 역시나 많이 얻어 갑니다. 몸적으로 힘드시다고 하셨는데 건강 잘 챙기셨습으면 좋겠습니다",
+        "writer": "UgxYVM0BY3OCZsAGrbp4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 항상 영상 잘 보고 있었는데 이렇게 댓글은 처음 달아보네요. 항상 감사하면서 살아가려고 노력하고 있는데 오늘 영상 보고나서 다시 한 번 감사한 일에 대해서 생각해보게 되네요. 그리고 나의 삶도 만화의 주인공처럼 될 수 있다는 말.이 정말 너무 좋은 말 같아요 유리멘탈인 저에게도 왠지모를 자신감을 숑숑 심어주는 그런 말인 것 같네요 변호사님 이렇게 매번 영상 하나하나로 전국의 수험생들과 많은 분들께 버팀목과 힘이 되어주셔서 감사합니다. 이번 영상도 잘 봤어요.",
+        "writer": "UgwwuvO5x2PyITIvVc54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 감사합니다",
+        "writer": "UgyByWg-GrOcLKlaZxh4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뱐호사님의 클래식 리스트 궁금해요 .",
+        "writer": "UgxS4r2O620Ifx5wBCd4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 첫 댓글 영광입니다 지금의 마음을 쭉. 유지해주세요 화이팅입니다",
+        "writer": "UgxfpLG_cYX1nuulZoJ4AaABAg.975-12vcyWb975-mDOp7kP",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 또 협박해서 동생이 괴로워해 도와줄려고 댓글 한번 올립니다, 참고로 제 동생이 잘못 한거는 인지 하고있습니다. 하지만 그 이후 상대 방의 태도가 잘못 됬다 생각해 도와주고 싶습니다, 댓글로 변호사님의 생각 남겨 주실 수 있을까요",
+        "writer": "Ugy95clRkK-q7-vyi_p4AaABAg.974A91tYt01974AKlMvAJl",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 인생에 대해 명쾌한 답을 내려주시네요.",
+        "writer": "UgwhswPAvUuIIrw-NZJ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수험기간동안 감사함을 잊었을때 힘들때 이전에 제가 저장해둔 영상 지금 이영상 보면서 극복할게요 이렇게 변호사님을 알게된것도 큰 감사라고 생각해요",
+        "writer": "UgzB9CkbBhFSWRo-ByN4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남들은못보는걸 보는통찰력이 30년넘게 수행한 고승의 느낌이 나네요 두꺼운책을한권알차게 읽은것같아요 좋은관점나눠주셔서 감사합니다",
+        "writer": "UgyMYCrBbdIsWED_89V4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 공원 내리막길에서 킥보드 탔어요 좀 신이가 나더라구요 그러다 브레이크 밟아야 할 구간에서 삘받아서 안밟고 직진하다가 그대로 날아떨어졌어요 이렇게 , 무릎팍 까진건 안보이니 괜찮지만 턱이 아스팔트에 쓸렸는데 그거 흉 안지면 소확행일듯요, 대확행인가 , 남은 주말 잘 보내세요 변호사님.",
+        "writer": "UgxOBQk8Oij2x5fw-UV4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무조건 자기합리화 내삶도 책임있게 해야 남들도 그렇게 안본다 명언입니다 남들이 왜 늘 만만하게 보나 이런 생각이 가득했는데 내삶에 책임도 안지고 불평불만을 남에게 표출하니 남들이 그렇게 대했던거같네요 지금까지 들었던 수험조언 중 최고라 생각합니다",
+        "writer": "UgwTCw7k9SA6t3coGmp4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 좋은 영상 감사합니다 그런데 소확행이 뭔가요, 소소하고도 확실한 행복의 약자인가요",
+        "writer": "UgxeYafZJaFw2-VcId14AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 추천으로 저 바로 어거스트러쉬 결제해서 봤어요 많은 생각을 하게되기도 하고 공감도 되고 따듯해져서 좋았어용 감사합니당",
+        "writer": "Ugx60C1P4bJmL04PWQ54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 소확행 . 변호사님이 들으시는 클래식 리스트알고싶어요.",
+        "writer": "UgyUrDJ4zZo_iDxH9md4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님의 이야기들이 현재 제 상황에서도 많이 힘이 됩니다. 현재 저는 제게 맞게 변형시킨 변호사님의 방법으로 그리고 변호사님의 삶의 방식으로 그렇게 노력하며 살려고 하고 있습니다. 객관적으로 시간이 부족한 시험을 앞두고 변호사님을 만난 게 너무 행복합니다. 오늘도 소확행을 느끼게 해주셔서 고맙습니다. 나의 삶을 만화의 주인공으로, 그리고 게임을 하는 방법을 삶에 접목(비속어)는 사고의 전환으로 기필코 이 시험이라는 몬스터를 무너뜨리고 레벨업 하겠습니다. 다시한번 고맙습니다. 한창 공부하다 멘탈 흔들릴 때 또 나의 마음이 힘들 때 또 오겠습니다.",
+        "writer": "UgzOX6Xr705WHccVhO14AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃으면서 이야기하시는게 잼있어서 요즘 여가시간에 계속 변호사님동영상 보다보니전부 보기로 마음 먹고 보고 있습니다. 좋은영상 감사합니다.",
+        "writer": "UgzmN7ZV_rKuvAObSXt4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘보고 있습니다. 항상 영상으로 힘을 주셔서 감사합니다. 이 강의가 저한테는 소확행",
+        "writer": "UgwhznjAx6kfmZvNF1B4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소확행 내가 비정상인가, 1314시간 공부해도 저는 하루하루가 행복한데 10시간 (반사회적용어)하고 저녁 6시에 도착해서 공부할때도 행복했는데 물론 시험 떨어지거나 원하는 학점이 안나왔을때에는 하루3일정도는 힘들더라고요. 자꾸 군대시절이랑 비교해서 그런가 다음주 주말에 어거스트 러쉬한번 봐아겠네요 ost가 좋아서 영화는 안보고 ost만 들었는데 그 3시간 자고 이가 흔들린다는 그 말 저도 뭔지 알것 같습니다 아침8시저녁5시 저녁9시아침6시까지 연속으로 5일동안 일한적이 있는데 진짜 육체적으로 힘들더라고여",
+        "writer": "UgzWDREvv3UR1TsO_E54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 변호사님 말씀 들어보면 호연지기가 느껴짐, 더 흥해지고 잘되셔서 좋은 기운 많이 퍼뜨려주시길... 그리고 우리가 볼때 겸손 감사 책임은 남을 위한거라고 생각하시는 경향이 있는데, 오히려 일을 해보고 사람을 만나보고 거래를 해보면 위 3가지 없이 잘되는 사람은 없다고 봅니다. 즉 겸손 감사 책임은 남보다는 본인을 위한 장치이니 모두들 잘 실천하셨으면 좋겠습니다.",
+        "writer": "Ugx2MB-pQdfmTkoLbat4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 저는 어딜가서나 엘베가 저희 층 근처에 있는게 그렇게 행복할수가 없습니다",
+        "writer": "Ugwh3SJ8ezvHZxueR4h4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 감사합니다 영상 잘 보고 갑니다. 영상보고 있는 지금이 소확행",
+        "writer": "Ugw0Mw5AdRj0Ylm4YTV4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공부하면서 변호사님 영상 많이 보면서 멘탈관리 하고 있습니다. 변호사님은 사시를 공부할 때뿐만 아니라 변호사라는 꿈을 이루시고도 정말 열심히 사는거 보고 제 삶을 돌아보게 되네요. 정말 최선을 다하는게 어떤것인지 알게됩니다. 변호사님 만큼의 노력을 하진 못하지만 시험을 치룬 뒤에 그 결과에 수긍할 만큼 후회없이 최선을 다하겠습니다. 항상 긍정적인 힘을 주셔서 감사합니다. 건강 관리 잘 하셔서 오래오래 좋은 영상 많이 올려주세요.",
+        "writer": "UgwR6Xr0VmPu6lV5QWJ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10분 휴식하며 커피먹으면서 담배한대 피는게 유일한 낙이에요 끊어야하는데,",
+        "writer": "Ugz6MW52Xs8f1SzgcLN4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상이 더 길었으면,",
+        "writer": "UgwMS3tINg4OVH2PDcl4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 오늘 영상 최고입니다. 진솔한 말씀에 먹먹할 정도에요. 유아임용 준비하는데 어제 오늘 공부 안해서 죄책감 갖고 들어왔다가 상황이 어떻든 올해 무조건 합격한다는 마음을 새롭게 먹고 갑니다. 더 행복한 일들 많이 생기시길 바랍니다.",
+        "writer": "Ugz7mPSt8cRFkRB-xjZ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 얘기 듣고있으면 진짜 ,으음 뭐랄까, 일반적인 틀에서 벗어난 가치관이기도 하고 일차원이아니라 항상 삼차원으로 생각하고, 진짜 깊고 넓은 그릇을 보는느낌,",
+        "writer": "Ugw6OeUC3PXQbI9XH_B4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무릎은 괜찮으신가요 사터(이름) 뼈가 안 다치셨어야할텐데, 저희 나이는 아시죠 뼈 조심, 얼른 회복하세요..",
+        "writer": "UgxOBQk8Oij2x5fw-UV4AaABAg.973cMID-Ocf975VGcHEH34",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "DreamSchool이윤규변호사 변호사님 다행히도 뼈는 괜찮은거 같아요 온몸이 아파 진통제 투혼 중입니다 내안의 질주본능은 어제가 마지막이었던걸루요, 걱정해주셔서 감사합니다.",
+        "writer": "UgxOBQk8Oij2x5fw-UV4AaABAg.973cMID-Ocf9761pTspauT",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하늘푸른 하늘(이름) 따뜻한 말씀 감사합니다 ) 저도 차근차근 해서 꼭 합격하겠습니다. 즐거운 주말되세요",
+        "writer": "Ugz7mPSt8cRFkRB-xjZ4AaABAg.973HyVAlD-y973g44UhqPS",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불행할때 감사한다면 행복한 순간에는 불안하지 않나요 누군가 행복한순간을 뺏어갈까봥,",
+        "writer": "Ugw6OeUC3PXQbI9XH_B4AaABAg.973F2lRNpY-973GAsN0eYE",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안 뺏길거에요 저는 그리고 뺏어가면 다시 찾아오면 되죠.",
+        "writer": "Ugw6OeUC3PXQbI9XH_B4AaABAg.973F2lRNpY-973TVOF8lzH",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 잘 보고 있습니다 감사합니다 .",
+        "writer": "Ugyf750(반사회적용어)dmAZ-z0wul4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 정말 이영상을 감명깊게 봤습니다. 수험생으로써 많은 힘이됐습니다..",
+        "writer": "UgxHL0ce-ezHU_Hyog94AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 인생 영상 됐어요. 내 삶을 책임진다는 것은 결과에 대해 투절거리지 않는 것이다. 제 방에 적어서 붙여놨습니다.",
+        "writer": "UgzbSiAUDRZr1GhCbvl4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "존경하고 사랑합니다. 실천해서 몸에 익힙니다",
+        "writer": "UgxYuF-AWjmyKGJ3eWl4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님 영상보는 이 순간이 오늘의 소소한 행복중 하나네요 덕분에 다시 또 마음을 다 잡습니다.",
+        "writer": "UgyHBQ1rUnvNtGxR0IZ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복과 감사에 대하여 고민하던 차에 이런 좋은 영상을 올려주셔서 감사합니다. 변호사님의 위기를 극복해서 성장하는 모습이 참 보기 좋습니다. (게임에 비유하는 점이 귀에 쏙쏙 들어왔습니다) 회복탄력성이 높으신 변호사님오늘도 힘찬 하루 보내세요",
+        "writer": "UgyqMxdImEqzC3v2Iyd4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선댓글후 주말에 윤규형 영상 몰아보기 화이팅.",
+        "writer": "UgwhGAd6Pu48BBnNF554AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괴물 잡기 크아 몬스터잡기라고 생각해야지 ..........",
+        "writer": "UgxxffiTXQvnIjsRwXJ4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주말에도 올려주셔서 감사합니다. 덕분에 힐링되었어요. 저는 다양한 패션( )으로 영상을 보는데 변호사님께서는 구독자분들을 향해 늘 예의를 갖추시고 단정한 차림을 보여주셔서 넘 넘 고맙습니다.. 제 소확행 중 하나는 변호사님의 영상과 책을 읽는 것이랍니다. 수요일 라방도 너무 재밌어요. 좋은 주말되세요.",
+        "writer": "UgwZ-Cx90PPUVudR_RR4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿 저 날의 소확행은 제 댓글을 읽어주신 거였습니다 기적을 만들지 말라는 법이 없다 넘 좋은 말씀.",
+        "writer": "UgzOqyp49SBKTWM3pkB4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두고두고 보고 싶을 만큼 감동적인 영상입니다. 최선을 다하여 목표를 이루고 성숙한 자기를 만날 수 있는 비법.... 같아요 감사합니다",
+        "writer": "UgzKK9QLjstlLsEuptB4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사님을 보면 신기해요 종교가 없다고 하셨지만 신이 삶 이란걸 선물로 주셨는데 그 선물을 준 자의 마음이 정말 뿌듯하게 그것의 의미를 알아가면서 거기에는 고통도 있고 행복도 있는데 잘 이겨내고 잘 찾으면서 왜곡된 눈으로 (비속어) 않고, 그 선물을 정말 잘 사용하는 사람 같아요.",
+        "writer": "UgytGNILhE1Jiys17zt4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워킹맘으로 평생 살(비속어)줄 알았는데 육아로 주부맘으로 바뀌고나니 내 스탈이랑 안 맞고 그래서 제2인생을 생각만 했는데 이 변호사님을 알게되어 덕분에 조각조각 힘듦에서 멋지게 전환해볼께요. 그래도 집에 있으니 두녀석에게 맛난밥은 아니지만 필요한 엄마역활을 할수 있어 소소한 행복도 느껴보기도 한답니다. 식사후 적절한 타임에 올려주셔서 초집중하고 듣고있는데 오늘은 더 짧다는 느낌의 아쉬움 .인상도 진짜 좋은신분",
+        "writer": "UgxBiLYWNguNMqvfWY54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소근육도 확실하게 행잉레그레이즈",
+        "writer": "UgyzwoKGYwSKtPKf2Fp4AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 이미지가 변호사스러워서 선입견이 있어요. 제가 성격이 꼬여서. 공부할때 패션 같은거 보여주세요.",
+        "writer": "Ugyn_EDwXaAQfmbcPD54AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소확행 저는 사랑하는 사람들과 함께 보내는 시간이에요. 공감할 때 확실히 행복하네요 오 변호사님. 저도 에너(반사회적용어) 나눠서 쓰려고하고 감사일기 매일 써요 다 너무너무 감사한 말씀입니당",
+        "writer": "UgxPzftFAkSH-ZmTzA14AaABAg",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3대 200 득근득근",
+        "writer": "UgyzwoKGYwSKtPKf2Fp4AaABAg.97325KqlQzT973dt9iycFZ",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브는 뇌필터안거치고 댓글쓰는 사람들 참많은듯",
+        "writer": "Ugyn_EDwXaAQfmbcPD54AaABAg.9731jkQKPdj973X8ibQZjq",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시니나시니나엣헴엣헴엣헴엣헴b 제가 쫌 그렇습니다",
+        "writer": "Ugyn_EDwXaAQfmbcPD54AaABAg.9731jkQKPdj973_Fnjhwr7",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시니나시니나엣헴엣헴엣헴엣헴b 아니 근데 솔직히 승리자 관점의 메시지 같잖아요 (비속어)감수성 없으시네",
+        "writer": "Ugyn_EDwXaAQfmbcPD54AaABAg.9731jkQKPdj973_cp44SoQ",
+        "write_date": "2020-10-20",
+        "url": "https://www.youtube.com/channel/UCnoMoEViyPVWsKch6X-N61w",
+        "parent_url": "https://www.youtube.com/watch?v=sEMQyDtThL4",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001410026",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001410026"
+    },
+    "text": [
+      {
+        "content": "듣기 좋은 댓글들만 하트주시네,",
+        "writer": "Ugx9u1CfXRHDcxdutLh4AaABAg",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 준비하느라 고프로에 대해 공부중이었는데 댕댕이보고 아빠미소 지었네요 킼킼",
+        "writer": "UgzsBf-ttbdP3mTEJyJ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 다른 컴팩트 카메라가있는데 여행 길거리 뷰를 찍기엔 사람들 시선이 신경쓰여 고프로 9을 생각중인데요. 도촬은 안하고 혼자 기록용인데도 아무래도 카메라 크기가 있다보니 시선 이목이되는게 거슬리더군요. 이건 그런부분에선 더 괜찮을까요",
+        "writer": "UgwLzE5QR92ChpH_TyR4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로8이랑 9이 고민됩니다",
+        "writer": "UgxDnj8d561PUQNC3tx4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 소개해준게 미나리였네, 선견지명",
+        "writer": "UgzX8fZamUNVpyZdR1p4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로도 탐난다, 그리고 밤이가 너무나 귀엽다,",
+        "writer": "UgyQW-b2w3B6JtI-lCp4AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멈추는 현상이 개선이 안된거 같아요",
+        "writer": "UgzTnaKUdWqV0johjsl4AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로 9부터는, 혁명임,",
+        "writer": "UgzwCJSY88kWQ6jJhp94AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작쿄님 고프로9 lut 출시하시나요 기다리고 있어용 흑흑",
+        "writer": "UgzgFcOK-qOh2SRzdHh4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로 9 영상중에 제가 정말 원하는 부분을 긁어주시는 듯 브이로그 잘 봤습니다. 곧 9 살것 같습니다",
+        "writer": "Ugw0KXTvnOCyCjR1CIl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내장 마이크는 지금 넘쳐서 깨졌는데요 볼륨 설정이 오토인가요 수음력은 좋은 것 같은데 오디오가 깨져요",
+        "writer": "UgxZo2dmgC2U30oPDvZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 리뷰영상을 보았는데 고르포 히어로9가 2530분가량 촬영을 하다 보면 열로 인해서 꺼진다고 하는데 맞나요 사작교님도 사용하시다가 열로 인해서 꺼진적이 있나요 저는 아직 구매(이름)서 이것저것 궁금한게 많습니다.",
+        "writer": "UgyqgkQzBVGxpisq3wJ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상",
+        "writer": "Ugx9U6p5s77QNXUI1IF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기리뷰보고 발로 질렀네요 흑",
+        "writer": "Ugz12QxBLbNWmhutuwh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 뛰실때 하이퍼무스 사용하시나요 아니면 표준인가요",
+        "writer": "UgyOcmMqsE4XlE-nnfx4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이어폰은 폰으로 녹음하는건가요",
+        "writer": "UgznKy8xT5F2cD0Cpop4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기승전 바미야,",
+        "writer": "UgxMNH0Ctq7mYBn4tMh4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤이 뛰는장면 원샷찍은건 따로 후보정이 들어간건가요 색감이 너무이쁘네요",
+        "writer": "UgwsTeukEcdd8dC8jbd4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발열심한건 저만 그런건가요",
+        "writer": "Ugx39BQAeX3CfA3wpLB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실사용 영상 잘 시청했습니다. 고프로89 사이로 고민중이었는데 이 영상을 통해 9로 마음을 잡았답니다. 그런데 한가지 의견을 듣고 싶은게 있는데 8과 9를 고민했던 (이름) 오디오 성능이 비슷할 경우 셀피기능이 별로 상관없는 입장으로 저렴한 8로 가려다가 이 영상을 통해 오디오성능이 좋아졌다는 의견을 듣고 9로 마음을 잡은건데 여러 리뷰들을 보면 또 오디오성능의 차이가 없다는 의견들도 많이 존재해 솔직히 혼동이 있습니다. KYO님께서 느끼셨기엔 영상속 말씀처럼 모듈의 필요성이 없을 정도로 향상되었다고 아직 생각하시나요 의견이 궁금해 긴글 남겨보았습니다. 늘 좋은 영상 감사합니다",
+        "writer": "UgwvABdDk_seQdUsJBR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 쩌렁쩌렁",
+        "writer": "UgwjosjTp3fL5WgrjSJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작쿄님 혹시 초점거리는어느정도나오까요",
+        "writer": "UgwB0a0bmsWKUwutp1V4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫장면 af s3인가요 얼굴과 고프로를 정확히 잡아내는",
+        "writer": "Ugzf2nMv5bV3W_azjnF4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작KYO 님 혹시 오늘 라이브 방송 업로드 계획이 있으실까요 너무 늦게 들어와서 처음 부터 보다가 다 못 봐 버렸네요",
+        "writer": "UgwZH8YTVrYJQ8I-JZR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 찰랑거리는 귀",
+        "writer": "Ugy5O2YEZMXXG9PGeeR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 7이 있어서 10으로 7도 매형이 사줬는데",
+        "writer": "UgwXIBgJHsRuO8fUhPl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미국사람들이 딱 보면 제목이 미저리하고 비슷해서 혹시 저 아이가 학대 당하는 영화일까 혹시 저 가족만의 소름끼치는 비밀이 있는 그런 영화일까 라고 생각들것 같아용",
+        "writer": "Ugxl4NztfhSF(반사회적용어)MfKCR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로 영상이 (이름) 안되는데 혹시 팁좀 주실수 있을까요 웹에 찾아보니 저처럼 와이파이 연결이 안되는 분이 계세요. 자동업로드 와이파이가 연결이 안되서 이게 불량을 받은건지 처음 고프로 장만해놓고 너무 어려워서요 GkEaq542",
+        "writer": "UgxTF48VwMyecMJny8t4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4세션 5블랙 5세션 7블랙 현재 8사용중인데 무겁고 커지고 있다는건 아쉬운 부분이긴 하네요. 팔목이나 모자 헬멧에 사용하기엔 점점 부담, 세션 이(반사회적용어) 다시 나왔으면 좋겠어요.",
+        "writer": "Ugy21j3agDh2bgm0vK94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로는 다 좋은데 소프트웨어 최(반사회적용어)가 (비속어)망입니다. 각종 버그나 뻑이 잘나요. 영상에서도 언급하셨지만 굳이 저 기능을 켜지않더(반사회적용어) 간헐적으로 버벅거리거나 버그가 나고 심하면 아예 뻗어버리는 현상이 발생합니다. 이런쪽으로 민감하시다면 고프로제품은 구매하기전 좀더 고민해보셔야 합니다.",
+        "writer": "Ugzr8fas5KH6HezoIn94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로9 보러 왔다가 밤이 브이로그 너무 잘 보고 가요",
+        "writer": "UgzSVrSF9xhc_GixR4B4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼각대 어디껀지 알수 있을까요",
+        "writer": "UgynBvGahh5cqSKjEuV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌게 잘봤습니다. 저도 브이로그를 하려고 하는데요. 화질 설정은 뭘로 하는게 괜찮을지 추천 부탁드립니다",
+        "writer": "UgyNoc81pmTL2_wdH6B4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왜 소니랑 파트너가 , 흠흠, 크흠,",
+        "writer": "UgwtxihtfZK59zQZtuh4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자꾸 카메라 리뷰하셔서 밤이를 제대로 볼 수가 없네요. 이 영상 밤이로그 맞나요. 하, 열받아서 좋아요 누르고 갑니다.",
+        "writer": "UgyvLz7YajmlC_xng1J4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 사작쿄님. 영상 잘보고 갑니다 브이로그 참 좋은것 같아요",
+        "writer": "Ugxx1TEOYpQA8ie5Zol4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 8이 있어서 9은 패스하려구요 내년되면 10이 또 나올테니까요",
+        "writer": "Ugx5vbqLKW24nh5AlE94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로 모노포드는 어떤제품인가요",
+        "writer": "UgyqOD9M2kRYCc4wlk54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 재밌게 잘봤습니다. 이번에 처음으로 고프로9 구입해서 사용중인데 발열이랑 액정 반응속도 제외하고는 굉장히 마음에 듭니다.",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시끄러우셨다면 죄송합니다",
+        "writer": "UgwjosjTp3fL5WgrjSJ4AaABAg.9EXyv4OsT5d9EZzUutazm_",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작쿄KYO H NAM 아니에요 목소리 넘 좋아요.",
+        "writer": "UgwjosjTp3fL5WgrjSJ4AaABAg.9EXyv4OsT5d9E_2_yNV3cE",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초점거리가 정확하게 어느정도 인지 모르겠지만 손으로 셀피 촬영시 문제없이 촬영되더라구요",
+        "writer": "UgwB0a0bmsWKUwutp1V4AaABAg.9ETimSyoolI9EWf360iFIW",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작쿄KYO H NAM 맘이 급해서 일단질렀어요 감사합니다) 헤헤",
+        "writer": "UgwB0a0bmsWKUwutp1V4AaABAg.9ETimSyoolI9EYFW_xEgHY",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작쿄KYO H NAM 잘생기셨는데 친절하시기까지 반칙이에요",
+        "writer": "UgwB0a0bmsWKUwutp1V4AaABAg.9ETimSyoolI9EmiZSFYQs4",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "S3 에서 af 기술 정말 빠르고 좋습니다",
+        "writer": "Ugzf2nMv5bV3W_azjnF4AaABAg.9EQPGg5t-4x9ER1JHWIky5",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 유익한 영상 감사합니다..",
+        "writer": "Ugzf2nMv5bV3W_azjnF4AaABAg.9EQPGg5t-4x9ER4D9ZmJ13",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라이브는 항상 진행후 비공개 처리한답니다",
+        "writer": "UgwZH8YTVrYJQ8I-JZR4AaABAg.9EJtLFxLWoB9ER1FG7ayDH",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작쿄KYO H NAM Moment Cinebloom diffusion filter 이랑 Tiffen 어떻게 생각하시는지 궁금했는데 딱 거기서 끊겨서 너무 아쉬웠어요 라이브 역대급 꿀잼이였는데 다시 못본다니 너무 아쉽네요. 사작KYO 항상 응원합니다 오늘도 좋은 밤 좋은 하루 되세요",
+        "writer": "UgwZH8YTVrYJQ8I-JZR4AaABAg.9EJtLFxLWoB9ER3DjgZe8n",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤이의 포인트는 귀죠",
+        "writer": "Ugy5O2YEZMXXG9PGeeR4AaABAg.9EJNN_aWmCy9ER1CQUh_4R",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내년 10 나오면 어떻게 달라질지 궁금하네요",
+        "writer": "UgwXIBgJHsRuO8fUhPl4AaABAg.9EIpwppn4rf9ER1Ajv8TMg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우연히 예고편 봤는데 너무 보고싶은 영화가 되버렸습니다",
+        "writer": "Ugxl4NztfhSF(반사회적용어)MfKCR4AaABAg.9EIkk4dCur59ER187WcHn6",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어라 왜 안되실까요 이건 고프로 코리아 본사에 직접 문의해보셔야할거 같아요",
+        "writer": "UgxTF48VwMyecMJny8t4AaABAg.9EH8ZVa-fwc9ER13koR60o",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 본사에 영상보내니 불량판정받고 싱가폴에 보냅니다 제 유튜브에 영상올려놨어요 본사에서 유튜브에 올리고 링크(혐오표현)요",
+        "writer": "UgxTF48VwMyecMJny8t4AaABAg.9EH8ZVa-fwc9ETlqMy2Igt",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 세션 다시 나오면 좋을거 같아요",
+        "writer": "Ugy21j3agDh2bgm0vK94AaABAg.9EGwiN-vA1c9ER1-P9-cfW",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로 ux가 나쁘지는 않은데 최(반사회적용어)는,",
+        "writer": "Ugzr8fas5KH6HezoIn94AaABAg.9EGAHwkoHNE9ER0xxbrUgx",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신스틸러 밤이 사랑스럽죠",
+        "writer": "UgzSVrSF9xhc_GixR4B4AaABAg.9EFy_FT7Taq9ER0tKuP7bC",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼각대는 제가 여러가지 제품 조합해 사용합니다.",
+        "writer": "UgynBvGahh5cqSKjEuV4AaABAg.9EFu-nRSDzK9ER0rbPCh-X",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화질 설정은 최고 화질로 촬영하시는게 좋습니다",
+        "writer": "UgyNoc81pmTL2_wdH6B4AaABAg.9EFkdtgSEf09ER0lyMN4ol",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 모르겠에요",
+        "writer": "UgwtxihtfZK59zQZtuh4AaABAg.9EFbGtzIE0S9ER0iXJbJvx",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "씬스틸러 밤이. 너무 사랑스런 녀석인데 사고뭉치에요",
+        "writer": "UgyvLz7YajmlC_xng1J4AaABAg.9EFbGU4EXIF9ER0h4wZw1q",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 미국(이름)",
+        "writer": "Ugxx1TEOYpQA8ie5Zol4AaABAg.9EFXh5xJ06v9ER0b84hZ8O",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 10에서 뭐가 달라질지 궁금하네요",
+        "writer": "Ugx5vbqLKW24nh5AlE94AaABAg.9EFX6WybvLZ9ER0_2wTDeP",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 그동안 모아둔 악세서리들을 조합해 만들어 사용해요",
+        "writer": "UgyqOD9M2kRYCc4wlk54AaABAg.9EFReEZDTs09ER0XhPitg0",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1080 발열 많이 심한가요,",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9EFU7XmWrkF",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유랑즈 URangz 가지고 한 230분 쯤 되면 뜨거워져서 만지기 불편합니다. 특히 밑에 마운트부분은 쇠로 되어서 더 뜨겁구요. 다른 리뷰보니까 이게 8보다 나아진거라고 하던데요. 저는 9이 첨이라 와닿지 못했습니다. 그래서 오래만질일 있으면 쇼티에 올려놓고 만집니다.",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9EFa-x4YdaK",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "FrankSeoPhotos 아아 그렇군요 원래 고프로 자체가 발열이 심하다고 들었습니다 감사합니다. 쇼티로 들고다니면서 하려고하거든요",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9EFbBrZegrz",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유랑즈 URangz 고프로 쇼티 사실예정이면 비추합니다 퀄리티 엉망입니다. 쇼티에 대한 단점은 제가 최근에 올린영상에 있습니다.",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9EFdtWRjGF5",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "FrankSeoPhotos 헉 다음주면 오는뎁 세관 통과한거같아서요",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9EFdytxLLtM",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "FrankSeoPhotos 쇼티는 품절이라 따로 이미 구매해서 갖구있습니다",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9EFe41mTDPW",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로 타사 액션캠들 모두 발열이 있죠 작은 카메라들은 사용시 대부분 발열이 느껴집니다.",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9ER0ThBh1Di",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액정 반응속도...... 완전, 공감요",
+        "writer": "UgxxDjaGJ_Du6A0Ja6Z4AaABAg.9EFRa2NHOSw9F7DkZ-O_QX",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8 사용자 웁니다,",
+        "writer": "UgyOXWBOqa4RX51xSjJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요새 브이로그하시면서 카메라 리뷰해주시는거 너무 좋아요bbb",
+        "writer": "Ugy7DRgYCGh6PY_M-Rd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 대단스 고프로 사고싶다",
+        "writer": "UgwkqYIopuJeKqSUp0Z4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로 말고 밤이만 눈에 들어와",
+        "writer": "Ugzc9dZGt4YOw_3TuS14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고프로9은 너무 잘나온거같아요",
+        "writer": "UgyfYQLDtv0gYhjzixR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8 팔고 9를,",
+        "writer": "UgyOXWBOqa4RX51xSjJ4AaABAg.9EFQWsfXfMx9EFU9z-i-1e",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해상력과 성능만 본다면 8과 9에 큰 차이는 없기에 8 유저시라면 10을 기다려보시는것도 좋을거 같아요",
+        "writer": "UgyOXWBOqa4RX51xSjJ4AaABAg.9EFQWsfXfMx9ER0FCbdZTt",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로 자주 브이로그 올리려고해요",
+        "writer": "Ugy7DRgYCGh6PY_M-Rd4AaABAg.9EFPSZlEZlL9ER093P3Thi",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "촨촨촨 영이다..",
+        "writer": "UgwkqYIopuJeKqSUp0Z4AaABAg.9EFOs88D2u19ER071YZ_5S",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국내에서 구입했는데 발열이나 배터리 상태가 불량이라고 생각할 정도로 안좋아서요. 혹시 108060 으로 촬영했을 때 발열 어떤가요 배터리도 1015분 촬영했는데 30넘게 닳았어요",
+        "writer": "Ugzc9dZGt4YOw_3TuS14AaABAg.9EFOPByeUcq9E_qORtN9Zr",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비나이다 Bina2da 불량 같아요,",
+        "writer": "Ugzc9dZGt4YOw_3TuS14AaABAg.9EFOPByeUcq9GrIyzj_GBt",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유랑즈 URangz 발견22 닉넴 바꾸셨네요",
+        "writer": "UgyfYQLDtv0gYhjzixR4AaABAg.9EFO5v9HoLJ9EFV_LZ1Ue7",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고래 네 즐거운 추석 보내세요 (이름).",
+        "writer": "UgyfYQLDtv0gYhjzixR4AaABAg.9EFO5v9HoLJ9EFVndOZwu7",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유랑즈 URangz (이름)도 즐거운 추석보내세요",
+        "writer": "UgyfYQLDtv0gYhjzixR4AaABAg.9EFO5v9HoLJ9EFW5yqNBQ8",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 고프로 개인적으로 너무 잘 사용중이에요",
+        "writer": "UgyfYQLDtv0gYhjzixR4AaABAg.9EFO5v9HoLJ9ER03FT2Ck5",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사작KYO 저는 쓸데가 없어서",
+        "writer": "UgyfYQLDtv0gYhjzixR4AaABAg.9EFO5v9HoLJ9ER0Kpfa5Mn",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고래 저도 알람뜨네용 오늘 고프로9 드뎌 받았네요 추석땜시, 밀린",
+        "writer": "UgyfYQLDtv0gYhjzixR4AaABAg.9EFO5v9HoLJ9ER3fKkfB96",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCLSexwpDncoMagyhr3wudNA",
+        "parent_url": "https://www.youtube.com/watch?v=OTAfZWxqdaI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

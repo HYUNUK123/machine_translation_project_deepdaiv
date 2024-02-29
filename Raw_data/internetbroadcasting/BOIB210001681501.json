@@ -1,0 +1,820 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001681501",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001681501"
+    },
+    "text": [
+      {
+        "content": "재미있네요난 이런거 좋아요 이런거 너무너무 좋아서 눈이 (혐오표현)으로 변했, 아,피,",
+        "writer": "UgxC8E43kl-I0weOVYJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬님 취향은 존중하니까 코렛트 언팔하러갑니다",
+        "writer": "UgzdwWn1fC-hA2Bg0Nl4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐흐, 흑",
+        "writer": "UgwKEdzbi8fr4ln62A94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우 숨이 안쉬어지넼",
+        "writer": "UgxZIO7as1Rb6gR7qgV4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어, 저 나갈게요",
+        "writer": "UgxDVW3sGENavhYBwCJ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 좋아, 커여워",
+        "writer": "UgyEjElHybTANORp5-R4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버텨보려했지만, 더이상 볼수가없다,",
+        "writer": "UgyZ-fVA8SDVNoyXbup4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고 샷건치고 갑니다",
+        "writer": "UgynHI6t2NJJ-dNbp1t4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 썸네일 누구신지 되게 잘그리시네",
+        "writer": "UgwuOG6rN00DOCHtZwd4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안봐 안본다구.",
+        "writer": "UgzRryecNgUlZFpllsx4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일은 기엽",
+        "writer": "UgxVdTEvfB7dEGy-8a94AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 귀여워어",
+        "writer": "UgyegDNFqy4E6uX1vrx4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웬디보고 (비속어)님생각남, (물론외모만)",
+        "writer": "Ugyrl2XVcPRDO5sC7yl4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탬탬님이 메이드하면 좋을거 뒤에 포돌이가 와요,",
+        "writer": "UgzwBOUaICXPBFDuVeR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 몯이.",
+        "writer": "UgxH0f7FmuqC8X8zyjx4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구, 구독중 버튼이 어딧지,으",
+        "writer": "UgxHqOP3W2HPsTuowt94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팩트)이 게임은 탬튜브 썸네일을 담당하는(물론 이 영상도) 망고쥬스님이 추천한 게임이다 7",
+        "writer": "UgyaL-BmDkh2kvGDDQZ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이 (혐오표현) 진짜",
+        "writer": "UgzdFjiItsnjSUfSJGF4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일아, 나한테 왜그랬어,",
+        "writer": "UgzQZTDS52SUW0s1JRF4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 꺄아아아아앙...",
+        "writer": "UgxnzxMQaLVlfj4_YUJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세효 오늘 할 게임은흐흥흥흥흥흥흥흥",
+        "writer": "Ugwo8mxwf91DkE75ZBV4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이드카페 코지데쓰",
+        "writer": "UgzAM5vSIUqSHUKRPGt4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어),",
+        "writer": "UgxQ1agKo7fmHQo7kG54AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제바르,",
+        "writer": "Ugyl_c344J0Yu5PmdKp4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 깨봤는데 깨면 보너스 만화 10편 나오네요",
+        "writer": "UgwXlRToOKfrXesucI14AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 취소 누를뻔햇자너",
+        "writer": "Ugz6rP_lbMTrGoLgojJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 너무 귀엽자너",
+        "writer": "UgyuL3hGPao_6LLHqdB4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 오프닝 멘트가 웃는거였구만 그냥 부끄러운게 아니었어",
+        "writer": "Ugz-H54U_aJmp1wAOYd4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이거 그냥 청자분들이 장난하는줄알았는데 와 이건,",
+        "writer": "UgwRfyesnu6qLAoVXNt4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일에 낚이고 내용에낚였다",
+        "writer": "UgxGauvupZ_zZd-4SWN4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 썸넬은 미끼셨나,",
+        "writer": "UgygZPLUrF4FKS8cOaZ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 왜 그러시죠 취향은 존중해주셔야죠.. (뒤로가기 꾹) 탬탬님의 취향은 잘 알겠습니다.",
+        "writer": "UgzXBVus-fpjA6xbfkd4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 귀여워",
+        "writer": "UgzKYBSD2n_LCgwBXYx4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "C 뿌리는 (이름)",
+        "writer": "UgyhG1sCb0Xuj83bRCF4AaABAg.8WRhH5sX1cO8bs3swjQV0B",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 미춌죠",
+        "writer": "Ugzwet-QIXHFkFL67Ep4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 썸네일 역대급",
+        "writer": "UgyVmcc7CFsBvHBTdZV4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 썸네일 어쩔거야 커엽",
+        "writer": "Ugwo8_WUPmtcN3TiLbR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 내눈,",
+        "writer": "UgxCVYfENvviW8zHoat4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 제가 오늘 할 게임으헤헤헿",
+        "writer": "Ugw_0bfC_67aXGPvPU54AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일보고 정화된 눈이,",
+        "writer": "Ugyz0SR6ASvJooX8JU94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 미쳣자너",
+        "writer": "Ugx1WG7Q92wVZ2jIEnZ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초월 썸네일이네, 보너스 드려야할뜻",
+        "writer": "UgxvieBb3wDTsEuM-eV4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 미쳤다, 탬보영 사람해요",
+        "writer": "UgyAgVEJu5wnBgwtAkx4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웬디 너무 죠아",
+        "writer": "Ugw0G2nAu6HmLnnHPqp4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일에 낚기고 눈버렸소",
+        "writer": "UgwrcDhYpj3q5EgTTn94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "9살 메이드 카페(. ) 포돌이일단 서로 가시고 말하죠 , (이 영상은 3분 20초 영상입니다. 그후로는 보장하지 못할 영상이 시청 가능합니다.",
+        "writer": "UgzOaxLxnlVVQjeKL714AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쒸 썸넬보다가 잘못하고영상누름,",
+        "writer": "UgyALvpffzc5V_SCh8x4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 양갈래넘 귀엽자너,",
+        "writer": "UgxWGOIOgmxYrxnF5RB4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 시력을 포기한다...",
+        "writer": "UgzkbxthGlx_Cr2eXHF4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누쿤의 영상을 봤기에 난 미래가 예상이 간다,",
+        "writer": "UgyVgMRUJ4mBc4X2vEt4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 궁금하다고 보시지마시고 섬네일만 마음속에 품고 튀어..",
+        "writer": "UgwfrzJfV9A1kmCVQqp4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 실화냐 흑흑",
+        "writer": "UgxmCJfw2VXqa_-DkC54AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 씨 썸네일 미쳤자너 흑흑 (이름) 최고다요",
+        "writer": "Ugw1jbFLya2au0SosA54AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으악 내눈.",
+        "writer": "UgxlhAbnwgYSg5aYbnh4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "망고쥬스님 사랑해여",
+        "writer": "UgypCkxr0368vre834R4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 귀엽당",
+        "writer": "UgxsJVt5c_NFKxaQdkN4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레알루다가 쿠소",
+        "writer": "Ugw28tRvCMPBcJW_7dl4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분의 눈은 소중하니까 썸네일만 보고 나가시면 됩니다 7",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸내일 왤캐 귀엽지 나만 그런가 계속보게되넹",
+        "writer": "UgzT5UFpFIhDNIK5IDV4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으악 이게 뭐야",
+        "writer": "UgwePo8IAI52vp1f4yR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 피규어로 만들어서 팔면 대박날듯 (돈을 준비한다 주섬주섬)",
+        "writer": "UgwsX--98sUp8r0c5a54AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인간에게는 너무과한약물이다, 으떤메첸작자가 만들었는지,",
+        "writer": "UgyiVtHDYrkgJI0W6894AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일, 카와잉",
+        "writer": "Ugxjkvc5QrqPaNAb-ix4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠만, 9살 (이름)이 메이드라니, 엄연한 노동근로법위반 이라구요..",
+        "writer": "UgwUc5x7tuj6oppje-l4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 어린이 애니에 나오는 난쟁이들 닮았네",
+        "writer": "UgwiI1sEcvCapCBqRcR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이드 탬탬버린 넘모 귀엽자너",
+        "writer": "UgzAOehVtegKLJew1uJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미래에서 온 약물이라(반사회적용어)",
+        "writer": "UgwV7x7xiT_RutsbCnJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 보고 달려왔는데 1분보고 탈주합니다",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg.8WP-SBnylzS8WP39st1DDj",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 믿었어야한다",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg.8WP-SBnylzS8WP57vNhID3",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 댓글보니까 보고싶지않아졌다",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg.8WP-SBnylzS8WPRtrs__lf",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심으로 후회합니다, 이말을 믿을걸,",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg.8WP-SBnylzS8WPaTW6ZkKc",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 꼭 믿어야 합니다. 설마하고 보다가 진짜 터집니다.",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg.8WP-SBnylzS8WTu4ZgyLgP",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 감기 해서 순간 위험한 걸 하나 봤습니다 덕분에 그래도 눈 한쪽은 건지고 나갈 수 있을 것 같습니다 감사합니다",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg.8WP-SBnylzS8hZfoni3cOQ",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 이글 봤더라면,내눈을 살릴수 있었는데,크흡,",
+        "writer": "Ugx65wk89qC_WBXxkSt4AaABAg.8WP-SBnylzS8jP0Nlh_gJ-",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티쿠푸 탬탬은 썸넬 캐릭 만든사람이랑 아웃트로 음악 만든(혹은 고른)사람 상줘야함,",
+        "writer": "UgzT5UFpFIhDNIK5IDV4AaABAg.8WOzELbMgL_8jDmiZw96Be",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이미 썸네일로 처치당한 청자입니다)",
+        "writer": "UgxXB1jP683lBJmoNiB4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아앗 탬탬님 생방에가지못했어요 때, 때리지는말아주세요",
+        "writer": "UgxAcBckEamoKlvQI014AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어우씨 치명적으로 귀엽잖아",
+        "writer": "Ugzs0a6wJC5bZLsGOOZ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 뭔 게임이야",
+        "writer": "UgxRJ63FWAT4V8NxkA94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 망고쥬스님 다른분썸네일 그릴때부터 알았지만 대박이네",
+        "writer": "UgyAy08X3goTv9PWLHZ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 썸넬 넘귀여움",
+        "writer": "UgxkicP5jvI2oZ5gbQ94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 보고 들어왔다가 게임보고 나갑니다,",
+        "writer": "Ugx-Xcfcq-cYTnVCQQJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일만 보고 돌아가시는걸 추천드립니다.",
+        "writer": "UgwL0uYE3ZO8l74aMJ14AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 인간적으로 너무 귀엽자너",
+        "writer": "UgwJlzXfHHNx5sPbKTh4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 귀엽.",
+        "writer": "UgwR5OOYcRXzMApx-OB4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보고 시력이 더 좋아진 거 같아요 7",
+        "writer": "UgxL05VZc1FSoR7wxyJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐에에에에에에에, 메이드탬쨩 너무귀엽잖앙",
+        "writer": "UgzDalOzOS_G4SL3YtR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬보고 낚여자너",
+        "writer": "Ugwwt5pNbL_-NQD_3rR4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 미쵸",
+        "writer": "UgzZ205THuqTatCSND14AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메이드 점례 sd말고 8(비속어)으로다가 그린거 보고싶당. 물론 sd도 카와잉",
+        "writer": "UgwWfb7tryk2gOugh6x4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 너무 귀엽자너",
+        "writer": "UgyjtU4_1tAb4SsUXm94AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 썸네일 썸네일 보고 낚여서 많이들 봤으면",
+        "writer": "Ugyv5KgM0DLtNzQUn6x4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "템템이가 메이드면 맨날간다",
+        "writer": "Ugyj0rw0JKehq5CoTcd4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조팡진 아이아이 버린이라구",
+        "writer": "Ugyj0rw0JKehq5CoTcd4AaABAg.8WOqN0MRQl08WOvPxNqjcw",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어이어이버린이면 자낳괴인 남자메이드라구",
+        "writer": "Ugyj0rw0JKehq5CoTcd4AaABAg.8WOqN0MRQl08WOxEgMSeGu",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "적십자사햄찌 아, 아냐 버린이는 카와이한 만찢녀 일거야 느읔,",
+        "writer": "Ugyj0rw0JKehq5CoTcd4AaABAg.8WOqN0MRQl08WOy1zHWe90",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "9살 메이드, 철컹철컹",
+        "writer": "Ugyj0rw0JKehq5CoTcd4AaABAg.8WOqN0MRQl08WOzdM6Blqy",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "9살, 2m",
+        "writer": "Ugyj0rw0JKehq5CoTcd4AaABAg.8WOqN0MRQl08WQ1r8zXCbK",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) (이름).",
+        "writer": "Ugyj0rw0JKehq5CoTcd4AaABAg.8WOqN0MRQl08jP0c6UU-KP",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 실화야,",
+        "writer": "UgwbVlS0RFBavc3Zwot4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸내일이 아주 좋소.",
+        "writer": "Ugz5M6_afLuiNrJSA2R4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCCA8UWUW80iHqK9ymdjRwPg",
+        "parent_url": "https://www.youtube.com/watch?v=qAqQS4k7Xho",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

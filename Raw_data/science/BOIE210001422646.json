@@ -1,0 +1,892 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001422646",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIE210001422646"
+    },
+    "text": [
+      {
+        "content": "태양계시리즈 재밌어요 쭉쭉 나욌으면.",
+        "writer": "UgzJyn3F2__P2jN8fWd4AaABAg",
+        "write_date": "2021-10-05",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 생각해보면 인생을 뒤돌아보는 계기가 되는 컨텐츠야, 보면서 왜 눈물이 나는 (혐오표현) 종교보다 낫다.",
+        "writer": "UgylYd0BM_nuIvCnABh4AaABAg",
+        "write_date": "2021-08-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 늘 잘 보고 있습니다",
+        "writer": "Ugy2AvRy2ZRM52KVRiF4AaABAg",
+        "write_date": "2021-07-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 나중에 호지 추측 해주실 수 있나요 알고싶은데 주변에 설명해주실만한분이 없으셔서",
+        "writer": "Ugzm24wBJKARysPcBtN4AaABAg",
+        "write_date": "2021-04-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 (반사회적용어) 1학년 애들도 재미있게 보네요",
+        "writer": "UgwPZk6nZC6J0pOnOxx4AaABAg",
+        "write_date": "2021-04-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천천히해야지 질린다",
+        "writer": "UgzMuCOvz1iEJdSX5wB4AaABAg",
+        "write_date": "2021-04-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "underkg가 왜 여기서 나와",
+        "writer": "Ugx4t019RdkZw9_ptf94AaABAg",
+        "write_date": "2021-04-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화성에는 불이 있다. 목성에는 나무가 있고 토성에는 흙이 천왕성에는 하늘이 있고 명왕성에는 빛이있고 아직도 그걸 모르교 있었나",
+        "writer": "UgzRknuz3_wSHrfCVqF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물이 있으니깐 수성(이름)는거 아니냐",
+        "writer": "UgxVGELQaqB_Bdrb4YR4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수성이 이렇게 관측하기 어려(비속어) 몰랐네요.",
+        "writer": "UgwkvBnUouLnp0dRbyB4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학 최고",
+        "writer": "UgxTznvr-0z3rmeEx-J4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "백신살 돈으로 수성이 아니라 달이(반사회적용어) 갈수있는 나라가 되기를 희망합니다",
+        "writer": "UgxLDqo9OloHbGdoOfh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만약 물이 없으면 개명을, 너무 잔인한가",
+        "writer": "UgwBrzjQKvIfZSQco7p4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괜히 이름이 이겠음",
+        "writer": "Ugwlse7-Y3lD7xGKqVp4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공전주기 88일 자전주기 58일인데 어떻게 해가 두 번 뜨지",
+        "writer": "UgxtOq1ZR7PuMiO6EJd4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구과학은 (비속어)재미없는데 이런건 재밌음 이영상 시험범위에 포함되면 좋겠다",
+        "writer": "UgxjdqNN5_rmkz_cni54AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 하나 제작하는 데 시간 많이 걸릴텐데 대단하십니다.",
+        "writer": "Ugw8BLQPOeR-cF0hm754AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 긴급과학 보고 긴급과학 보니 그래도 긴급과학은 인사할 시간은 있는 영상",
+        "writer": "UgytvHHr1UFPvPP5OCp4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿어지십니까 ((이름) 한화한국시리즈 우승)",
+        "writer": "Ugw5GuEwbA1m0rGE4Q94AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런거 (비속어)",
+        "writer": "Ugw_TjMjrenqjUIC8Gx4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "11년 후 이 영상은 성지가 되는데",
+        "writer": "UgzqdPGSLYg07pTPsJB4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본이 저런거를 더 열심히 연구해서 원자 발전소 피해를 더 줄일수있다면 저희야 환영이겠네요",
+        "writer": "UgxOYSxM-FFwjaWzchR4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스윙바이, 진짜 사람이 똑똑하구나",
+        "writer": "UgxhbSvbR5e-iogW7WN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학 태양계시리즈 텀이 너무 길어요",
+        "writer": "UgxCr6cqDhWAZFO8Dtx4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 다음편도 너무 기대된다",
+        "writer": "Ugw8TIJ5KjHe5-M6SOh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿어지십니까에 한화이글스 우승(이름)",
+        "writer": "UgyaPsHfT2DVlkidON54AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저런 (비속어)도 (이름)이 생각한거에요",
+        "writer": "UgzLcrCFwUqDGd3dnqF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 갑니다",
+        "writer": "Ugww8l7RbioGiLIDbwl4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수성은 대기가 희박하다는데 수성에서 물의 끓는점은 몇도인가용 궁금요,",
+        "writer": "UgxPApbG3s7VdYnryjp4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "들으면 들을 수록 디지몬 어드벤쳐 나레이션 성우 같음",
+        "writer": "Ugwm6x6O6agosvVkSjx4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 좋아요",
+        "writer": "UgyEh7EmE6DTEKdCoqh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "9분짜리 영상을 만들기 위해 얼마나 오랜 시간을 투입했을지이런 유익하고 재미있는 동영상을 공짜로 볼 수 있다는 게 감사해요",
+        "writer": "UgwP98jGOPPjUoQ_wgd4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 영상이 고퀄로 진화 중",
+        "writer": "Ugx7_-CWpC-BQQuGogJ4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 오래기다렸어요 이 시리즈",
+        "writer": "UgzyGPrp3-_SQ0ZZrUF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학 너무조아요",
+        "writer": "UgxOYyr3Lnsf8KGH2N54AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 이 순간에도 36년전 연락이 끊긴 메리너 10호가 수성과 금성을 떠돌고 있다고 생각하면 뭔가 정신이 아득해진다",
+        "writer": "UgzXJ6g-qfGrjV4uleR4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왔다 내(반사회적용어)",
+        "writer": "UgwcQEAhQSVPdYxIzX54AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딴딴딴딴 bgm 나오는시간 긴급과학 브금 너무좋아 진짜 긴급한 느낌남",
+        "writer": "UgygefZGHe3V71oe_NF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "믿어 지십니까 엌",
+        "writer": "UgxMtuGmJsTv78Yw5xN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아아아 드디어 기다리던 태양계 시리즈 태양계의 모든 행성이 다 소개되기를. 가장 핫한 과학..",
+        "writer": "UgzftyDdCUx9edQDpc14AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 사진 언제 바꼈남",
+        "writer": "Ugx8b4evvZfoGZUevCt4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디즈니 법무팀 수성에 조난자가 있나",
+        "writer": "UgwINOJHtnDhyfB2Icd4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)의 긴급과학 우주편은 항상 기다리다 올라오면 바로 닥클",
+        "writer": "UgyoBaT2FSsAmcPeThR4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "촐삭거리는 비의 춤에 설명 이해도 상승",
+        "writer": "UgzCXzVJvE4wt6fYtzR4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학 너무 좋아",
+        "writer": "Ugw7seh6MlCftSs-ET54AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말하는속도가 어느정도 빠르면 집중하는 효과가 있다고는 하나 이 영상의 빠르기는, 개선이 되었으면 하는(이름)고 쉬어가는 타이밍도 다시 계산되어야하지 않을까하네요.",
+        "writer": "UgznmcW73yg1P2ZHwVV4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국인만 읽을 수 있는 속도",
+        "writer": "UgyHtTPqXOJfnyk4y8F4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수성에 물은 못참지",
+        "writer": "UgxvbTAvkOThTY_txy94AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 궁금한데요. 편집도 공대생인가요",
+        "writer": "Ugwu4-Izy9e1cGNfFzF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 해가 2번 뜨지 자전. 공전이, 이해가 안되네요. 설명 부탁합니다.",
+        "writer": "Ugz2UG1UbXr2MF5AFaZ4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학은 진짜 듣기만 해도 힐링됨",
+        "writer": "UgxPlrelmwpDFe1jjYd4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세일러문 캐릭터중에서 최고 인기 캐릭터 머큐리가 나오길 기대했는데",
+        "writer": "UgznEoyHK3uAUp2dcUh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 잘 이해는 안가는데 아마 자전시간이 지구시간으로 58일 걸리는데 자전 한바퀴 돌때 공전을 2바퀴를 돈다는것 아닐까요",
+        "writer": "Ugz2UG1UbXr2MF5AFaZ4AaABAg.9KnSXa4pCWU9KnmXgsmwCQ",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 공전은 88일(이름) 그것도 아닌거 같에요.",
+        "writer": "Ugz2UG1UbXr2MF5AFaZ4AaABAg.9KnSXa4pCWU9Kr_tbnSqbM",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다시 곱(비속어)어 보니 자전으로 한번 공전으로 한번 뭐 그럴거 같네요. 덕분에 나름 답 을 찾았네요.",
+        "writer": "Ugz2UG1UbXr2MF5AFaZ4AaABAg.9KnSXa4pCWU9Kra_eypEAT",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 영상은 텐션이 많이 떨어져 보이시네요 좀 쉬엄쉬엄 건강 챙기면서 일하셔요..",
+        "writer": "UgzKtRjWjv48Ay6yh2x4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과학은 정말 위대한 학문이야 난 모든 과학자들을 존경해",
+        "writer": "UgxDesNRjHRxUNpUnbx4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학은 정말 분량 스피드 내용 목소리 외모. 빠지는 게 없네요.",
+        "writer": "UgwyA20pgNYbs8JQPFB4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 안될과학 이게 찐매력 순삭 9분요",
+        "writer": "Ugzboi5CeQvUizdlYS54AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허겁지급 들어왔습니다",
+        "writer": "Ugzz-A-H22E-1-nud0d4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 인사할 시간은 있으시네요",
+        "writer": "Ugyul0QSqneGOJYATN14AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무좋고",
+        "writer": "Ugw6jGQYkHtELy3NMFN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선따봉 후감상",
+        "writer": "UgyvdDq8Jyzki15zRSN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋다",
+        "writer": "UgzImJ3PGdMtr-e88O14AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "않이, 칰빠 우러요",
+        "writer": "UgyLHRifxnxqIXFLZhZ4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디즈니 수성으로 출동",
+        "writer": "Ugxq0Px5jXvEMdWWW014AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 수성에서는 하루에 태양이 두 번 떠오르는 거에요",
+        "writer": "UgxsPm6RZwXjxkr23PN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궤도성님 감기걸림",
+        "writer": "Ugx0VMbaSsftl8itJrl4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 다른영상 짜맞춰서 만든 영상은 저작권에 문제 없는건가요",
+        "writer": "Ugx7nHOpnBS7DUy7Zgt4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 짱입니다. 랩짱님도 짱이고 나머지 한분도 짱입니다.",
+        "writer": "UgzHW3SGjMPESoObh6h4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 오늘도 못 참지",
+        "writer": "UgzPm_DcZB9Do3N4JIV4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아주 좋은 과학 영상",
+        "writer": "Ugwxb6YMRRYBSxQ6pml4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태양이 한 번 뜨면 하루 아닌가요 두 번 뜨는 태양은 내일의 태양 아니에요",
+        "writer": "UgyvmfXGL65JHFk-dD94AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대개 저작권 문제에서 한 발 비껴난 영상을 찾아서 쓰게 됩니다. 결제만 할 수 있다면 찾을 수 있는 (이름) 내지는 영상도 늘어나지요. 간혹 영화나 만화 캐릭터 등이 문제를 일으킬 수도 있는데 그건 자체적으로 선행이든 후행이든 해결하고 있지 않을까 합니다.",
+        "writer": "Ugx7nHOpnBS7DUy7Zgt4AaABAg.9Kn0jvVyrz09KnSmpjR4Uu",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 보다가 빵터짐",
+        "writer": "Ugyw-LXJhV6g5dr9LA54AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 꾹 댓글 입니다",
+        "writer": "UgzzgA9jrqX2LU-an6x4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 지금 몸이 안좋아서 몹시 고통스러운데",
+        "writer": "UgwN7YsFaGBv33jjJmh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무심코 지나가다가 우연히 저를 만나신 모든 분들이 아프지 않고 좋은 일만 가득하시길 바랍니다. 학업 취업 연애 사업 재물 건강 모든 일이 잘 되실겁니다 항상 다같이 행복해요",
+        "writer": "UgzPJj7nq869uLwXiql4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌어요",
+        "writer": "Ugwg09-adrUDfshdIpN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짤맛집 드립맛집 긴급과학",
+        "writer": "Ugzu8H8gtKc0bniO8OB4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제는 그냥 래퍼하세요",
+        "writer": "Ugw5lubNcYwPwaoK5ml4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1일 1영상 도입 시급",
+        "writer": "Ugy4d2QZZNiMVuMlUoV4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자전이 58일 인데 해가 2번띄는게 됨",
+        "writer": "Ugw49gvQ6KVNzZVFBaN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로 인류가 다이슨 스피어를 만들기 위해서(반사회적용어) 수성의 연구는 이뤄져야겠죠",
+        "writer": "Ugy3w2teFWKmSZXohfh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퀄리티에 비해 조회수가 안나오네,",
+        "writer": "UgyprZNzmXfhmAXs58V4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수성의 특정한 위도경도(66도 24.828 N 97도 14.0(비속어) E.)에서는 태양이 동쪽에서 뜨고 진 뒤 다시 뜬 다음 다시 서쪽에서 진 후 다시 뜨고 지는 괴이한 현상을 볼 수도 있다네요",
+        "writer": "UgziEMmWekpGM_MaeDh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 책은 또 안내시나 이제 외울지경",
+        "writer": "UgxEn87VXXW3dOJFLbJ4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "29분전은 못참지",
+        "writer": "UgwW7aSay26HaWYtiot4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태양계도 쉽게 탐사가 불가능하구나, 태양계 밖의 우주는 진짜 더 힘들듯.",
+        "writer": "Ugz1FgcTA7Ixks7wX4B4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학보다가 유툽 다른영상들 너무느려서 1.2 1.5배로 보고있다는",
+        "writer": "UgymCqKloNq3itr9KGh4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아핳핳 잘 보고있어요 댓글 달아달라고 해서 댓글 달아봤네요 구독한 지도 반년 되가는 것 같습니다",
+        "writer": "UgwIfWcnKxQYYGNMkNx4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 정도 퀄리티의 1일 1영상은 수성에서나 가능할 듯.",
+        "writer": "Ugy4d2QZZNiMVuMlUoV4AaABAg.9KmqpRUhvoH9Kooj0bJWJk",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 책내셨어요 혹시 제목 알수있을까요 바로구매 해야겠어요.",
+        "writer": "UgxEn87VXXW3dOJFLbJ4AaABAg.9KmojmdbGSd9Kn9Qn9q6s2",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강병곤drummer 궤도의 과학허세 라는 책입니다",
+        "writer": "UgxEn87VXXW3dOJFLbJ4AaABAg.9KmojmdbGSd9Kn9u3-YsCN",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사해요 바로 주문했어용 책내셨다는 사실도 몰랐었는데,",
+        "writer": "UgxEn87VXXW3dOJFLbJ4AaABAg.9KmojmdbGSd9Ks82zDmeRx",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궤도 천문학 긴급과학 이조합은 못참지",
+        "writer": "UgymFcauRvIHkeSlcg94AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "않이 한화 우승 했었다구요",
+        "writer": "UgzUCS0jv49EtmZmSFF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핵심만 빠르게 좋아",
+        "writer": "UgwAs6sHm_FHgmUal6V4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1일 1영상 기원....",
+        "writer": "UgxTiv-DqpJRLA7brzJ4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루에 두 번 뜨면 뭐해요. 그 하루가 지구 시간으로 58일이라면서요. 잠시만 기다리면 되는 게 아니라 한 달 넘게 기다려야 하는 거구만.",
+        "writer": "UgzH7FxY6x3I5BlkC4d4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 최고.",
+        "writer": "UgwqH-S2P2Uj-asr9bF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공전 88일 자전 58일인데 하루에 두번 해돋이, 이건 무슨 말인가요 지구시간 58일 자전한번에 수성에서 일출이 두번이라는건가요",
+        "writer": "Ugz3m4xeBFP_GLaDubN4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 오랜만이다 긴급과학",
+        "writer": "Ugx8UTu_S5rLQ2jVOMF4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴급과학 제일 좋지",
+        "writer": "UgwmL1GXUY_gv59eRI14AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 봤습니다 1일1영상해주시면 더욱 좋을꺼 같습니다",
+        "writer": "Ugy0ZEke2phG_2pKLv94AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선댓글 후감상 감사합니다",
+        "writer": "UgxKFA4Qf0-VaN1mqcR4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 2회째는 못참치마요 2빠내",
+        "writer": "Ugx-qX6FyuPOe0dqTqx4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 추억의 그리스 로마 신화 틈틈이 나오는 사진 유머들 하이브가 여기서 왜 나와 그렇게 보기가 어렵다니, 그 뜨거운 (이름)의 수성에 얼음이 있다니 놀랍군요 탐사선들이 보내올 수성의 여러 정보들도 궁금해지네요",
+        "writer": "UgweIGdsSnDZ9YJtytx4AaABAg",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼 위 일 체 ..",
+        "writer": "UgymFcauRvIHkeSlcg94AaABAg.9KmmpkoGwph9KmwwKtvXbZ",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수성의 특정한 위도경도(66도 24.828 N 97도 14.0(비속어) E.)에서는 태양이 동쪽에서 뜨고 진 뒤 다시 뜬 다음 다시 서쪽에서 진 후 다시 뜨고 지는 괴이한 현상을 볼 수도 있다네요",
+        "writer": "Ugz3m4xeBFP_GLaDubN4AaABAg.9KmlXi5d4z_9KmpPAFL_Vn",
+        "write_date": "2021-03-19",
+        "url": "https://www.youtube.com/channel/UCMc4EmuDxnHPc6pgGW-QWvQ",
+        "parent_url": "https://www.youtube.com/watch?v=TQBu9o-hf-w",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

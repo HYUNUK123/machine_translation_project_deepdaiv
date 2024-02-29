@@ -1,0 +1,884 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001460850",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOLI210001460850"
+    },
+    "text": [
+      {
+        "content": "진정한 사랑",
+        "writer": "UgwVuf48WzLL-Qk2wfF4AaABAg",
+        "write_date": "2021-09-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참되고 영원한 사랑",
+        "writer": "Ugytd6zMUZMoXVmHs7p4AaABAg",
+        "write_date": "2021-06-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 괜찮아요 할아버지는 할머니 곁에 있을꺼에요",
+        "writer": "Ugxa4djmyjeJNiJjQwJ4AaABAg",
+        "write_date": "2021-04-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에서 가장 아름다운 모습입니다.",
+        "writer": "Ugz4TXArVFqXL8IZQnV4AaABAg",
+        "write_date": "2021-03-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 좋은일 많이 하셨나봐요, 복이시네요,",
+        "writer": "UgygNHObmRPJtgUN7oB4AaABAg",
+        "write_date": "2021-02-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세월을뛰여넘어서 찐사랑 변함없는 사랑도있다는걸 보여주시네요나도 사랑해보고싶단 생각이 들게합니다 3년전에 이젠 나에게 사랑이란없다 굳게닫은문을.",
+        "writer": "Ugx56qTyt3kvO232I4p4AaABAg",
+        "write_date": "2021-02-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫사랑자 끝이랑 멋져요",
+        "writer": "UgyNBKM47cWojUcbk3t4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부모의 반대로, 헤어진연인저런 사랑을 반대했다니, 부모들이 너무 모질었다, 영원한 사랑이 있구나, 난 이런 영원(이름) 해(비속어) 못하겠지",
+        "writer": "Ugy6VwgQ4Xr4NbOAEWx4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하게 (이름)래 사세욥... 파킨스병 빨리나으시면 좋겠어요",
+        "writer": "UgySdFVa1bvcEHZxJgh4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)래 행복하게 같이 사세요",
+        "writer": "UgwqoZ8mJC1ZddUBvfV4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름답다, (이름)래행복하세요",
+        "writer": "UgzER_xzpGzM-qn1TdN4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 만느끼는건가 그와중애 할머니 기여우셔",
+        "writer": "UgxCB1P8l-uvvOogH294AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 눈물 훌렸습니다 진정한 사랑 보았습니다",
+        "writer": "Ugz4pnZTx4yhWnFPe2p4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위대한 사랑 이네요",
+        "writer": "UgwVn6isjeKs9WTFN-J4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음 생에도 꼭 두분이 다시 만나셨으면 좋겠네요",
+        "writer": "UgxDbWJHAYH-AMRq7zN4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할아버지 대단하시네요.. 짱 할머니도 굉장히 예쁘세요..할머니도 짱.",
+        "writer": "UgzZfsd9lXS_YJVVtZ14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 할아버지분할머니없으면 속상하시겠다.",
+        "writer": "UgxcKeq9OOCZywYfIDF4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분들에게 돈주고싶다,",
+        "writer": "UgxzxCxXfF-dco_ju8d4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고, 너무 슬픕니다.",
+        "writer": "UgwwmQ7iL4-CYh4Zjfl4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 멋지고 여쁘세요 할머니할아버지(이름)래사세요",
+        "writer": "UgxYrMO_czw74ghNXRR4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "50 년만에 만났는데, 파키슨병이랑치메라니넘 슬프다,할아버지가 할머니를 찐으로사랑하시나봐요",
+        "writer": "UgxskF2LX8C26RzmeAR4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 건강하고 오래살세요..",
+        "writer": "Ugy9we1RiWJjWvvQfcB4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슬, 퍼,으흐앙.,",
+        "writer": "Ugwat19hdfsbaYFo1H14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 할아버지 앞으로도 행복하면 좋겠네요",
+        "writer": "UgxVyH6gWd_snYrkfJt4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복하고 (이름)래 사세요. 건강도 챙기시고",
+        "writer": "UgzJ12SludixCUl75Fx4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오래 사시면 사세요 84세 자격증",
+        "writer": "Ugx5ddwzMfHkY8jaVt94AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런게 사랑이지 할아버지너무존경해요 행복하세요",
+        "writer": "Ugx8mIe8UHL3aEoy8mB4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할아버지 정말 훌륭하세요 할머니가 부럽습니다",
+        "writer": "UgzHYLyg0p7ZB7ZFtL94AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "붉은실은 50년 동안 얽혀 있지요. 하지만 이제 이 실은 영원히 얽히지 않을것입니다.",
+        "writer": "Ugy-z4RZ5hzI2a3K2c14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름다운 사랑 너무 마음이 아프네요 두분 행복하세요",
+        "writer": "Ugx8Q6ObaMR4Vb9U_U14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 멋지네요 (이름)래 사시고 멋진사랑하세요",
+        "writer": "UgwNB2HMfqu8kx8n12l4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 크리스마스에 보는나 흐어어어어어 행복하세요어어어엉오오오옹어엉어",
+        "writer": "Ugz2gpK4XiTw913TCEh4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분 행복하게 사셔야 돼요",
+        "writer": "Ugyz9rkxj-RzByeBTVN4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름다운사랑입니다 애초에 첫사랑으로 헤어지지말았어야 할 인연이었음 50년간.",
+        "writer": "UgyHewqiBfySatT56hR4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크리스마스의 참 사랑은 이런 거네요,",
+        "writer": "Ugz6523fzHaef3lclDt4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발, 제발 (이름)래사세요, 눈물납니다,",
+        "writer": "Ugz88jFxs3QgcrZXutx4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 할아버지 (이름)래 건강히지내세요 화이팅입니다",
+        "writer": "Ugx2wvZvMeGHH-fPKf14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 너무 멋있으시고 아름답습니다..",
+        "writer": "Ugzkv42rt4XEMEM5deJ4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구걸 (비속어)네",
+        "writer": "UgzuIiG7dmmG3OG9-kR4AaABAg.9HfudxBhq5t9Hg4Uijh86Y",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아프지 마시고 (이름)래 행복하게 사세요",
+        "writer": "UgysfJZ7t93U93K6t5V4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 건강하게 오래사셨으면 좋겠네요",
+        "writer": "Ugw6Cm0tQ9sd-DqPXWl4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종경합니다 힐머니 랑 할아버지 오레사세요",
+        "writer": "UgyGOK3jnR-Pxyv1RzZ4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하고 행복하세사세요",
+        "writer": "UgwNz-CoDj9DIcWEVwV4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할아버지 대단하세요 . 행복하게 할머니랑 오래 살길 바래요 )",
+        "writer": "UgzgTv6CS8rWRXb8LWl4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분다 행복해 보여서 정말 기쁨",
+        "writer": "UgyfNb8M1UVrmmhDKRh4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 너무슬퍼요",
+        "writer": "UgyckGq4zBg9p2qoLUt4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니가 할아버지 찾을때 눈물이 좀, 그리구 치매 상태가 되었을때 약간 소름",
+        "writer": "UgyCwujHvxSoCUhCn154AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 감동적이다",
+        "writer": "UgxwXJ9qYCogduiqabV4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버님 어머니(이름)래행복하게사세요",
+        "writer": "UgzT1_gRFHhQ1O6muA94AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크리스마스에 찐사랑 영상 봐서 행복합니다 오늘도 부부란 무엇일까 생각합니다",
+        "writer": "UgwOS8UQwNxKAdxElCJ4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할아버지 잔짜 멋있시다",
+        "writer": "UgzaY92_7AJrtF7A8gV4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어르신들 나이 들어서 동창회 자주 참석하고 옛인연 되살리다 연인까지 가는 경우가 많더라고요. 그래서 첫사랑과 다시 사귄다는건 그닥 놀랍지 않았는데 파킨슨병, 그런데도 떠나지 않고 간호를 위해 보호사 자격증까지진짜 사랑하시나봐요.",
+        "writer": "Ugz4ig7sBh5yLoIhkJp4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가 소름이에요, 아프신분을 그렇게생각하면안돼져 .하, 진짜, 이렇게 생각하는사람이 아직도있네,",
+        "writer": "UgyCwujHvxSoCUhCn154AaABAg.9He8As0lnEv9Hj2inNz4qN",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춥다 저기여 말이좀 심하시네 전 그뜻이 아니라 약간 무서웠다는거죠 갑자기 누구세요 하시는데 당장 사과해주세요, 하 진짜, 아직도 이렇게 생각하고 시비 터는 사람이있네,",
+        "writer": "UgyCwujHvxSoCUhCn154AaABAg.9He8As0lnEv9Hj39yL-eR1",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 건강하시고 행복하셔요",
+        "writer": "Ugxek-O1OpFBIsylYQp4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 파킨슨병과 치매가 있지만 두분이 좋은 사랑하길 빌게요 힘내세요.",
+        "writer": "Ugwiw83R93L5prGfn754AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할아버지 진짜 고셍하신다",
+        "writer": "UgyjtmzYa5HSuyQMlVt4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강 하고 (이름)래 사세요",
+        "writer": "UgysoNrE-XXRANPmKaB4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하게 오래살면 좋겠너요",
+        "writer": "UgxUJyVS__jispA185V4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것보니깐 (이름)한테 잘해야된다는 생각이 들었어요",
+        "writer": "Ugz8QLwRAUF5JyH17R54AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 할아버지 (이름)래 이쁜 사랑 하세요",
+        "writer": "UgyroDSWH_YG2fszjv54AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 찐사랑이다 ,",
+        "writer": "UgxWdvM8Co4pDuMyDLd4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런일이 있다니 진짜 영화 같아요",
+        "writer": "UgxMrCS02uy-PDdi5694AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)래 행복하게 사세요",
+        "writer": "Ugz470R5U4Cp8i5NFNF4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 눈물나네요 앞으로도 두분 예쁘고 행복한 사랑하세요....",
+        "writer": "UgzrJONJuJWmZL4CWqR4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할아버지 착하시네",
+        "writer": "UgyQwLhhP8v8v5LwLTd4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감동 이야,",
+        "writer": "UgwJZXxJuB5HBf_oTx14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 할머니가 파키슨병이에료 우리 할머니가 보고 싶어요",
+        "writer": "UgxGn15kRWbKC-pbcvR4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행보가세 (이름)래 가세요.......메리 크리스 마스",
+        "writer": "Ugx6-tzjoxCr_eFfzBZ4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무나도 감동적이드악.",
+        "writer": "UgyWYTumrVedZLQy5oh4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 할아버지 행복하게 (이름)래 사세요..",
+        "writer": "Ugy3ZNtPxZVDACXA4dd4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니가 애처럼 울어",
+        "writer": "UgxcVuA6QUIIUXwaz2h4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)래 사세요.",
+        "writer": "UgwHUvAHzReN-Z5Monl4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 할아버지 둘다 힘내세요 근데 아빠라고 하셔서 혼돈이네요",
+        "writer": "UgxkTgaaRmXa33DSHCB4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분, 오래.오래.건강하세요",
+        "writer": "UgyekrlLBpjMTyQfU9V4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "33분 전.",
+        "writer": "Ugy5T5I9eMnr6OGSeEV4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 찾아야할 진정한 부부의 모습. (이름) 부디 천국에 천사가 없다고 빨리 데려가시지마소서,",
+        "writer": "Ugy12V4SG-0jE9RTYgh4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파킨슨병 사라져... 할아버지 할머니 행복하게 사세요",
+        "writer": "UgxRTpVoAKNGPDvu6rF4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 눈물난다 파킨슨병이 치매까지유발이네 할아버지 존경합니다 행복(이름)하세요",
+        "writer": "UgyLUW7rajOp4yl22DZ4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 싫어요 누른 놈 누구냐",
+        "writer": "UgwHKcqM79gFCgpQ3yN4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어흐 파스냄새 (비속어)",
+        "writer": "UgzuMcD0-7m9_g1pcXB4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아프지 말고 행복하게 보내세요",
+        "writer": "UgxzxRDt7A_ssP104Kl4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10분전 , 화이팅하세요",
+        "writer": "UgxIrldDf_Q4hZNP8IZ4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 대단하시네요, 자격증까지 따시고, (이름) (이름) 두분 다 건강하세요. 좋아요 22개 감사합니다.",
+        "writer": "UgxzHC2mGlfXTkzIYqV4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "100살까지 건강하게 사세요..응원합니다..",
+        "writer": "UgzzyurxJOG4MCSFVQ14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뀨리의놀이터 이거 평생을 살던 가족도 못알아보고,",
+        "writer": "UgxRTpVoAKNGPDvu6rF4AaABAg.9Hdk3yB-_aE9HeOLVFnyoY",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정요 두분 (이름)래 건강하고 행복하게 사셨으면 좋겠네요..",
+        "writer": "UgyLUW7rajOp4yl22DZ4AaABAg.9Hdjz0MCSc-9HfOSvkzsyF",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에서제일깜찎한초코파이 마자요",
+        "writer": "UgyLUW7rajOp4yl22DZ4AaABAg.9Hdjz0MCSc-9HfP4lLblCi",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10000000000000000000살까지 사셔야지",
+        "writer": "UgzzyurxJOG4MCSFVQ14AaABAg.9HdiNn5R4MV9He2RmQFpyf",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유노휴 그건좀,",
+        "writer": "UgzzyurxJOG4MCSFVQ14AaABAg.9HdiNn5R4MV9HqgFyiV61I",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하게 사세오",
+        "writer": "UgyIYeN3nx4Dfzs1f8F4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저와같은 (비속어)들이 아무떄나없이 틀 또는 (비속어)이라고 서슴없이 뱉었던 단어가 다시 생각해보니 챙피하네요 정말 (비속어)들을 대표해 죄송합니다",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 너무 아름 다운 부부시네요",
+        "writer": "UgwKrIys5lL324RRr454AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 16등",
+        "writer": "UgwAr1nUbXmucjpMmw14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하게 (이름)래 사세요... 84에, 자격증, 진짜 대단하세요... 존경스러워요 할아버지, _좋아요36개 감사합니다아..",
+        "writer": "Ugz9UygKzwjET4rtZGZ4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파킨슨병이랑 치매가 동반되어있다니, 너무 안타깝네요, 두 분 모두 힘내시고 잘 지내세요",
+        "writer": "Ugw6M7ttHS0WcprYdS14AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)래 건강하게 사시길 바랄게요",
+        "writer": "Ugz-rqVfK4i-mWlLB9Z4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니 할아버지 아프지 마세요",
+        "writer": "Ugzytaq0NncN8WTyHkx4AaABAg",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정, 저는 (비속어)이라는 말은 안해도 게임에서 그 말 쓰는 애들 많이 봤어요,",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9HdkhKwSKDa",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄송한데 (비속어)이뭐에요",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9HdlP75AOOK",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)를 쓰는 할아버지 할머니를 조롱하는 말입니다.",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9HdmFbJ-eN3",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아하 알려주셔서 감사합니다",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9HdmdAvM9jM",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 나쁜말이죠",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9He0E56lkFR",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저와같은 어린친구들은 예의있게 행동하면 좋을것같네요",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9Hw51GQ6LE5",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)는 뭔가요",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9JlKVQ0gE8q",
+        "write_date": "2021-02-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "즐거운인생 (비속어) 초등학생들을 이르는 말입니다.",
+        "writer": "UgxtggdNFpfFd6CJxA54AaABAg.9HdiIeWAsVB9K1-U4fVM5b",
+        "write_date": "2021-02-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파킨스병도 있는데 치매까지 .",
+        "writer": "Ugw6M7ttHS0WcprYdS14AaABAg.9Hdh8LHv2qP9HdlmWRRQNT",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 근데 이분은 어딜 가나 있네 아, 잠만,내 감동이, 내 감동 내놔..",
+        "writer": "Ugw6M7ttHS0WcprYdS14AaABAg.9Hdh8LHv2qP9HeJJhYhf-D",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김노랭의 즐거운 생활 자기가 눌렀죠 솔직히 내감동....",
+        "writer": "Ugw6M7ttHS0WcprYdS14AaABAg.9Hdh8LHv2qP9HeLdC1dh1r",
+        "write_date": "2021-01-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=XpZNZnBvhFM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

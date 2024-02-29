@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001266262",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIE210001266262"
+    },
+    "text": [
+      {
+        "content": "24개의 행성의 모항성들은 모두 k형인데 무슨 적색왜성이죠 적색왜성은 M형 왜성인데 그리고 적색 왜성은 몇조년도 살 수 있는데",
+        "writer": "UgzOD2AmQjKCUMPTF_J4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구가멸망하면 금성에서살아야겠다",
+        "writer": "UgyXDY76u4E4EWglrcl4AaABAg",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리도 지구가 멸망하면 외계인이 되는거에요",
+        "writer": "UgwJDPB6ZqvfTtvdMRB4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 행성에 있다 그 행성이 멸망해 우주에 떠돌니는 애들",
+        "writer": "Ugz3smvOy9FBylKaLMp4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "외계인들이 누군지 알겠다",
+        "writer": "UgyqvJm_dB47KOZieGV4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전쟁의 화염에서 지구로 귀환",
+        "writer": "UgzyG-7V_fkEaYpGvIx4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화성에 살던 옛 인류",
+        "writer": "UgxiL7nBk3tqT8Ql7LF4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정수리 앉은 태양 미간에 육 안 열어 길고 긴 역사 잡아 중생계여 깨어나라 하생부지 천생자 올림",
+        "writer": "UgzyEyFdqg7c8b_v3ZZ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "6개의 태양이 숨쉬는 그 곳은 6각 건축물이 1만8천4백6층의 우주법계 법신의 궁궐이 있습니다",
+        "writer": "UgxM_2hdmV5CAWg3SqN4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만약에 저런 지구랑 비슷한 행성 찾아도 우주선으로 가는데 100만년 이상 걸림",
+        "writer": "UgzUQ5xPqQ4XmR0je-x4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구인들 아주 오래전 금성에서 살고 있다가 기후가 올라가면서 지금의 지구로 이주하지 않았을까요 고대 벽화를 보면 우주선과 우주인들이 등장하지 않습니까",
+        "writer": "UgwFfLWRL_9BUgI39VB4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 인간손으로 지구가멸망해서 이주하느냐 자연적 으로 지구가멸망해서 이주하느냐가 문제지 인간손으로 지구가 멸망된거면 이주해도 똑같은짓말할텐데",
+        "writer": "UgzRLgiVf1-PMBO366R4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수태양 부태양 신태양 금태양 안태양 갑태양 불태양 백태양 유태양 자태양 초태양 지태양 하태양 보태양 미태양",
+        "writer": "Ugwj2R7tnG49Ldnzm1l4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래픽 천지네. 아직 달도 못간것이 팩트지",
+        "writer": "UgxkyhjZq2lN8YD0Exl4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10분 영상 5광고 너무하네 많이버슈",
+        "writer": "UgxONprCquCBxYDzRUh4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리은하에 생명이 있는 행성은 더 있어도 인간처럼 문명을 이룬 외계인이 정말 있긴 할까",
+        "writer": "UgwiXG6RXOX5bqeAUW14AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 굿",
+        "writer": "Ugz-kFujgDDJbE2_DAB4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태양 와,",
+        "writer": "UgzfFpm6WWNTBNg_f754AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "온실 효과 때문에 금성이 뜨거워짐. 지금 지구가 이산화탄소때문에 뜨거워짐",
+        "writer": "UgyXDY76u4E4EWglrcl4AaABAg.9I-sLHVoKat9I2H6AIyYHw",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "를 속이기는 쉽지만 처럼 속은 돌 헤드에게 너가 속았다란 말을 설득하긴 쉽지 않지, 그렇게 살아라",
+        "writer": "UgxkyhjZq2lN8YD0Exl4AaABAg.9GuKTFV30Ls9Gv6pGU58CX",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우주에 행성이 수천조개가 있다고 하는데 지구에만 생명이 있다고 하면 너무 공간 낭비 아닐까",
+        "writer": "UgwiXG6RXOX5bqeAUW14AaABAg.9GtKjrRHqqC9H2v_q_g2hl",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송후드 그런 이야기가 아닌데요, 어느정도 팔다리있을만한 진화된 생명체 자체가 있을 확률도 희박한것 같은데. 문명을 이룰정도로 고등생명체가 있을려면 얼마나 극악의 확률이냐는 질문이었음",
+        "writer": "UgwiXG6RXOX5bqeAUW14AaABAg.9GtKjrRHqqC9H46yxJByL6",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구중심으로 생명을 정의하면 안된다고 봅니다. 우리 육체는 살아가는데 필요로 하는 산소를 대기에서 직접 필요로 하지요. 이산화탄소는 이미 산소를 가지고 있지요. 만약 이산화탄소를 흡수해서 산소를 만드는 생명체가 있어 이산화탄소로부터 산소를 얻어낸다면 화성에서도 생명체가 살수 있지요. 우리는 지구에서 얻은지식이 우주전체에 적용된다고 하는 우물안 (혐오표현) 사고방식을 가지고 있다고 봅니다. 화학반응은 어떤상태에서 어떻게 일어날지 그 가능성은 거의 무한합니다, 또한 우리는 물질의 세계에만 갇혀 있습니다. 반물질 비물질의 세계에서도 얼마든지 우리가 생각하는 지적생명체가 존재한다고 봅니다. 하다못해 우리는 사후세계도 모릅니다. 만약 존재한다면 그세계의 생명체는 그들은 어디 존재하는걸까요,",
+        "writer": "UgwiXG6RXOX5bqeAUW14AaABAg.9GtKjrRHqqC9HLZswGSdO-",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시공너머로 세포단계의 생명정도는 있어도 이상할게 없지만 생물체라고 불릴정도의 샘명말하는거임. 더 나아가서 물고기를 넘어서 육지 생활을 하고 자신들만의 언어를 만들고 문명을 이루는 생명체요. 그런 단계까지 나려면 얼마나 많은 관문을 돌파해야하는지 이런 우주 영상들 보면서 많은 생각이 들어 한 말이었음. 골디락스 존에 있어야 하고. 그리고 달과 같은 위성도 필수 요소일지도 모름. 그리고 적당한 중력도 필요 할것 같고. 행성이 크면 좋겠지만 중력이 크면 진화에 장애물요소가 될것같고. 그렇고 중력이 적으면 그만큼 행성이 작다는 이야기일테고. 여러 요소들이 딱 들어맞는 행성이 우리 은하에도 그렇게 많을거라고 생각 되지 않음. 이런 요소들이 전부 갖춰진다고 해서 확률이 높은것도 아닌것 같고.",
+        "writer": "UgwiXG6RXOX5bqeAUW14AaABAg.9GtKjrRHqqC9HMGq9ARxjk",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웅웅웅 지성은 진화의 종착역이 아닙니다. 알 수가 없죠.",
+        "writer": "UgwiXG6RXOX5bqeAUW14AaABAg.9GtKjrRHqqC9Hm4cf9_ow1",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "확율을 엄청낮게해도 80개 이상있음",
+        "writer": "UgwiXG6RXOX5bqeAUW14AaABAg.9GtKjrRHqqC9HwffP2Wkuz",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜캐 구독자에 비해 시청수가 적냐",
+        "writer": "UgzJCSI0XBQXBO7HthJ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효기심형 아직 유튜브계정은 남아있구나,",
+        "writer": "Ugx0o5R9jKOBFfHSvDt4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 지구에서122222221",
+        "writer": "UgyX1L8Cd96EOj3WAjh4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃긴게 금성에서 아주먼 옛날 지구와 같은 공간이며 또한 그곳에 살던 생명체들은 우주라는 곳을 생각못해 다 멸망하지 않았을까요.",
+        "writer": "UgyxPYRAesKphrV0TTR4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저사실을 알아낸것도 대단하다, 신기한 우주",
+        "writer": "UgxHL9dj1HtuPks3Pet4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우주야 그대 이름하고 비슷하네 안면도 잘갔다왔어 죽으면 다 끝나 우주야 난 우주가좋아",
+        "writer": "Ugw49ri5agcs42sPkw94AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목성이 조금만 더 컸다면 핵융합이 가능했을것이고 지구도 2개의 태양을 가진 행성이 됐을텐데.",
+        "writer": "UgywdqrqV_LveGIxgSZ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 생명체에 존재유무를 물의 유무로 판단하는지 이해가 안간다 그건 지극히 우리 지구에 국한된 얘기아닌가",
+        "writer": "UgyqLplF0Q_dfaKKtat4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 금성은 골디락스존을 벗어나있어서 있을리가,",
+        "writer": "Ugz8czQp2Q2vENOXIXN4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독자에 비해서 조회수가 너무 적은데",
+        "writer": "UgzE8DvLVcauV1Opbrl4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 행성에 생명이 있을 수 있다 . 먼옛날 금성에 바다가 있었다 . 살아 도 않았으면서 . 가설을 과학처럼.",
+        "writer": "UgxNAL_4UGchASeHVeZ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금해서 그러는데 중력이 더 좋으면 생명채가 있다면 키작은 난쟁이나 납작한 생명이 존재할 가능성이높나요",
+        "writer": "Ugw523De-MuaLTACvZN4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금성에서 포스핀이 발견된 것이 오류로 수정됐나요 궁금해서 여쭙니당",
+        "writer": "UgzC0MpYerMhr4A78M14AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 다중성계는 이미 우주에 흔한 존재라고 알려진지 꽤 많이 지났지 않았나요 오히려 우주 전체를 볼때 태양계처럼 단일 항성계가 더 적다고 배웠는데",
+        "writer": "Ugwm3L19Pn2CJTrV1N14AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전부 다 죽어버려라",
+        "writer": "UgzgSzJQ4zw6jt_Y6jd4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔소리냐 큰거랑 거대한거랑 어떻게 다른건데",
+        "writer": "UgzDNj-tTSx0tDWzhgN4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계관 확장",
+        "writer": "Ugzk1kPQ_tMK-OZL0zN4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생물이 생길려면 물이 있어야한다는게 지구에만 해당되는게 아닌가 하는 의문이 잘못된거니 태양처럼 뜨거운 온도의 환경에서 태어나는 생명체는 없을까 아니면 극한의 추위에서 혹은 수소와 탄소만이 존재하는곳에서 탄생하는 생명체는 얻다대고 래 얘기는 할수 있잖아",
+        "writer": "UgyqLplF0Q_dfaKKtat4AaABAg.9GqCrlgVyul9GrgVLrn_bn",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이 우주에 지구와 질량 대기질 등이 같은 행성이 없는데 왜 우리 기준으로 생명의 발현을 똑같이 판단하냐는거죠 그 환경에 맞게 치환해서 생각하는것도 아니고",
+        "writer": "UgyqLplF0Q_dfaKKtat4AaABAg.9GqCrlgVyul9GtEmeV9f3u",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까, 초점을 지구에 맞추는거엔 반박하진 않지만 좀 광범위하게 생각을 해야 되지 않나 하는게 제 생각입니다 생각이란 각자 다른 법이니까요",
+        "writer": "UgyqLplF0Q_dfaKKtat4AaABAg.9GqCrlgVyul9GtOKAEmPqU",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 골디락스존은 생명체가 살만한 거리라기보다는 액체상태의 물이 존재할 수 있는 거리라서 1. 목성의 온실효과가 물을 존재시킬 수 있는 가능성 2. 물이 없더(반사회적용어) 생명체가 있을 수 있는 조건 이 발견됐을 가능성이 높아요",
+        "writer": "Ugz8czQp2Q2vENOXIXN4AaABAg.9Gpq8QNFB9e9GqUUwMLNBw",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 발퀄 조회수용도 영상 많이 올려서 그래요. 신뢰성이 떨어짐",
+        "writer": "UgzE8DvLVcauV1Opbrl4AaABAg.9GpdaazvX9K9Grs4XZWvs-",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "석류맛녹차 다중성계에 행성을 말하는거아닐까요",
+        "writer": "Ugwm3L19Pn2CJTrV1N14AaABAg.9GosITy4JH-9GpEO5DSAcy",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박준형 다중성계에서 역학적 관계가 복잡해지는건 사실이지만 그렇다고 행성이 존재 못 할 이유는 없죠 당장 대표적인 알파 센타우리(맞나 )쌍성계만 봐도 행성이 6개까지 있을 수 있다고 하던데",
+        "writer": "Ugwm3L19Pn2CJTrV1N14AaABAg.9GosITy4JH-9GpJYzadWqM",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "석류맛녹차 삼중성계는 행성의 확률도 비교적 많고 발견도 되었죠.",
+        "writer": "Ugwm3L19Pn2CJTrV1N14AaABAg.9GosITy4JH-9GqQWcgXbxW",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마 부피와 질량을 말한듯",
+        "writer": "UgzDNj-tTSx0tDWzhgN4AaABAg.9GoSKsNe7te9GpI0d3Z-86",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청자가 변역하네",
+        "writer": "UgzDNj-tTSx0tDWzhgN4AaABAg.9GoSKsNe7te9GsGX6mSfgt",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자막이 있으면 더 좋을거같아요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사건의 지평선 아닌가요",
+        "writer": "Ugx3cAD9phB53q2JB9V4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 대박나우주무서워하는,",
+        "writer": "UgyK64lageiTczEK4bJ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 저런걸 알앗을까, 두눈으로봐도 못믿을것같은 일을,",
+        "writer": "Ugy0J50Zhe-Dmj0gzFJ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 방금 올라온거네 어 이런거 특뭔지몰(반사회적용어) 웅장이 가슴해짐",
+        "writer": "UgxCNAKCIdiSGxz2C3F4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "등수 놀이나 하다니 참, 난 몇등",
+        "writer": "Ugxk1jLGjJ9QrY9lM2l4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기전에 밝은면 영상은 못참지,",
+        "writer": "Ugz9R_fROkZhfmzsPEF4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지식 유튜브 너무 좋아",
+        "writer": "Ugy07MFU9bVtbqL3jj54AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런거 특뭔지 몰(반사회적용어) 멋지고 굉장하게 느껴짐",
+        "writer": "Ugx1mFZ7uMHyfcp0ONF4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘때 또 올게요",
+        "writer": "UgzwZl9k6faTPpXDy_14AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "16등 이다",
+        "writer": "UgyGi-1frXU8wFHyMHZ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제2의 지구는 언제 죽을까",
+        "writer": "UgzFdI_cQq3tjRG3DEd4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 왜 목성이랑 화성이 있죠",
+        "writer": "Ugxxu7M_LPq11I7tw3J4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "등수놀이 좀 그만해라. 유치하게, 10등",
+        "writer": "UgwZJWHdHiOHifoh3fZ4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설정들어가면 있어요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9Gs-xgLLATE",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튜브(유튭 쉬는중) 자동자막인데요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9GsDCsEfUmF",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절레절래 자동자막도 자막임",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9GsTulBpZOC",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튜브(유튭 쉬는중) 네네 헛소리할거면 가세요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9GsVcgmum9G",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절레절래 제가 헛소리 했나요 자막인건 맞잖아요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9GsZ12YL-vu",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튜브(유튭 쉬는중) 제가 그 자막을 물어봤나요 자동자막이 있다는걸 누가 모르죠 유튜브 한두번 보는줄 아세요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9Gs_0XCvhWm",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절레절래 자막인건 맞잖아요 인정할건 인정하세요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9Gugz62pxg5",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튜브(유튭 쉬는중) 그래 자막이네요 근데 제가 그걸 물어봣냐구요 문맥파악좀 하세요 제발",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9Gv1B-xKTCm",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절레절래 문백 파악이 뭔가요",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9GvNrlEsFGQ",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절레절래 뭐냐 자동자막으로 보샘",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9NQMotb4OFj",
+        "write_date": "2021-06-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "절레절래 자막의 뜻을 모르나",
+        "writer": "UgwajWJNEmQuglp0DWR4AaABAg.9GoKhMGjmxt9NQNw7bRmei",
+        "write_date": "2021-06-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "베이가 e 아닌가요",
+        "writer": "Ugx3cAD9phB53q2JB9V4AaABAg.9GoJN-hSq1j9GpPfrBokjR",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장지웅 아",
+        "writer": "Ugx3cAD9phB53q2JB9V4AaABAg.9GoJN-hSq1j9GpPs4uWHUt",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Event hrizon은 event가 사건도되고 사상도되고 해석하기나름입니다.",
+        "writer": "Ugx3cAD9phB53q2JB9V4AaABAg.9GoJN-hSq1j9GqDt6BC87f",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건꼭 봐야돼.",
+        "writer": "Ugz9R_fROkZhfmzsPEF4AaABAg.9Go2nZbT5e99Go772E1mCN",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점으로 구독자 400찍기, 이정도로 구독자가 될 것입니다",
+        "writer": "UgxQUB-xMR8_KLGQSTV4AaABAg.9Go-Ji20VC69Go00_MAh-V",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "22분 전.",
+        "writer": "UgyMcZ(반사회적용어)xDPNNGmPBVN4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "되게 빨리왔당",
+        "writer": "UgzxLDE8_LTUKbrwKRF4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "5분전 실화냐",
+        "writer": "Ugwn2ue_lKbih44lVCp4AaABAg",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점으로 구독자 400찍기.",
+        "writer": "UgzxLDE8_LTUKbrwKRF4AaABAg.9GnxfPSxW139Go0hbW_zaw",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점으로 구독자 400찍기.",
+        "writer": "UgzxLDE8_LTUKbrwKRF4AaABAg.9GnxfPSxW139GpV0kc8KvV",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점으로 구독자 400찍기.",
+        "writer": "Ugwn2ue_lKbih44lVCp4AaABAg.9GnwtEjhh-W9Go-scvgG6E",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점으로 구독자 400찍기.",
+        "writer": "Ugwn2ue_lKbih44lVCp4AaABAg.9GnwtEjhh-W9Gp5K9_3Qj0",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCWklve34yV5A9A69-1sRLBA",
+        "parent_url": "https://www.youtube.com/watch?v=CgwrNZ3Rymk",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001678488",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001678488"
+    },
+    "text": [
+      {
+        "content": "이것이 침착맨이 강추한 나비고기입니까",
+        "writer": "UgzSjItBKkD16_bGjnJ4AaABAg",
+        "write_date": "2021-04-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "털보, 그의 픽,",
+        "writer": "UgyqutZdQ37ImXYbSAJ4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침착맨이 보고오래여",
+        "writer": "Ugx49Jnne15sb8IO7Gx4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 침착맨 너가 보라면봐야지",
+        "writer": "UgxrUPh5IsDlhmob8jR4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나비고기 궁금해서 검색했더니 (비속어) 썸네일부터 (비속어) 웃기네",
+        "writer": "Ugwg8rAUqo5HPv67I_d4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침착맨 무야호",
+        "writer": "UgzCDyWeYbmjNDXWalh4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침착맨이 개웃기개대서 보러옴",
+        "writer": "UgyB2B9gFQ2F0Oidm2R4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 침방장말대로 겁네 웃기네",
+        "writer": "Ugya14KRUSwGHVR7rXZ4AaABAg",
+        "write_date": "2021-03-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀 (이름)게 지긴 하네. 딱히 카운터 맞은 것도 아닌 것 같은데 갑자기 스태미나 확 깎이네.",
+        "writer": "Ugw8UuVTpLzB0_cG1iB4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나비고기 안쟈나프 아종임",
+        "writer": "UgzBFl6OhpmrkV0GOBp4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "확실히 2보단 3이났네",
+        "writer": "UgwuJN4FsgchI1l5iMx4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "병 형신이야 다 이겨놓고 털려",
+        "writer": "UgxXnSqkOngmvRbz38p4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겜 전체적으로 못하네",
+        "writer": "Ugzp6iHqR8fQqfNw4tJ4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 (비속어)이야",
+        "writer": "UgyPk84zMawki4SB7Mt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "병 형신이야",
+        "writer": "UgxBhxLWJFSm7aIfrHx4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내용 요약꼬발샷",
+        "writer": "UgxQAiRq8ff43Atvilt4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼬발샷의 함정에 빠졌네",
+        "writer": "UgxuajhU76hOlIGCDo54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자듈의 뜨거운 ,",
+        "writer": "Ugz6wDbviL3HdcP_3jN4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배에 쥐남 아, 배아파",
+        "writer": "Ugyuy8CoAS01xxl3QzN4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃다가 배아파보기 오랜만이네 미치겠다 진짜 꼬발샷. 일로와 어디서 지리고 있어. 이거 뭐하는 놈이야 개그우먼이야 뭐야. 로블로 사타구니 밀어차기 아 왤케 웃기지",
+        "writer": "Ugx_AMS1KVNvLjc4Z6N4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (비속어)같이 생겼다",
+        "writer": "UgwwZwfOzKsVBkYwZx54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데드풀 턱주가리는 타노스인데",
+        "writer": "UgwliqCyeK2LMjOL5s94AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나랑 닮은 데드풀이네",
+        "writer": "UgyrwgJs2_tyna7Cphx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플라잉니킥하다가 혼자 자빠지네",
+        "writer": "UgzFD_PFhSw-d64iIVJ4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성지순례하러 왔습니다",
+        "writer": "UgzfZi1WcxiISgTyMvV4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁굳 캐릭터 준나징그럽네",
+        "writer": "UgxMlDkKF2Wa2mj67Dd4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 기억에 이 경기로 인해 당시 담팟에서 방송을 더이상 못하게 되었었던 것 같은,",
+        "writer": "UgwD-aIbyFibp7Q5CZx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "병 형신이야,",
+        "writer": "UgxKUeBnC8b0rcSOWEx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 정주행해도 5번째보는데 배에쥐남",
+        "writer": "Ugx_AMS1KVNvLjc4Z6N4AaABAg.8lrCoBLXqFl8mDyvCEB3la",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 동시송출이였네",
+        "writer": "UgwD-aIbyFibp7Q5CZx4AaABAg.8dELP3-kKwR8n6xcBjDHfA",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳 개못하넹",
+        "writer": "UgyOW7Q6cxF_DJyTfgp4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 2초만에 터진 영상은 이게 첨이야",
+        "writer": "Ugzyhlb7FfkE5F_C9g14AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 웃기네",
+        "writer": "UgxsZ5RPPA_w1BmQmc94AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청자 대 청자다 (비속어)",
+        "writer": "UgwrBG_gTAvkjPPK0cl4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태극 무늬 미쵸,",
+        "writer": "UgwddZ_BATMc2u6M2Ud4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 여기 대박이네",
+        "writer": "Ugzjc8sAI5v_xneN-z14AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데드풀 겨우이겨놓고멋진척 하는거 (비속어)",
+        "writer": "UgxtDVAW_FNU8giNv-54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜",
+        "writer": "UgzLEzf9TF4-gmBavrR4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ko가 두번 나왔는데도 지네 대단하다",
+        "writer": "UgiuqxFNtIzYangCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 역사에 길이 남을 명경기닼",
+        "writer": "UghMQ78sLbeS83gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜웃다가 명치아파서죽을뻔",
+        "writer": "UgjOitF_gKNSRHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 이형 (비속어)",
+        "writer": "UgiB8ZGYgnGt23gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몸개그 레전드야",
+        "writer": "UggMZjqVpD8lo3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아, 갑분싸",
+        "writer": "UgwddZ_BATMc2u6M2Ud4AaABAg.8YrUhBA4nKs8cuu512_G6m",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sky Purun 파란색 밑에 (혐오표현) 위에",
+        "writer": "UgwddZ_BATMc2u6M2Ud4AaABAg.8YrUhBA4nKs8kH8syqmweA",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 생긴게 왜저러냐",
+        "writer": "Ugh9Q51jh1CXpXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저걸 지는것도 대단한 실력이야 역시 고기",
+        "writer": "UgjFZaeVfbcGfngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)웃기네 이거 뭐냐",
+        "writer": "UghBYgYPdLQNYXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 이기고 있는데 지냨",
+        "writer": "UgiosKkd3vAkingCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플스게임인가요 멀티 방식이 그사람 정보를불러와서 ai돌리는거에요 아니면 실시간이에요",
+        "writer": "UgiOxSYYIMW5E3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃으며 경기하다 막판에 뿅감",
+        "writer": "UghoWPugRqbk83gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심지어 짐",
+        "writer": "UgiJNqZ5gw1WMngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크, 명경기",
+        "writer": "UghiVndOweMwpngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일은 왜 가시고기야",
+        "writer": "UghuAa6wlB8wJngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나비고기가 뭔가했다",
+        "writer": "UggixtQjZY9t_3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼굴 볼때마다 진심 미칠거같닼",
+        "writer": "Ugg_Bwxqb5386XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흡사 히어로와 물고기 빌런의 싸움",
+        "writer": "UggncsK5xmIx9XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) (비속어)",
+        "writer": "UgjQaxxvV0BPpngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나비고기 이거 더 안하셨나 (비속어)",
+        "writer": "Ugh5jerqfyOjNXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Angro Previous 있죠.",
+        "writer": "UgiOxSYYIMW5E3gCoAEC.8DCXF13_IoG8cZcYFodN7i",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Angro Previous 많죠 모바일 대전이 대부분그방식이고 철권같은경우도 오락실에서 혼자하면 그럼",
+        "writer": "UgiOxSYYIMW5E3gCoAEC.8DCXF13_IoG8d5P8YcHSo7",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴 이걸지네",
+        "writer": "Ugi96_GuU8dBGngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼬발킥으로 깐족거리다 훅가셨네",
+        "writer": "UgjDkPE05ojgjXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 인생은 한방이야",
+        "writer": "UggX0HyABbZM-HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 지네",
+        "writer": "UgjXG0CHMHYlJXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비명지르는거 개웃겨",
+        "writer": "Ugi9741sVTOWCngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 방심은 금물 시합하다 웃으니까 지지",
+        "writer": "UgjaKC7NWTtD5XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데드풀 꼬발샷에 개약해",
+        "writer": "Ughy16rr85RfD3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태극 매치 오짐",
+        "writer": "Ugg9jMEwyXwy_3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깔보다가 개처맞음",
+        "writer": "Ugh5nxJ38rj9h3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복어님도 데드풀로 커스텀했는데",
+        "writer": "Ughpa3RhbtocSHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃다가 죠짐",
+        "writer": "UggRLbgNtWdv0ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아칸 근데 역전패가 웬말이냐,",
+        "writer": "Ughy16rr85RfD3gCoAEC.8BcZQU9PP0S8BcZt8Z4DvD",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송마치고 유투브 업데이트하는 성실함",
+        "writer": "UgiCm0cPOmz9xXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=IPG92tK38Ek",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

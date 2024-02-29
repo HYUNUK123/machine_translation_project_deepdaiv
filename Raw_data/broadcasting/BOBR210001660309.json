@@ -1,0 +1,596 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001660309",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001660309"
+    },
+    "text": [
+      {
+        "content": "와, 진짜 대단하시다, (이름)이 탐낼만 하시네",
+        "writer": "Ugwvx1zHSQQLnZzxR154AaABAg",
+        "write_date": "2021-11-17",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽님 화 났쪄",
+        "writer": "UgwRKmS2ESEBrSvB6ct4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 좀 아니야",
+        "writer": "Ugxl2kBaQDmnQ19yx5p4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 왜",
+        "writer": "UgyBS5W3sWSxfYwiAU54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저 사람이 사는 것도 아닌데",
+        "writer": "Ugx3cfKLoI1SXNaKS5l4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기분이 정말 꽃등심같다",
+        "writer": "UgwsrnvPt1cMhuqK8054AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람이 야채를 아예 안 먹을수도 있나요",
+        "writer": "UgwXfzQ3W0oqnWcK74J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짠해서 고기 탔어",
+        "writer": "UgyvTyXLygVUeSC8BUB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기먹는데 왜 짠을 하는지 이해가안가네 겁나 가식적으로밖에 안보이네",
+        "writer": "UgxcPWqhIOGYwHENEPB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숯이 좋은것도 불길이 올라올 수있나요 잘몰라서 물어봅니다.",
+        "writer": "UgzZMH5g48RpwHmnWhp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 현주엽때문에 소고기매출증가",
+        "writer": "UgzT46CdlgfW1EIJbBt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매끼 저렇게 사 먹을수 있는 능력이 부럽다.",
+        "writer": "UgxFoYxDEAbeZzHw4_d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여긴 경기가 좋군요 안 디을려고 입을",
+        "writer": "Ugw5G4Kafm03x22oQrl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 진심으로 먹방하자",
+        "writer": "UgyDQ8KzIcjwiwxoWAN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티키 160안되보이네",
+        "writer": "UgwZxrOdvZ3fGoYNKhR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)이랑 한국 차별은 꽃등심 하나를 몇명이서 시켜먹고... 마무리는 냉면이나 밥으로 배채우고.... (반사회적용어)은 일인 300600그람 씩 (반사회적용어)에 소고기는 너무 싸 또 이런 분이 있어 모든 (반사회적용어)산은 한국산보다 못하다는 분 웃물안 (혐오표현).. (반사회적용어)가봤어 (반사회적용어)여행가본 인간들은 (반사회적용어) 별거 없다고 돈이 없어 비싸서 못사목고 싸구래만 먹고 와서 (반사회적용어) 별로 없다고",
+        "writer": "UgzYMKgxDAFHi1pkbOl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잉 도티네 저거 왜 티비에 나오냐 사건 다 정리된거",
+        "writer": "UgxE6DAxpS8MD0XA3EV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽이 산것도 아닌데 왜 소리 질르고 (비속어)이야",
+        "writer": "UgyJ_3v2RdNNAcTni1Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 자꾸 집게로 고기를 먹지 에후",
+        "writer": "UgxvFbAvYqFcVJcVE754AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당뇨 걱정됩니다.",
+        "writer": "Ugz0rGHbGfL_hUd6io94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔일 있었음",
+        "writer": "UgxE6DAxpS8MD0XA3EV4AaABAg.9DeaiqNE8Ng9DhI6Eg5s-8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태사다르 뒷광고",
+        "writer": "UgxE6DAxpS8MD0XA3EV4AaABAg.9DeaiqNE8Ng9DkNY-wZGv1",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 도티 소속사에 있는 애들이 뒷광고를 했지 도티가 (이름)닌데",
+        "writer": "UgxE6DAxpS8MD0XA3EV4AaABAg.9DeaiqNE8Ng9DkNanp3oju",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주현로 그걸 아니라고 옹호했잖아요",
+        "writer": "UgxE6DAxpS8MD0XA3EV4AaABAg.9DeaiqNE8Ng9DkPjVRTET5",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주현로 뒷광고 를떠나서 도티 인성 불었는데 전직원이 말하길 회사에서 갑질엄청하고 심지어 회사에 관계없는 일 본인이 입을 옷사오라고 직원들한테 (반사회적용어)고 그랬답니다",
+        "writer": "UgxE6DAxpS8MD0XA3EV4AaABAg.9DeaiqNE8Ng9DlpfQFq3oQ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주엽님 화내실만 하다",
+        "writer": "Ugyelu6A1CkcnOw1F8B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 저건 화난다 아까버 소고기",
+        "writer": "UgzAIm0t0zFc0dikCIR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑질의 대장. 옛시대적 팅감독.저런 왕비호감.",
+        "writer": "UgwsdDjLRCZhHsZouAl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚱돼지들은 저래서 싫어",
+        "writer": "UgytP9buvI2K5d41yQd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "떡심 질기기만 하던데 뭐가 맛있는걸까",
+        "writer": "UgzsR0TId71XPnZ73pN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 입에넣었던걸로 고기굽고 요새 코로나땜에 비상인데 개념도없고 지생각밖에안하네 그냥 보면 드는생각이 먹는거에 (비속어)거같고 사람보다 음식이 더소중함 고기한점 탄거가지고 저 승질을내네 나이 꺼꾸로 쳐드신듯",
+        "writer": "Ugw8FDcXpqEm81iRFQ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "날마다 고기로배채우니,",
+        "writer": "Ugz9YRqW4fU0Naau3Mt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 스타일이 안맞는 거였네요",
+        "writer": "Ugz1dERV-O_luhqCQ1t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현쭈엽 왜 이렇게 재수없누",
+        "writer": "UgwXJNb14E0_j3dpHKx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저소키는우는 사람인데요 매우 즣네요",
+        "writer": "UgyCSWArPLFfz1ZOseF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현주엽이 제일잼있어",
+        "writer": "UgxvvjZPak_aKJ9sYg94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기탓다고 밥상에서 승질내면서 자기껀 안탄거고 앞에분들 탄거 잘주시네 인성논란 된 이후로 갑질하는게 너무 보이넹,",
+        "writer": "UgxNprQhaA0Bk6XDy6R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "등심에 꽃인 떡심을 태우다니",
+        "writer": "UgzBKlKPVSuSsCBkEcV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감독시절에도 저런 (혐오표현)은 안나왔었는데",
+        "writer": "UgwsxMY8iISJxVBREIt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 니가 더 걱정이다,",
+        "writer": "Ugw8FDcXpqEm81iRFQ54AaABAg.9DP2Dv4xAwR9DkCIKfliOp",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능을 다큐로 보네",
+        "writer": "UgwXJNb14E0_j3dpHKx4AaABAg.9CedayQ2YdG9CkK-76NoZf",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쳐보지마 그럼",
+        "writer": "UgwXJNb14E0_j3dpHKx4AaABAg.9CedayQ2YdG9D3--ovv5uq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유슥 (비속어)어매",
+        "writer": "UgwXJNb14E0_j3dpHKx4AaABAg.9CedayQ2YdG9DhIBdbPTno",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜 엄마안부를물어.",
+        "writer": "UgwXJNb14E0_j3dpHKx4AaABAg.9CedayQ2YdG9DoaugscfWn",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능을 템플스테이로 만드나 버럭 캐릭터 인데 도티 팬들때문에 다큐로 봐야겠네",
+        "writer": "UgxNprQhaA0Bk6XDy6R4AaABAg.9CJ6nhW8HYF9CkM0oXawyF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저건욕보다 더 심함 표정이",
+        "writer": "UgwsxMY8iISJxVBREIt4AaABAg.9CBBNN0-UVP9DabSwoWkWD",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는거 보면 증말, 넘 먹고싶어진다,",
+        "writer": "UgwOxAU766qEiu7HmQZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람이 아님 이런방송은 아무 의미없는 방송임 사람이나오는 방송을 하기바람 이게 뭐야",
+        "writer": "UgyKIQxA1zhPcvTfSAx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 돈 내는것도 아니면서, 무례하네요,",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현쥬엽 화이팅 꾸미지 않은 모습이 좋습니다",
+        "writer": "UgzmAK2XujMHDIF27Ct4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 고기를 즐김",
+        "writer": "UgxDI0r1Jl-MEKw1zrJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 하차 시켜라 (비속어)다",
+        "writer": "UgzNp7SaAm0sUF-AKiV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 이제 밑천 드러났다. 샌드박스 운영실태에 대해 빨리 터졌으면",
+        "writer": "UgyuSaRPeEue7YEFTPZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 저 사람 인성도 마음애 안드는데 예전에 영상 보고 마치 편집자가 포인트를 못잡아내거 편집을 잘못했다는 듯이 말하는 거 보고 혀를 내둘렀어요 편집은 재밌는 영상에서 액기스만 뽑아내는 작업인데 편집 분량 포인트 녹화때 지가 다 날려놓고 먹방을 하면서 말 한마디도 없어놓고 원본 영상에는 문제가 없다는 듯이 말하던게 참, 각종 추가 효과와 일러스트를 통해서 뼈를 깎는 노력으로 재밌게 만들 수도 있겠지만 전 그렇게 되면 더이상 그 작업이 편집이라고 생각을 안하거든요 그냥 영상 하나 제작 한(혐오표현) 편집 이 아니라",
+        "writer": "UgzmgPcSeVoKKDOgPJF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 그냥 제발 좀 그만나왔으면 좋겠다 말투자체가 사람 무시하고 있는 듯한 관념이 베이스로 박혀 있음 도티랑 피디한테 둘 다 그냥 얘네는 내 아래다 라는 생각자체가 기본적으로 깔려있으니까 무슨 말을 하든 행동을 하든 다 예의없어지고 그렇게 보이는 듯",
+        "writer": "UgxVAkVYR34fJhI3OpF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우연히 유튜브 추천에 나와서 작업을 하면서 봤는데 데 솔직히 좀 (비속어)다 저런 행동을 방송에 보여주는 게. 이 영상들 보면서 시간을 낭비한 내 자신이 한심하다.",
+        "writer": "Ugw7AVgpynsZyAW54od4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 계산햇다 햇는뎅",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg.9C8HZ0on4kr9C9eqln3NIv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소앙 (이름)이 냄",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg.9C8HZ0on4kr9C9oLr5nf9K",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허준서 티비로봤는데 현주엽님계산함",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg.9C8HZ0on4kr9CA1lIg6_RC",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허준서 현주엽이 계산했구만 왜 거짓말치시지",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg.9C8HZ0on4kr9CCU2qu-nhs",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)하겠넼한번 말해줬는데돜 또 아니라하넼 가만히있으면 반이라두 가요",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg.9C8HZ0on4kr9CVW90jGKDZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티팬 특징 생각없이 그저 대단한 도티가 현주엽에게 무시당한다 느끼면 악플달고 다님 근데 도티때문에 현주엽 악플이 많아지면 현주엽을 자를가요 난 도티를 자를거 같은데 요즘 뒷광고 문제도 있는데 당나귀pd가 도티팬때문에 고민없이 자르겠네 쯧쯧 응원 댓이(반사회적용어) 다는게 현명할텐데 도티팬들은 1차원적이네",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg.9C8HZ0on4kr9CkL1Lio3IJ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추하다 도티도 도티 팬도",
+        "writer": "UgwlsJzgLbPu3sfIw1x4AaABAg.9C8HZ0on4kr9CkM8pyTLDR",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 먼저 나갈듯 뒷광고 왕",
+        "writer": "Ugy0Tc1ceajP4nrBAGJ4AaABAg.9C5Ws3mEa3e9CkLpsNTcXv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 팬들이 더문제임 이상황에서도 도티한테 반말했다고 현주엽 악플달고 다니는 팬 수준",
+        "writer": "UgyuSaRPeEue7YEFTPZ4AaABAg.9C2Zq5X8LD_9CkL8djrHEu",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예능을 분석하고 있나요 초반에 하마도 어색하게하고 샌박직원도 지금같은 자연스러운 분위기로 먹는 먹방을 생각못한것 뿐인데 뭐가 어쩌니 저쩌니 분석하지 말고 도티팬이면 그냥 응원 하세요 하마인성이 어쩌니 반말을 하니마니 댓글 달면 도티가 되려 지상파 못나올거란건 생각 안하시나요 당나귀에서 도티를 자르지 하마 자를가요 누가메인인지 구분합시다",
+        "writer": "UgzmgPcSeVoKKDOgPJF4AaABAg.9C0OlYwqxWw9CkKac9xYxq",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정 예능은 그냥 예능으로 봅시다",
+        "writer": "UgzmgPcSeVoKKDOgPJF4AaABAg.9C0OlYwqxWw9CmtLDFKKlX",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘봐 도티나 현주엽이나 누가보면 현주엽은 예능에서 (이름)급 위치인지 알겟네 하마처럼 먹는거 약빨 다 되면 예능 뭘로 할건데 도티나 현주엽이나 한 철이다",
+        "writer": "UgzmgPcSeVoKKDOgPJF4AaABAg.9C0OlYwqxWw9DnP0UA10N3",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당연한거 아니야 당연한 소리를 억울하다는듯이 하고있어",
+        "writer": "UgxVAkVYR34fJhI3OpF4AaABAg.9C-QaA_iZie9C4plV0Buh6",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이도 어리고 당나귀도 현주엽이 주연이고 농구레전드고 길거리에서 이름 물어봐도 대부분 현주엽 압승 아닌가 아들벌한테 굽신 거리는걸 바라나 지금 현주엽이 도티랑 방(이름)는(혐오표현) 도티가 현주엽이랑 방(이름)는게 아님 도티팬들은 뭔생각으로 이런 악플을 싸지르는지 당나귀pd가 보면 도티 바로 자르겠네",
+        "writer": "UgxVAkVYR34fJhI3OpF4AaABAg.9C-QaA_iZie9CkLWjiB81a",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘봐 인기 보는게 아니라 인성 보고 있잖아 당나귀 다른 영상 보고 말해라 (비속어)아 그리구 현주엽이 도티 회사 들어가겠다고 하는거야",
+        "writer": "UgxVAkVYR34fJhI3OpF4AaABAg.9C-QaA_iZie9DL7OFl9KHO",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 물먹었네",
+        "writer": "Ugw7AVgpynsZyAW54od4AaABAg.9BxSwqBi3zA9C5bPBXYYTv",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티는 지상파 금지지 샌박 뒷광고계의 왕 아님 소속 크리에이터 커밍아웃에 소속사 직원 도티 인성 다까발렸는데 현주엽은 왜 도티 따위랑 방송을 계속하는지 원 도티랑 같이 나락으로 떨어지는건가",
+        "writer": "Ugw7AVgpynsZyAW54od4AaABAg.9BxSwqBi3zA9CkLmnPC6-f",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=WEKWv3BynTE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

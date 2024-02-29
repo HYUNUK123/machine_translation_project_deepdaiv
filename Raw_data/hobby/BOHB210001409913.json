@@ -1,0 +1,980 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409913",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409913"
+    },
+    "text": [
+      {
+        "content": "공모전 참가를 위해 포스터 작업을 해야 하는 상황인데 웹으로 작업을 한 뒤에 출력도 해야 하는 상황입니다. 그렇다면 RGB로 작업하는 것보다는 CMYK로 먼저 작업하는 것이 나을까요",
+        "writer": "Ugx2E0-oUD5rwMO3x-54AaABAg",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 (이름). 혹시 cmyk로 변환한 후 jpg로 저장하고 사진 파일을 열면은 시커멓게 보이는데 혹시 왜 그런지 아실까요,",
+        "writer": "UgzEe8Ea54tbxuKNKet4AaABAg",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 UIUX디자인 작업물 위주의 포트폴리오를 만들려고 하는데 궁금한 게 생겨서 질문 드려욤. 음, 보통 uiux쪽 디자인은 rgb로 작업을 하잖아요. 근데 제가 인쇄도 고려한 포트폴리오를 만들려고해서 어도비 일러에서는 cmyk로 포트폴리오 틀을 만들었는데요 제 작업물들이 컬러감이 좀 쨍한게 많고 그래서 디자인 작업물들을 일러에 넣으면 색 변형이 너무 심하게 일어나더라구요 정말 아예 다른 느낌의 디자인이 되어버리는데 다들 이런 경우를 어쩔 수 없이 감안하고 인쇄용 포폴을 만드시는건가요.. 제 경우엔 인쇄를 포기하고 포폴도 rgb로 만드는 게 좋을까요,",
+        "writer": "UgyDs73TWX_zCAtDVQh4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2년전 영상이지만 이 부분에 대해서 문제가 생겨서요. 일로스트레이터에서 cmyk로 작업해서 cmyk로 저장하면 화면에서 색감이 다르게 나오고 rgb로 저장하면 작업할때랑 똑같이 저장이 되도라고요 인쇄를 할경우 색감이 바뀌어서 저장된 cmyk처럼 나오게 되는건가요 오래된 영상이지만 혹시나 해서 질문드려요",
+        "writer": "UgwWlvRuXG_aKgv1VgB4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 영상에 관한 내용 감사히 잘보았습니다. 제가 카페 간판(카페 이름으로 된 틀이나 모형)과 인테리어용 벽 시트지 카페 브랜드 판촉물 등을 디자인 작업하여 실제 결과물로 만들어야 하는데 앞서 언급드린 것들은 디자인하는 과정에서 전부 CMYK로 작업하면 되는것이죠 웹용으로만 만들다가 실물로 작업해보는건 처음이라 제가 이해한 것이 맞는지 궁금해서 여쭤봅니다,",
+        "writer": "Ugw9YeSlnqMQyEBF1JB4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만약 그냥 흑(반사회적용어)쇄(글만 있음)할 시에는 rgb로 저장한 pdf파일 그대로 출력해도 문제없는건가요",
+        "writer": "UgymFKlPf6iJ762ps8p4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프린터 초급자 교육시 컬러 관련 설명을 어떻게 하나 어려웠는데 너무 쉽게 설명해주셔서 감사합니다. RGB와 CMYK 색감 비교 RGB아 CMYK 원색 설명 색 표현 영역 범위 프로그램 기본 컬러 모드 CMYK",
+        "writer": "UgzPIRaB8QXbVRn1abJ4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 조금 다른 질문인데 jpg로 저장했을 때 나중에 png로 바꾸거나 아니면 반대로 png jpg로 변환할 때 파일 크기가 변화하거나 원본이 어떤 식으로든 바뀌지 않나요,",
+        "writer": "Ugy2rwMPzCnOuSrv3l94AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RGB CMYK 색상 표현 영역 RGB는 빛이다",
+        "writer": "Ugx53qWsYYZkFJ-WyUF4AaABAg",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘 그냥 알쥐비 모드가 기본이니까 대충 인쇄할때 원하는 컬러는 컬러칩 들고 가면 되는거 아닙니까.",
+        "writer": "Ugz85nW-dMCGJQ332FR4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 저는 디자인이 좋은데 많은 걸 알려 주는 이곳이 딱 저한테 맞는 것 같네요. 이해하기도 쉽게 설명해주시고 약간의 개그( )도 넣어 주셔서 정말 재밌어요. 오늘 호기심 하나를 해결했네요. 구독하고 갑니당 감사합니당.....",
+        "writer": "UgyNuQGmpWgBjUVJkHt4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "VI 같은 브랜드북을 만들때 어떤 색체계를 기초로 하면 좋을까요 RGB로 색을 정하고 나면 자동으로 나오는 CMYK말고 눈으로 보기에 RGB랑 가장 흡사해 보이는 CMYK를 찾아야 할까요",
+        "writer": "Ugyy9Lg4qgJ2T_ZTvTZ4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 (이름).. ) 혹시 브랜드 컬러 가이드를 만들 때 프린트용이랑 웹용의 컬러를 따로 정하기도 하나요 Pantone 으로 정했을때 예를 들어 프린트로는 괜찮은 어두운 블루로 나오지만 웹상에서 (작업할때) 보면 너무 밝은 색상일 경우에는 따로 지정을 하기도 하나요,",
+        "writer": "UgzNX_ucNxCrAvza_JZ4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉬운 설명 정말 감사합니다. 또박또박 말씀해주시니까 귀에 쏙쏙 들어와서 듣기 너무 편했습니다.",
+        "writer": "UgwJSnLXtXM7Ck95eC94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 천사신가요, 학교에서도 안알려주는거 잘배우고 가요",
+        "writer": "UgwVUeZo7ChTm5cD3ex4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 귀여우세요 짝짝짝",
+        "writer": "Ugyr4ERaiKGHlCSJ0Rt4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 유물 아닌가요",
+        "writer": "UgwhSuvsPGHdpmR_OWd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 유익한 강의를 이렇게 친절하게 듣다니 감동입니다.",
+        "writer": "Ugy1duw3R0kUusBOQ9R4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강의와 답글을 보니 완전 박사시네요 극강칭찬 해드립니다",
+        "writer": "UgwNucHNYr0OB0Tl2v94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 모니터의 검은 부분은 어떻게 표시되나요",
+        "writer": "UgwzCZ9BCL4q1f7UVf54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출력도 해야하면 CMYK로 해야 나중에 색변형이 (이름) 적게 일어난답니다 )",
+        "writer": "Ugx2E0-oUD5rwMO3x-54AaABAg.9SkHvwGktKB9Sl9DWUNsX9",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우음, 글쎄요 혹시 (이름)를 보는 뷰어의 문제일 수 도 있으니 다른 뷰어도 확인해 보시고 해당 (이름) 파일을 포토샵에서도 불러와서 확인해 보세요",
+        "writer": "UgzEe8Ea54tbxuKNKet4AaABAg.9SWLUxodKu29SaimuCmrkV",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 강좌의 설명처럼 rgb의 색영역이 cmyk보다 훨씬 더 넓기 때문에 cmyk에서는 특히 채도가 높은 색상은 거의 컬러 표현이 불가능 하답니다 보통 cmyk판을 깔고 작업하는 (이름) 출력했을 때 모니터를 보면서 그나마 색상이 어떻게 바뀌는지 가늠하기 위함이라 할 수 도 있어요 ) 그러니까 서류전형 볼 때도 일단은 디지털 파일로 포트폴리오를 전달하시는 경우가 될테니 컬러모드 별 색차이가 많이나는 포트폴리오라면 일단은 맘편히 rgb로 작업을 하시고 출력물만 나중에 cmyk로 컬러모드 변경하셔서 출력을 하세요 사실 rgb모드로 된 파일을 그대로 인쇄소에 전달해도 출력은 문제 없이 할 수 있답니다 단지 나중에 출력된 결과물을 받았을 때 cmyk 개념을 모르고 있다면 색차이가 너무 많이 나서 놀랄 뿐이죠",
+        "writer": "UgyDs73TWX_zCAtDVQh4AaABAg.9Qxb3p5vns89QyiLkBn50m",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 답변 감사합니다 .. 고민이 많았는데 말씀해주신 덕분에 해결되었어요...",
+        "writer": "UgyDs73TWX_zCAtDVQh4AaABAg.9Qxb3p5vns89Qyj-uILTyq",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 질문이네요 (이름) 저장할 때 보면 icc프로파일에 체크하는 옵션이 있는데 icc프로파일이 보통 디자인 프로그램에서 보여지는 색감을 그대로 담아주는 역할을 하는 거랍니다 그런데 윈도우os의 기본 (이름) 뷰어는 icc를 읽지 못하는 경우가 많아서 색 표현이 제대로 안되는 경우가 발생해요 그래서 기본뷰어가 아닌 다른 뷰어를 설치하셔서 다시 비교해 보시면 똑바로 보일거에요 )..",
+        "writer": "UgwWlvRuXG_aKgv1VgB4AaABAg.9QZk6RbSIkp9QZvpg7ub4Q",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 우디쌤 영상 보면서 많이 공부하고 있어요. 이렇게 친절하게 답변까지 해주시고. 정말 감사해요",
+        "writer": "UgwWlvRuXG_aKgv1VgB4AaABAg.9QZk6RbSIkp9QZwVJBKrNg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RGB로 작업하셔도 출력하는 프린터기는 통상적으로 CMYK라는 각각의 잉크를 이용해서 출력을 하게 돼요 강좌의 설명처럼 RGB의 채도가 높은 색은 CMYK에서 표현을 못하기 때문에 작업하신 결과물에 채도가 높은 색이 있으면 출력했을 때 그만큼 그 부분이 죽어서 표현이 된답니다 그래서 상황에 따라 실제 모니터로 보는것과 완전히 다른 색처럼 출력이 될 수 도 있고 비슷하게 나올 수 도 있는거에요. 맘편하게 인쇄할 일이 있다 하면 컬러모드 자체를 CMYK로 하면 사용하는 모니터의 색재현률과 인쇄소의 인쇄 환경이 좋다는 가정하에 (이름) 모니터로 보는것과 유사한 색상으로 출력이 된답니다 )",
+        "writer": "Ugw9YeSlnqMQyEBF1JB4AaABAg.9QSX8mp5PWT9QT4Qoq0oCW",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 ) 실제로 CMYK로 내보내기해서 모니터로 원본(RGB로 작업한 거)과 함께 비교해 보세요 ) 눈으로 보이는 차이가 크지 않으면 CMYK로 인쇄 했을 때 도 큰 차이가 나지 않는답니다.",
+        "writer": "UgymFKlPf6iJ762ps8p4AaABAg.9Q8w2ufsXBD9QA8s0MH3ZL",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 감사합니다",
+        "writer": "UgymFKlPf6iJ762ps8p4AaABAg.9Q8w2ufsXBD9QALY4PXnyY",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디자인 연구소 카테고리에 도움되는 디자인 기초지식 강좌들이 많이 있답니다 ) 참고하시어 내용을 덧대어 설명하시면 더 좋을거에요",
+        "writer": "UgzPIRaB8QXbVRn1abJ4AaABAg.9Q75-YrKqDV9Q7syldcM3P",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "jpg는 압축방식의 포맷이고 png는 무손실 포맷이라 왔다갔다하면 크기나 해상도에 변화는 있습니다 ) 제일 좋은건 원본 파일 자체를 가지고 있는거에요 사진이라면 raw 포토샵이라면 psd 일러스트레이터라면 ai 등등요.",
+        "writer": "Ugy2rwMPzCnOuSrv3l94AaABAg.9PoIOjAe7nq9PokDLLyXsU",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 그렇군요. 아 사실 원래 그리고 앞에 썼던 글이 있었는데 그리고부터 올라갔네요 모니터 화면에서 볼 때랑 출력물의 다름 또 인쇄소마다의 결과물 차이를 어떻게 극복할 수 있나요 어쩔 수 없다면 (이름) 극복하거나 나한테 맞는 방법을 찾으려면 어떻게 해야 할까요,",
+        "writer": "Ugy2rwMPzCnOuSrv3l94AaABAg.9PoIOjAe7nq9PooPojZz56",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모니터랑 출력물 맞추는건 정말 어려운 일이에요 당장에 돈을 투자해서 색재현률이 우수한 모니터나 스파이더와 같은 캘리브레이션 장비 등등을 사용하고 맞췄다 해도 인쇄소의 습도며 또는 프린터기 마다 출력되는 소재에 따라 색 표현이 저마다 다르기 때문에 현실적인 극복( )방법은 똑같은 인쇄소나 똑같은 프린터기처럼 기준을 정하고 그 기준에 맞춰 모니터 색을 맞추는 등 여러번 테스트를 해봐야 한답니다 (",
+        "writer": "Ugy2rwMPzCnOuSrv3l94AaABAg.9PoIOjAe7nq9PpBDTHtIhS",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오호댜 짝짝짝 )",
+        "writer": "Ugx53qWsYYZkFJ-WyUF4AaABAg.9Ng-mutHWJe9Ng4AUsHI3P",
+        "write_date": "2021-06-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컬러칩 맞춰서 하면 좋겠죠 ) 다만 색이 여러개고 별색이 들어가버리면 비용도 올라가버리겠네요 (",
+        "writer": "Ugz85nW-dMCGJQ332FR4AaABAg.9MpszbUgzrO9MqHjm_kZCC",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 샘 저는 초보입니다 .",
+        "writer": "Ugz85nW-dMCGJQ332FR4AaABAg.9MpszbUgzrO9MqNmqrjhXn",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형광색 금박 은박 팬톤컬러 등의 4도 인쇄가 아닌 다른 색상을 보고 별색이라 해요 ) RGB모드가 기본 모드인건 잘못된 생각이에요 컬러 모드는 내가 지정할 수 있습니다",
+        "writer": "Ugz85nW-dMCGJQ332FR4AaABAg.9MpszbUgzrO9MqqTIdzf3B",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반가워요 앞으로 우디와 함께 즐겁게 공부해봐요..",
+        "writer": "UgyNuQGmpWgBjUVJkHt4AaABAg.9MiPMDTp7-a9MihwCyxcy4",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가썼지만 이해가 되실지",
+        "writer": "Ugyy9Lg4qgJ2T_ZTvTZ4AaABAg.9L1ivPxQ3vD9L1j19cwKlE",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인쇄와 관(비속어) 되었다면 거두절미하고 CMYK로 작업을 하면 됩니다 RGB로 해도 인쇄는 당연히 되지만 색 영역이 CMYK가 훨씬 더 좁으므로 인쇄할 때 색 변형이 일어나는 걸 모니터와 비교해서 (이름) 줄이(비속어) 한다면 CMYK판으로 작업을 하셔야 돼요 )",
+        "writer": "Ugyy9Lg4qgJ2T_ZTvTZ4AaABAg.9L1ivPxQ3vD9L2_5_2BdSK",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 가이드북 요청하면 RGB CMYK 펜톤이 있으면 펜톤도 같이 작성해서 드리고 있어요 대기업 같은 사이트 잘 (비속어)보시면 브랜드 가이드북 파일 받아볼 수 있으니 그런거 많이 참고해 보세요 )",
+        "writer": "UgzNX_ucNxCrAvza_JZ4AaABAg.9HZX7vTYSrE9H_-XMtxAa2",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 앞으로도 같이 즐겁게 공부해요 )",
+        "writer": "UgwJSnLXtXM7Ck95eC94AaABAg.9HHLf5VraUM9HMPqG7I__8",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디자인 툴도 툴이지만 이런 내용들도 알고 있으면 정말 도움 많이 된답니다 ) 디자인 연구소 카테고리에 있는 내용들 하나씩 챙겨 보세요",
+        "writer": "UgwVUeZo7ChTm5cD3ex4AaABAg.9GwcYzFBkXO9GxN58guloH",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짝짝짝짝 키킼",
+        "writer": "Ugyr4ERaiKGHlCSJ0Rt4AaABAg.9C_82j4hz8K9Ca-wheAqJZ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오호라 디자인 연구소 카테고리의 강좌들을 보셨군요 _. 정규 강좌도 중요하지만 여기 있는 내용들도 정말 중요하답니다 ).",
+        "writer": "Ugy1duw3R0kUusBOQ9R4AaABAg.9BPMb0k5m7b9BPskHypQ9G",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아쿠 아닙니다 그저 저도 열심히 보고 공부할 뿐이예요 단지 조금 더 쉽게 잘 가르쳐( ) 드릴 뿐입니다 자주 공부하러 오세요.",
+        "writer": "UgwNucHNYr0OB0Tl2v94AaABAg.99DbYtmPMSS99DgBZ9hpsb",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 구독신청했네요",
+        "writer": "UgwNucHNYr0OB0Tl2v94AaABAg.99DbYtmPMSS99EGwBBg4k7",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 알기론 모니터상에 표현되는 블랙 컬러는 아무런 빛도 비추질 않았지만 요즘엔 블랙색상도 빛을 비춰 더 리얼한 블랙을 표현하는걸로 알고 있어요 (삼성 티비 광고만 봐도 나오네요)",
+        "writer": "UgwzCZ9BCL4q1f7UVf54AaABAg.98sugSUusBA98uIQsmXbLC",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우디씨 다시 질문이요 포토샵에서 cmyk모드로 바꾸고 사진에 밝기 어둡기 채도 명도 등등 효과 주면 효과가 적용이 전혀 안되던데 이게 왜그런거에요 컴퓨터 고장난줄 알앗어용,",
+        "writer": "UgxNMVTLxwx52vs2q8x4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우디씨 포토샵에서 처음에 rgb로 작업하고 cmyk모드로 바꾸고 출력하는거랑 처음부터 cmyk모드로 작업하고 출력하는거랑 둘다 결과물은 똑같은거죠",
+        "writer": "UgwkwPDpL1_D27MsVkd4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sRGB로 변환은 뭐에요 포토샵을 사진으로 저장할려는데 뭔지 모르겟네여",
+        "writer": "Ugx7rsE0Km1MLfNC1Fh4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "49 오늘의 연구소 수업도 감사합니다.",
+        "writer": "UgxLFd9Dvh53590YgGJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "CMYK 색상을 설정하기 전에 인화업체에 문의해서 어떤 CMYK로 편집해야 할지 문의해야 되죠",
+        "writer": "UgxgKJnESu4d2ouKsZt4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러면 제가 보고 있는 모니터의 일러스트를 실제로 프린트하면 좀 다르(어색( ))겠군용..",
+        "writer": "UgxdOxeL2H77o2wsc4J4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검은색위에 그리냐 흰색위에 그리냐의 차이 그리고 눈은, 투명위에 그리나",
+        "writer": "UgxGDUkDkohKuy9aiUJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무너무 자상한 설명 감사합니당 오늘도 또 배우고 가네요. 날이 많이 더운데 건강관리 잘하세용 )",
+        "writer": "Ugw9W1QwNgEyyyF3gbx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) . 질문이 있어요. 웹에 올릴때는 RGB로 작업하다가 스티커나 폰케이스 제작을 위한 작업을 할때는 CMYK로 하는 것이 나을까요 스티커나 폰케이스가 실제로 제작되었을 때의 색감을 미리 상상하고 작업하고 싶어서요",
+        "writer": "UgwhklzIeeHggwzea-J4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일러스트 작업 중에 rgb보다 cmyk가 용량이 더 크던데 그건 왜일까용",
+        "writer": "UgzVelyMJbCErYo3P794AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 역시 최고입니다 ..",
+        "writer": "UgyBOMT-GJLClLAuPtZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "작업하면서 궁금했던 부분인데 쉽게 이해됐어요 .감사합니다",
+        "writer": "Ugx7rVvj9CQtuPdgBWR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티셔츠를 제작하는과정에서 RGB로 만들어서 인쇄를하였는데 색감도별로고 어두워서 업체측에선 CMYK로 제작하라고하시는데 포토샵에 RGB파일을 CMYK로 바꿔도 큰 문제가 없으려나요",
+        "writer": "UgypqulIMn3C5IhHjtN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 쉽고 재밋게 설명해주시다니...",
+        "writer": "UgylGJYlMiYNAQHUHSN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 느끼는 (혐오표현)만 정말 아무것도 모르는 초보자들도 이해할 수 있을 정도로 상세하고 깔끔하게 설명해주시는 것 같아요. 그리고 갈수록 유머러스해지시는군요. 늘 감사합니다",
+        "writer": "UgyQCWQbL737Zlsqab54AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안녕하세요 일러스트 작업하다가 궁금한 것이 있어 여쭤봅니다. 제가 출력해야할 일러스트 파일 형식을 받아서(cmyk로 기본 설정된) 작업중인데 거기에 (이름)를 place할때 그 (이름)는 rgb거든요 그럼 그 (이름)들을 다 포토샵으로 cmyk로 변경을 하고 일러스트에서 place를 해야하는걸까요, 아니면 그 일러 파일 전체가 cmyk로 설정이 되어있으니 그럴필요 없는건가요, _T 제가 너무 어렵게 생각하는건지, (이름)께서 답을 항상 잘해주셔서 댓글 남겨봅니다.",
+        "writer": "Ugy-MsNdNK59ACeyJDF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 넘나 명쾌합니다",
+        "writer": "UgwQKiqzKwBUEvNyKHZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "rgb와 cmyk 디자인의 공통으로 들어가는 서체 이름은 어느 것입니까 1.",
+        "writer": "UgxMRPfEaO149zp2y4N4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 포토샵에서 사진 보정하는 상황에 모드를 cmyk로 바꾸고 하면 필터도 안먹고 기능이 (이름)게 된답니다 따라서 보정작업은 rgb로 마치고 마지막에 cmyk로 변경 하시는게 좋아요 )",
+        "writer": "UgxNMVTLxwx52vs2q8x4AaABAg.97u4OZ6EKYH97wFA6rXu-p",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 정확합니다. 살짝 햇갈릴 수 있는 부부분인데요 예로써 rgb의 사진을 포토샵에 불러와서 rgb 모드로 편집하고 일반적으로 출력하는 과(이름)면 어차피 cmyk로 출력되기 때문에 포토샵에서 cmyk모드로 작업 해야하겠지 라고 생각할 수 있는데요 하지만 사진을 포토샵에서 cmyk 모드로 작업하면 커브도 그렇고 효과도 그렇고 어떤 기능은 적용도 안되고 커브도 막 반대로 먹고 난리가 난답니다 그래서 아무리 cmyk로 출력이 되는 용도라 해도 사진편집 같은 경우는 그대로 rgb 모드로 작업한 다음 ctrl Y 를 눌러보시면 일시적으로 cmyk로 보이게 할 수 있어요 그럼 출력될 때의 색상을 잠깐 참고해보며 수정을 마치고 그대로 rgb 모드에서 출력을 진행하시면 된답니다 )",
+        "writer": "UgwkwPDpL1_D27MsVkd4AaABAg.97s0mnjCMs197tbrTFVyBw",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sRGB 웹에서 사용하는 주 색상영역 file save 에서 jgp 또는 PNG 등으로 저장하시면 돼요.",
+        "writer": "Ugx7rsE0Km1MLfNC1Fh4AaABAg.97DvZkyOBzx97EBGJGqy2e",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디자인 연구소 강좌들도 챙겨 보시고 좋아요 좋아요",
+        "writer": "UgxLFd9Dvh53590YgGJ4AaABAg.97D_Lbbbfr597EATuCI9FO",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "CMYK 모드는 그냥 CMYK 모드 하나가 다랍니다 ) 방식이 햇갈리시면 가장 정확한건 사진이건 포스터건 인쇄 요청하실 인쇄소에 전화해서 컬러모드 어떤걸로 하면 되는지 물어 보시면 돼요.",
+        "writer": "UgxgKJnESu4d2ouKsZt4AaABAg.95G-fIAraSc95GM3y7RIQU",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 다를 수 밖에 없어요 똑같은 핸드폰 모델도 저마다 색감 차이가 다르듯 인쇄소의 환경도 다를 수 있기 때문에 완전히 눈에 보이는대로 출력하기는 힘들답니다 물론 이 걸 (이름) 해결하기 위한 다양한 방법들도 있기는 해요 )",
+        "writer": "UgxdOxeL2H77o2wsc4J4AaABAg.9471vOINOdW94831hegIxF",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우흠 어찌보면 그렇게 비유들어도 되겠네요 .",
+        "writer": "UgxGDUkDkohKuy9aiUJ4AaABAg.8zbNTjTUxDx8zbs16UEWO7",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RGB CMYK는 디자인의 기본이랍니다 ) 감사합니다.",
+        "writer": "Ugw9W1QwNgEyyyF3gbx4AaABAg.8wxJD5QC1FQ8wxdQ4dLBjb",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참고로 포토샵에서 작업하시는 거라면 ctrl Y를 눌러 RGB모드에서 CMYK모드로 미리 보기가 가능해요 일단 인쇄는 무조건 CMYK컬러를 따라가는거니 사진과 같은 보정에는 RGB로 당연히 보정은 하되 어쩔 수 없이 잃게 되는 색상 정보를 꼭 미리보기나 CMYK모드로 변경해서 확인하고 출력하는게 좋아요 색상이 화려하지 않다면 CMYK로 작업한걸 웹에 올려도 상관은 전혀 없구요 RGB컬러가 많이 들어가면 웹에는 RGB출력은 CMYK로 색정보를 어느정도는 잃는다 생각하고 하시면 돼요 )",
+        "writer": "UgwhklzIeeHggwzea-J4AaABAg.8wrCDWwnsoO8wrxBJS3By9",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컬러 모드별로 용량 차이는 있을 순 있지만 꼭 cmyk가 높은건 아니랍니다 )",
+        "writer": "UgzVelyMJbCErYo3P794AaABAg.8wRYUvaWwym8wTx5kGl1Qm",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 답변 정말 감사해용",
+        "writer": "UgzVelyMJbCErYo3P794AaABAg.8wRYUvaWwym8wUFKUr3em_",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디자인 연구소 카테고리에 있는 강좌들이 의외로 도움되는 것들이 정말 많답니다 . 시간내시어 꼭 하나씩 살펴 보세요 ) 필수 지식 쌓는데 도움이 많이 되실거예요",
+        "writer": "Ugx7rVvj9CQtuPdgBWR4AaABAg.8v6iLn04nen8v79iHJy1jI",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상보면서 포토샵 일러스트 (비속어)해보려구요",
+        "writer": "Ugx7rVvj9CQtuPdgBWR4AaABAg.8v6iLn04nen8v7Aau2KLyU",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당연히 티셔츠 또한 인쇄 류에 포함되기 때문에 RGB로 만든걸 전달해드려도 프린팅은 CMYK로 표현될 수 밖에 없어요.. (이름) 모니터를 통하여 보고 있는 색상으로 작업 하시고 싶으시면 CMYK 모드로 작업을 하시는게 맞아요 다만 포토샵에서 CMYK로 작업을 하면 커브등 일정 기능이 조금 (이름)게 보일 수 있는데 저는 보통 RGB로 작업하고 ctrl Y 를 눌러 cmyk모드로 종종 보면서 최종 작업물은 cmyk로 전체 변경 시켜서 전달 드리고 있어요 )",
+        "writer": "UgypqulIMn3C5IhHjtN4AaABAg.8uDCmdzGWC48uDWx_ne_D_",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 ctrl Y눌러 cmyk모드를 보면서 한다고하셨는데 색을 바꿨을때 색감이 많이 로스되는 부분은 어떻게 색을 수정할까요.",
+        "writer": "UgypqulIMn3C5IhHjtN4AaABAg.8uDCmdzGWC49H-_MHY2SQb",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 쉽죵 ) 디자인 지식도 꼭 알아두자구요",
+        "writer": "UgylGJYlMiYNAQHUHSN4AaABAg.8tjg4VutSS-8tjka-xh_V-",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 말씀 감사합니당 ) 쉽게 가르쳐 주는게 저의 능력( )인가 봐요 능력을 잘 활용해서 언제나 쉽고 재밌게 알려 줄 수 있도록 노력할테니 자주 공부 하러 오세요..",
+        "writer": "UgyQCWQbL737Zlsqab54AaABAg.8rqvt3i77Mj8rrLBcUv6UT",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "충분히 햇갈릴 수 있는 좋은 질문이네요 그러니까 지금 일러스트레이터(cmyk)에서 작업중인데 사진(rgb)를 일러스트로 가지고 와야 하는 상황이시잖아요 이렇게나 저렇게나 출력은 무조건 cmyk색상을 사용하니까 모니터의 색재현률과 프린터의 출력 색재현률이 똑같다고 가정을 하면 지금 보시는 cmyk환경의 일러스트레이터는 눈에 보는것과 같은 색상으로 출력이 되는데요 사진(rgb)같은 경우엔 일러스트레이터(cmyk)로 가지고 온다고 해서 바로 cmyk로 보이질 않아요 그래서 정확하게 출력할 때 색상이 어떻게 되는지 궁금하면 애초에 사진 보정을 rgb상태에서 포토샵에서 마친 다음 cmyk의 jpg등으로 저(이름) 가지고 오면 가장 정확하게 어떤 색상으로 출력이 될지 눈으로 확인을 할 수 있어요 하지만 저같은 경우엔 정말 민감한 경우가 아니고선 그냥 일러에서 작업할 땐 그대로 rgb모드의 사진을 가지고 와서 출력을 해버리고 있어요 어차피 색상이 변하는건 마찬가지니까 사진같은 경우엔 어느정도 채도(실제로 rgb를 출력하면 채도가 빠진것 처럼 탁해지는 경우가 있어요)가 빠지겠거니 하고 생각만 하고 귀찮으니까 그대로 rgb사진을 일러로 가지고 와서 사용한답니다 ).",
+        "writer": "Ugy-MsNdNK59ACeyJDF4AaABAg.8riuXKCC_UR8rj6WrDxlnc",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 앗 네. 그럼 저도 (이름)를 그대로 가지고와서 사용해도 되겠네요 이해하기 쉽고 친절한 답변 감사합니다..(_ _)",
+        "writer": "Ugy-MsNdNK59ACeyJDF4AaABAg.8riuXKCC_UR8rjYHNJvvbp",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포토샵 일러 만큼이나 디자인 연구소 카테고리에도 꼭 알았으면 하는 좋은 내용이 많이 있답니다 )",
+        "writer": "UgwQKiqzKwBUEvNyKHZ4AaABAg.8qkvoZoS7Q78ql3kBJqJSX",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 저작권 협회에서 일하시는 분 아니시죠 아마 도현체 일거예요",
+        "writer": "UgxMRPfEaO149zp2y4N4AaABAg.8qi-gh2pldj8qiH5_IyhzX",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금한게 있는데요. 포토샵으로 웹디자인 RGB 작업하다가 아이콘 일러스트 같은 벡터(이름)를 가지고 오면 cmyk로 적용되나요",
+        "writer": "UgwhnK24aeqLDLiA4JZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이런게 알짜베기 (반사회적용어)강의, 크, 이마 탁 치고 갑니다",
+        "writer": "UgyEss4jOP91IGNsExF4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엇 그러면 만약 이모티콘을 만들경우엔 RGB로 작업을 하고 이모티콘 만든그림이나 회사에서 출력해야하는 작업들은 CMYK로 하면 되나요, 제가 이해를 한건지 안한건지 모르지만 일단 (이름) 메리크리스마스",
+        "writer": "UgwgyID4wfCImBukFht4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 감사합니다.. 그렇다면 인쇄물 작업 할땐 cmyk로 작업하는게 필수적이겠군요..",
+        "writer": "UgyF5HbhfYa6ItjGZrR4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 강의,",
+        "writer": "UgybLQATpG7ssgyGxbh4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 이렇게 항상 궁금했던 부분만 찾으셔서 설명해주시나요",
+        "writer": "UgyYuoGuj1v4noH_KVV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 늘 정말 좋은 강의감사합니다. 곧 구독자 만명이네요..",
+        "writer": "Ugzx9JjDLU9CTLYJCPZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 메리 크리스마스 보내셨나요",
+        "writer": "UgwWymexjLFyePBRgV14AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크리스마스에도, 열일하는 (이름)은 그저, 빛",
+        "writer": "UgxOYV_bV-2dkHW1TQN4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크리스마스에도 열강하시는 우디선생님 감사해요메리크리스마스",
+        "writer": "Ugyy1gKcxgYxgyN8x6R4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 좋은 강좌 감사해요 메리 크리스마스",
+        "writer": "UgxQBKiM1DsZzVkNYl94AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크리스마스인데 업로드하시느라고 수고하셨습니다.",
+        "writer": "UgxgqqkMlGP6esF6B5d4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포토샵의 컬러 모드가 RGB라면 어떤 파일을 가져오건 RGB로 보여지게 됩니다 )",
+        "writer": "UgwhnK24aeqLDLiA4JZ4AaABAg.8qMnim(반사회적용어)kTO8qNC4pe5sfi",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgyEss4jOP91IGNsExF4AaABAg.8pI1Wl_IWN38pJJxE4NJCZ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하 아니에요 이런 질문들 충분히 예상했어요 이게 웹에서 끝나느냐 또는 출력까지 생각하느냐에 따라서 모드를 정하시면 되는데요 우선은 cmyk로 작업하면 rgb로 바꿔도 전혀 문제가 없지만(rgb의 색 영역이 더 넓기 때문) 그 반대로 rgb로 작업한건 cmyk로 변경시 색상 오차가 심할수도 적을수도 있어요 제가 알기론 카톡 이모지들도 대부분 일러스트레이터에서 만드시는걸로 알고 있어요 그렇담 위의 말처럼 애초에 cmyk모드로 일러스트레이터에서 만들어 버리면(물론 영상 처럼 형광빛 파랑 같은 색상은 표현하기 힘들지만) 출력과 웹 업로드 등에도 문제가 될게 없겠죠 예를들어 포토샵으로 작업을 해야 기능적으로 표현하기 쉬운 포스터 작업이 있다고 쳐요 그리고 해당 포스터는 웹에도 올리고 인쇄도 한다고 가정하면 일단은 포토샵 rgb로 시작해서 디자인을 모두다 마치구요 웹에는 쨍한 느낌의 rgb모드로 저장한 (이름) 파일로 그대로 업로드 하고 출력은 cmyk로 출력해서 비록 색감이 조금 빠지더(반사회적용어) (모든 색감이 다 빠져버리는건 아니에요 원색 계열 색상이 많이 없으면 어떤건 모드를 바꿔도 별로 티가 나지 않는 경우도 있답니다) 출력을 하면 되겠죠 ) 간단하게 생각하면 된답니다",
+        "writer": "UgwgyID4wfCImBukFht4AaABAg.8pHp8Y7S2LO8pHvLP2fIOq",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 아아아아아 이해했어요.. (이름) 답글 보고 이해 하고 영상을 보니까 알겠어요 홓홓홓 요상한 질문에도 완벽한 답글 감사합니다..",
+        "writer": "UgwgyID4wfCImBukFht4AaABAg.8pHp8Y7S2LO8pJIYzwoU0V",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요상한 질문(이름)요 ) 너무너무 좋은 질문이였어요. 분명히 다른분들이 (이름) 댓글을 보고 아하 그렇구나 하시는 분들도 계실거랍니다 저도 답글 달아 드리면서 한번더 공부하게 되구요 질문은 언제나 환영이에요..",
+        "writer": "UgwgyID4wfCImBukFht4AaABAg.8pHp8Y7S2LO8pJJvJ_10B_",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 (이름) 댓글 보고 아하그렇구나 정보 얻어가는 1인입니다 _",
+        "writer": "UgwgyID4wfCImBukFht4AaABAg.8pHp8Y7S2LO8rqvVsuDwlu",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이론 공부도 열심히,",
+        "writer": "UgzEtF2uJefwjtY17Qd4AaABAg.8pHoMEIQX0-8pHu_wUO5KW",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 사실 조금 난감하긴 한데요 만약 정확한 색상 구현을 해야(이름)면 당연히 cmyk로 작업을 해야 모니터로 보이는 색상과 거의 흡사한 인쇄가 가능 하구요 사진 같은 경우에는 그냥 rgb로 최종 작업 마치고 그대로 rgb파일로 업체에 전달해서 출력을 해요 사진 처럼 색감에 민감한 인쇄의 경우엔 전문 업체에서 (이름) 색상을 살려서 출력을 하고 있어요 그리고 포토샵으로 cmyk모드로 작업시에 이래저래 불편한 것들이 많이 생겨서 시작은 rgb로 하고 cmyk 컬러로 색상 변형하고 싶을 땐 마지막에 Image Mode 에서 cmyk 컬러로 변형 시켜 사용 한답니다 또한 참고로 포토샵에서 단축키린 ctrl Y 를 통해서 모드변경이 아닌 일시적으로 cmyk 컬러로 볼 수도 있답니다",
+        "writer": "UgyF5HbhfYa6ItjGZrR4AaABAg.8pHmGgzyOGC8pHuRWjU2H0",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 친절한 답변 감사드려요 항상 잘 보고있습니다",
+        "writer": "UgyF5HbhfYa6ItjGZrR4AaABAg.8pHmGgzyOGC8pO78fXCX-L",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 궁금하던 부분인데 정말 감사합니다 구독할케여 하나더 궁금한게 있는데요 만약 포토샵으로 사진(이름)들 꼴라쥬해서 출력할시엔 RGB가 더 나은지요",
+        "writer": "UgyF5HbhfYa6ItjGZrR4AaABAg.8pHmGgzyOGC99Wpwt-f30f",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgybLQATpG7ssgyGxbh4AaABAg.8pHk5UkWl1I8pHu-Z-CuAi",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지, 지켜보고 있다,",
+        "writer": "UgyYuoGuj1v4noH_KVV4AaABAg.8pHiMRxwggr8pHtynorHmm",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 요즘 포토샵 공부를 하려고 책을 찾아보고 있어요 혹시 괜찮은 포토샵 책 추천 좀 부탁드려도 될까요 포토샵 기능이 너무 많아서 제가 산 책들은 대부분 뭐랄까 사전처럼 포토샵 기능만 줄줄이 설명해놓은게 대부분이더라구요 따라할수있는 예제가 많은 책없을까요",
+        "writer": "UgyYuoGuj1v4noH_KVV4AaABAg.8pHiMRxwggr8pHx0UEJ1lB",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음, 사실 시중에 나와있는 대부분의 책은 기초적인 내용을 다루는 기본구성으로 되어 있는게 대부분 이구요 예제가 많은 책은, 글쎄요 (나중에 꼭 제가 책을 만들겠습니다 ) 그러나 가장 좋은 방법은 바로 유튜브 를 통해서 공부하는 거랍니다 기본적으로 툴 사용법을 익히고 이제 혼자서 공부할 수 있는 수준이 되면 유튜브를 통해서 내가 원하는 스타일의 강좌를 찾아 볼 수 있고 또는 내가 원하는 내용만 검색해서 배울 수 있답니다. 유튜브를 통해서도 부족한게 있다면 학원이나 레슨등을 통해서 공부를 하시는게 심층적으로 배울 수 있는 방법이 아닐까 하네요 )",
+        "writer": "UgyYuoGuj1v4noH_KVV4AaABAg.8pHiMRxwggr8pJJmqEzsIR",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 자세한 답변 감사드립니다 책 꼭 기다리겠습니다",
+        "writer": "UgyYuoGuj1v4noH_KVV4AaABAg.8pHiMRxwggr8pK6YOpQRc9",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제가는 만들겠죠) 만들면 꼭 여기 댓글에 답변 다시 달아 드릴게요",
+        "writer": "UgyYuoGuj1v4noH_KVV4AaABAg.8pHiMRxwggr8pKY6qQAQEy",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글을 쓰다보니 어느덧 만 명이네요, 감동의 쓰나미가 , 다 여러분들 덕분입니다 정말 감사해요... 조만간 감사의 영상을 올리도록 할게요 )",
+        "writer": "Ugzx9JjDLU9CTLYJCPZ4AaABAg.8pHfK4bpm_38pHlHUjy2NC",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 이번 크리스마스에 뭔가 사건 아닌 사건( )이 있었지만 부디 별 일이 없기를 바랄뿐이네요 우리 다음 크리스마스때도 이렇게 안부를 물어볼 수 있게끔 다들 다가오는 새 해에도 건강하자구요.. ) 감사합니다",
+        "writer": "UgwWymexjLFyePBRgV14AaABAg.8pHR3HSQtih8pHSzcG9dOM",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄훠낫 기다리시는 여러분들을 보니 열일해야죠 감사합니다...",
+        "writer": "UgxOYV_bV-2dkHW1TQN4AaABAg.8pHJ4h0pbn68pHS_Pk1hMH",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 하루 쉬까, 생각을 했지만 이렇게 댓글 달아주시는 여러분들을 보니, 역시나 약속한 날짜엔 꼭 업로드 해야겠다는 생각을 다시금 느끼게 되네요 고마워요..",
+        "writer": "Ugyy1gKcxgYxgyN8x6R4AaABAg.8pHGBQ9wkin8pHSQHLr6AR",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메리크리스마스 크리스마스 마무리 잘 하시구요 툴 도 툴이지만 디자인 이론도 배우자구요 )",
+        "writer": "UgxQBKiM1DsZzVkNYl94AaABAg.8pHEHdxdB9w8pHSL6JGUE5",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 너무나도 놀고 싶었지만 기다리고 계실 구독자 여러분들을 생각해서(반사회적용어) 열심히 촬영해서 업로드 했답니다 ) 크리스마스 마무리 잘 하시구요 감사합니다.",
+        "writer": "UgxgqqkMlGP6esF6B5d4AaABAg.8pHD3UwF3yI8pHSFsBce-r",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=PP4pS_O9-rc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

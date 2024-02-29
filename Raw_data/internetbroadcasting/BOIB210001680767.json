@@ -1,0 +1,716 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680767",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680767"
+    },
+    "text": [
+      {
+        "content": "20200615 정주행 열차 달리는 중",
+        "writer": "Ugwifk-IwwRJJ6xJKm94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼인절 차",
+        "writer": "UgxWZ4l2kxCaRCVfHZ54AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 은 견덕껀대 누가 자꾸 누구꺼래",
+        "writer": "UgydAb-anOe2GAY6GpJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너의 마음으로 가는 차를 잡았, 읍읍",
+        "writer": "UgxWJuoX8_A2I4hw5mV4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희자군요 (이름) 인기쟁이시네",
+        "writer": "UgwNUkGLMv6an1ZRDwF4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 1년 2개월후 수면마취에 취해서 간호사님을,",
+        "writer": "UgyZA6UfRsFvzt0NsyJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 몰아가는것 같은디",
+        "writer": "UghYvyoFYCg1lngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머독, (이름)이랑은 통화하고 나는 안한다고",
+        "writer": "Ugh6oNWdEy-IongCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 술 많이 마시면 제일 보고싶은 사람이 생각나는거니깐, 음, 네, 그렇다구요",
+        "writer": "UgjrlswI-1UYV3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희자가 누구에요",
+        "writer": "UggZCeTo-TPLCHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐 말만하면 엮어",
+        "writer": "UgjqR4vSn6cJNngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그린라이트, 안돼는데 누난 나랑 같이 솔로로 늙어가야,",
+        "writer": "UgiGktF_OgrE43gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피자가 먹고싶었던 듯",
+        "writer": "UgiFSRKQz7DRtHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피자가 먹고싶었던 듯",
+        "writer": "UgiwtwAoBD4vrHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 부일랑님 완전 귀엽",
+        "writer": "Uggj_JjdAc0LWngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 최신댓",
+        "writer": "Ugwifk-IwwRJJ6xJKm94AaABAg.99vFsSQuFCT9CwvpsB-1kI",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "AI.레톤 딱걸렸어 호르몬.",
+        "writer": "Ugh6oNWdEy-IongCoAEC.8Lnn1qvUJKo8LzTCHo-gG1",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 대정령 머독이 안 놀아주는듯",
+        "writer": "UgjBBZ7O6iLO1ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광성아, 안된다,",
+        "writer": "UgiwVGlE56CJbngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번에 (이름)이 말했죠 (이름) 술버릇이 그냥 했던 말 계속 하는거라고",
+        "writer": "Ugj5l-qK6EFJBngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자희누나가 인기가 너무 많으시네,",
+        "writer": "UgjkLx7Q2RLf43gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3년째 방송보고 있는데 그동안 로 이 없으셨나요",
+        "writer": "Ugg3916ru-FX2ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마애멤버들이 안놀아주나봐",
+        "writer": "UgiqaYoXtdLnA3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왤케 질척거려요",
+        "writer": "UgjiZyBaoY0Mt3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 견라디오 풀버전은 유툽에 안올라오는건가요",
+        "writer": "UgiWO-3EBecvVHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아닌가여 왜 계속 희자야라고 불러요",
+        "writer": "Ughs3-b-WRO6aHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희자씌 고생많았군",
+        "writer": "UggJgrP406HLDHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 설마,",
+        "writer": "UghRfDE8GxVy13gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 희자에여",
+        "writer": "UgjyJO98lp4FzHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영민 (이름)은",
+        "writer": "UgiwVGlE56CJbngCoAEC.890-DcdI-968Owjzkyg0SF",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실버 이미 이벼,",
+        "writer": "UgiwVGlE56CJbngCoAEC.890-DcdI-968RgeqLQfze6",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 슈타인님이다..",
+        "writer": "Ugj5l-qK6EFJBngCoAEC.88ovnW1SmKS8HDlBFZd-mk",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머 뭐야뭐야 나 촉 되게 좋아 뭐야뭐야",
+        "writer": "UghtTX-oIwFaGngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 많이 외로웠나봐요",
+        "writer": "UghwPdMUGCog-3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "취중진담은 아닐꺼야,",
+        "writer": "Ugjh0BChvZN-S3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느낌상 느낌으로 뭔가 알겠는데 (이름)은 견덕꺼여서 안됨",
+        "writer": "UgiUlrIIm7wVFngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 진짜 재밌었지",
+        "writer": "UggUD5y-mfLyWXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "희자야, 아니야,",
+        "writer": "Ugjb86JeaASuuXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두 분 다 너무 귀여워욬",
+        "writer": "UghbGDsr9v8qSngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "관심있으신거같은데, 술(비속어)민폐부리면 더관심있다는건데",
+        "writer": "UggRumC3hpwcTngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)을 왜(이름)이라 부르졍",
+        "writer": "Ugh3BLpvSycgengCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어, 아, 나도 (이름) 카톡알고싶, 읍읍",
+        "writer": "Uggy5vZpJW7JuHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 .",
+        "writer": "Ugj_95AlO0XBwXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 콜드플레이노래인가요 크리스마틴 목소리가 들리는거같은데, 노래 제목좀 알려주세여",
+        "writer": "UgjomqJaC4W2QngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선천적 철벽,",
+        "writer": "UgjLKYb_Ak1nnngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견(이름) 않좋아 하면 (이름)거 아니냐",
+        "writer": "UggRumC3hpwcTngCoAEC.88W3T5RkAeG8AvTSp19Zzo",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편재민 와 않,",
+        "writer": "UggRumC3hpwcTngCoAEC.88W3T5RkAeG8ZAM1lhGGc8",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래뭔가요 이매진드래곤즈인거같은데",
+        "writer": "UgjqjO6Ww6s853gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견자희 롤쌤 아니었나",
+        "writer": "UgjOGNaQRlCOZngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거는 (이름)이 (이름) 좋아하시는 거 같은 데욬",
+        "writer": "UgiRKZhO5zhIgngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녹화과정에서 에코가 들어간건가요 아니면 키고 하신건가욤 내 이어폰이 잘못된건가, 좀 울리네여",
+        "writer": "UggXFBbtlL7zc3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술먹고 생각나는게 (이름)이신가",
+        "writer": "Ugj0pSEHK5B_83gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머독 딱 걸렸어 호르몬.",
+        "writer": "UggFWkybhLHfy3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "술먹고 고백하려던 각",
+        "writer": "UgiEHZ7Yqwv_5ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마나 정신놓고드신거야",
+        "writer": "UggtY5pRd-z7dXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 그저 (이름)과 연락이 가능하는 (이름)이 부럽다,",
+        "writer": "Ugi82_z64XGRsXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 목소리 굳",
+        "writer": "UgiQJcWjtosCE3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아하네, 술먹고 무의식적으로 드러낸듯",
+        "writer": "UghixRJ8zSif9ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고, 고백",
+        "writer": "Ugii0mQyQySQXngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콜드플레이 인거같아요",
+        "writer": "UgjqjO6Ww6s853gCoAEC.88VpVzOnbRm8DiQJjmkuzZ",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마 마애 멤버들이 다 카톡 무시하니까 어쩔수 없이 (이름)란테 건걸수도,",
+        "writer": "UgiRKZhO5zhIgngCoAEC.88VjjAorH6q88WBljt1LLr",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그렇게 생각하는",
+        "writer": "UgiRKZhO5zhIgngCoAEC.88VjjAorH6q88XDy0B5R11",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별로 그런거같지는않은데",
+        "writer": "UgiRKZhO5zhIgngCoAEC.88VjjAorH6q8CXFnaqUwde",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 무의식 술버릇입니다 1년2개월이지난 지금 수면마취영상을 보십쇼",
+        "writer": "UgiRKZhO5zhIgngCoAEC.88VjjAorH6q8WuQJ1b7QH9",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머독(비속어)(비속어) 딱걸렷어 호르몬.",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88VleqfQy30",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 쥐 머독 (반사회적용어) 대결이라 쳐봐요",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88VmBpaTGaP",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 쥐님한테 한거 아님",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88YhCtMf0QK",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉬빨(비속어) 딱 걸렸어 . 호르모온 .",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88cJmwmu7Ip",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "w ow 쓔빠(비속어) 딱걸려써 호르몬...",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88kmxlPaifG",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "w ow 심증 물증 내놔",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88tmPYS6CcB",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "irene lee 그거 니 뱃살이잖아",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88to1qK6nn2",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kotoysi Kiner 물증 출렁출렁",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88to98DpQbO",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나마 캔유삘마.",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88toCXkSCao",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kotoysi Kiner 거실에서 누워있던이유는",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88toQxpPNq_",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나마 잘라고",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88toWekubqW",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kotoysi Kiner 잘라고라고 말한 이유는",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw88tos6ld02B",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JH L 잘라고 말한 이유는.",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw898gaXLz9QY",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명익 잘라고",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw898lJMgZP1N",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘라고 말(이름)는",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw89GiTDq1fs_",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명익 흠흠, 눈치게임 1",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw89GnT3NRm-w",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고동훈 졌따.",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw8W6vx-g9IZO",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공먼 내가 졌으니 날 마음대로 해도 죠아",
+        "writer": "UggFWkybhLHfy3gCoAEC.88VgV41cZNw8We7QHzguov",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화내는거방 귀여워, 이거 언제 방송분이예요",
+        "writer": "Ugil9kXM5W1jUHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 먹었어요",
+        "writer": "UgitWJDK6daRi3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥먹고와서 이득본다",
+        "writer": "UgjFaJnLB625YHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 (이름)",
+        "writer": "UghJ1jZCI2uls3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나오자마자 댓이몇개임",
+        "writer": "UgjydmqAsNPW03gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어맛 .",
+        "writer": "Uggz4qU2znWF5HgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=mSt552sE4mI",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3308 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001423423",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001423423"
+    },
+    "text": [
+      {
+        "content": "영상보고 똑같이 따라햇는데도 불구하고 난 왜 이렇게 에러가 뜨는지 모르겠네 진짜",
+        "writer": "UgzdWl47bWW7-8x_rSp4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 안녕하세요. 알려주신 방식으로 사진을 첨부하면 true인지 false인지 알려주는 서비스를 구현하고 추가적으로 자바스크립트로 로딩화면 이후에 예측 결과가 나타나도록 만들었는데요, 가장 중요한 데에서 문제가 생겼어요 테스트(비속어)에서는 잘 돌아가는데 heroku랑 python anywhere로 배포하기만 하면 구동이 안됩니다 배포한 웹에서도 앱에서도 로딩화면만 돌아가고 예측결과를 볼 수 없습니다, 원인이 무엇일까요,",
+        "writer": "UgzX2En92jWD1sCNVEh4AaABAg",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 항상 감사드립니다. 다름이 아니라 조(이름)을 따라하며 만들다 어느 한 기능을 추가하고 싶어서 그 기능을 파이썬으로 구현하는데 성공했습니다. 그런데 파이썬 기능을 연결(비속어)는 방법을 못찾고 있습니다. 혹시 방법을 아신다면 알려주실 수 있을까요",
+        "writer": "UgztD_LKLFgGDVjO4uJ4AaABAg",
+        "write_date": "2021-09-27",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 제가 지금 해보고 있는데 이번 영상으로 한 것을 저번 영상에 한거랑 어떻게 합치나요 아니면 지금 영상에 하신거를 netlify 사이트에 어떻게 다시 올리나요 제가 다시 visual studio code 로 해봤는데 codepen 에서 적용하신 코드 똑같이 넣었는데 사이트에서 적용이 안된 상태로 나와요 어떻게 해야하나요",
+        "writer": "UgwTMOXBEl3DEZ3YtsR4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 따라서 해봤는데 Uncaught (in promise) TypeError Cannot read property predict of undefined 이런 오류만 나요. 저건 해결됬는데 제가 모델을 업데이트 했어요 그래서 const URL 여기에 있는 링크를 바꿨는데 계속 이전 모델것만 나와요 왜 그런건가여 해결했어요.",
+        "writer": "UgxAITlf_nb2hSkC8rl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 애드센스 고시는 어떻게 합격하셧나요 유입인원 늘어나니까 성공한걸까요",
+        "writer": "UgyR9StfWYWdRGJF7vN4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학습 시작 시 계속 응답없음 창이 뜹니다, 대기 누르고 기다려도, 아무것도 안됨,",
+        "writer": "Ugz3MbWKHYHdNhb8tJJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생김과 못생김을 만들어 해봤더니 못생김 100가 나옴 (비속어)",
+        "writer": "Ugy1wvN8whesJElPwfF4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 만든 건 목록이 엄청 많아서 비슷한 대상일수록 위쪽에 표시되게 하고 싶은데, 여기서 코드를 더 응용하려면 공부 좀 해야겠고먼...",
+        "writer": "UgzqmjKC6U4rIVRCDj54AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 만들고 보니 모바일과 pc의 출력값이 전혀 다른데 혹시 해결 방법이 있을까요 사진은 똑같은 사진입니다. 그리고 teachable machine에서 프리뷰로 나오는 출력값이랑 예시 코드를 영상대로 넣은 웹사이트에서 나오는 출력값이 다른데 왜 그런지 알수있을까요",
+        "writer": "UgwnoHqxViI3UT5CGsB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 조(이름), 근데요, 머신러닝은 파이썬이 더 적합하나요 아님 자바스크립트가 더 적합하나요",
+        "writer": "UgyG10HW24mUiuMulS54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 제가 오류 나는것 말씀드립니다 일단 파일업로드를 했을때 (이름)가 보이지 않습니다. 해결법 주시면 감사하겠습니다",
+        "writer": "UgzSxRN61EwoX_-dhYt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 웹페이즈 들어가기 까지는 성공 했는데 휴대폰에 다운 (비속어)려고 동물상 구름id 컨테이너를 키고앱을 만드는 컨테이너에 동시 접속을 할수 없대서 앱 개발 컨테이너에 들어가서 qr를 찍었더니 웹페이지 접속이 되질 않네요 컴퓨터 얼굴상 페이(반사회적용어) 보니 404에러가 뜨면서 항시 켜두지 않으면 페이지에 들어갈수 없다고 뜨네요 항시 켜두려면 요금제로 사용해야 하는데, 조(이름)은 어떻게 휴대폰 앱으로 키신건가여 유료 가입을 안하셨나요",
+        "writer": "Ugwga8ifuB-yh3DGu_F4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 음료수 진열대 사진을 업로드하면 음료를 하나씩 인식하는 시스템을 티쳐블 머신으로 만들 수 있을까요",
+        "writer": "UgwAa0Z4jlCUpQS3aVB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로젝트식으로 만들어보고 싶었는데 잘만들어보는 중입니다.",
+        "writer": "UgyBxovUp5PXUvH57cR4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "github에 있는 완성 코드를 활용하여 웹사이트를 만들어도 될까요",
+        "writer": "UgwmnPH1HkDNwOfTIZt4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 혹시 사진 주실수있나요",
+        "writer": "UgyesmXT6qnkrKa3LTp4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결혼자금 모으려고 여기저기 알아보다가 네이버에 CLS투자그룹 검색하고 참여했더니 결혼자금 모으고도 남았네요",
+        "writer": "Ugwam80wQxsUzgRMg5h4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주식하다가 돈절반 날리고 힘들었는데 CLS투자그룹에서 원금복구에 오피스텔 계약까지 해버렸네요",
+        "writer": "UgwBKI56M5oUbBSRq6p4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "투자업체 고민중이였는데 CLS투자그룹 덕분에 첫투자부터 대성공했어요",
+        "writer": "UgzW7v0PWJF4_v4nORl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 에러가 뜨시나요",
+        "writer": "UgzdWl47bWW7-8x_rSp4AaABAg.9TTfuhBGN5h9TVdxociK1o",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "F12를 누르셔서 개발자 도구 console창에서 어떤 오류가 있는지 확인해보세요.",
+        "writer": "UgzX2En92jWD1sCNVEh4AaABAg.9Sny60A_6Pi9SpJ1lSm3d-",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Flask Django 등으로 API를 만들어서 웹과 연결해서 사용할 수 있습니다.",
+        "writer": "UgztD_LKLFgGDVjO4uJ4AaABAg.9SgxuC9uY9m9Si1nigG-bF",
+        "write_date": "2021-09-27",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구름에서 작업하신 폴더를 마우스 우클릭해서 다운 받으신 후 Netlify로 드래그해서 올려도 되고 watch v_DmM8EO3mb8 위 영상처럼 git을 (이름)셔도 됩니다. codepen 적용한 것은 HTML CSS 코드 모두 정상적으로 옮기고 저장까지 하셨는지 확인해보세요.",
+        "writer": "UgwTMOXBEl3DEZ3YtsR4AaABAg.9S5nx7gnTHw9S8I04VPaxH",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 헉 정말 감사합니다",
+        "writer": "UgwTMOXBEl3DEZ3YtsR4AaABAg.9S5nx7gnTHw9S96RgOMrWa",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 혹시 동물상 테스트 제작하는 영상 더 자세히 볼수 있는 영상 있나요 너무 어려워요",
+        "writer": "UgwTMOXBEl3DEZ3YtsR4AaABAg.9S5nx7gnTHw9SGZsZLahJe",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 다 해결하셨군요",
+        "writer": "UgxAITlf_nb2hSkC8rl4AaABAg.9RqyHfvwEzO9RrrBPn488S",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding",
+        "writer": "UgxAITlf_nb2hSkC8rl4AaABAg.9RqyHfvwEzO9RrrcUEE_Xm",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "blog jekyll 블로그를 추가하여 콘텐츠를 채워서 콘텐츠 부족 문제를 해결했습니다.",
+        "writer": "UgyR9StfWYWdRGJF7vN4AaABAg.9Ro8EEwmaPV9RoiOqyeSrD",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무한 대기 오류로 인해 teachable machine을 못쓰고 있는데 이를 대체할 다른 방법이 있을까요, 아 물론 있겠지만 그중 가장 쉬운 방법이 뭔지 아신다면 공유 받고 싶습니다. 텐서 플로를 바닥부터 싹 공부하고 코드를 내가 만들 생각 하면 너무 막막하네",
+        "writer": "Ugz3MbWKHYHdNhb8tJJ4AaABAg.9RhmogYmVzk9RjwGUuCZNI",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "KDWqWDL49sQ machine learning for kids를 이용해보세요.",
+        "writer": "Ugz3MbWKHYHdNhb8tJJ4AaABAg.9RhmogYmVzk9RkuA9RmIaR",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬이 더 많이 쓰입니다.",
+        "writer": "UgyG10HW24mUiuMulS54AaABAg.9O7sxXoaKoS9O93YCKiiWO",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 그럼 (이메일) 말고 그냥 tensorflow 써야 겠네요,",
+        "writer": "UgyG10HW24mUiuMulS54AaABAg.9O7sxXoaKoS9OAKdoN1_bf",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "F12를 눌렀을때 console탭에서 어떤 에러가 났는지 에러메세(반사회적용어) 확인하실 수 있습니다.",
+        "writer": "UgzSxRN61EwoX_-dhYt4AaABAg.9O7VOOyXQ6K9O92eO5QSxz",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_DmM8EO3mb8 여기 영상에서 Deploy하는 부분을 참고해주세요.",
+        "writer": "Ugwga8ifuB-yh3DGu_F4AaABAg.9Nj1niEnBtr9NkDBb5qdLa",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가능할 것 같아요.",
+        "writer": "UgwAa0Z4jlCUpQS3aVB4AaABAg.9NJ-1bmtF5-9NMCWbSMJOo",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 응원합니다.",
+        "writer": "UgyBxovUp5PXUvH57cR4AaABAg.9My-9SoProG9MyWYNR4k7f",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑같이 사용하신다면 제작 도움 유튜브 조코딩 채널 링크 남겨주시면 감사드리겠습니다",
+        "writer": "UgwmnPH1HkDNwOfTIZt4AaABAg.9MMAZbfYUa99MMd7LZxBsh",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 한번 만들어 보려고요",
+        "writer": "UgyesmXT6qnkrKa3LTp4AaABAg.9Lz8kMF_HhZ9Lz8mN4s8oI",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1b7pXC1IbE 위 영상을 참고하여 직접 크롤링해보세요.",
+        "writer": "UgyesmXT6qnkrKa3LTp4AaABAg.9Lz8kMF_HhZ9LzCFD2JdPJ",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대학 과제 덕분에 좋은 채널을 알게 됐네요. 미리보기 창에 위와 같은 문구가 발생하시면 먼저 저장(Ctrl S)부터 하시고 새로고침 해보세요 그래도 (이름) 있으시면 VSCode를 다운받아 이용해보세요. 여기서도 작동이 안 되시면 Teachable machine 소스의 문제일 수 있습니다. 그럴 때 티쳐블 웹에서 F12 콘솔로 오류를 탐색해보시면 좋을 거 같아용",
+        "writer": "UgwFzaNIk1dHaL_hcR14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 영상 너무 유용하게 보고있습니다.. 제 꿈은 포로그래머인데 저의 길을 잡아주시네요.",
+        "writer": "UgxJxtTIRiVthvvKUf14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "start 버튼이 제대로 작동하지 않아서 에러를 봤는데도 모르겠습니다 혹시 어떻게 보여드릴수 있을까요 .",
+        "writer": "UgyApFC9sIWGtnDBgp94AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 질문이 있습니다. 저 영상나오는대로 자바스크립트까지 하고 오픈 프리뷰를 보았는데 영상과는 다르게 start 버튼 아래로 이렇게 뜹니다 Add Image 파일 선택 선택된 파일 없음 Drag and drop a file or select add Image your image Remove Uploaded Image 혹시 이럴때는 어떻게 해야할까요",
+        "writer": "UgyRZKkKoVXtcj0FiYN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동영상 재밌게 보고 공부하고 있습니다. 현재 동물상 테스트 페이지에서 사용하고 있는 다언어 기능은 어떤식으로 개발을 해야하는건가요 혹시 가능하시면 관련 (이름)도 알려주시면 감사하겠습니다",
+        "writer": "UgxdRt1w78oQJM2Ag754AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 질문이 있는데 혹시 저런류의 프로그램을 만들떄 밑에 00상이 여러개가 뜨잖아요 (ex 공룡상 90 (비속어) 상 10 이런 식으로 뜨는데 저는 제일높은 얼굴상만 뜨게하고싶은데 아직 코딩초보여서 어떻게 해야하는(반사회적용어) 모르겠네요",
+        "writer": "UgwVH0mXV2AY9LBlolx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알파제로 영상 보다가 여기까지 왔는데 값진 보석을 발견했군여",
+        "writer": "UgwfjJZMl-k6mxG_mgp4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막바지에 에러가 떠서 어찌할까 하다가 컨테이너 만들 때에 이름을 조(이름)과 달리 하니 잘 됩니다.. 오늘도 많이 배웁니당..",
+        "writer": "UgyrhXAeMkYoagpBTYF4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분 늦긴했지만 혹시 지금보는 사람이 있을까해서 댓글을답니다 start키가 안눌리는것은 teachable에서 업로드버튼을눌러 업로드를하셔야 합니다 다 이것이 (비속어)지는 모르겠지만 start키가 안눌리면 한번 위방법대로 해보세요 저도 업로드를 (이름) 왜 안되는지 찾다 가 이유를알게되었습니다 여러분은 저처럼고생하지마세요",
+        "writer": "UgwMxCPDiB5iqZbLAGN4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) start랑얘측키가 안눌려서 콘솔을봤는데 예측키 4index.html100 Uncaught (in promise) TypeError Cannot read property predict of undefined at predict (index.html100) at HTMLButtonElement.onclick (index.html11) start키 platform_browser.ts28 Uncaught (in promise) TypeError Failed to fetch at t.fetch (platform_browser.ts28) at t. ((이메일)146) at (이메일)2 at (이메일) ((이메일)2) at (이메일)2 at new Promise () at r ((이메일)2) at t.load ((이메일)145) at (이메일)280 at (이메일)14 이렇게 적혔있더라구요 어떡해 해결해야되나요",
+        "writer": "UgwkVbtaNLwZUV8B0814AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동물상 테스트 영상을 보면서 teachablemachine에서 image project가 아니라 audio project로 프로젝트를 진행해 보았습니다. 그런데, image project에서는 image를 입력받는 부분이 있어서 그 부분을 image 파일로 바꾸면 됐는데 audio project에서는 어떤 부분을 바꿔야 audio 파일을 인식해서 결과를 보여주는(반사회적용어) 모르겠습니다. 대댓글로 달아놨어요 방법을 정말 알고싶습니다 똑똑하신분들, 도와주세요",
+        "writer": "UgxrTt2q-VXacoCjj1V4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 학습까지 문제없이 잘 마쳤습니다. 하지만 에 코드를 복붙해서 프리뷰까지해도 왜 기존과 동일하게 hello groom.이 표기되는걸까요,",
+        "writer": "UgwGkaH90xhDp_InrIV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마전 유튜브 영상을 보다가 광고에서 조(이름)이 운영하시는 심리테스트 만들기 유료 클래스를 봤는데요, 그 클래스 등록하려고 이리저리 찾아봐도 안 나오는데 혹시 링크 좀 알 수 있을까요",
+        "writer": "Ugy2HXVwhxTJlo7Q0-54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 저도 앱을 만들려고 열심히 따라하고있는데 에 open preview를 누르면 저 저 (이름)가 뜨는게 아니라 다른 (이름)가 뜨는데 뭐가 (비속어)지 알수 있을까요",
+        "writer": "UgyNk4zovi7ZSlHb-jd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이를 응용해서 아이돌 얼굴 구분 웹을 만들고 있는 중인데 정답률이 10에도 미치지 못하네요 그래도 유익한 영상 감사합니다. 쉽게 설명해주셔서 웹페이지까지 제작할 수 있었습니다. ) Advanced 창을 열어보니 다양한 기능들이 있던데 Epochs Batch Size Learning Rate가 학습단계에서 어떤 값들을 (이름)는 것인지 궁금합니다",
+        "writer": "UgxxxYVWtD0USW6ojgJ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름)은 제 (이름)이셔요 제가 가장 좋아하는 채널이라 광고도 일부러 들어와서 끝까지 보고 있습니다 감사합니다",
+        "writer": "UgzgccMlK71DlXUgQXR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름). 너무 좋은 영상 감사합니다. 혹시 학습시킬때 (이름) 사이즈는 변경이 불가능 한건가요",
+        "writer": "Ugz_TzGZyOXlCE02ibJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 조(이름) 젠체적인 코드는 거의 비슷하게하고 주제와 머신러닝 디자인만 약간 다르게해서 웹사이트만들어서 광고 붙일려하는데요 상단에 조(이름) 유튜브 링크 걸어두면 될까요 css부분이 어려워서 디자인을 거의 같게했어요",
+        "writer": "UgxV7nuwRZa8HBKBRcV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿀팁 감사합니다",
+        "writer": "UgwFzaNIk1dHaL_hcR14AaABAg.9L_zrrMvHAj9Lam8Nd8GaY",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 응원합니다 (이름).",
+        "writer": "UgxJxtTIRiVthvvKUf14AaABAg.9L1O80mWNSm9L1RybP3TDN",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "youtubejocodinganimalface1blob5648895ae422478b7d27770c7fd5dffbdf9(비속어)069index.html 완성 코드는 위 github를 참고해주세요.",
+        "writer": "UgyApFC9sIWGtnDBgp94AaABAg.9KfU2AHoQrH9KfUxc1e-yp",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다 .",
+        "writer": "UgyApFC9sIWGtnDBgp94AaABAg.9KfU2AHoQrH9Khr3GroqwC",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "youtubejocodinganimalface1blob5648895ae422478b7d27770c7fd5dffbdf9(비속어)069index.html 위 주소의 코드와 비교해보세요.",
+        "writer": "UgyRZKkKoVXtcj0FiYN4AaABAg.9KbvFBl6Vfe9Kd5JU-76gP",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다양한 방법이 있는데 저는 html 파일을 새로 만들어서 언어를 선택하면 그 html 페이지로 (이름)도록 만들었습니다.",
+        "writer": "UgxdRt1w78oQJM2Ag754AaABAg.9KSyzkOA9oD9KTakfMx8mt",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 감사합니다. 언어별로 번역된 사이트를 하나하나 만들어서 이동(비속어)는건가요 자동으로 선택한 언어로 변환 되게끔 처리 하신 줄 알았어요.",
+        "writer": "UgxdRt1w78oQJM2Ag754AaABAg.9KSyzkOA9oD9KTfnFo9sEJ",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아래와 같이 prediction을 .sort로 정렬하시면 prediction0 값이 가장 높은 값이됩니다. 따라서 prediction0.cl(비속어)Name로 사용하시면 됩니다. const prediction await (이메일)(image false) (이메일)((a b) parseFloat(b.probability) parseFloat(a.probability)) (이메일)(prediction0.cl(비속어)Name)",
+        "writer": "UgwVH0mXV2AY9LBlolx4AaABAg.9KO9tOtAlio9KOX9hI6D72",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "100번째 줄 predict 부분에 뭔가 잘못쓰여진게 있는 것 같습니다. 아래 코드와 비교해보세요.",
+        "writer": "UgwkVbtaNLwZUV8B0814AaABAg.9Jy8STMsA6X9Jyxy2BfviI",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠 구름IDE의 오류일 수 있을 것 같은데 vscode로 작업해보세요.",
+        "writer": "UgwGkaH90xhDp_InrIV4AaABAg.9J_0PwjDs8U9J_t3O-vI-4",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "catalogQ291cnNlTm9kZTpqbW9r 여기있습니다.",
+        "writer": "Ugy2HXVwhxTJlo7Q0-54AaABAg.9JKjjQxOyPd9JLp2lc587K",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 감사합니다.. 몇 시간동안 찾았네요 혹시 이 강좌를 들으면 동물 테스트 이외에도 어제 유행한 나의 컬러는 과 같은 다양한 테스트를 제작할 수 있을까요",
+        "writer": "Ugy2HXVwhxTJlo7Q0-54AaABAg.9JKjjQxOyPd9JMQ8r_-5fW",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Balhae바래 네네 맞습니다. 선택지 기반의 서비스를 만들 수 있습니다 )",
+        "writer": "Ugy2HXVwhxTJlo7Q0-54AaABAg.9JKjjQxOyPd9JMQvCY8vt2",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 등록해야겠네요 좋은 하루 보내세요",
+        "writer": "Ugy2HXVwhxTJlo7Q0-54AaABAg.9JKjjQxOyPd9JMRZ5YYRDa",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 (이름)가 뜨시나요",
+        "writer": "UgyNk4zovi7ZSlHb-jd4AaABAg.9JAP0swOA049JAzkmehDqQ",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 초록색 완전한 아이콘이 아니라 글자만 나와있고 퍼센트 (비속어)지( ) 그것도 안떠있어요 사이트 안에 들어가면요",
+        "writer": "UgyNk4zovi7ZSlHb-jd4AaABAg.9JAP0swOA049JCcbx2Bnrw",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "epoch은 총 몇번의 학습을 진행할 것인지 batch size는 한 번의 학습 안에서 10000개의 data가 학습이 되어야한다면 몇 개씩 넣어주어야 하는지(이 부분은 matrix 측면으로 생각하면 이해하실 수 있습니다. ) learning rate는 오류에 대한 패널티를 어느정도 감안하여 학습을 진행할 것인지입니다.",
+        "writer": "UgxxxYVWtD0USW6ojgJ4AaABAg.9IrfZFbe5kv9ItB77XfKQv",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "park steve 진짜 감사합니다 덕분에 이해했습니다",
+        "writer": "UgxxxYVWtD0USW6ojgJ4AaABAg.9IrfZFbe5kv9IwudtgZWsW",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 좋게 봐주셔서 감사합니다",
+        "writer": "UgzgccMlK71DlXUgQXR4AaABAg.9Igt3JM9gpZ9IhGsk4G4S7",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제작 도움 유튜브 조코딩 채널 링크만 달아두시면 똑같이 쓰셔도 괜찮습니다",
+        "writer": "UgxV7nuwRZa8HBKBRcV4AaABAg.9IH7B96iDsy9IHkvomd8Pb",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 사진업로드 방식을 모바일에서 실행한 앱 화면 인식 방식으로도 만들 수 있을까요",
+        "writer": "UgwYqd_ZA0uWi_Ymhmx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학습시킬 종류가 400가지가 넘는데 이렇게 되면 400개의 클래스를 수작업으로 만들어야하나요",
+        "writer": "Ugx0L5oJEkCCWTn_uXV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저작권에 위배되진 않나요 혹시 그렇다면 방법은 뭐가 있을까요 script내용은 따로 .js파일로 저장해도 되나요",
+        "writer": "UgwGiR60Zaf1_wnog9J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Groomide 에서 하니깐 나중엔 사이트가 없어졌다고 뜨는데 돈을 내야하나요",
+        "writer": "UgwhG8sxi_UhBY4p_dt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 start버튼 어떻게해야 작동하나요",
+        "writer": "Ugz-xvqthSfsiAalAT14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 어떻게해야하는지 알려주세요",
+        "writer": "Ugwniui8ZinnwtCye7N4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름), 저 아무리 start버튼을 눌러도 해결이 안되는데 특별히 오류는 안뜨고 개발자도구 들어가면 appearance button webkitwritingmode horizontaltb .important textrendering auto internallightdark(black white) letterspacing normal wordspacing normal texttransform none textindent 0px textshadow none display inlineblock textalign center alignitems flexstart cursor default background internallightdark(rgb(239 239 239) rgb(59 59 59)) boxsizing borderbox margin 0em 400 13.3333px Arial padding 1px 6px borderwidth 2px borderstyle outset border internallightdark(rgb(1(비속어) 1(비속어) 1(비속어)) rgb(133 133 133)) borderimage initial 라고 뜨는거말고는 없는데 혹시 zodiactestlindex.html 들어가서 (이름) 무엇인지 어떻게해결하는지 알려주실수있나요",
+        "writer": "Ugx7BAPpsLEmnU3ZfFd4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한번 다가오는 2021년을 기념해 무언가를 만들어보겠습니닷",
+        "writer": "UgyaE0eX4oIU8d6GeFN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버튼을 눌러도 작동하지 않을떄는 어떻게 해야하나요 파일이 업로드 되지 않습니다,",
+        "writer": "UgxcNpvHOVhbSg4R-zF4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 보고 있습니다",
+        "writer": "UgwKIPDvqzZZKnAy3_x4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 제가 예전에 영상 보면서 저런 거 개발할 때 버튼 만들거나 그런 코드를 특정 사이트에서 복붙 해와서 조(이름)이 그걸 붙여넣기 하는 영상을 보았는 데(출처만 남기면 됨) 그 사이트가 혹시 어떤 사이트였는지 생각 나시나요 ... 영상 너무 잘 보고 있어요",
+        "writer": "Ugy54S6YmBhuanjJkLJ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 모델 결과를 많이 할 수는 없을까요 5개가 넘어가면 그 밑으로는 표시가 안되네요",
+        "writer": "Ugx9vs73MtEQDOXlINl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "업로드 되어있는 (이름)를 remove하고 다시 똑같은 (이름)를 업로드 하면 (이름)가 안올라가고 다른(이름)를 업로드 했다가 다시 원래 (이름)를 업로드 하면 올라가는데 왜그럴까요,",
+        "writer": "UgzPTSXQVyK1Nb5iLOl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내얼굴에 어울리는 안경 자동으로 찾아주는 프로그램도 만들어주실수 있을까요",
+        "writer": "UgyXekC3QJhYUhSHw9x4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 저는 사주프로그램 만들었습니다 아래 링크 댓글 달아주시면 사주 봐드려요 watch vR8Go0AXUDOw",
+        "writer": "UgzMLR-yPj_BdXqQ0ut4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2장 마지막 까지 끝내고 스타트 누르고 테스트 해보려고했는데 시작 누르면 작동은 없고 그냥 그상태로 사진 넣고 예측 돌리면 이런 에러가 나옵니다 teachablemachineimage.min.js2 Uncaught (in promise) TypeError Failed to execute drawImage on CanvasRenderingContext2D The provided value is not of type (CSSImageValue or HTMLImageElement or SVGImageElement or HTMLVideoElement or HTMLCanvasElement or ImageBitmap or OffscreenCanvas) at Object.e.cropTo (teachablemachineimage.min.js2) at t.",
+        "writer": "UgxkvjTgWtr9UjFiDNJ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개(비속어)신같은 유로 코딩 강의 보다 훨씬 더 좋아요.",
+        "writer": "Ugx4wSxlJ7a1ROntiC54AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "start 눌러도 변화가 없네용 아래 댓글보고 f12 눌러서 콘솔창 보는데, 어떻게 해야할지 감이 안잡히네요 헤헤 Failed to load resource the server responded with a status of 404 (Not Found) (이메일)149 Uncaught (in promise) Error Request to .(이메일) failed with status code 404. ((이메일)149) at (이메일)2 at (이메일) ((이메일)2) at o ((이메일)2) 대충 이렇게 뜨는데 뭐가 (비속어)지 알수있을까요,",
+        "writer": "Ugy0q64acOIKd34yBcZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 조(이름) 코딩을 어떻게 배우셨을까요 와, 부럽다,",
+        "writer": "UgzYG2gbx4ZL8VRT6394AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 코드펜 갓드펜이네요",
+        "writer": "UgwL1evwLMkIhXtbdRl4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "teachable machine을 이용한다면 그렇습니다. python tensorflow 등을 활용하면 코드로 만들 수도 있습니다.",
+        "writer": "Ugx0L5oJEkCCWTn_uXV4AaABAg.9I5l1VQp2Q09I71eEQPwY_",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 감사합니다.",
+        "writer": "Ugx0L5oJEkCCWTn_uXV4AaABAg.9I5l1VQp2Q09I7Aomboex7",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대부분 카피라이트를 쓰고 저작권 관련 내용은 License칸에 내용이 있습니다 스크립트대신 .js로 따로 저장도 가능합니다.",
+        "writer": "UgwGiR60Zaf1_wnog9J4AaABAg.9I4otxmPLT29IBrqoun8Hy",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_DmM8EO3mb8 위 영상을 참고해보시면 netlify에 무료로 디플로이하실 수 있습니다.",
+        "writer": "UgwhG8sxi_UhBY4p_dt4AaABAg.9I2JeQUrKl-9I2mlYDWtis",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오류가 난 코드를 봐야 알 수 있을 것 같아요.",
+        "writer": "Ugz-xvqthSfsiAalAT14AaABAg.9HiTtwLeAZK9HizDKD5sPm",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오류난 코드를 보여주세요.",
+        "writer": "Ugwniui8ZinnwtCye7N4AaABAg.9HiTrSlpKaC9HizNEDElnH",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중복된코드는 삭제하고 뒤에 세미콜론() 을 붙였는지 확인 하시면 고쳐질 거에요.",
+        "writer": "Ugx7BAPpsLEmnU3ZfFd4AaABAg.9HflmVqP-DP9IBqxm3szoh",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "F12를 누르셔서 console 화면에 오류가 뜨는 것이 없는지 확인해보세요.",
+        "writer": "UgxcNpvHOVhbSg4R-zF4AaABAg.9HU3tUnTLEi9HUCKMJQm6f",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 헤결했어요.",
+        "writer": "UgxcNpvHOVhbSg4R-zF4AaABAg.9HU3tUnTLEi9HUI2Mz9fLb",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘봐주셔서 감사합니다.",
+        "writer": "UgwKIPDvqzZZKnAy3_x4AaABAg.9HTe_d-XApG9HTg9WOSL93",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제한을 두지 않고 반복문으로 전부 출력하면 됩니다.",
+        "writer": "Ugx9vs73MtEQDOXlINl4AaABAg.9H51-gyoZci9H7qvtqmlF2",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코드에 세미콜론 이나 함수정의가 잘못되었는지 확인해 보세요.",
+        "writer": "UgzPTSXQVyK1Nb5iLOl4AaABAg.9H27gYbpyXP9IBs0P6jtOp",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직접 만들어보시는 것도 좋을 것 같습니다.",
+        "writer": "UgyXekC3QJhYUhSHw9x4AaABAg.9GsXBReQXRY9Gt0LY6aeEn",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에고 죄송해요 컴맹 50대 아줌마 입니다 미안해요 이런글 적어서 미안해요",
+        "writer": "UgyXekC3QJhYUhSHw9x4AaABAg.9GsXBReQXRY9Gt4L5vnPXp",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "youtubejocodinganimalface1blob5648895ae422478b7d27770c7fd5dffbdf9(비속어)069index.html 이 코드와 비교해보세요. 무언가 빠진 것 같습니다.",
+        "writer": "UgxkvjTgWtr9UjFiDNJ4AaABAg.9GdjKtorv5y9GdnBFftSoH",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 님이랑 비슷한 에러가 나서 조(이름)이 깃허브에 올려주신 코드에서 티쳐블 머신 링크만 교체해서 진행했어요 솔직히 뭐가 빠졌는지는 모르겠어요",
+        "writer": "UgxkvjTgWtr9UjFiDNJ4AaABAg.9GdjKtorv5y9HoKTEwXkWi",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 다 해결했는데 어떻게 했는지 기억이 안나네요 거의 오타 때문에 많이 틀렸는데 처음부터 하나하나 검토해보시는게 오류 구글링하는거보다 빠르더라구요,",
+        "writer": "UgxkvjTgWtr9UjFiDNJ4AaABAg.9GdjKtorv5y9HoR19rf8u8",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "my_model 폴더에 (이메일) 파일이 빠진 것 같아요.",
+        "writer": "Ugy0q64acOIKd34yBcZ4AaABAg.9GNBpWCWCFp9GPQl-xynz3",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 멋쟁이사자처럼이라는 동아리에서 웹을 입문하고 생활코딩 등에서 추가로 학습했습니다.",
+        "writer": "UgzYG2gbx4ZL8VRT6394AaABAg.9GKanTD3BlZ9GLsuAfSQl-",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아 확실히멋쟁이 사자들이 루비 많이 쓰긴하죠 . 거기 출신들이 잘하시더라구오",
+        "writer": "UgzYG2gbx4ZL8VRT6394AaABAg.9GKanTD3BlZ9GLtYrOiTwS",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓드펜입니다 엄청난 것들이 많습니다.",
+        "writer": "UgwL1evwLMkIhXtbdRl4AaABAg.9GKaaduuE1P9GLsxsItaZo",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학습을 제대로 (비속어)려면 각 항목당 대략 몇 장 정도가 적당할까요",
+        "writer": "Ugw_KeLY_dUBbqTmBmZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 소수점 둘째짜리까지 표현하고 싶으면 어떻게 해야하나요 (소수점 셋째자리 올림 반올림 방법을 알고 싶습니다. ) 조(이름) 말씀처럼 구글에 검색해봤으나 round 함수는 먹히지가 않는것 같아 질문드립니다. 항상 감사합니다.",
+        "writer": "UgzVb_ZfGb1GuANEJmd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 보고 있습니다. 혹시 모델의 클래스별 정확도가 얼마나되는지 알 수 있을까요",
+        "writer": "UgzHhntwvboyFQEmiKF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 강의에 항상 감사드립니다. 잘 안되는 부분이 있어 질문 드립니다. (이름) 잘 다운 받아서 Teachable Machine 에 접속했는데 웹캠으로는 output 이 되는데 file 로는 output 활성화가 되지 않습니다. 몇 번을 해도 안되서 도움 부탁드립니다.",
+        "writer": "UgxD7OWtyxO5eme1Y_l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 저번에 로컬 html형식으로 offline에서도 동작하게끔 만들고싶었다고 질문드렸어 답글받고 해결했습니다 그런데 이후 단계에 웹뷰방식으로 로컬페이(반사회적용어) 불러오는것 까진 성공했는데 올려주신 동물상시리즈에서 휴대폰카메라 관련부분이 조금 모호해서 따라하기가 힘드네요 저는 react는 쓰지않고 flutter로 해당과정을 좀더 변형하면서 실습중인데 영상에서는 단순히 권한만을 추가해주셨는데 카메라를 동작(비속어)는 부분의 코드에 대한 부분이 없는 것 같아서 다시금 도움 요청드립니다. html 파일(javascript 코드상)에서 휴대폰 카메라의 권한을 얻어오고 동작 (비속어)는 부분의 코드를 짜려면 어디를 참조해야 할까요 주요문제는 html파일코드와 flutter 코드가 서로 대화 가 불가능하다는 점입니다. 리액트도 리액트와 html은 별개로 알고있는데 어떻게 html에서 리액트의 코드를 통해 카메라앱권한을 실행시켰는지가 궁금합니다. 저도 html에서 flutter코드에 카메라 호출. 이라는 정보를 줘서 flutter코드를 통해 카메라 권한을 얻고싶다는 얘기가 될 것 같습니다. 즉 html에서 어떻게 flutter로 정보를 넘겨줄것이냐 와 카메라로 얻은 사진을 어떻게 다시 html로 줄것이냐 를 해결하고싶습니다",
+        "writer": "UgxEeYq2hXW8BQHXRaF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코딩 배우고 있는데 조코딩 예제 너무 재밋고 쉬워요.. 좋은 영상 많이 부탁드립니다 감사합니다",
+        "writer": "Ugwm1M-Jen5R-idPFmV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 되었는데, 다른컴퓨터나 모바일 환경에서 제 도메인을 넣으면, 접속이 되지않네요, 왜 그런건가 궁금해요 조(이름)",
+        "writer": "UgxPhOxeq63iCkFZ_il4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초등 6학년 대상으로 조(이름)의 웹 앱 만들기를 하려고 하는데, 똑같은 앱 만들어도 될까요",
+        "writer": "UgzhLBWXwneGbejiOq14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주석 처리 단축키는 ctrl 이군요.",
+        "writer": "UgxdzxwXdXBJfzUI9gh4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진행이 안되는 부분이 있어서 문의 드립니다. (12분 25초) 스타트 버튼을 눌러서 모델을 불러온 뒤에 (이름)를 첨부하고 예측을 수행한다 는 부분에서 문의입니다. 영상에서는 스타트 버튼을 누르면 콘솔창에 6가지 인포메이션 정보와 모델이 불러와 지는 정보가 뜨는데 스타트 버튼을 눌렀을 때 콘솔창에 변화가 없네요 무엇이 문제일까요 콘솔창에 모델이 불러와지는 변화가 없는데도 스타트 버튼을 누르고 예측을 실행하면 예측값이 실행되기는 하는데 그대로 계속 진행해도 괜찮을 런지요",
+        "writer": "Ugz4fXih1KZ6mcx-XzJ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 강의 너무 재밌어요. 들어본 유료 코딩강의들보다도 훨씬 더 고퀄이예요, _",
+        "writer": "UgxXkbRxIBt-z-ZiHCt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예측 버튼 설치하고 스타트 버튼 눌렀을 때 모델이 안 불러와져요 , 스타트 버튼 눌렀을 때 아무 반응이 없어요 , 비디오 계속 돌려보면서 코드 확인하는데 뭐가 잘못된건지 모르겠네요 ,",
+        "writer": "UgwPPOHGEINNIWZi3uF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "start 버튼을 눌러도 아무것도 뜨지 않는데 뭐가 잘못된 건가요",
+        "writer": "UgxmD5zNDRrYj6b6cTB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 봤습니다. 혹시 사진 풀을 만들어 놓고 (이름)를 업로드 (비속어)면 로또형식처럼 풀에서 아무 사진과 그 사진에 대한 설명이 나오게 하는 건 어떻게 할 수 있을까요",
+        "writer": "Ugy1lAP6-hrZ9zqpeRV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어렵고 재밌어요 최고에용",
+        "writer": "UgwX3AGhru2zMG-0EEV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 채널을 이제서야 알게되다니 최고에여 조코딩 너무 재미있어여",
+        "writer": "Ugyaw1Sa8_LPYzLkFVZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이해하기 쉽도록 코딩을 쉽게 설명해 주셔서 감사합니다. 매일 반복해서 보고있습니다. 휴대폰 gps신호를 이용한 앱도 제작해보면 어떨까요 자신의 위치를 기반으로 맵(map)에서 (이름) 동선을 표시해주고 측정하여 소모한 칼로리를 계산해주는 앱도 만들어봤으면 좋겠어요.",
+        "writer": "UgxxYwG1JSp9BzZsTix4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 덕분에 똑같이 구현하였습니다 감사합니다. 그런데 컴터를 끄고 스마트폰으로 접속하면 도메인 오류가 뜨는데 컴터를 끄고도 정상적으로 직동하게하려면 어떻게해야할까요",
+        "writer": "UgxaF2BJaAGOAf6V5JB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 영상을 따라하는데 마지막에 (이름)를 넣고 예측하는 버튼을 누를때요 계속 안됩니다. F12 콘솔에서는 x 에러 표시가 계속 뜹니다. 다 열심히 따라했는데 혹시 도움주실 수 있을까요 참고로 에러표시는 Uncaught syntaxError missing initializer in const declaration Uncaught ReferenceError unit is not defined at HTMLButtonElement.onclick Uncaught ReferenceError predict is not defined at HTMLButtonElement.onclick 입니다.",
+        "writer": "UgzJTcK0-gJ8cIM19fV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1강에 이어 대단히 감사합니다 많은 도움이 되었습니다",
+        "writer": "UgykjvCxJi0wSue22vt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "많으면 많을 수록 좋지만 transfer learning 기반이라 300장 정도면 어느정도 될 것 같아요.",
+        "writer": "Ugw_KeLY_dUBbqTmBmZ4AaABAg.9G7e2z3P3Lq9GC_92fnF59",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 감사합니다. 제가 대학 졸업반이기도 하고 요즘 웹 디자인 관련해서 공부해보고 싶다는 생각이 많이 들어서 유튜브 찾아보다가 우연히 이 채널 보게 되었는데 정리를 잘 해놔서 너무 잘 보고있습니다. 도움도 많이 되고 있고요. 특히 html css 관련 영상들은 제가 C언어를 전공분야에서 했어서 그런지 바로 이해가 될 정도더라구요. 덕분에 코딩들도 바로바로 해보고 흥미도 더 생겼습니다. 컴퓨터를 좋아하지만 뭘 하고 싶었는지 어떤 것 부터 해봐야 할지 제대로 몰라서 방황하고 있었는데 영상보면서 순서들이 잡히는 것 같네요. 영상 보러 자주올게요.",
+        "writer": "Ugw_KeLY_dUBbqTmBmZ4AaABAg.9G7e2z3P3Lq9GHMvNuk7a6",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추가적으로 상위 13개만 글씨를 진하게 하고 싶습니다",
+        "writer": "UgzVb_ZfGb1GuANEJmd4AaABAg.9FojCHegYXO9Fp4g_LDjXY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "software705221150749723 Math.ceil() 소수점 올림 (이름) 반환 Math.floor() 소수점 버림 (이름) 반환 Math.round() 소수점 반올림 (이름) 반환 위 함수들을 사용할 수 있습니다. Cl(비속어)Name을 확률 순서대로 정렬하신 후에 가장 높은 확률 3개를 뽑아서 태그를 붙여 css로 굵은 글씨로 만들어주시면 됩니다.",
+        "writer": "UgzVb_ZfGb1GuANEJmd4AaABAg.9FojCHegYXO9FsmGcannFd",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중앙에 Training 아래에 Advanced 탭을 눌러보시면 Under The Hood라는 항목이 있는데 여기서 확인하실 수 있습니다 )",
+        "writer": "UgzHhntwvboyFQEmiKF4AaABAg.9FcwnFOgt-w9Fg5XQclVqH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 감사합니다. 조(이름)이 만드신 동물상테스트의 정확도를 확인해보고 비교해보고 싶었는데 모델링크로 들어가면 정확도는 따로 안나오더라구요",
+        "writer": "UgzHhntwvboyFQEmiKF4AaABAg.9FcwnFOgt-w9FgQXYWJDkP",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티쳐블머신 사이트에 문제가 있는 것 같네요 cloud로 export 하신 후 해당 주소로 들어가시면 거기서는 되실거에요.",
+        "writer": "UgxD7OWtyxO5eme1Y_l4AaABAg.9FJn_PJAp2B9FJwKL7QHI-",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄송하지만 제가 잘몰라서 , cloud로 export 하신 후 해당 주소로 들어가보라는게 어떻게 하라는 건지 코딩을 시작한지 얼마 안되어서 ,",
+        "writer": "UgxD7OWtyxO5eme1Y_l4AaABAg.9FJn_PJAp2B9FLsCBh-C_j",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "webview로 만들면 만 있으면 별도의 코드가 없어도 자동으로 카메라에 접근할 수 있습니다.",
+        "writer": "UgxEeYq2hXW8BQHXRaF4AaABAg.9FJX6VPq7bY9FJvuZJFtLz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 에러코드를 좀 더 읽어보니 함수자체가 로딩이 안되는 거 같네요 좀더 시도해보겠습니다 정말 감사합니다",
+        "writer": "UgxEeYq2hXW8BQHXRaF4AaABAg.9FJX6VPq7bY9FJx2VM-UA9",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 유익한 영상 계속 올리겠습니다.",
+        "writer": "Ugwm1M-Jen5R-idPFmV4AaABAg.9F97dmd-ZKI9FE1WXFjAgY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "LnGgndT308Q 디플로이 하는 과정이 필요합니다. 위 영상을 참고해주세요 )",
+        "writer": "UgxPhOxeq63iCkFZ_il4AaABAg.9EzV4edpU9A9F-UIgLWKfW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괜찮습니다 단 사이트에 제작도움 유튜브 조코딩 채널 링크 하나 남겨주시면 감사드리겠습니다.",
+        "writer": "UgzhLBWXwneGbejiOq14AaABAg.9Ema2C8OL_J9EoSQB_Um6C",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 네 감사합니당..",
+        "writer": "UgzhLBWXwneGbejiOq14AaABAg.9Ema2C8OL_J9Eoj5NXfg1G",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 맞습니다.",
+        "writer": "UgxdzxwXdXBJfzUI9gh4AaABAg.9Ek0cq8nY0E9Ekg97Qwtzs",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마 스타트와 예측 코드의 분리가 잘 안된 것 같아요. 강의에 나온 코드와 비교하여 분리가 잘되었는지 확인해보세요.",
+        "writer": "Ugz4fXih1KZ6mcx-XzJ4AaABAg.9ETtYMOuWEN9EV0J75lx54",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 그렇게 봐주셔서 감사합니다.",
+        "writer": "UgxXkbRxIBt-z-ZiHCt4AaABAg.9EO6zKyeZwi9ETTauvBbqv",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "F12를 누르시고 console 화면을 확인해주세요. 거기에 어떤 오류 메세지가 나오는지 볼 수 있습니다.",
+        "writer": "UgwPPOHGEINNIWZi3uF4AaABAg.9DqLF0DieXN9DrfRc-Fvvk",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 감사합니다. 코딩 부분 처음부터 다시 보면서 따라하니깐 이번엔 작동이 무사히 됐네요. 뭐를 다르게 한건진 잘 모르겠지만 그래도 작동이 되어서 좋습니다. 다음 염상 쭉쭉 볼 수 있게되어 기쁩니다. 유익한 비디오 정말 너무 감사드려요.",
+        "writer": "UgwPPOHGEINNIWZi3uF4AaABAg.9DqLF0DieXN9DsDKAXkQBC",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 콘솔창에 (이메일)88 Uncaught (in promise) TypeError Cannot read property canvas of undefined at init ((이메일)88) 라고 뜨면서 아무것도 안나오네요",
+        "writer": "UgxmD5zNDRrYj6b6cTB4AaABAg.9DFXE8uhKPS9GMqfU0lA81",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다니엘 카메라 접근 허용을 누르고 진짜 길게는 처음에 10 15초정도 기다리세요.",
+        "writer": "UgxmD5zNDRrYj6b6cTB4AaABAg.9DFXE8uhKPS9IBtTkaumbX",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 인(비속어)능 없이도 javascript의 random함수를 이용해서 1100의 (이름)가 있다고 하면 파일 이름을 1.png 2.png , (이메일)이렇게 저장해두시고 아래의 함수를 활용해서 해당 (이름)를 불러오도록 만드시면 될 것 같습니다.",
+        "writer": "Ugy1lAP6-hrZ9zqpeRV4AaABAg.9DA8jwCHcwY9DDnVvvAMmj",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 정말 감사합니다.",
+        "writer": "Ugy1lAP6-hrZ9zqpeRV4AaABAg.9DA8jwCHcwY9DDq5twn7hS",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 재미있게 봐주셔서 감사합니다",
+        "writer": "Ugyaw1Sa8_LPYzLkFVZ4AaABAg.9D2prT_9Drf9D3IMaBwv1t",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다 gps(이름)는 것도 추후에 다루어보겠습니다.",
+        "writer": "UgxxYwG1JSp9BzZsTix4AaABAg.9CyjZrXQpY19CyqCCBj3iV",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다..",
+        "writer": "UgxxYwG1JSp9BzZsTix4AaABAg.9CyjZrXQpY19Cyqtd3qU6j",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_DmM8EO3mb8 t319 여기 5분19초쯤에 나오는 것 처럼 Deploy를 해주셔야합니다.",
+        "writer": "UgxaF2BJaAGOAf6V5JB4AaABAg.9CgjUXz7B-U9CjNvs-AMYg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다",
+        "writer": "UgxaF2BJaAGOAf6V5JB4AaABAg.9CgjUXz7B-U9ClkSZcMfln",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "unit나 predict 함수가 없는 것으로 보아 init이 오타가 unit으로 난 것 같으며 predict 함수를 만드시지 않은 것 같아요. 예측 버튼에 문제가 없는지도 보셔야할 것 같습니다.",
+        "writer": "UgzJTcK0-gJ8cIM19fV4AaABAg.9CUMgF6ng4M9CV23-tnUFA",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다..",
+        "writer": "UgzJTcK0-gJ8cIM19fV4AaABAg.9CUMgF6ng4M9CV_zn5OG91",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도움이 되셨다니 다행이군요.",
+        "writer": "UgykjvCxJi0wSue22vt4AaABAg.9CRd3e8Zlgb9CTCUgfoc7i",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름) 강의 너무 잘 보고 있습니다.. 비전공자인 저에게 쉽고 재밌게 코딩에 대해 알려주셔서 감사드려요.. 조(이름) 영상을 보고 동기부여를 받아 저도 조그만한 웹 서비스를 만들어 보고있습니다. 알려주신대로 codepen 사이트에서 HTML코드 CSS 코드 Javascript 코드까지 잘 따와서 실행해보았습니다. codepen 사이트 미리보기에선 잘 실행 되던게 groomide로 가져와서 실행하니까 작동이 잘 안 되었습니다. css까진 잘 적용 되었는데 기능 중 몇 가지가 적용이 안 되더라구요. 몇 시간동안 왜 안 될까 찾아보고 검색해보다 답답한 마음에 조(이름)께 말씀 드려봅니다 혹시(반사회적용어) 이 문제에 대해 조언 주실 수 있으면 답글 해주시면 감사하겠습니다..",
+        "writer": "UgwXj2unM5T1ujuwMex4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 혹시 Teachable Machine으로 한번 학습시킨 모델에 추가로 학습한 결과를 합칠 수 있는 방법이 있을까요",
+        "writer": "UgzqO5LEFmcxljfo-Hx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사히 잘 보앗습니다. 질문좀 드리고 싶은데요. 라이센스 코드문구를 주석으로 처리하신 단축키좀 알고싶어요.",
+        "writer": "UgzaabrelUKuvHNG91F4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 업로드하는 코드를 그대로 따라했는데 오픈 프리뷰를 보니깐 저기 디자인 같은게 다 깨져서 나오네요 어떻게 하나요",
+        "writer": "Ugyl-_nI71l15O9I_jJ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 쉽지 않네요, 세 시간을 넘게 따라 했는데 (이름) 업로드 하고 스타트. 예측 눌렀는데 무반응 결국 조(이름) 만들어 진거 에다 그냥 Teachable Machine 제 주소 넣어 그냥 저냥 어느 정도 완성 된거 구경은 했어요 감사합니다. 제작 도움 조코딩 유튜브 채널 넣었어요, 조금 더 공부해서 다듬어 봐야 겠습니다, 감사합니다.",
+        "writer": "UgzaWWdyOqc92rmdaBZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 영상 재밌게 잘 보고 있습니다, 먼저 똑같이 따라해보려고 하고 있는데 잘 안되네요,codepen에서 css등 코드 복사 붙여넣기 하고 수정하고 실행(비속어)니 안되네요 혹시 작업한 내용 보내드리면 봐주실수 있나요 ,초보라 잘 모르겠네요",
+        "writer": "UgygleAtpENl-uljrmp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "codepen에서 불러올 때 그 디자인이 출력이 안되고 텍스트 형태로만 출력이 되는데 문제점을 못찾겠어요,",
+        "writer": "UgxROtbJ7ubqcz_QcLx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 유익한 비디오 정말 감사드립니다 ) 한가지 궁금한게 있는데 goorm container online은 무조건 제 컴퓨터가 켜있어야하나요 어플로 구동하였는데 invalid address로 나와 확인하니 컨테이너가 계속 오프라인으로 들어가더라구요 그래서 다시 켜주고 컴퓨터 끄면 또 다시 얼마안가서 오프라인 무한반복중이네요,",
+        "writer": "UgwHQqX-8PVO9AL6KkR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 실력이 부족해서 그런데 디자인 그대로 사용해서 페이(반사회적용어) 제작해서 수익화 까지 해보려고 합니다. 혹시 출처 남기면 사용가능할까요",
+        "writer": "Ugwlg72w8aSkeWvfJbR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 에서 만약 다른 사람이 만든 사진을 넣을때 저작권이 없는 (이름)를 사용해야하나요",
+        "writer": "UgwOaw2GIZGDESgxGet4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오웅, 그렇군요 그냥 재미로 하는 거라 랜덤인가 싶었는데 이런 과정이 있었다니 세번 해보니까 97퍼 100퍼 100퍼 토끼상 나왔는데 제가 진짜 토끼상일 수도 있겠네욤",
+        "writer": "Ugyf-afzGigvFlv6PmR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 허용 되어있는데 왜 그럴까요 크롬에서 허용 설정으로 했는데도 스타트버튼 눌러도 뜨질않네요, 계속 허용이 되어있지 않다고만 뜨고",
+        "writer": "UgyJhEobHwvd5LuUPn14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "JoCoding (이메일)1 Failed to load resource the server responded with a status of 404 (Not Found) (이메일)47 Uncaught (in promise) Could not open your camera. 이렇게 뜨는데 어떻게 해야하나요",
+        "writer": "UgyOUiX9n-0t8QeGBWd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 뜨네요, 그리고 바로 바디 부분에 링크 복사했는데, 스타트 버튼아래 웹캠창과 결과창이 뜨질않습니다, 해결방법이 없을까요",
+        "writer": "UgwF4ufCJ2HeBXZmvU54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주석으로 어떻게 바꾸나요",
+        "writer": "Ugw6OhFWLyTyrtU8x5t4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친절하고 쉽게 알려주셨는데, 아예 처음하는거라 그런가 어렵네요. 업로드 마이 모델 다운로드 하고 그창을 꺼버렸는데, 그런경우에는 예시코드를 어디서 가져올 수 있는건가요,",
+        "writer": "UgxVXYkImUfQBf1Eqzp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 어떻게 구름에서 폴더로 옮길 수 있을까요",
+        "writer": "Ugx7Hb23fLWET_RHjzx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 구름ide로 만들고 다시 실행하려고 오픈프리뷰 누르면 만료된 페이지라고 떠요 이것도 시간 안에 만들어야 하나요 만료되면 제가 넣은 코드 다 날아가는건가요",
+        "writer": "UgzzFbSTjAnY_3aVZwh4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옹 저거해봣는데 계속공룡뜨던데 한번고양이",
+        "writer": "Ugwz5B9pgyk88UrFdt54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 저는 왜 (비속어)상만 빼고 나올까요 결과에 (비속어)상만 제외하고 뜨네요 ,",
+        "writer": "Ugzwni6uzxk0aDXlKcF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아마 import해야하는 라이브러리가 추가로 있을 수 있을 것 같아요. Settings에 가보면 확인하실 수 있습니다. 혹은 SCSS 문법으로 작성되었으면 CSS에서 적용되지 않을 수 있습니다.",
+        "writer": "UgwXj2unM5T1ujuwMex4AaABAg.9CHFU-xEHpm9CPWpk0qN6N",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Teachable Machine은 기존 모델을 불러올 수는 없고 프로젝트를 저장해두었다가 사진을 추가하여 새로운 모델을 만들 수 있어요.",
+        "writer": "UgzqO5LEFmcxljfo-Hx4AaABAg.9CF_AVS8fH19CFtQN5lWgB",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 저는 클라우드 올려놓기만 사용했는데혹시 클라우드에서도 사진을 불러올 수 있나요 영어를 잘못해서 혼자 찾기가 버겁네욮",
+        "writer": "UgzqO5LEFmcxljfo-Hx4AaABAg.9CF_AVS8fH19CGJ7kkErF9",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ctrl 를 눌렀습니다.",
+        "writer": "UgzaabrelUKuvHNG91F4AaABAg.9C0cyfsaslO9C1w5V9KmPh",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다...",
+        "writer": "UgzaabrelUKuvHNG91F4AaABAg.9C0cyfsaslO9C8X0OEE3h3",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "CSS가 올바로 되어있는지 확인해보세요. 크롬 개발자 도구를 이용해서 각 요소가 어떻게 되어있는지 찍어보는 것이 좋습니다.",
+        "writer": "Ugyl-_nI71l15O9I_jJ4AaABAg.9C0bnwEkgdz9C1w3uhtVx8",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 어떤게 문제였을까요, 하시다가 안되시는 부분 오류 메세지 올려주시면 답변해드릴게요. 출처 남겨주셔서 감사합니다.",
+        "writer": "UgzaWWdyOqc92rmdaBZ4AaABAg.9Bu6cjrSr2n9Bw4Cr6KkGo",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기로 코드 메일에 붙여넣어셔서 보내주시면 봐드릴게요.",
+        "writer": "UgygleAtpENl-uljrmp4AaABAg.9BghCCFmi0H9BitrPAA9NN",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다, 메일 보냈습니다,",
+        "writer": "UgygleAtpENl-uljrmp4AaABAg.9BghCCFmi0H9Bixck2r4YO",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "HTML CSS JS 모두를 적용시켜야합니다. 아마 HTML만 적용하여 그렇지 않을까 싶네요.",
+        "writer": "UgxROtbJ7ubqcz_QcLx4AaABAg.9BfK5M1SUG49BfwLS86BWV",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 위 영상처럼 (이메일) 파일에 codepen에서의 HTML을 먼저 복사하고 를 추가하여 사이에 JS 추가 후 (이메일)에 CSS를 복사하였습니다. 혹시나 해서 teachable machine을 빼고 image upload 코드만 따로 작성하여 해봤는데요 (이름) 업로드 기능은 잘 되는데 codepen 사이트에서 표시되는 디자인이 출력이 안됩니다. 그래서 codepen 사이트에 gabby님의 Jquerry Image Upload Preview 코드를 사용해봤는데 이건 제대로 동작하더라구요.",
+        "writer": "UgxROtbJ7ubqcz_QcLx4AaABAg.9BfK5M1SUG49Bfz58KNthS",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유익하게 봐주셔서 감사합니다 구름IDE (비속어)는 무료로 사용하게되면 일정 시간이 지나면 꺼집니다. Deploy 관련 영상은 아래 영상을 참고해주세요.",
+        "writer": "UgwHQqX-8PVO9AL6KkR4AaABAg.9BMZ8u8V2yl9BNfeHf7Huq",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 가능합니다. 제작도움 유튜브 조코딩 채널 하고 링크 넣어주시면 감사드리겠습니다. 아래 코드를 참고해주셔도 됩니다 youtubejocoding100KEventCopyright",
+        "writer": "Ugwlg72w8aSkeWvfJbR4AaABAg.9B0TBxoNJll9B2aEJ59-XO",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠, 이게 좀 애매한 부분인 것 같은데 원칙상 그게 맞을거에요. 저도 학습데이터의 저작권에 대해서는 잘모르겠습니다",
+        "writer": "UgwOaw2GIZGDESgxGet4AaABAg.9B07RBeUuJI9B0RgGz6HOj",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 엄청난 정확도의 토끼상이시군요.",
+        "writer": "Ugyf-afzGigvFlv6PmR4AaABAg.9Ayy-ELsNRj9B-Y-QkHxtQ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웹캠이 없을 때도 그냥 쭉 따라해도 상관없나요",
+        "writer": "UgyJhEobHwvd5LuUPn14AaABAg.9AvQWtBbmw69AvQdU_7Ulv",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 웹캠 없이 진행하는 것이 목표인 영상이라 (이름) 업로드 방식으로 진행하실 수 있습니다.",
+        "writer": "UgyJhEobHwvd5LuUPn14AaABAg.9AvQWtBbmw69AwOB2mPrpf",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크롬 카메라 권한 허용 설정을 해주셔야합니다.",
+        "writer": "UgyOUiX9n-0t8QeGBWd4AaABAg.9Aq6ci2oFMQ9AtKUKZ6PoB",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브라우저의 웹캠 (이름) 막혀서 그런 것 같아요. 아래 가이드에 따라 권한 허용을 해주시면 되실겁니다.",
+        "writer": "UgwF4ufCJ2HeBXZmvU54AaABAg.9AlsW7CtwiP9An1-bI_KZC",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주석처리 하고싶으신 부분을 드래그하시고 키보드 Ctrl 를 누르시면 주석처리 하실 수 있어요.",
+        "writer": "Ugw6OhFWLyTyrtU8x5t4AaABAg.9AlkM0sz7cD9AoGSsSUXO7",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 아래에 있습니다. files from your local hard drive Note the pose library adds tmImage object to your window (window.tmImage) model await tmImage.load(modelURL metadataURL) maxPredictions model.getTotalCl(비속어)es() Convenience function to setup a webcam const flip true whether to flip the webcam webcam new tmImage.Webcam(200 200 flip) width height flip await webcam.setup() request access to the webcam await webcam.play() window.requestAnimationFrame(loop) append elements to the DOM document.getElementById(",
+        "writer": "UgxVXYkImUfQBf1Eqzp4AaABAg.9AkVvSVPMIC9AlYv9_wW93",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아직 많이 어렵지만, 정말 많은 도움 받고 있습니다. 진심으로 감사합니다.",
+        "writer": "UgxVXYkImUfQBf1Eqzp4AaABAg.9AkVvSVPMIC9AlwV_oG21w",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구름IDE도 하나의 컴퓨터를 제공해준 것이라 거기에서도 폴더를 왔다갔다 할 수 있습니다.",
+        "writer": "Ugx7Hb23fLWET_RHjzx4AaABAg.9AiEn4UlCG79Aj_U6iDA7t",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코드는 날아가지 않고 무료버전은 (비속어)가 시간되면 꺼집니다 그럴땐 다시 구름IDE에서 동작(비속어)면 됩니다.",
+        "writer": "UgzzFbSTjAnY_3aVZwh4AaABAg.9AcfDLvEj4Q9Ag-Mf_EwpP",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다 )",
+        "writer": "UgzzFbSTjAnY_3aVZwh4AaABAg.9AcfDLvEj4Q9Ag02oth2Df",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 따뜻한 나쁜남자시군요.",
+        "writer": "Ugwz5B9pgyk88UrFdt54AaABAg.9AKaq9Id_Ln9AKjDmdFRpI",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학습에 사용된 (비속어)상 대표 연예인들보다 다른 동물상 연예인들이랑 더 닮으셔서 인(비속어)능이 그렇게 판단한 것 같아요. 그러나 배경의상조명 등 다른 요소도 포함된 것이라 재미로 보는 것이지 완전 정확하지는 않습니다",
+        "writer": "Ugzwni6uzxk0aDXlKcF4AaABAg.9AKQmt0Rmcr9AKj33-MrJS",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그게 아니라 (비속어)상 클래스가 아예 출력이 안됩니다, 티처블 머신이 잘못된건가 싶어 다시 트레이닝 했는데도 똑같네요",
+        "writer": "Ugzwni6uzxk0aDXlKcF4AaABAg.9AKQmt0Rmcr9AMreHaNQMn",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 티처블 머신에선 아웃풋에 잘 나왔는데 html에서만 안뜨네요",
+        "writer": "Ugzwni6uzxk0aDXlKcF4AaABAg.9AKQmt0Rmcr9AMrlDuGbFH",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질문 있습니다. 코드펜의 사이트 예제에 대한 코드(html css javascript)는 3가지 모두 써야 동작합니까 아니면 하나만 써도 동작이 됩니까 그리고 css코드를 html에 적용하는 방법은 뭔가요",
+        "writer": "UgzvWbQAfo43jEzwoIl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 있습니다 .구름ide에서는 한글 폴더가 불가능한데요. 이 동영상 보면 img폴더 안이 다 한글이던데, 어떻게 구현하셨나요 궁금하네유",
+        "writer": "UgwNqqVRnRlFxRwxby54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 코드펜에서 사용하는데 자바쪽에 소스가 없는것도 상관없나여 자바쪽소스가 없어서 일단 진행은 했는데 예측누르면 나오는 퍼센트 치수 그게안나와요,",
+        "writer": "UgyRgIyJN-93U3EHRJZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 START 버튼을 눌러도 아무것도 뜨지가 않습니다, 어떻게 해야하나요",
+        "writer": "UgygSxy-rINnmvpcKxd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오, 근데 어떻게 컴퓨터에있는 html을 핸드폰으로 보시는건가요 구름어쩌구에 있는건 핸드폰으로 볼수있나요",
+        "writer": "UgxCbMMO6SFLMXLIwdF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다.그런데 이코드를 변경하여 나와 닮은 하이라이트 맴버를 찾아주는 웹앱을 만들어도 될까요",
+        "writer": "UgxJ2uvFfvmMdGaqMNt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 저 동물상 찾기 따라 해서 엡으로 만들려고 하는데 해도 되나요",
+        "writer": "Ugz3rv69cvuWTH40Q6V4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동물상 테스트 검색에도 여러 유사사이트가 검색되던데 혹시 이러한 어플이나 웹페이(반사회적용어) 개발하고나서 다른사람이 도용했을때는 어떤식으로 대처를 해야하나요",
+        "writer": "UgyhOVvM1q9p-unRk3Z4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 제가 body태그 사이에 붙여넣기했음에도 불구하고 계속 헬로 구름만 나오는데 무엇이 (비속어)가요 알려주시면 감사드리겠습니다.",
+        "writer": "UgznrMLQjindwp8mS5l4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "init (index)51 async function (async) init (index)43 위와 같이 오류가 발생하였는데 해결방안을 아신다면 알려주세요",
+        "writer": "UgzbAnw1756IgNShwWl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 영상 잘 보고 있는 한 유저입니다. 궁금한게 있어 문의 드립니다. html 초보라 궁금한게 티처블 머신에서 (이메일) 에서 코드를 가져오면 기본적으로 webcam 으로 설정되 어있던데 이거를 구름ied에 올려서 스마트폰 으로 접속했을 때 webcam 대신 스마트폰 cam으로 작동하려면 어떤 식으로 좀 코드를 손봐야 할지 긍금합니다.",
+        "writer": "UgzG3NCSx-hWQe2xqul4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미리보기는 불러와 지네요 그런데 제가 techable 항목을 60개를 해(이름) 저렇게 어느 항목이 몇 퍼센트인지는 사이트에 안나와요 어떻게 하면 될까요",
+        "writer": "Ugxo-hYOD1BfL5ibkbZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 그럼 다른 로컬 환경은 뭐가있을까요",
+        "writer": "UgyF3pWuLJL-q_OGVN54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리뷰의 root주소는 어느부분인가요 (이메일) 링크입니다.",
+        "writer": "UgzLcRZdnfBX0ahSUxt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리뷰가 아예안봐져요 게속 헬로 구름 이것만 나오네요 빠른 답변 부탁드립니다",
+        "writer": "Ugyi0u7EM4_1r3fnGHZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 다음 편은 어디서 볼수있을까요 정말 좋은 영상 감사합니다",
+        "writer": "UgwvuCIFp40P8p7thiZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) Uncaught TypeError URL.createObjectURL is not a function at HTMLInputElement. ((index)96) at HTMLInputElement.dispatch (jquery3.3.1.min.js2) at HTMLInputElement.y.handle (jquery3.3.1.min.js2) 이렇게 뜨는데 왜그러는 건가요 index 96은 var uploadedFile URL.createObjectURL(e.target.files0) setTimeout(function() ( uploaded_view ).append( ).addCl(비속어)( show ) 3500) ) 이겁니다, 도와주세요",
+        "writer": "Ugx1Q3T6UvAKuseQOXt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만든 사이트에 사진을 업로드 할때 카메라를 사용해서 업로드하면 사진이 옆으로 기울어집니다. 왜 그럴까요",
+        "writer": "UgxIS4XwmNCVHNvrI354AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코드 설명",
+        "writer": "Ugz7Kpo8xr5Uj4T3vUN4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피부가 점점 좋아지시는군요 물광조",
+        "writer": "UgzkyOHGcKkGfNcZG3x4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보통 3개 다 써야지 동작하는 경우가 많습니다. css 코드를 HTML에 적용하려면 태그 안쪽에 CSS 코드를 넣으시면 됩니다",
+        "writer": "UgzvWbQAfo43jEzwoIl4AaABAg.9AIAX393fe19AKDGEVlPxf",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "python 라이브러리를 통해 명령어로 생성해서 그런 것 같습니다.",
+        "writer": "UgwNqqVRnRlFxRwxby54AaABAg.9AFOlFGbn1u9AFaG6yzBvk",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "javascript를 (이름)셔야 수치가 나옵니다.",
+        "writer": "UgyRgIyJN-93U3EHRJZ4AaABAg.9AEu25CGBg19AF_Pp7bxPF",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 그럼 코드팬에서 자바소스가있는 다른 걸로사용해야되나요 영상에서 사용하신분검색해서 두개나오던데두개다 자바소스가없으시던데",
+        "writer": "UgyRgIyJN-93U3EHRJZ4AaABAg.9AEu25CGBg19AF_uS6x5F5",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 F12를 눌렀을때 console 탭에 오류 내용 뜨시는게 있으신가요",
+        "writer": "UgygSxy-rINnmvpcKxd4AaABAg.9AD2HMz9rbd9AFZMXrm9ib",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 저도 그래요,",
+        "writer": "UgygSxy-rINnmvpcKxd4AaABAg.9AD2HMz9rbd9Ab7mHxr_BQ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding (이메일)1 Failed to load resource the server responded with a status of 404 (Not Found) (이메일)47 Uncaught (in promise) Could not open your camera.",
+        "writer": "UgygSxy-rINnmvpcKxd4AaABAg.9AD2HMz9rbd9AiGzZBn1xU",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 이렇게 뜹니다 도와주세요",
+        "writer": "UgygSxy-rINnmvpcKxd4AaABAg.9AD2HMz9rbd9AiH05uTbOV",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 HTML은 크롬 사파리 등 브라우저를 통해 어디서든 볼 수 있어요.",
+        "writer": "UgxCbMMO6SFLMXLIwdF4AaABAg.9ACxUyiwapR9AFYYbp5sHP",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 컴퓨터에 있는 html파일을 어케 휴대폰으로 보나요 구름의 기능인가요",
+        "writer": "UgxCbMMO6SFLMXLIwdF4AaABAg.9ACxUyiwapR9AFZI1Rm_dT",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구름IDE는 로컬 컴퓨터가 아니라 인터넷 (비속어)에 있는 것이라 접속이 가능해요.",
+        "writer": "UgxCbMMO6SFLMXLIwdF4AaABAg.9ACxUyiwapR9AFcemtXyCn",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다 조(이름). 궁금증이 풀렸어요..",
+        "writer": "UgxCbMMO6SFLMXLIwdF4AaABAg.9ACxUyiwapR9AFrM7zf6GZ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 됩니다. 단 제작도움 유튜브 조코딩 채널 링크는 남겨주시면 감사드리겠습니다",
+        "writer": "UgxJ2uvFfvmMdGaqMNt4AaABAg.9ACibbrmdNa9AFY0cZUUct",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 넵.",
+        "writer": "UgxJ2uvFfvmMdGaqMNt4AaABAg.9ACibbrmdNa9AGVUWDNTrQ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 당연하죠. 만드실때 사이트에 조코딩 채널 링크하나 남겨주시면 감사드리겠습니다 )",
+        "writer": "Ugz3rv69cvuWTH40Q6V4AaABAg.9A-d3wjcfq-9A2KysiTAtg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가장 좋은 건 개발자 메일이 있다면 윤리적인 선에서 해결하는 것이고 도용의 증빙이 가능하면 법적으로 기소할 수 있긴 하다고 합니다.",
+        "writer": "UgyhOVvM1q9p-unRk3Z4AaABAg.99swkxSkggN99vb1STe17S",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ctrl S를 눌러서 문서를 저(이름)셔야해요. 그리고 주소창 뒤에 프로젝트이름 을 붙여주시면 나오실겁니다 )",
+        "writer": "UgznrMLQjindwp8mS5l4AaABAg.99oBFq8ylyD99qZumTxWdL",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카메라 권한을 거부하신 것 같아요. 크롬 카메라 권한을 켜주셔야합니다.",
+        "writer": "UgzbAnw1756IgNShwWl4AaABAg.99dS751s7wp99dXXig9cKz",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 오류 해결하였는데 답글 지우는 것을 잊었습니다. 번거롭게 한 것 같아 죄송하네요,",
+        "writer": "UgzbAnw1756IgNShwWl4AaABAg.99dS751s7wp99ikv-iEguX",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스마트폰으로 작동시켜도 웹캠이 아니라 저절로 스마트폰 카메라로 작동됩니다. 스마트폰에 링크 보내고 한번 작동시켜 보세요. 만약 안된다면 자바스크립트 코드에 문제가 있는 것입니다. (참고로 구름 ied가 아니라 ide입니다 )",
+        "writer": "UgzG3NCSx-hWQe2xqul4AaABAg.99bBEGbvae29IBrQxWXukj",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로컬 환경이 개인 컴퓨터를 말하는거에요. 아래 영상을 보시면 환경 설정을 하실 수 있습니다 kRB3DTaJifI",
+        "writer": "UgyF3pWuLJL-q_OGVN54AaABAg.99SEkqnsV--99SHP4w_6kY",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 늦은시간 답변 감사합니다.",
+        "writer": "UgyF3pWuLJL-q_OGVN54AaABAg.99SEkqnsV--99SHlQIlYrK",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금은 잘 나오는것 같아요.",
+        "writer": "UgzLcRZdnfBX0ahSUxt4AaABAg.99SEKQQ7wxE99UAKF31vgB",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 네 감사합니다",
+        "writer": "UgzLcRZdnfBX0ahSUxt4AaABAg.99SEKQQ7wxE99UAPXxhG71",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프리뷰의 root 주소 뒤에 슬래시()를 넣고 프로젝트명을 입력해보세요. 안되신다면 꼭 구름IDE에서 하실 필요는 없습니다. 로컬 환경에서 진행하신 후 Netlify로 바로 올리셔도 됩니다.",
+        "writer": "Ugyi0u7EM4_1r3fnGHZ4AaABAg.99SCDjJ1Edo99SCdD7u1pA",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 프리뷰의 root주소는 어느부분인가요 (이메일) 링크입니다.",
+        "writer": "Ugyi0u7EM4_1r3fnGHZ4AaABAg.99SCDjJ1Edo99SELQcpoMV",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구름ide 말고 (이메일) 등 다른 편집기에 코드를 붙여넣으면 가능합니다. (이메일)의 경우 html에서 바로 결과를 확인 가능하고 주소도 netlify에 deploy할 필요가 없습니다. 파이썬 다른언어도 마찬가지 입니다.",
+        "writer": "Ugyi0u7EM4_1r3fnGHZ4AaABAg.99SCDjJ1Edo9IBnb9wHfjK",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "playlist listPLU9uwewPMe2vtJAgWB6SNhHcTjJDgEO 재생목록으로 만들어 두었어요. 감사합니다 )",
+        "writer": "UgwvuCIFp40P8p7thiZ4AaABAg.99GjPUt_aZ099GxDpVpcVG",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "URL이 어떤건지 정의가 안되어있는 것 같아요.",
+        "writer": "Ugx1Q3T6UvAKuseQOXt4AaABAg.991JTRunZLT9946Nxqad2I",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "itemaline center 나 margin 0px auto 를 사용해 보면 좋을것 같습니다.",
+        "writer": "UgxIS4XwmNCVHNvrI354AaABAg.98xw0IumoyC9IBsJneT0r4",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 (이름)",
+        "writer": "UgzkyOHGcKkGfNcZG3x4AaABAg.98u4hVoL-DJ98ufNabnR3h",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 궁금한게있어서 여쭤봅니다 무한의계단이라는게임처럼 c 을이용한 유니티 인디게임같은경우 c 말고 조(이름) 교육방식처럼 게임을 만들수가있을까요 c 을 배워본적이없어서 막상 배울려니 막막해가지구요",
+        "writer": "UgxiTx-u9_1oG4B0Iop4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 애드센스 승인 어떻게 받으셨나요",
+        "writer": "UgyEBRDt3O8aYGwGBJ94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 유용한 툴이네요,",
+        "writer": "UgwHufptFaBNYq3vkOl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 영상 잘보고 있습니다. 제가 강의 끝까지 잘 따라가서 만들고 아버지 핸드폰으로 아까까지 잘 돌아갔는데 지금 다시 들어가보니 만료되었다는 식으로 뜹니다. 혹시 구름이 켜져있어야만 도메인이 유지되는건가요",
+        "writer": "UgwC25we2jVUx217be54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박이네요 참 쉽게 알려주시네요",
+        "writer": "UgyzpCh1-fV-jf9eOA14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동물상 테스트 를 조금 변형해서 저도 사이트를 만들고 싶은데 깃허브에서 쏘쓰를 받았는데 라이선스 관련 문서가 없더라고요 혹시 수정 및 배포가능 할까요",
+        "writer": "Ugxvld-SnatPApV46cJ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인 사진을 사용해서 학습하면 혹시 상용화 했을때 저작권문젠는 없는걸까욥 궁금하네요",
+        "writer": "UgyurEfl1MJlZvX6gT54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜로 궁금한게 있습니다 제가 구름 ide를 (이름)여 웹을 만들려고 하거든요, 근데 예전에 netlify도 그렇고 원래 이런것들은 (반사회적용어)워크나 라이브러리가 적용이 안되나요 그리고 두번째 질문입니다 제가 freenom과 같은 도메인 사이트에서 구입한(무료였지만) 도메인을 구름에서 연결이 가능한가요 너무너무 감사합니다 영상 매일 잘 보고 있어요",
+        "writer": "UgytyKGMLYDodtcFrKF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내용이 초보자가 넘 따라가기 좋습니다. 유익한 영상 감사드립니다. 영상 따라서 실습해보는중에 TeachableMachine에서는 결과값이 나오는데 HTML프로그래밍중에 prewiew시에입력상자만 나오고 결과값이 안나오는것은 뭐가 잘못된걸까요 조언 부탁드립니다 github에있는 조(이름) 코드로 돌려봐도 결과값이 안나와요 컴터 설정문제일까요 링크 Teachablemachine models5oTFT_3kT 구름 aednh",
+        "writer": "UgwA1NKM_1dC19hovJx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑백으로하면 더 인식이 잘되나요 흑백으로 할 시에 흑백 색만 있으면 다 비슷하다고 뜨거나 흑백으로 할시 에 오류는 없나요",
+        "writer": "UgyfnOjEUNv3rWe2Wdl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 잘 보고 있습니다. 그런데 여러번 해봐도 아래와 같은 에러가 나오고 올려주신 github의 소스도 받아서 해도 동일하게 나오네요. Uncaught (in promise) TypeError Cannot read property predict of undefined at predict (VM13 index2.html135) at HTMLButtonElement.onclick (VM15 index2.html54) 밑에 (이름) 님의 댓글과 마찬가지고요, 음 혹시나 해서 구름ide에서 하다가 로컬에서도 해봤는데 동일하게 에러가 나네요",
+        "writer": "Ugx3YHAhWJs-c8fStCx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 너무 잘봤습니다 파이썬 수업하나 예전에 들었던걸로 조금씩 이해하면서 보고있는데 저는 teachable machine에서 트레인시킨 후에 모델 스크립트를 넣고 preview를 돌리면 사진 업로드까지 가능해도 밑에 숫자가() 뜨질 않네요, 아예 start를 눌러도 반응이 없어요, 컨테이너를 만드는 것 부터 다시 해봐도 이건 변화가 없네요, 웹캠이 연결안되있는 것과 관(비속어) 있을까요 파일명 클래스명도 영문 숫자로 바꾸고 시작한건데 갈피를 못잡겠네요,",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑같이 따라 했는데 예측을 눌르면 예측 로그가 나오질 않네요",
+        "writer": "UgwcsfZDK0VXfDt2Ocl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 혹시 사진을 찍으면 그사진에 대해 닮은 것중 하나를 띄우는 것은 어떻게 만드나요 생각하기 어렵네요",
+        "writer": "UgwEgfWJbMFNFbwo6xt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 궁금했던건데 정말 감사합니다 그런데 혹시 여기서 가장 유사도 (가장 높게 나온값)를 가진 것만 표시할 수 있는 방법이 있을까요 예를 들어 고양이 상이 가장 높다고 판단되면 고양이 상 만 화면에 출력되도록요,",
+        "writer": "UgwJjXSdp8MhVgoHRlZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저코드로 앱은 못만드나요",
+        "writer": "UgwGoeioojm6QX-GMpl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초보도 쉽게 따라할 수 있는 정말 유용한 (이름)것 같습니다. 혹시 Goormide에서 preview 로 웹사이트 보는거 말고 실제 주소는 어떻게 들어가는지 알 수 있을까요 ( 초에 해당되는 사이트요,)",
+        "writer": "UgwqBjSKOxN6wBw-SEB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞강의에서 구글 (이름) 크롤링을 못하니 이 강의도 실습 예제 (이름)를 얻는 방법을 알려주시거나 (이름) 파일 공유 가능할까요 하고싶은데 하나하나 다운받기엔 시간이 너무 많이 걸릴것 같네욤,",
+        "writer": "UgytF7MvQZMxtTqkycp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Teachable Machine에 학습을 하고난 후 웹이나 앱을 만들고나서도 학습에 새로운 학습을 덮을 수 있나요",
+        "writer": "UgyrzWWIq-LtnuvDNex4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브에 올(반사회적용어) 동영상들이 쉽게 잘 설명해 주시네요. 저도 개발공부하면서 구직중인데 많은 도움이 되었습니다. 저도 관련된 내용으로 포스팅 해보고 싶네요",
+        "writer": "UgxmPIXrTxUd2V4MYVd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "C을 활용하여 유니티 게임을 만드실 수 있어요. 유니티도 툴이 잘되어있어서 생각보다 그렇게 많은 프로그래밍이 필요하지 않을 수 있습니다",
+        "writer": "UgxiTx-u9_1oG4B0Iop4AaABAg.98oNd0HRfxk98xC0plhA7c",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 블로그를 추가하고 의미있는 글을 16개 추가했더니 승인이 났어요.",
+        "writer": "UgyEBRDt3O8aYGwGBJ94AaABAg.98kLAPrFyuY98keyNBFTZN",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 블로그를 추가했다는 말이 무슨말인가요 . 자세한설명 부탁드릴게요 하위 도메인 추가했다는건가요",
+        "writer": "UgyEBRDt3O8aYGwGBJ94AaABAg.98kLAPrFyuY98lM2qxtBZ6",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 사이트 상단 메뉴 눌러보시면 블로그 라는 탭을 넣고 거기에 글을 16개 넣었어요.",
+        "writer": "UgyEBRDt3O8aYGwGBJ94AaABAg.98kLAPrFyuY98lPNjVf1zU",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 와, 선생님 ......",
+        "writer": "UgyEBRDt3O8aYGwGBJ94AaABAg.98kLAPrFyuY98lPfotXTlo",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 싸랑합니다",
+        "writer": "UgyEBRDt3O8aYGwGBJ94AaABAg.98kLAPrFyuY98lPgzGTxUe",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 맞아요 유료기능인 항상 켜두기를 (이름)시거나 Netlify에 디플로이하시면 꺼지지 않아요.",
+        "writer": "UgwC25we2jVUx217be54AaABAg.98dTfUS80Vr98dc9xHNSuw",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 빠른 피드백 진짜 존경합니다 3 꼭 끝까지 만들어서 이벤트 참여해보겠습니다",
+        "writer": "UgwC25we2jVUx217be54AaABAg.98dTfUS80Vr98dd3hY0bzJ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 봐주셔서 감사합니다",
+        "writer": "UgyzpCh1-fV-jf9eOA14AaABAg.98Wo0aNPe8498XxnxbcFHs",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "UfuuOJ9oVl8 위 영상에서 이벤트하면서 (비속어)하였는데 제시된 출처 남기는 양식에 맞게 첨부해주시면 자유롭게 변형하여 사용 가능합니다. 라이센스 문서도 조만간 업데이트 할게요 )",
+        "writer": "Ugxvld-SnatPApV46cJ4AaABAg.98Vnuy7OTy098Vz1yRRjzS",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진이 사이트에 직접적으로 보여지는 것이 아니라서 괜찮을 것 같아요.",
+        "writer": "UgyurEfl1MJlZvX6gT54AaABAg.98RYVp--oQr98TLZ3fkpAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "netlify는 static웹을 호스팅하여 자체 (비속어) 작업이 필요한건 쓸 수 없습니다. 오픈 API 등으로 통신하는 것은 다 가능해요. 구름에서도 연결 가능합니다.",
+        "writer": "UgytyKGMLYDodtcFrKF4AaABAg.98JvxKCgEz198O3TgFp5mn",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 진짜 감사합니다. 덕분에 사이트를 만들었어요. com도메인이 생각보다 비싸더라구요 그래서 org로 하려 했더니 비슷비슷해서 그냥 대(이름) 도메인 (.(이메일))로 했습니다. 제가 친구들이랑 int라는 팀을 낟르어서 독학으로 코딩을 같이 배우고 있거든요 목표는 앱 만들긴데 아직 먼것 같네요, 코로나 조심하세요.",
+        "writer": "UgytyKGMLYDodtcFrKF4AaABAg.98JvxKCgEz198Sv5ZrabmI",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해결했습니다 predict 부분의 웹켐을 (이름)로 변경하는걸 다시하니 잘돌아가네요",
+        "writer": "UgwA1NKM_1dC19hovJx4AaABAg.98C3toiuHVs98DqLSJ00T7",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 해결되셨다니 다행입니다 댓글 감사합니다.",
+        "writer": "UgwA1NKM_1dC19hovJx4AaABAg.98C3toiuHVs98EBDOSGMDx",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑백으로 하면 색깔에 의한 영향이 덜해서 좀 더 얼굴형에 따른 정확한 결과가 나올 수 있을 것 같아요. 보통 다른 분야에서도 정확도를 높이기 위해 흑백으로 처리해서 하는 경우가 많더라고요.",
+        "writer": "UgyfnOjEUNv3rWe2Wdl4AaABAg.98-FA_bAEka980t6vR70bO",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 넵 답변 감사합니다. 영상 잘보고 있어요",
+        "writer": "UgyfnOjEUNv3rWe2Wdl4AaABAg.98-FA_bAEka980vZg9ANIu",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠, 오류의 내용은 predict가 정의가 안됐다고 하네요, predict 함수가 시작되기 전에 뭔가 문법의 오류가 있었을 것 같습니다. 누르기 전에 뜨는 오류 메세지도 확인해주세요.",
+        "writer": "Ugx3YHAhWJs-c8fStCx4AaABAg.97yhN4lH1bz981r8agahpq",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "start 버튼을 먼저 누르고 실행해보세요",
+        "writer": "Ugx3YHAhWJs-c8fStCx4AaABAg.97yhN4lH1bz9B7eycBVFYP",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웹캠이 없어서 그런건가싶어서 무시하고 진행하고서 영상 끝까지 따라가고서 보니 f12로 볼수있는 consolde에서 Uncaught syntaxError Unexpected identifier가 뜨네요",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G97v9WfNvydL",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "javascript 구문 오류인데 .이나 등 사소한 부분에 오타가 생겨서 틀렸을 것 같아요.",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G97weRjUP_OD",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 복사 붙(이름)데 뭐가 틀렸는지 짐작이 안가네용 답변 감사합니다 다시 한번 도전해볼게요",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G97x-H5YSzgV",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뽀롱뽀롱 혹시 해결하셨나여,",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G98-Q7YH50WO",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 똑같은 상태로 해결이 안되네요",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G98DbmaNRFnd",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Papa Playing 엇 저 해결했어요. 웹캠 부분만 없애는 주석처리를 잘못했더라구요 그 부분 한 번 살펴보세용",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G98DpD1rPCPA",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박교령 저도 웹캠부분을 다시 해서 해결했어요",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G98Dt_f6BQ90",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박교령 좀더 자새히 알려주세요",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G98E1c-dKbHt",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Minu Jun 영상보시면 중간에 웹캠 관련된 코드부분을 지우라 하시는데 이 부분만 주석을 해야해요 근데 저는 그 밑에 부분도 주석 처리를해서 계속 오류가 났었습니당. 한 번 확인해보시고 꼭 해결하시길.",
+        "writer": "UgzrNPEwU_pm2eTiYH94AaABAg.97u6w8oM58G98E44_BIHBk",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠, (이름)군요 javascript 부분이 똑같이 되었는지 확인해보세요.",
+        "writer": "UgwcsfZDK0VXfDt2Ocl4AaABAg.97qJeSlECcS97sU6W4JxC2",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "EwBoKEG5GzE 위 영상 후반부에 javascript를 응용하는 부분이 나오는데 이걸 활용하시면 좋을 것 같아요.",
+        "writer": "UgwEgfWJbMFNFbwo6xt4AaABAg.97njjNAVp7R97pwvldWBVQ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "EwBoKEG5GzE 여기서 후반부에 javascript를 다루는데 이걸 응용하시면 만드실 수 있습니다.",
+        "writer": "UgwJjXSdp8MhVgoHRlZ4AaABAg.97lv44Xv8Z297mi4E9P7px",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8eIQNfPbRms 여기서 이거로 앱 만들었습니다.",
+        "writer": "UgwGoeioojm6QX-GMpl4AaABAg.97jK_-Y1BjR97k8anUPjbb",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Preview를 확대하여 외부 창으로 띄운거에요. preview열린 창 상단에 확대하는 아이콘이 있을텐데 그거 누르시면 브라우저에서 접속 가능합니다 )",
+        "writer": "UgwqBjSKOxN6wBw-SEB4AaABAg.97ifONhFWsN97k8E0-WgJb",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른분이 네이버로 시도하신 링크 공유드립니다.",
+        "writer": "UgytF7MvQZMxtTqkycp4AaABAg.97hW6fGIYeh97k5A0boOZ4",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 이걸로 해보니 구글 (이름) 크롤링처럼 한번에 다운받아주는 게 있으면 좋겠는데 그게 없어서 일일이 검색해서 받아야 하는 번거로움이 있긴 하네요. 1.혹시 디렉토리를 형성하는 코드같은건 없을까요 2. 폴더를 다운받아서 압축을 풀어보면 폴더가 비어있는 현상이 계속 있어서 결국 개별로 다운받게 됬는데 왜그럴까요 구름IDE의 (비속어)건가요 제 컴퓨터의 (비속어)걸까요",
+        "writer": "UgytF7MvQZMxtTqkycp4AaABAg.97hW6fGIYeh981D3j6Ka-j",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Teachable Machine에서 Google Drive로 저장을 하실 수 있습니다. 저장을 해두시면 불러와서 계속 데이터를 추가하여 학습시킬 수 있습니다.",
+        "writer": "UgyrzWWIq-LtnuvDNex4AaABAg.97_tnmnPoly97a8fHigYEG",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다 그런데 자료를 업데이트하고나서는 새로 업로드해서 JS파일을 html에 넣어야하나요 기존코드에서는 업데이트가 안되는 것 같습니다",
+        "writer": "UgyrzWWIq-LtnuvDNex4AaABAg.97_tnmnPoly97aI44dz0ZI",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아 자동으로 업뎃이되는군요 업로드에 오류가 있었나봐요 감사합니다....",
+        "writer": "UgyrzWWIq-LtnuvDNex4AaABAg.97_tnmnPoly97aVshG9mKn",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다. 출처와 링크만 남겨주신다면 포스팅 해주신다면 정말 감사드립니다 )",
+        "writer": "UgxmPIXrTxUd2V4MYVd4AaABAg.97ZKyMAiRGT97__vM8hcW3",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름) 강의를 보며 따라하고 있는 구독자입니다. 좋은 강의 감사드립니다. 한가지 여쭤보고 싶은게 있는데요. Teachable Machine에서 불러온 사진들을 저장해놓고 싶어서 (추후에 또 수정하려고) cl(비속어) 옆에 점 세개 버튼을 누르고 Save Samples to Drive 버튼을 눌렀더니 Exporting samples to Drive, 라는 문구가 뜨고 30분째 아무런 변화가 없습니다 멈춰버린 것 같아요 Download Samples를 눌렀어야 하는건데 다시 처음부터 해야할까요, 하,",
+        "writer": "UgxVkC_effkvK1Z45pF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름). 사진에 얼굴만 나와야하나요 그리고 얼굴 정면사진만 사용하는게 나은지 궁금합니다.",
+        "writer": "UgwfkUIDJ7AEJ9kQnt54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑같이 따라해봤는데도 predict()에 문제가 있다고 하는데 어떻게해야 좋을까요",
+        "writer": "UgyyuEINr4DX_x_1I894AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 혹시 파이썬으로도 이거만들수있나요",
+        "writer": "UgyyXDIHpocnTggKV3p4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "F12 누르고 개발자 도구 콘솔에 DevTools failed to parse SourceMap chromeextensionnkbihfbeogaeaoehlefnkodbefgpgknnsourcemapscontentscript.js.map DevTools failed to parse SourceMap chromeextensionnkbihfbeogaeaoehlefnkodbefgpgknnsourcemapsinpage.js.map 이런 에러가 뜨는데 어떻게 고칠 수 있을까요",
+        "writer": "Ugyqcf8O-24ZLtoihdV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 영상을 보고 저도 어플 하나를 출시하고픈 욕구가 생겨 영상을 보면서 만들어 보려고 하는데 조(이름)의 동물상 연애인 찾기 라는 어플 처럼 신박한 아이디어가 떠오르질 않네요, 혹시 이러한 영감같은 것들을 얻을 수 있는 팁 같은게 있을까요",
+        "writer": "UgydTHmyPx-nWdrUGwx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상 감사합니다. 하나씩 따라하고 있습니다. 똑같이 따라 했는데, Teachable Machine Image Model Start Add Image Drag and drop a file or select add Image your image Remove Uploaded Image 이렇게 녹색테두리하고 그림을 넣는 박스가 나타나지 않습니다. 도대체 무엇이 잘못되었나요, 몇번을 해도 똑 같은 결과네요, 해결법 좀 부탁드립니다.",
+        "writer": "Ugz9hUSdPE6ppc6VApR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 했는데 결과가 안나와서요",
+        "writer": "Ugz08KF98F4VNxE5Fwp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공룡상에 탑이 없어서 아쉬워요",
+        "writer": "UgzQbDand8MjDc8Vn9N4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웹캠은 스마트폰 카메라로 대체할 수 없는 건가요",
+        "writer": "Ugxah7ttKf8PkcS7z6R4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 질문이 있는데요 제 컴퓨터에서는 teachabel Machine홈페이지 들어가자마자 카메라 접근허용여부도 안뜨고 사진 파일 업로드 프로그램(웹캠 사용 x) 실행했을때 Uncaught (in promise) Could not open your camera. You may have (index)50 denied access.라는 오류가 뜨는데 해결방법 없을까요",
+        "writer": "UgygZSnBzKbDfzXPXzB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리가좋으셔서 설명이 더잘들어오는거같아요 어렵지만 재밌네요",
+        "writer": "UgzTufz3Xe2Tcb4I6cF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1탄에서 크롤링 에러뜬거는 그냥 2탄 완성코드를 가지고 css만 변화해서 하면 될까요 50개 이상 뭐 다운로드 에러뜨더라구요 1탄 따라할땐,",
+        "writer": "UgxjhQA6Jz9wHmPN-Mt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라이센스 주석처리로 해도되나요 유저한테 보이게 해야되는거 아닌가용",
+        "writer": "UgwhIXnkijdMSIsyUV54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금한 점이 있어요. (이름) 형태로 업로드를 하는데 저번에 사과 토마토 도감 처럼 설명이 나오는 형태로 하는 방법이 있을까요 예를 들면 마동석 사진을 올리면 곰상으로 나오는데 그에 대한 설명이 나오는 방식으로 하는 거요.",
+        "writer": "Ugy4BL6lMPRcpYhvOWV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 대박",
+        "writer": "Ugx4v3_yS66YfxudUcZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 여러명의 연예인사진을 각각 인식하게 할때는 어떤식으로 하나요",
+        "writer": "UgysbPuDLzCiCCYwZQB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비 전(비속어)를 기준으로 친절하고 똘똘하게 설명해주시네요.",
+        "writer": "UgycNmrqQlpXERKQd6N4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 덕북에 성공했습니다. 감사드려요 추가로 물고기상이나 여우상 등등을 추가하여 프로그램을 만들었어요. 다만 조(이름)이 말씀하신것처럼 얼굴만 인식하게 끔하려고 (이름)를 전처리과정이 필요할 듯한데 1166 category555440 찾아보니까 얼굴만 (이름)를 편집하는 python이 있더라구요.(제가 실력이 없어서 하다가 너무 어려워서 포기했어요) 참고하시면 좋을 듯합니다. 그리고 혹시 다음 영상은 얼굴인식 등을 추가하여 프로그램의 정확성을 좀 더 높이는 영상인가요",
+        "writer": "UgxCiEOGCDGqstC_qd94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지난번 강좌는 노트북에 웹캠이 없어 보기만 했었는데 이번 강좌는 (이름)로 학습할수 있어서 끝까지 보고 잘 따라 했네요 따라하기만 해서 코드가 아직 잘 이해되지 않지만 완성해서 실행해보니 (이름)고 재밌네요매번 좋은 강좌 감사합니다",
+        "writer": "Ugx8ycsxWoVAPTcgF-F4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금은 끄셨나요 저장 작업이 무겁나보네요 가볍게 사진 몇 장만 해서 저장해보시고 다시 모든 사진을 넣고 덮어쓰는 것도 좋을 것 같습니다.",
+        "writer": "UgxVkC_effkvK1Z45pF4AaABAg.97Wuo4uFbwo97YHDskOS9V",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아직 끄진 않았지만 여전히 똑같아요, 다시 처음부터 해보도록 할게요.. 답글 감사합니다 D",
+        "writer": "UgxVkC_effkvK1Z45pF4AaABAg.97Wuo4uFbwo97YaKF7rezT",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정면 얼굴 사진 기준으로 많이 학습해서 (이름) 얼굴 위주로 나오는게 정확할거에요.",
+        "writer": "UgwfkUIDJ7AEJ9kQnt54AaABAg.97WM_heF3i_97WQ38Soh-U",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정확한 오류 메세지가 어떻게되시나요",
+        "writer": "UgyyuEINr4DX_x_1I894AaABAg.97TpYg8xCuF97UvMPYZoRL",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding VM2 Uncaught (in promise) TypeError Cannot read property predict of undefined at predict (VM2) at HTMLButtonElement.onclick (VM)이라고 뜨는데 VM2는 predict함수를 닫는 중괄호고요 VM은 predict함수를 보여줘요",
+        "writer": "UgyyuEINr4DX_x_1I894AaABAg.97TpYg8xCuF97V5KL5iFOZ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 보니까 init함수가 실행이 안되고 있더라고요 (이메일)파일이랑 (이메일) 파일을 어디다가 넣어놔야 되나요",
+        "writer": "UgyyuEINr4DX_x_1I894AaABAg.97TpYg8xCuF97VIsagxqvw",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모델을 못불러오고 있는거 같이보여요",
+        "writer": "UgyyuEINr4DX_x_1I894AaABAg.97TpYg8xCuF97VIwRuOKqY",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 해결하셨나요",
+        "writer": "UgyyuEINr4DX_x_1I894AaABAg.97TpYg8xCuF98-WfnUaVYh",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네네 해결했습니다",
+        "writer": "UgyyuEINr4DX_x_1I894AaABAg.97TpYg8xCuF9809uODJuR1",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 그렇습니다. Export에서 2번째 탭 Tensorflow를 보시면 python으로된 예시 코드가 있어요.",
+        "writer": "UgyyXDIHpocnTggKV3p4AaABAg.97TU71y28si97Tpc8acIAn",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "questions1523427googlechromedevtoolsfailedtoparsesourcemapchromeextension 위에 처럼 개발자도구 설정에서 체크표시하시면 해결되실 것 같습니다. 크롬 최신버전으로 업데이트해보세요.",
+        "writer": "Ugyqcf8O-24ZLtoihdV4AaABAg.97NwMKvqgU197ONJVk3hL7",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최근 유행하는 서비스들을 많이 보면 도움이 되는 것 같아요. AppAnine등 트렌드 앱 순위 분석 서비스도 있는데 해당 내용들도 추후 영상으로 다루어보겠습니다 )",
+        "writer": "UgydTHmyPx-nWdrUGwx4AaABAg.97MHBBqPqvn97NtGBBrVdM",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다..",
+        "writer": "UgydTHmyPx-nWdrUGwx4AaABAg.97MHBBqPqvn97OB-GIMM6n",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코드를 영상처럼 그대로 모두 가져오셨나요 css 적용이 안된 것 같은데 link 태그를 이용해서 css와 html을 연결해보세요.",
+        "writer": "Ugz9hUSdPE6ppc6VApR4AaABAg.97LXYK1iTYo97NKOVHC-Ri",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 따라하다가 안되서 링크 하는거 찾아봤는데 html코드에 부분에 이거 넣어주시면 되요",
+        "writer": "Ugz9hUSdPE6ppc6VApR4AaABAg.97LXYK1iTYo97Tnd0HDk7a",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 어떤 걸로 (이름)셨나요 크롬을 설치해서 이용해보시면 되실 수도 있을 것 같습니다.",
+        "writer": "Ugz08KF98F4VNxE5Fwp4AaABAg.97AP0fr0aGC97ARkCaRoOx",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탑이 없군요, 다음에 업데이트하면 반영하겠습니다",
+        "writer": "UgzQbDand8MjDc8Vn9N4AaABAg.978d2fxIky79791QWcABNZ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스마트폰에서도 됩니다. 안드로이드는 크롬에서 아이폰은 사파리에서 실행하면 되는데 기종이나 버전에 따라 안될 수도 있는 것 같아요",
+        "writer": "Ugxah7ttKf8PkcS7z6R4AaABAg.974TnbU-kL-976IW6zRJbK",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 앗 답변 감사합니다.",
+        "writer": "Ugxah7ttKf8PkcS7z6R4AaABAg.974TnbU-kL-976K-DMDobj",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "denied access는 카메라 접근 허용을 거부해서 생긴 것 같아요. 아래 내용 참고하셔서 웹캠 접근을 허용하시면 해결되실 것 같습니다 chromeanswer2693767 coGENIE.Platform3DDesktophlko",
+        "writer": "UgygZSnBzKbDfzXPXzB4AaABAg.96yXWsZeXi696yqsDI-QT-",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다 더 재미있는 영상 많이 올리겠습니다.",
+        "writer": "UgzTufz3Xe2Tcb4I6cF4AaABAg.95b3ik9N51z95bzJv3yUHc",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1탄의 구글 (이름) 검색에서 최근 업데이트가 있어 라이브러리가 잠시 막혔습니다 따라서 해당 라이브러리가 새로운 구글 검색 방식에 맞추어 업데이트가 되기 전에는 재대로 동작하지 않을 것 같습니다. 아래는 관련 이슈가 담긴 내용입니다.",
+        "writer": "UgxjhQA6Jz9wHmPN-Mt4AaABAg.95FVQ647nUN95V_1nRlU2w",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠, 명확한 규정은 없어서 정확히는 모르겠지만 많은 분들이 출처 정보를 주석으로 남기시더라구요. 그래서 괜찮을 것 같긴 합니다.",
+        "writer": "UgwhIXnkijdMSIsyUV54AaABAg.94uf8_51rnT94wUfEWTmT8",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예측하는 부분의 아래쪽 코드는 지난번 과일도감 만드는 것과 동일하기에 지난 영상과 동일한 방법으로 수(이름)시면 똑같이 동작합니다. 추가로 다음 영상에서도 디자인과 사용성을 개선하면서 해당 부분도 다룰 수 있도로 하겠습니다 )",
+        "writer": "Ugy4BL6lMPRcpYhvOWV4AaABAg.94c0vxG-8WR94c2JGoNod-",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 감사합니다 )",
+        "writer": "Ugx4v3_yS66YfxudUcZ4AaABAg.94bE5fS8uCq94c-B4LNfa0",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Cl(비속어)를 연예인별로 만들어서 관련 연예인 사진으로 학습(비속어)셔야 합니다. 연예인 수가 많아진다면 손으로 하기 쉽지 않으니 매크로를 (이름)거나 해야겠네요.",
+        "writer": "UgysbPuDLzCiCCYwZQB4AaABAg.94X3xGFNfvq94XXQy-JHTl",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 코딩 공부에 도움이 되셨으면 좋겠네요.",
+        "writer": "UgycNmrqQlpXERKQd6N4AaABAg.94GtwDq9Z1n94KnRImVStS",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 더 많은 상을 추가하셨군요. 좋은 자료 찾아주셔서 감사합니다. 다음 영상은 사이트 디자인과 사용성을 개선하는 것으로 준비하고 있습니다. 추후 (이름) 전처리하는 것도 다루어보겠습니다. 댓글 남겨주셔서 감사합니다 )",
+        "writer": "UgxCiEOGCDGqstC_qd94AaABAg.94Fapkd6eIm94FrugdG7kk",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지난 영상은 웹캠이 없어서 실습을 못하셨군요 웹캠 없이도 따라하실 수 있는 유익한 영상들 많이 올리겠습니다 댓글 감사합니다 집사(이름).",
+        "writer": "Ugx8ycsxWoVAPTcgF-F4AaABAg.94FVe5oe8CC94FrdeNlDhY",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리속에 쏙쏙 들어오는 설명, 감사합니다.",
+        "writer": "UgxcdK3_Wjd0YgkiCrR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제 영상이 올라오나 기다리고 있었어요. 잘 봤습니다.",
+        "writer": "UgyQ8nNWCWxbKSJ22mF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 업로드하면 AWS 나 구글클라우드 (비속어)로 저장되는 건가요 아니면 1회성으로만 사용되고 파일은 날라가나요",
+        "writer": "UgxHJyWiEh8-Nj_3IEV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 오픈소스 대박이네요 머신러닝 기술도 앞으로 더 쉽게 접근할 수 있겠네요",
+        "writer": "UgwV5fxi1Y37AfKoJnt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시간 가는 줄 모르고 봤네요 다음 영상 너무 기대됩니다 항상 좋은 영상 감사합니다. 그러고 보니 조(이름) 공룡상 맞는 것 같아요 저도 해봐야겠어요",
+        "writer": "UgxUG9Ht9DBLMR4hhBx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있고 유익합니다.",
+        "writer": "UgynI9d6C6eGgBfLW6F4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오와 빨리 다음편 올려주세요 현기증 난단말이에요",
+        "writer": "UgyC-EgGLBsMHrErxu14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상 감사합니다",
+        "writer": "UgwVfYw6BgKr7C4OGRl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입문자들을 수익화까지 캐리해주는 꿀채널 오늘도 좋은 영상 감사합니다..",
+        "writer": "UgzbBvOAEpYTUWWHMDl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와, 이렇게 쉽게 설명해주시는 강좌를 본적이 없는거 같아요... 조(이름)으로 코딩 입문해야겠습니다..",
+        "writer": "UgxFDdCFtBOQ__Cvs_14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 강의 감사합니다. 쉽게 따라할 수 있어 좋은 것 같아요.",
+        "writer": "UgywZYG0Zs80Dfeu5jJ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 오늘 1탄 해봤는데 바로 2탄이 나왔네",
+        "writer": "UgxjT3ABVLLl6ghoHVp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 오늘 1탄 해봤는데 바로 2탄이 나왔네",
+        "writer": "UgxQo74AETtPxas5nil4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 좋은강의 감사합니당",
+        "writer": "UgzDxLo8qDyk64h3lGd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상좋은영상 감사합니다 근데 노트북이나 테스크탑을하나 살려고하는데 코딩용으로는 윈도우가 좋을까요 맥os가 좋을까요 ,",
+        "writer": "Ugw1BvnZ5khwpsbtd0V4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수익화까지 할 수 있는 완성형 웹 앱 서비스 인(비속어)능이 보는 나의 동물상 테스트 만들기 2강으로 크롤링한 대표 동물상 연예인 사진 데이터를 Teachable Machine 2.0을 통해 학습시켜 모델을 만들고 이를 이용해 웹캠 없이 스마트폰에서도 사용할 수 있는 웹 서비스를 제작합니다. Codepen을 활용하여 이미 만들어진 양식을 이용해 파일 업로드 및 스마트폰 촬영도 가능하도록 설정해줍니다. 이번 강의는 디자인과 사용성이 매우 좋지 않지만 다음 강의에서 상당히 쓸만한 서비스로 만들어보겠습니다. 구름IDE Codepen 파일 업로드 aaronvanstonpenyNYOXR Teachable Machine Teachable Machine Image 공식 문서 googlecreativelabteachablemachinecommunitytreemasterlibrariesimage packageteachablemachineimage 완성 코드 보기 youtubejocodinganimalface1 동물상 테스트 해보기 (미완성) appman.html 본 영상은 구름IDE에서 에반젤리스트 활동 지원을 받아 제작되었습니다.",
+        "writer": "Ugy77gN4O4BIQK2kkxB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 봐주셔서 감사합니다",
+        "writer": "UgxcdK3_Wjd0YgkiCrR4AaABAg.94BdH0cUrJR94DD7liEiE8",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다려주시고 댓글도 남겨주셔서 감사합니다 (비속어)피스님.",
+        "writer": "UgyQ8nNWCWxbKSJ22mF4AaABAg.946WKTCeT7694DAyJTIsrw",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미리보기 (이름)라 브라우저 상에서만 (이름)가 표시되는 것이고 어디에도 업로드되지 않습니다.",
+        "writer": "UgxHJyWiEh8-Nj_3IEV4AaABAg.9447E0n8tJp945M-qcaktm",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 기술의 접근이 쉬워지는 것 같습니다 댓글 감사합니다.",
+        "writer": "UgwV5fxi1Y37AfKoJnt4AaABAg.94326ECTbCL945Lid7li5Z",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 봐주셔셔 감사합니다 다음 영상도 열심히 준비하겠습니다. 실제로 공룡상 이야기를 좀 들었는데 이렇게 나와서 신기했어요.",
+        "writer": "UgxUG9Ht9DBLMR4hhBx4AaABAg.9431ejS0dcn945Leh-21Ii",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 정말 감사합니다 박승천님",
+        "writer": "UgynI9d6C6eGgBfLW6F4AaABAg.942xAMERKbQ945LPX0S1oJ",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼른 올리겠습니다. 기대해주셔서 감사합니다",
+        "writer": "UgyC-EgGLBsMHrErxu14AaABAg.942r7TrJfzq945LMjoAauf",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 댓글 감사합니다.",
+        "writer": "UgwVfYw6BgKr7C4OGRl4AaABAg.942pocoz8Cj945L4ZMfRrG",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 감사합니다 코딩(이름) 다음 영상도 기대됩니다 )",
+        "writer": "UgzbBvOAEpYTUWWHMDl4AaABAg.942ikKVcFz8945L0aJYjGX",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)님 그렇게 좋게 봐주셔서 감사합니다. 코딩 입문에 도움되는 영상들 많이 올리겠습니다",
+        "writer": "UgxFDdCFtBOQ__Cvs_14AaABAg.942h1F4dJhf942qnMgZWGw",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다 덤벨로퍼님.",
+        "writer": "UgywZYG0Zs80Dfeu5jJ4AaABAg.942eH7cc2iP942qWu-pU1t",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타이밍이 좋으시군요.",
+        "writer": "UgxjT3ABVLLl6ghoHVp4AaABAg.942dzsLvDTw945IoN1aeGr",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "9pencils 오 타이밍이 딱 맞으셨군요.",
+        "writer": "UgxQo74AETtPxas5nil4AaABAg.942dzsDDZma942qKaiE_ej",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박하(이름) 기다려주셔서 감사합니다",
+        "writer": "UgzO6bUNlR46V_P62Bl4AaABAg.942cpKYIybd942dmXIjPYa",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클러플님 좋게 봐주셔서 감사합니다",
+        "writer": "UgzDxLo8qDyk64h3lGd4AaABAg.942asG0JLTU942cyf2nYq9",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옹 감사합니다",
+        "writer": "UgxdrClbL85OYXStXzd4AaABAg.942apbLg0Jg942dhCUDGE8",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 댓글 감사합니다. 어떤 것이든 크게 상관은 없지만 iOS 개발을 하신다면 맥이 좀 더 편하실 것 같습니다 )",
+        "writer": "Ugw1BvnZ5khwpsbtd0V4AaABAg.942aoaESdm9942dX4kI__Q",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 짱좋아",
+        "writer": "Ugy77gN4O4BIQK2kkxB4AaABAg.942abQWjiq4947_fUO_MD_",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=OI3fZJHQF8Y",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

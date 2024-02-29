@@ -1,0 +1,740 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672653",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001672653"
+    },
+    "text": [
+      {
+        "content": "형 (비속어) 재밌다 근데 나 추천동영상에 11화 완이라고 뜬거봤어, 몇번 죽은거야 형이랑 (이름)",
+        "writer": "UgzTIQA0MxJghiEb3mN4AaABAg",
+        "write_date": "2021-01-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혐양 오지네 (비속어) 왜같이하는거야 도대체",
+        "writer": "UgyUGG0hGQnLpue8QTV4AaABAg",
+        "write_date": "2020-12-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 봐도 욕먹는 건 안타깝지만 진짜 저정도로 먹을거 스탯을 다 몰아줘도 못하는건 사실 솔직히 그 스탯 왁굳형이 먹었으면 혼자 다 깰듯",
+        "writer": "UgwgcNbXvH2DGrxEJo94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양 아니었으면 솔직히 쌈 났다",
+        "writer": "UgzuukpJoDpiMnKDkN14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈수하던 친구가 훈수를 안한다고 말하면 플레이할때 말안하면서 한숨 뒤지게 쉼",
+        "writer": "UgxRYpKkoavY66nQeeN4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게임이름이 천양 갈구기게임이군요",
+        "writer": "UgzwJJBCNknucbmosel4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양아, 귀에서 피 안나왔니",
+        "writer": "UgyCVYXQwgcHK5Iwj-R4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언노운 다버리네, 개피일때 원샷하고 디지고 살리면 될걸",
+        "writer": "UgxMRp2dOwSrexF8fmB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 뿌뿌뽕 개터졌네",
+        "writer": "UgyJA55NL8q8hLqQmYd4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혐두 욕심오지게부리시네",
+        "writer": "Ugjm88MWR1tzaHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 레알 (이름) 못해요",
+        "writer": "UggKGKdlxgoR7HgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누가 누구보고 뭐라할 처지가 아닌거 같은데,",
+        "writer": "Ugjf4HsPcryKqngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "불쌍한걸 떠나서 천양이 (혐오표현)못하긴하네 학습능력도없고 걍 냅뒀으면 1스테이지도 못깼을듯",
+        "writer": "Ughy6YRT1V7nVHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 예능신이 돕네요",
+        "writer": "Ugg8cgELxC_A_XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캬 돈도 겁나 많은데 아끼네",
+        "writer": "UgiZIrN7ji3h_ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 납치해서 헤헿헿",
+        "writer": "UgiQ4XgvLJlIZ3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어)",
+        "writer": "Ugjl_N15xibf53gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 그래도 두번째판엔 오래참았네",
+        "writer": "UgiSkvJkBGAvO3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양 신음",
+        "writer": "Ughwk0FlLbrlcXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "35분대 진짜 개 암이다 (이름) 보살같음",
+        "writer": "UgjuGkLItfKXlXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이해도가 진짜",
+        "writer": "UgjrEUHFvEv8PHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 힘내세요.",
+        "writer": "Ugj-9b3g9ODeCHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈도 안 줰",
+        "writer": "UgiPo2ia16j3IXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 울겠어 (이름) 무슨 군대죠교여",
+        "writer": "UghlSpL5KVasNngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와꾿처냥 커플은 최고의 캐미다 왁초리에 너덜해져도 보살같은 처냥이, 게다가 귀여운 썸네일 크으,취한다",
+        "writer": "UggBgX3zwN2ALXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표지( )에 눈동자에 붉은오라가 점점커지는데",
+        "writer": "UggiGkiimRq6B3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 컴퓨터화면으로 보면서 조이스틱으로 하는거에여",
+        "writer": "Ugg4J0P0VG7yf3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 혼자서 돈먹네",
+        "writer": "UgjCsCmGAh4Z_XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 콜라보다 왁천은 진짜다",
+        "writer": "UgjeLFtPEBE5YXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게임 코옵 재밌네요 재밌게 잘봤습니다. 다음에 (이름)이랑 같(이름)상 또 볼 수 있었으면 좋겠네요",
+        "writer": "UgjVvGMerqEKn3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국엔 당근으로 패시네욬드립 미쳤엌",
+        "writer": "Ugi6HPTS_PWXPXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오영택 분신술",
+        "writer": "Ugi61mNXIlC7gXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하아 천양 귀여워",
+        "writer": "Ugjfc2Y6Hp-mhXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양니뮤너무너무 귀여워요",
+        "writer": "UgiPfpWbcszx3ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국엔 펫 됨",
+        "writer": "UgiPo2ia16j3IXgCoAEC.8NWrOkLBIh38NWt-LSDFIA",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아진짜 개욱기넼",
+        "writer": "UghOzseVZIzCpngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국엔 당근으로 줘팬대",
+        "writer": "UgiJgny_mb87gXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번화부터 본격적 펫처냥,",
+        "writer": "UggCYiqZ3j1vNngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 포션으로 미리좀 채우지 형 계속 130에 남겨둬 200으로 채우지",
+        "writer": "UgiIhmPRU_REHXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제발 만피인데도 사과 바나나 쳐묵좀 그만 하세요",
+        "writer": "UgiOU7fTdMwP53gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금까지의 3화와 곧 올 속편들 요약 먹지마. 아, 어 아, 미안해형 내가 미안해 백스텝피회복좀 하세요",
+        "writer": "Ugj-0opsXjHuHngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양템주자, 형만먹으니까 일찍죽은것같아 크리혼자계속먹고 디펜스어쩌다먹고 , 사과혼자9개 바나나3개인데 천양 사과 2개3개, 공평하게깹시당",
+        "writer": "UgjWL2OshNYMbXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왁형도 은근 혐",
+        "writer": "UggkIBmogIXEkHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어)배터질듯",
+        "writer": "UggN2u-W-O1nIHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송보다가 천양의 목소리가 들릴때즘이면 왁굳의 사랑과 관심이 필요해서 매일 왁초리를 맞아도 계속 합방하자는 의지 대단하긴 하다 합방을 하면 왁굳을 스토킹하듯이 나타나는 소름도 한몫을 한다.",
+        "writer": "Ugi-GNMNstZA4HgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화욜날에 로캐 하신다고,",
+        "writer": "UggO5UVW9wBzdHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁초리와 (비속어)혐양 피파이후 환상적 콜라보",
+        "writer": "UggI_N8ZyIPY-HgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양 재발 응급할때만 사과나 바나나 먹지 왜 필요없을대 먹을까",
+        "writer": "Ugg6T31wKU-kuXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양쨩 기죽지마",
+        "writer": "UggmpJ0EpbA7jXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈이 빨개지네",
+        "writer": "UggyEEzPhthrVngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 댕댕(이름)겼어. 떳어야했는데 앙빅잼",
+        "writer": "UghOxU2IILkKmHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "극대노한 왁굳,",
+        "writer": "UgggQnzbV-owb3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요거 컨텐츠 꿀잼요소 상자깡 좋은 무기 나오면 (비속어)잼",
+        "writer": "UggoHWOydncbR3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이 영상에서 나왔나 암튼 천양 몰빵으로 한적이 있었는데 3탄에 죽어버려서,",
+        "writer": "UgjWL2OshNYMbXgCoAEC.8NV_5xUEs8L8NW0t2LE9OY",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 1편인가 2편에서 천양한테 퍼줬다가 천양 나가뒤짐",
+        "writer": "UgjWL2OshNYMbXgCoAEC.8NV_5xUEs8L8NWW1vMwPQK",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 2편 보셨나요 몰빵했는데도 죽음",
+        "writer": "UgjWL2OshNYMbXgCoAEC.8NV_5xUEs8L8NWqy4YHhrX",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봤는데 이번3화에서는 그래도 좀 안주는것같아서유,",
+        "writer": "UgjWL2OshNYMbXgCoAEC.8NV_5xUEs8L8NXlvzUX4HA",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물론(이름)도 전에하신것도있고 (이름)보다 잘하시니까 드셔야되지만",
+        "writer": "UgjWL2OshNYMbXgCoAEC.8NV_5xUEs8L8NXmDVOPw-F",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강일서 사실그런취향인걸로,",
+        "writer": "Ugi-GNMNstZA4HgCoAEC.8NVUWQSsv7P8Nf63mafBQQ",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양이 아돈(비속어)돈 나오고 좋아하는거 봐 큐귀엽",
+        "writer": "UggmpJ0EpbA7jXgCoAEC.8NVKXUMQjC_8NVR_xKItBr",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 명언나오네요. 왁굳이 내 상사가 아니라 다행. 천양이 내 후임이 아니라 다행 .",
+        "writer": "UgiuHxI6c0CC6ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 스킬을안써,",
+        "writer": "UghY1BQH6t4kTngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 개답답한게 마지막에 왜 돈을 안써",
+        "writer": "UggfSKBL7Cu2v3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 알던 (이름)이 아니야 ,",
+        "writer": "UghtN8aqx_JnLXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진화하는 썸네일 합니다.",
+        "writer": "Ugj7h2z4iTRX8HgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 화가 나올 수록 썸넬이 더 진화한다,",
+        "writer": "UggNZuQyuRZ3U3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 답답해",
+        "writer": "UghWjBhVJrJQ43gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방에서 봤는데도 너무재밌어 평생우왁굳보다죽을끼야",
+        "writer": "Ugg0MNhpiT2DnHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 목소리개져앗",
+        "writer": "UgiZgi0GemsxK3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초에 천양이 맴찢",
+        "writer": "UggaSSTdXzgzWXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로스트캐슬 재생목록에 1화사라짐 . 연속으로 볼려는데 올려주세요 (이름)",
+        "writer": "UghP2qt4xq4IR3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일부터 개웃긴다 센스 오졋다",
+        "writer": "Ugj0wLujrnv42ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 컹s",
+        "writer": "Ugg9RJKi3-4eMngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음화 썸네일에 눈에 레이져 나올듯",
+        "writer": "UgiQhJD_qLibLngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 입양하고싶습니다 쪽지주세요",
+        "writer": "UghG7p6GwJ20fngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양이 보살이다 ,",
+        "writer": "Ugi7XeZGPCIdYHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤새 기다렸는데 (이름)오네",
+        "writer": "Ugi-3fLQsyZLyngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 방금 2화 보고 더 없어서 아쉬워 하고 있었는데 3화가 올라(이름)..",
+        "writer": "UgheLRulqzetyngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 눈 더 빨개졌어",
+        "writer": "UgioZWYuX3KWfHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그 사이에끼면",
+        "writer": "UgiuHxI6c0CC6ngCoAEC.8NVBh4mjAQu8NV_RBufDh9",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현우김 충격과 공포",
+        "writer": "UgiuHxI6c0CC6ngCoAEC.8NVBh4mjAQu8O1ECyU_RU4",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울먹이는거 왜이렇게 커엽냐,",
+        "writer": "UggNZuQyuRZ3U3gCoAEC.8NV4GvAVG4c8NV4mtXOyWr",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저두",
+        "writer": "Ugg0MNhpiT2DnHgCoAEC.8NV1nNBU8Zj8NVRCdcwFLG",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초에 썸네일 값 하구요",
+        "writer": "UggaSSTdXzgzWXgCoAEC.8NUzMsUdfGh8NV0LYsBp03",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁초리에 넝마조각이 된 (이름)의 자신감,",
+        "writer": "UggaSSTdXzgzWXgCoAEC.8NUzMsUdfGh8NVB8tFrT6O",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Tom Kim 저번화에 (혐오표현)고싶다고한 분이죠,",
+        "writer": "UghG7p6GwJ20fngCoAEC.8NUwSv_6z1d8NV4NzhQS8d",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히이이익 (이름) 도망쳐. 입양당하면 미래를 보장 못해..",
+        "writer": "UghG7p6GwJ20fngCoAEC.8NUwSv_6z1d8NVEMuatVV6",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈이 더 빨개지셨네 나중애는 아예 불나올듯",
+        "writer": "UggjUS4RAwCRFHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우(이름) 따땅해욤",
+        "writer": "Ugg3NugpsdAg3ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 펫해. 가 여기서 나왔구나 (이름) 멘탈 녹는거 느껴져서 안쓰러운데도 너무 못해서 더 웃긴 이 상황",
+        "writer": "UggjUS4RAwCRFHgCoAEC.8NUuqyTOfdU8NV3RuHiGZZ",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섬네일진짜 눈이점점빨개지내",
+        "writer": "UggjUS4RAwCRFHgCoAEC.8NUuqyTOfdU8NWOuSsV_62",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=8EUfPrkE7wE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

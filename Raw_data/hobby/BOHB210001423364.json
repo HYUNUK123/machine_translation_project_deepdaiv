@@ -1,0 +1,1100 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001423364",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001423364"
+    },
+    "text": [
+      {
+        "content": "a.txt 없다가 왜 시간 지나니까 생김 뭐 마법임",
+        "writer": "UgyvFVPTpbTD9_Ya9dd4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탭4 왜 안돼냐 그리고 저 외장함수 왜 쓰는지 모르겠네",
+        "writer": "UgxJSdY8jcU48llT_yZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쏙쏙 들어오는 강의와 실전에 필요한 강의 너무 잘 보고 갑니다.",
+        "writer": "UgxRdvMTBVv6rjPhUWh4AaABAg",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메모장 만드는 옵션을 줄때요, 꼭 a여야만 하나요",
+        "writer": "Ugx5VfXO4taYFXjZ82R4AaABAg",
+        "write_date": "2021-09-27",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 파이참으로 교육을 들었는데 파이참에서 새로운 파이썬파일을 만들고 실행하려면 매번 configuration에 들어가서 script path를 제가 실행하려는 파일로 바꾸고 실행해야 합니다 . 이걸 자동으로 변경되서 실행이 되게 하는 방법이 있을까요",
+        "writer": "UgzpnO1p4W6sYTgxfCh4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "for i in range(1 11) print( d번째 줄입니다 i) 이코드를 터미널에서 디버그하면 자꾸 이상하게 뜹니다제발 알려주세요 터미널 정렬하는 설정이 따로 있나요 자꾸 혼자 터미널에 공백같은게 생겨서 일자로 안나오고 뒤죽박죽 나와요",
+        "writer": "Ugw_bZu751sK6h2Yh8t4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상 잘봤습니다 파이썬 다들 쉬운언어라고 생각들 하시는데 알면 알수록 어려운게 파이썬인거 같아요 구글의 50이상이 파이썬으로 개발된것처럼 파이썬이 누구나 쉽게 접근할수도 있지만 모든 언어와 마찬가지로 파이썬도 꾸준히 공부가 필요한 언어입니다.",
+        "writer": "UgweJ2_PW6sw_0yEVMl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맨 마지막 하위 디렉터리 검색코드를 실행했는데 처음에 파이썬파일을 보여주다 이후에 c아래 모든파일을 쭉 나열하는데 어떻게 하나요",
+        "writer": "UgyclbXTe-rlN7QGl6J4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "65 문제(tab을 space로) 영상보기 전에 제가 먼저 코딩해봤는데요. 영상에서는 fopen(src)로 했는데 저는 fopen(src r)로 했습니다. 두개 상관없는걸까요 open에 r w a 안쓰면 자동으로 r인 건가요",
+        "writer": "Ugx5qUSsziClfo42_Yp4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간단한 메모장만들기 그대로따라했는데 list index out of range 이오류뜨는데 어떻게 해야하나요",
+        "writer": "UgxMnLLruTl-X0XD1zx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 걸음마 하다가 갑자기 뛰라는 느낌.",
+        "writer": "UgxR8AlDSwhHGmtjJCJ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 강의 잘 보고있습니다. 저는 분 부분에서 실행 시에 아래와 같이 오류메시지가 발생하는데 원인을 못찾겠습니다 원인이 뭘까요 a a 용어가 cmdlet 함수 스크립트 파일 또는 실행할 수 있는 프로그램 이름으로 인식되지 않습니다. 이름이 정확한지 확인하고 경로가 포함된 경우 경로가 올바른지 검증한 다음 다시 시도하십시오. 위치 줄1 문자1",
+        "writer": "Ugx4tU78IFLy47T_U9x4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모르겠어요 어디서부터 모르는지도 모르는거 보니 으아아아아아, 다시 처음부터 들어야겠죠",
+        "writer": "Ugxk0rfkFFjqtF7DqHl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우분투 WSL에서 VSC 열어서 하고 있는데 하위 디렉터리 검색하기가 안되요 import os def search(dirname) filenames (이메일)(dirname) for filename in filenames full_filename (이메일)(dirname filename) print (full_filename) search( c ) 이까지 작성해봤어요 오류 Traceback (most recent call last) File mntcUsersUSERDesktop코드(이메일) line 9 in search( c ) File mntcUsersUSERDesktop코드(이메일) line 4 in search filenames (이메일)(dirname) FileNotFoundError Errno 2 No such file or directory c 파이썬은 윈도우랑 우분투에 둘다 깔아 뒀어요",
+        "writer": "Ugz66U1EFH5zlfYJrfZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부분에 메모장을 사용하는 것부터 막혀서 그런데 (이메일) 를 새로 만들고 import sys 그대로 다 따라했는데 Traceback (most recent call last) File C(이메일) line 15 in option (이메일)1 IndexError list index out of range 이런 오류가 뜨면서 진행되(반사회적용어) 않습니다. 어디서 막힌건지 알려주실 수 있나요",
+        "writer": "UgwJCv298FeFDZxFN0Z4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 모르는부분에 대해서 질문해도 될까요 찾고 있는 코드가 안나와가지구",
+        "writer": "UgyHk-xxgxvdBwDw1X54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 왜이렇게 어렵죠 잘따라오다가 갑자기 여기서 막히네여",
+        "writer": "UgyAyLCpMAp-5nlfIMN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름). 덕분에 파이썬을 쉽게 배우고 있습니다. 궁금한 게 있는데요 예문을 보고 어떤 기능이 필요하겠다고 아는 거랑 이 다음엔 이 구문이 필요하고 이 구문을 시용할 때 어떤 우려가 있으니 이 문법이나 함수를 써야한다, 고 생각하는 과정이 어렵습니다. 특히 import os 기능을 쓸 때 이해가 유독 어려운데요. 그래서 파이썬을 잘 활용하려고 예문과 답(반사회적용어) 보고 비교하면서 이럴 때 이렇게 해야되는구나 하면서 보고 있는데 이 공부 방법이 맞나요",
+        "writer": "Ugw0g9xAFDQ-3nVLqA14AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기에 질문해도 되는지 모르겠습니다. 파이썬 엑셀 질문입니다. list 서울 경기 강원 for i in list df(이메일).to_excel( D AAA (이메일) sheet_namei) 위처럼 데이타 (반사회적용어)에서 도시별로 시트에 정리하고 싶은데요 시트가 늘어나지않고 덮어씌워서 마지막 도시만 나와요 문제점과 해결방법 부탁드립니다",
+        "writer": "UgyhcIeJ4jAmD238LaZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변경하실 수 있습니다.",
+        "writer": "Ugx5VfXO4taYFXjZ82R4AaABAg.9SZ9KgEnSro9SepJuFWX3q",
+        "write_date": "2021-09-27",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추가로 파이참에서 메모만들기를 그대로 작성해서 실행하면 option (이메일)1 가 IndexError list index out of range 오류가 뜨는데 무엇이 잘못된건가요",
+        "writer": "UgzpnO1p4W6sYTgxfCh4AaABAg.9RcAfjL5nqL9RcDz7qO0dN",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7 8강은 좀 어려운데 중요도가 낮습니다. 16강만 충분히 배워놓으시면 파이썬 활용에 전혀 문제 없습니다.",
+        "writer": "UgxR8AlDSwhHGmtjJCJ4AaABAg.9NBF0t7M-yY9NFN_UhGfJz",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4DzGOpsT3bw t411 터미널을 위 영상 6분 50초 부근에 나오는 것 처럼 cmd로 설정해서 실행해보세요.",
+        "writer": "Ugx4tU78IFLy47T_U9x4AaABAg.9Msrx4ChriK9Mt0K18eJ56",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7 8 강은 제가 생각하기에도 난이도가 높습니다. 6강까지만 이해하셨으면 충분해요.",
+        "writer": "Ugxk0rfkFFjqtF7DqHl4AaABAg.9Mn2vOInI0i9MpY_T5iXCP",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실행할때 인자가 부족하게 들어간 것 같아요. python (이메일) a b c d 이런식으로 인자를 많이 넣어보세요.",
+        "writer": "UgwJCv298FeFDZxFN0Z4AaABAg.9LQMTy0BHA-9LRP5QJp75b",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글로 질문 남겨주세요.",
+        "writer": "UgyHk-xxgxvdBwDw1X54AaABAg.9LIvNZnDeVz9LJpP9dtb0u",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "7 8강은 좀 난이도가 있습니다. 그런데 7 8강에서 실제로 사용되는 부분은 많지 않으니 그냥 넘기셔도 좋습니다.",
+        "writer": "UgyAyLCpMAp-5nlfIMN4AaABAg.9L3Rf1dyhnH9L496lJH12J",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 정확합니다. 처음부터 뭘써야하는지 아는 것은 말도 안됩니다. import os를 쓰는 것을 생각하는 것이 아니라 생각의 순서가 파이썬으로 파일을 다루는 건 어떻게 하지 구글에 검색해야겠다. python file 로 검색 이런 순서로 사고의 흐름이 가야합니다. 답(반사회적용어) 보면서 파이썬으로 파일을 다루는 건 어떻게 하지 와 같은 질문을 떠올리는 것을 연습하시면 좋습니다.",
+        "writer": "Ugw0g9xAFDQ-3nVLqA14AaABAg.9Kphr5Xv35m9KqxRNr2YeU",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 상세한 설명 감사합니다.",
+        "writer": "Ugw0g9xAFDQ-3nVLqA14AaABAg.9Kphr5Xv35m9KrBVSF7Q6B",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이메일) 여러시트를 쓰려면 아래와 같이 ExcelWriter를 써야합니다. df2 (이메일)() with (이메일)( (이메일) ) as writer (이메일)_excel(writer sheet_name Sheet_name_1 ) (이메일)_excel(writer sheet_name Sheet_name_2 )",
+        "writer": "UgyhcIeJ4jAmD238LaZ4AaABAg.9Ke8PcloMzr9KfVS6Qx03j",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1 2화 때는 차근차근 들을 수 있었는데 끝나가는 지금에서는 간단한 설명도 없이 os를 호출하고 src dst가 나오네요. 책을 미리 보고 오지 않는 이상 절대로 따라올 수 없는 강의가 되어버렸습니다. 다른댓글들을 보니 다들 이해도가 저랑 비슷한거 같네요.",
+        "writer": "UgxVgaW7gSpyrZF3n_Z4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 현재 책을 구매하고 조(이름) 강의를 들으면서 자습하고 있는 상황입니다. 조(이름)의 수업을 다 들으면 그 다음 단계 파이썬 공부는 어떻게 하면 좋을까요",
+        "writer": "UgwvaYa_ZS2fd4Br2lt4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 페이징 함수를 def count(m n) m int (input( 페이지 )) n int (input( 페이지당 게시물 수 )) return mn print(count) 이런 식으로 짜봤는데 오류가 났다고 뜨는거도 아닌데 함수가 실행이 안되더라구요 input을 쓸때 뭔가 잘못쓴건 알겠는데 뭐라고 오류도 안나오고 실행도 안되니까 고치지도 못하고 답답해 죽겠네요",
+        "writer": "UgwBvZdJ-OL8Hc-_2uJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 꿈을 크게 키워 주셔서 감사합니다.",
+        "writer": "Ugz3dPQcewFtk9-V2SJ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 예제 64 65를 진행하는중에 import sys했음에도 불구하고 (이메일)1 부분에서 에러가 계속 발생하여 원인을 알 수 없어 질문드립니다 Traceback (most recent call last) File c(이메일) line 3 in src (이메일)1 IndexError list index out of range 이런 에러는 어떻게 처리해야할까요",
+        "writer": "Ugxo2AjIC63EAtOEsOd4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "a a b랑 a b가 같은 건가요, 어떻게 그렇게 되는 건가요,",
+        "writer": "Ugzn-1RLQXydGj709lR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 경로가 윈도우인데 백슬래시가아니고 그냥 슬래시인가요 search(c)",
+        "writer": "UgxcrBNiuZulDmL13ZV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "argv가 너무 이해가 안가요 이거 언제 배운건가요 구글에 찾아봐도 무슨 소리인지 이해가 안됩니다",
+        "writer": "Ugwhhxf63nO0dfyq1SV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탭 4개로 공백 만들기 따라하는데 Traceback (most recent call last) File C Users 82106 Desktop pythonWorkspace (이메일) line 6 in f open(src) FileNotFoundError Errno 2 No such file or directory a.txt 요래 나와요 그리고 life is too short you need python 은 왜 갑툭튀인가요",
+        "writer": "UgwyGVULWGXCFYjkK0d4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복사 붙여넣기 계속하는건가요",
+        "writer": "UgwN3O0SqLT-B0XpF9V4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이메일) 만드실때 a.txt 만들어야하는거 왜 언급안해주시나요 제가 놓친건가요",
+        "writer": "UgwVPGU0cxyvwfudzVF4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤로갈수록 어렵네요",
+        "writer": "UgwF0wYRNQS7G9HdUux4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 이해 했다고 생각하는데 sys와 메모장연동이 좀 어려운데 이해 할 때까지 반복하는 게 맞을까요 아님 건너뛰어도 큰 지장이 없을까요",
+        "writer": "UgxBy1Q1Iimm_ux8JV94AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 뒤에 부분이랑 밑에줄에서 python이 자꾸 노란색 글씨로 나와요 이거때문에 자꾸 에러가 나는거 같은데 해결방법이 없을까요 PS C doit hello C(이메일) c(이메일) PS C doit hello python",
+        "writer": "UgypFPmPIK0T-3kmKdt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나누기 기호에서 랑 차이점이 뭐에요",
+        "writer": "Ugyd6NrLM4JSt_p_rTR4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 언제나 고마워요.. 초보자도 알기 쉽게 설명해주시는 덕분에 편하고 쉽게 파이썬 기초를 탄탄하게 배우고 있습니다. 이제 거의 파이썬 기초 강의 를 마치고 있는데 이 이후에 자료구조랑 시스템(리눅스) 관해서 더 배우고 싶은데 어디서 어떻게 시작해야 할지 잘 모르겠어서 그런데 혹시 추천해주실 만한 곳이 있을까요 부탁드립니다.",
+        "writer": "UgyVkSU5lNcsxM1NLqV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "argv1 argv2가 name sys is not defined로 나오는데 왜그런지 모르겠네요. 완전 초보라 복 많이 받으시구요.",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 수업 열심히 따라가고 있습니다. 064 간단한 메모장만들기에서 Terminal 창에 python (이메일) a asdf 입력하시고 엔터치면 a asdf가 결과값으로 나왔는데요. 저는 동일하게 실행시 Python 이렇게만 나오는데 혹시 , 이유를 아실까 해서 문의드립니다.",
+        "writer": "UgyMU50tB0HcABI3olt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쯤에 터미널에 a.txt랑 b.txt가 출력은 잘되는데 왜 메모장이 조(이름)화면처럼 자동으로 안생기는거죠",
+        "writer": "Ugzj9forgWJJTN4jh894AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메모추가옵션은 a로 메모출력옵션은 v로 정해져있는건가요 아니면 그냥 마음대로 하는건가요 기억이 안나서",
+        "writer": "Ugzd_0SbQ5Ksun1HE5l4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주식 투자 자동화 크롤링 등으로 실생활의 문제를 해결해보시거나 Django Flask 등을 활용한 웹 개발을 해보시는 것을 추천드립니다.",
+        "writer": "UgwvaYa_ZS2fd4Br2lt4AaABAg.9KXvcchdVrT9KYlnh8W7E6",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 혹시 더 구체적인 질문인데 저는 현재 bioinformatics 를 전공으로 하고 있습니다,",
+        "writer": "UgwvaYa_ZS2fd4Br2lt4AaABAg.9KXvcchdVrT9KbuMERysCd",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "count는 함수이기에 () 표시가 들어가야합니다. 게다가 count는 m과 n이라는 인수를 받는 것으로 설계가 되었으니 count(10 5) 이런식으로 괄호와 숫자를 써주셔야합니다.",
+        "writer": "UgwBvZdJ-OL8Hc-_2uJ4AaABAg.9K(반사회적용어)QL96sT19KTbIX4A3v3",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 공부 열심히 하겠습니다",
+        "writer": "UgwBvZdJ-OL8Hc-_2uJ4AaABAg.9K(반사회적용어)QL96sT19KTftO0_scH",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "argv로 받는 인수가 적게 들어가서 list index out of range가 뜬 것 같습니다. 아래와 같이 인수를 충분히 넣어보세요. python (이메일) a Life is too short a b c",
+        "writer": "Ugxo2AjIC63EAtOEsOd4AaABAg.9JXc66grWSZ9JYV0wG3ywX",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로그래밍 언어계의 줄임말 같은 것입니다. 엘리베이터 엘베 이런 느낌",
+        "writer": "Ugzn-1RLQXydGj709lR4AaABAg.9JD0V-fx1dz9JDqzTLjOS5",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아, 그렇군요 감사합니다.)",
+        "writer": "Ugzn-1RLQXydGj709lR4AaABAg.9JD0V-fx1dz9JEU8W9F6bp",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬에서 문자열 안의 백슬래시는 다른 용도로 이용되기 때문에 슬래시로 대체된 것입니다. 이해가 되지 않는 내용이 있다면 답글로 질문을 남겨주세요",
+        "writer": "UgxcrBNiuZulDmL13ZV4AaABAg.9J7TURvrncu9JbMoM4aUiP",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이메일)는 터미널에서 실행할 때 입력한 인자들입니다. 이 영상에서는 python (이메일) a.txt b.txt 로 입력이 되었는데 이 경우 (이메일)는 (이메일) a.txt b.txt 가 됩니다. 이해가 되지 않는 내용이 있다면 답글로 질문을 남겨주세요",
+        "writer": "Ugwhhxf63nO0dfyq1SV4AaABAg.9J4w_C0yeM59JbIAm61Fvh",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ctrl C 한번 하고 Ctrl V 여러번 눌렀습니다 )",
+        "writer": "UgwN3O0SqLT-B0XpF9V4AaABAg.9IvnJQtymT19IyEvkaT-OJ",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 번에 이해가 안간다면 google에 python sys txt라고 검색하면 많은 예제가 나올 겁니다. 이해가 안가도 기본적인건 검색하면 다 나오니 걱정하지 마세요",
+        "writer": "UgxBy1Q1Iimm_ux8JV94AaABAg.9IUTwHNJkPZ9It8P48sZZ6",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "imprt sys할때요 . terminal 에서 입니다.",
+        "writer": "UgypFPmPIK0T-3kmKdt4AaABAg.9INDnhoEDp49INDwJz9ZMQ",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나누기는 이고 은 나누었을때 몫을 나타냅니다.",
+        "writer": "Ugyd6NrLM4JSt_p_rTR4AaABAg.9I6tcVL0F079I71OwJ01xQ",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sys가 정의되지 않았다는 거로 봐선 import sys를 제일 위에 줄에 추가해주시면 해결될거 같습니다.",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg.9I4oosgNjke9IBkQ-98Son",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 답변 없는줄 알았네요",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg.9I4oosgNjke9IBorCiXl0g",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한건우 제일 윗줄에 import sys해 주었구요 argv0는 잘나오는데 1 2를 넣으면 나오지 않아요 import sys print((이메일)0) print((이메일)1) Traceback (most recent call last) File d hellocoding traval (이메일) line 4 in print((이메일)1) IndexError list index out of range 이러네요. 한번 더 부탁드립니다",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg.9I4oosgNjke9ID2pIP2g-a",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작하는 지천명 말씀하신걸 보니 1 2 라고 적으신거 같아요. 파일명이 (이메일)라는 파일을 실행할 때 python (이메일) a 1 2라고 적으신 경우 argv0 (이메일) argv1 a argv2 1 2 이런식으로 나오게 됩니다 그런데 이 때 터미널에서 띄어쓰기를 기준으로 나오기 때문에 달라질 수 있어요. 혹시 어떤 식으로 입력하셨는지 댓글 달아 주실 수 있으신가요",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg.9I4oosgNjke9IEbdgyaCem",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한건우 python (이메일) a coding 이렇게 쓰는것 아닌가요 PS D hellocoding python (이메일) a coding C Users LOTTE AppData Local Programs Python Python39 (이메일) can t open file D hellocoding (이메일) Errno 2 No such file or directory",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg.9I4oosgNjke9IFbQnNkcpa",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한건우 import sys option (이메일)1 if option a (이메일)2 fopen( (이메일) a encoding utf8 ) f.write(memo) f.write( n ) f.close() elif option v fopen( (이메일) r encoding utf8 ) (이메일)() f.close() print(memo) 이렇게 해서 저장이 잘되고 출력도 잘되어 완료되었습니다. 신경 많이 써주셔서 너무너무 감사하네요. 도움이 많이 되었습니다.",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg.9I4oosgNjke9IFj0zkrFFM",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작하는 지천명 (base) E test python (이메일) a coding (이메일) a coding 뭔가 다른문제가 있는거같아요 저는 정상적으로 출력이 되네요 import sys print((이메일)0) print((이메일)1) print((이메일)2) 코드는 이렇게 썼습니다",
+        "writer": "UgwvKV3bvl8J95pUv1J4AaABAg.9I4oosgNjke9IG98DkDxs0",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠 python path 설정 혹은 vscode의 Interpreter 설정이 재대로 안되었을 수 있을 것 같습니다.",
+        "writer": "UgyMU50tB0HcABI3olt4AaABAg.9Hy2g76w0A39I35kSIAEDM",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별도로 오류 메세지는 뜨는게 없으신가요",
+        "writer": "Ugzj9forgWJJTN4jh894AaABAg.9Hvckfmfw1-9I4S-l38akF",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임의로 지정해준 것입니다. 마음대로 지정하실 수 있습니다 )",
+        "writer": "Ugzd_0SbQ5Ksun1HE5l4AaABAg.9HvbMqv5wY69I4Rz71edRs",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코딩하다보니 오류가 떴습니다. 그런데 예제와 동일하게 작성한 코드임에도 불구하고 에러가 떠서 질문 합니다 분에 메모장 만드는 코드를 동일하게 작성했으나 File c doit (이메일) line 4 in option (이메일)1 IndexError list index out of range 라는 에러가 뜹니다. 이유가 무엇이고 어떻게 해결해야하나요",
+        "writer": "UgzPHPqBkmrrx4X2VQB4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나한테는 갑자기 어려워진 느낌임. 저번 수업까지가 더하기 빼기였다면 이번강의 부터는 갑자기 대학수학1 선형대수학 이런 느낌임",
+        "writer": "UgwS769b54qbKbzGk_R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "import numpy as np a1 2 2 1 b4 1 2 2 (이메일)(a b) 정답과 풀이 궁금합니다.",
+        "writer": "UgzdIiFj5hg54wfJ7bd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 자바스크립트 책이나 강의 추천해주실수있으신가요",
+        "writer": "UgxAjQPUq0asnyqc7hd4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬이 쉽다해서 배우고 있지만 저한텐 아직도 어려운 부분이 많네요 그래도 절대 다 외우지 않고 필요시 마다 검색 후 활용하는거라는 말에 위안이 됩니다. 포기 안하고 계속 하다보면 익숙해지고 능숙해 질거라 믿습니다. 강의 감사합니다.",
+        "writer": "UgwDQVLMZ94bik_GV2l4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 세상, 피 토하는 음악,",
+        "writer": "UgwY6HZQSaL4KdYNPCR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "책 무료 (비속어)이죠",
+        "writer": "Ugw7aZRncEKrKo9husZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 return이 어떤 거였더라",
+        "writer": "Ugxy-9jT4xyb9dV-3EB4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Db없이 게시판 구현할 수 있나요",
+        "writer": "UgxYNgEzIEeDuBV8yjJ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름)이 잘해주셔서 책없는데도 영상만봐도 잘 되네요 감사합니다 역시 갓코팅님",
+        "writer": "UgzUFRWvmW7F-5IPUw14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 제가 재미로 플레이스토어에 앱을 출시하려고 하는데 조(이름)은 개발자 계정을 만들때 이 유튜브 계정으로 하셨나요 아니면 다른 계정으로 하셨나요 제가 댓글 적은 이 계정으로 만드려고 하는데 이 계정으로 재미로 유튜브도 하고 있는데 개발자 계정으로 바꾸면 이 계정에 영향이 갈까 궁금해요",
+        "writer": "UgwVBS37aTpw8qhqiX94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 c언어를 해서 파이썬을 2일정도 공부하니 바로 기본적인것들은 구현이 가능하더군요 그래서 다른 기능들을 찾아보다 재미로 웹매크로를 만들어 보게 되었습니다. 도스명령어로 배치파일도 만들고 다른기능들은 성공하였습니다. 그런데 여기서 저의 역량의 한계가 보이더군요. 특정시간을 설정하여 예약실행기능을 구현하려 했는데 실패하였습니다. 이부분을 어떻게 해야할까요.",
+        "writer": "UgxNHzwlMA3uuuR1wF54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름)은 계속 구름ide로 개발하고 앱 출시하시나요 저도 저만의 어플 개발하고 출시하는게 목표인데 구름ide로도 웬만한 앱 만들수있고 출시까지 가능한가요",
+        "writer": "UgwA72Z7s8qMijWlJMx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코딩에 관심이 생겨서 코딩강의영상을 보고 있는데 궁금한 점이 있어서 댓글남겼습니다 동영상을 (반사회적용어)별로 나눠서 클릭하면 넘어가게 만들고 싶은데 혹시 이런 코드나 방법이 있나요, 유튜브에 아무리쳐도 안나오더라고요,",
+        "writer": "UgzQp0LFnUe6yVK8HIt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 (이름)께서 컴퓨터 프로그래머는 프로그래밍 언어의 변화를 따라가지 못해서 직업 수명이 10년이라고 하셨는데 사실인가요",
+        "writer": "UgzHLdLDsgVUWf7Lb9l4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 조(이름) 질문이 하나 있어서 댓글을 달아요 저는 내년에 고등학교를 올라가는 학생인데요 제가 모바일 웹을 개발하고 싶어서 코딩을 배우려고 하니 막막해서 코딩이라는 분야에서 재일 기초와 밑바탕이 되는 것을 먼저 공부한 뒤에 코딩을 배우려고 합니다 그러면 그 기초와 밑바탕이 되는 것을 어떠한 것이 있을까요 컴퓨터 공학에 관련된 지식이 있어야 하나요",
+        "writer": "UgzoOr1uv5lzm2VPxJF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 감사합니다. 저는 한번에 몰아서봤는데 3일만에 파이썬 기초 문법을 머리속에 넣을수있었어요.. 기회가 되신되면 do it 시리즈 책에서 자바프로그래밍도 해주실수 있을까요",
+        "writer": "UgysKzpqDFAGhPal6r94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 재미있고 쉽게 강의해주셔서 감사해용.",
+        "writer": "Ugxt6IkYcoCxcL6kvVt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬이 간단한 언어라 파이썬 익히고 Java Javascript나 Kotlin 같은 언어들 접하니까 굉장히 쉽더라구요. 프로그래밍 처음 시작이라면 파이썬이나 자바스크립트 같은 쉬운 언어들로 기초적인 구조를 설계하는 부분 연습하는게 매우 효과적입니다..",
+        "writer": "Ugw88AqIfJlNnxzbGG14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이메일)1에서 argument 1번째 값이 없다는 뜻인데요. python (이메일)를 실행하실때 python (이메일) v처럼 v 라는 argument를 입력하지 않아서 그럴 것 같아요.",
+        "writer": "UgzPHPqBkmrrx4X2VQB4AaABAg.9HCkx3NX2FP9HKnyu9qhld",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding v 라는 argument를 입력하지 않아서가 아니라 실행을 (비속어)기만해도 에러가 떠요 Traceback (most recent call last) File c(이메일) line 4 in option (이메일)1 IndexError list index out of range 그런데 vscode에서 바로 실행시킬 때만 이런 에러가 뜨고 cmd에서 실행을 시켜보면 작동이 됩니다. 이유가 뭘까요",
+        "writer": "UgzPHPqBkmrrx4X2VQB4AaABAg.9HCkx3NX2FP9HNKgVImAtD",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "교재가 7장부터 확 어려워 지더라고요, 어려운 문제이니 처음 배우시면 당연히 어려우니 걱정마세요. 실제로 파이썬을 활용할때는 더 쉽게 사용할 수 있습니다 )",
+        "writer": "UgwS769b54qbKbzGk_R4AaABAg.9Fajhq2ESJ-9Fg32qBlqIe",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 부분의 정답과 풀이 말씀이신가요",
+        "writer": "UgzdIiFj5hg54wfJ7bd4AaABAg.9EDataXTAGn9EEK-XmMrOG",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 넘파이 개념과 구현 방법 코랩활용법 궁금합니다 해당코드를 혼자돌려보는 방법이요",
+        "writer": "UgzdIiFj5hg54wfJ7bd4AaABAg.9EDataXTAGn9EEPjuVw4up",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "course743 저는 생활코딩 javascript로 공부하였습니다.",
+        "writer": "UgxAjQPUq0asnyqc7hd4AaABAg.9E6z4eE_Hmz9E9IJpKqFjq",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1강 z2Cu7gPMq0w 2강 QPEUU89AOg8 조코딩 채널에서도 간단하게 1 2강으로 다룬 것도 있습니다.",
+        "writer": "UgxAjQPUq0asnyqc7hd4AaABAg.9E6z4eE_Hmz9E9IP9mvSWr",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다.",
+        "writer": "UgxAjQPUq0asnyqc7hd4AaABAg.9E6z4eE_Hmz9E9LngDgr8R",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에는 조금 어려우실 수 있는데 활용하시다보면 익숙해져서 잘 사용하실 수 있으실겁니다 코딩 공부 응원합니다.",
+        "writer": "UgwDQVLMZ94bik_GV2l4AaABAg.9DzqJqBfSzu9E5s9QTr5eD",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "return이 함수에서 값을 최종적으로 돌려주는 것입니다. 이전 강의의 책에서 나온 예시로 말씀드리면 믹서기에서 과일을 갈고 과일 주스를 내보내는 과정 입니다.",
+        "writer": "Ugxy-9jT4xyb9dV-3EB4AaABAg.9D5LMH9FRcj9D7NxJ5C8Ph",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그누보드 XE 워드프레스 등 솔루션을 활용하시면 쉽게 게시판을 구현하실 수 있습니다. 그러나 DB는 다 있어요.",
+        "writer": "UgxYNgEzIEeDuBV8yjJ4AaABAg.9Cw91qp2hL_9CwzpPM-LuI",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 좋게 봐주셔서 감사합니다.",
+        "writer": "UgzUFRWvmW7F-5IPUw14AaABAg.9Cr3f_SzKnM9CrdtzlljWX",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 별도 계정을 사용하긴하는데 유튜브 계정에 전혀 영향 없습니다.",
+        "writer": "UgwVBS37aTpw8qhqiX94AaABAg.9CoHpYO9_-r9CoIIZR3Nv_",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈도우를 쓰신다면 스케줄러에 작업 예약을 걸어놓으시면 됩니다. 1449 리눅스 기반 운영체제를 쓰신다면 crontab으로 걸어두시면 되구요.",
+        "writer": "UgxNHzwlMA3uuuR1wF54AaABAg.9Co5i6ynoJv9CoIA5kgyuy",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 귀찮게 해서 죄송하지만 한가지만 더 물어봐도 됄까요, 일단 기본적인 틀을 다짰습니다. 도스명령어로 그러면 이제 그 배치파일을 실행하면 예약시간을 그자리에서 바로 쳐서 그 시간에 자동실행되게 하는 방법은 없을까요 datetime이나 특정시간사이트에서 반복문으로 주기적으로 받아오는 식으로 해서 그 입력받은값이랑 현재시각이랑 비교해서 코드를 짜는수 밖에 없나요, 주변에 물어볼 사람도 없고 독학으로 c를 때고 해서 어렵네요,",
+        "writer": "UgxNHzwlMA3uuuR1wF54AaABAg.9Co5i6ynoJv9CoPkao_FH0",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 로컬 컴퓨터에 여러가(반사회적용어) 설치해놔서 그냥 로컬로 개발합니다. 설치하는 것이 귀찮으시면 구름IDE로도 충분히 개발하고 출시하실 수 있어요.",
+        "writer": "UgwA72Z7s8qMijWlJMx4AaABAg.9Cmd2bYZUD69CmiJ38Udhr",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아하 답변 감사합니다. 강의 들으면서 실력을 늘려 꼭 제 목표를 달성하겠습니다. 좋은 강의와 답변 감사합니당.",
+        "writer": "UgwA72Z7s8qMijWlJMx4AaABAg.9Cmd2bYZUD69Cmj6ziCore",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "35 opencv를 활용하여 이런식으로 구현하시면 됩니다.",
+        "writer": "UgzQp0LFnUe6yVK8HIt4AaABAg.9CmbMMbU5o29Cmi7GM0Wmp",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 정말 감사합니다.. 혹시 파이썬 말고 html에서 하는 방법도 있을까요",
+        "writer": "UgzQp0LFnUe6yVK8HIt4AaABAg.9CmbMMbU5o29CojzW9jad5",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로그래밍 언어의 변화를 따라가지 못하면 그럴 수 있습니다. 변화를 따라가(비속어) 한다면 당연히 훨씬 오래할 수 있고요.",
+        "writer": "UgzHLdLDsgVUWf7Lb9l4AaABAg.9Clz0LvgiUv9CmgwEYmB5s",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밑바탕이 되는 지식이면 컴퓨터 공학 전공 지식일 것 같습니다. 모바일 웹개발을 위해 필수로 배워야하는 것은 아니지만 밑바탕의 지식이 궁금하시다면 배워두어도 좋을 것 같아요. CS50과 같은 강좌를 들어보시는 것도 좋을 것 같습니다.",
+        "writer": "UgzoOr1uv5lzm2VPxJF4AaABAg.9Ck4UkOpiQl9ClVZU3FFko",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 엄청 빠르시군요. 감사합니다 당분간은 활용하는 것 위주로 진행할 계획이여서 자바 개념은 추후에 기회가 되면 다루어보겠습니다.",
+        "writer": "UgysKzpqDFAGhPal6r94AaABAg.9Cgycg-ZNiR9CjO2pAW810",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다 )",
+        "writer": "Ugxt6IkYcoCxcL6kvVt4AaABAg.9CeecIRzKIw9CeiZq_qWKc",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 꿀팁 공유 감사합니다. 저도 동감합니다",
+        "writer": "Ugw88AqIfJlNnxzbGG14AaABAg.9Cec3R6JxbG9CeiYS3T5kv",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 저 파이썬으로 키로거 만들었어요.",
+        "writer": "UgwIo36o55cAW_DPuLR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 있어요",
+        "writer": "Ugy6jljASTqW9hQ-IH54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오 7강이다",
+        "writer": "Ugy5L6exdMJPMNRsFTt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 ICDL도 알려주시면 좋겠습니다..",
+        "writer": "Ugwwcq5zFZ8VLEEGysl4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 강의 꾸준히 보도록 하겠습니다.",
+        "writer": "UgyTaNXwBIOurqljxKZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 7등",
+        "writer": "UgyvcxKsMzdhyNeNr4R4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점프 투 파이썬과 함께하는 파이썬 입문용 코딩 기초 강의 7강으로 프로그래밍을 전혀 모르는 왕초보도 누구나 쉽게 코딩을 배울 수 있도록 강의를 진행합니다. 목차 둘째마당. 파이썬 실력 키우기 06장 파이썬 프로그래밍 어떻게 시작해야 할까 인트로 061 내가 프로그램을 만들 수 있을까 062 3과 5의 배수 합하기 063 게시판 페이징하기 064 간단한 메모장 만들기 065 탭을 4개의 공백으로 바꾸기 066 하위 디렉터리 검색하기 6장 정리 및 문제풀이 꿀팁 조코딩의 파이썬 기초 강좌 (점프 투 파이썬) 재생목록 playlist listPLU9uwewPMe2AX9o9hFgvnRvOcBdzvP5 라이브 풀버전 재생목록 playlist listPLU9uwewPMe2L7dC2us_C3LLwDL9vHQIx 책 구매하기 bDJBfK (위 링크는 쿠팡 파트너스와 연결된 링크로 구매에 따른 일(비속어)의 수수료를 지급받을 수 있습니다. ) 파이썬 파이썬기초 파이썬강의 이 영상은 이지스 퍼블리싱 출판사의 협찬을 받아 제작되었습니다.",
+        "writer": "UgyihOY6VCRN1MSh2Q94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬실력키우기 잘보겠습니다",
+        "writer": "UgyiI8qNZXRNvbIVHg94AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오 잘하셨어요. 배운 것을 응용해보는 것이 정말 좋은 공부법인 것 같습니다",
+        "writer": "UgwIo36o55cAW_DPuLR4AaABAg.9CeWuve820m9CeXirC2_p0",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 봐주셔서 감사합니다",
+        "writer": "Ugy6jljASTqW9hQ-IH54AaABAg.9CeWaGe_7PJ9CeXl9v1m6W",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 둘째마당 강의가 나왔습니다.",
+        "writer": "Ugy5L6exdMJPMNRsFTt4AaABAg.9CeTLiwQ6XJ9CeV7fD-Sy6",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "wICDL 오 저도 처음 본 자격증입니다. 국내 취업에서는 별 인정을 못 받는다고 하네요",
+        "writer": "Ugwwcq5zFZ8VLEEGysl4AaABAg.9CeSheBlxzA9CeV4rwEwls",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아 그런가요",
+        "writer": "Ugwwcq5zFZ8VLEEGysl4AaABAg.9CeSheBlxzA9CeWCINtQTd",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 없는 것 보다는 노력했다는 느낌은 줄 수 있을 것 같습니다.",
+        "writer": "Ugwwcq5zFZ8VLEEGysl4AaABAg.9CeSheBlxzA9CeWgspvfwq",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 방금 공부하던거 포기하려고했는데 조그만 희망을 걸고 다시 공부해 보겠습니다.",
+        "writer": "Ugwwcq5zFZ8VLEEGysl4AaABAg.9CeSheBlxzA9CeXDQn6alM",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 화이팅입니다..",
+        "writer": "Ugwwcq5zFZ8VLEEGysl4AaABAg.9CeSheBlxzA9CeXZq7DLej",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 응원합니다 Eric님..",
+        "writer": "UgyTaNXwBIOurqljxKZ4AaABAg.9CeSP2aqeSN9CeSiSrT411",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 7등 축하드립니다.",
+        "writer": "UgyvcxKsMzdhyNeNr4R4AaABAg.9CeQZ2_ZkAs9CeQiA5y08G",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 빠른 댓글 남겨주셔서 감사합니다",
+        "writer": "UgyJItK4NNyHVELkdjF4AaABAg.9CeQ55oDLNe9CeQKXOHznH",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 화이팅입니다.",
+        "writer": "UgyiI8qNZXRNvbIVHg94AaABAg.9CePeL7imZM9CeQJMhgSNl",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=M4sDbGW62R0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001638225",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001638225"
+    },
+    "text": [
+      {
+        "content": "어우야 저덩치에 귀엽네",
+        "writer": "UgwhIYIvHiNxWuF3Ua54AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시원한 돌대리삭 2개좀 장만해주세요",
+        "writer": "UgyryaS-PAweaL7HkYB4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제야 알더니 참 무심하시군요",
+        "writer": "Ugzoxqcid56Eg0grg8t4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "땅 안파는척하는것이 웃겨 웃겨 더워서 파는것같은다 누워있을라고",
+        "writer": "Ugxi-8kEiy-Iiem2o7l4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 똑똑하네",
+        "writer": "UgyYgk4r6-7EO3OqnNp4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 어쩜 사이가 저리도 좋을까",
+        "writer": "UgxIrHEW63l1ReKdVCF4AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼음팩을 손수건으로 감싸서 해피한테 주고싶당",
+        "writer": "UgwLwJaeDkSEiMvBdM54AaABAg",
+        "write_date": "2021-04-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피야 넌 우리의 힐링 사랑할 수 밖에 없는 해피",
+        "writer": "Ugx3tY_y2r_bFEYfXvF4AaABAg",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 해피 뭐입고있나했네",
+        "writer": "UgyAox1901amFxTLhIl4AaABAg",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 퍼니",
+        "writer": "Ugxs4uf7BpZfyHRtkyZ4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 있으니 같이 놀고 혼자보다 참 좋네요",
+        "writer": "UgyygWZEZiqytl9KKpJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더울땐 실내에서 에어컨 켜 줘야겠네요 마음아파요 더워하는거 보니까",
+        "writer": "Ugw_Wj97nb2JcEDgUjZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 팬미팅 안해요",
+        "writer": "UgwzPVYifVJMdJ4SAK94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피는 진짜 언제봐도 웃는 얼굴 이름처럼 해피해피 해 보여요. 맨날 비만 오는 올여름은 을매나 더울꼬 땅도 못파고",
+        "writer": "UgypNQRYIDBYTT1PI5p4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)에 모피코트를 한 벌씩 껴 입고있으니 얼마나 더울까요 게다가 땀(비속어)도 없다는데 너무 안스럽네요 해피야 퍼니야 모쪼록 냉흙찜질 잘하고 건(이름) 혹시 모양은 빠지겠지만 여름에만 털을 좀 밀면 안될까요",
+        "writer": "UgzhZsqvkELtAhkiHsZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피가 매우 지혜롭군요. 날씨가 더우면 땅속이 시원하다는 것을 해피가 잘 알고 있네요... 해피와 퍼니가 늘 사랑스러워 사랑많이 받고 건강하게 지내렴",
+        "writer": "UgwbQoPJZsAJHxilCV14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계속 파게 두시면 어떨까요 그러면 멋진 토굴 하나 생길거같은데,",
+        "writer": "UgwsivXQVYJsiiS9a154AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피가 더위를 많이 타나봐요 물 마실 때도 퍼니는 뇸뇸 느낌인데 해피는 철퍽철퍽",
+        "writer": "Ugyppq_ljUQJ3S0fIxJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지혼자 다(비속어)재끼네.",
+        "writer": "UgyPPzXdx8kRZ2J6rgV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 (비속어)탱",
+        "writer": "UgzzLmQje5xiL8yeV5h4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "털좀 깍아주세요",
+        "writer": "Ugz4YZw2Oq75aX6i_gh4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더위피하려고그늘진찬곳에 누워더위(비속어)려는 털많은아이들 흔히 여름철에는 털빡빡깍아주는 이유입니다",
+        "writer": "UgyxnPV92ntUQ4ZGPyl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 개들 물한번 시원하세 뿌려주세요",
+        "writer": "UgzeYha8h99vbAo435J4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진드기 물어요. 물 좀 끼얹어주시지",
+        "writer": "Ugy9hwuDCHKcQoWFcPB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지 이 지극히 자연친화적인 짤은 .",
+        "writer": "Ugy-zY0wTn2ouIGu-dB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘들은 어쩜 이렇게 예쁘지",
+        "writer": "UgzI1XcYm9cc0vHsYsx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜자기몸에맞게 파려면 엄청 힘들겠다",
+        "writer": "UgwZEQZhd8TBeJNNCuZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인이 개한테 흙뿌리는 희귀한영상",
+        "writer": "UgxpBmCgrk2Evt2xNkN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피가 털이 있어서 여름에 더운거 아닐까요 여름에만 털을 깍아 주는건 어떠실지",
+        "writer": "Ugyr4eEOqdOpCJq-R6t4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흙이 시원해서 저런듯",
+        "writer": "UgySqI7rYGKOzsqpQvB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겨울에는 땅을 파면 더운 열이 올라오고 여름에는 차가운 기운이 올라옵니다 그래서 개가 땅을 파고 배를 그자리에 깔고 엎드리는 것입니다 그러다가 땅이 식으면 다시 좀더 파고 눕고",
+        "writer": "UgzcBZrkIhysP75pdi14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자연에서 흙팩도 하고 이름처럼 행복한댕댕이구나",
+        "writer": "UgzOdpciyZ8yrVgVbB94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피야 넌 다 계획이 있었구나.. 크크크 울 집백구 저수지앞 땅을 너무 파서 나무뿌리가 드러나 (이름) 보시면 야단 맞는다고 그만파라고 말리던 생각나네",
+        "writer": "Ugy81IrTJz65mjwbYtR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼음을 넣어주시면 어떨까요",
+        "writer": "Ugw3VNuLtZU2A1yAdo54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김장독을 땅속에 묻잖아요 그게 겨울엔 은근하고 여름엔 시원해서임. 개는 원래 (비속어)도 땅굴에 낳고 보금자리를 애초에 굴에 잡죠 본능적으로 아는거에요 똑똑하죠.",
+        "writer": "UgzLE3331qFeCPKndDF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 난 전부터 알고 있었음. 어릴때 여름이면 우리집 개가 그늘에서 항상 저렇게 땅을 파고 배깔고 누워 있었음.",
+        "writer": "UgykBoyW1zHIKzEYf0N4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "징짜 시간 가는 줄 모르겄당",
+        "writer": "UgwtCo7OhSR_72i2-XR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 주인(비속어), 땅파는 이유를 너무 늦게 아신듯요 (이 영상을 지금 보는 저도 매우 늦은 )",
+        "writer": "Ugx7XCaU2JCJmCQioKN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수맥을 찾아내는 해피",
+        "writer": "UgwLo6FW3H4B3I82M1p4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말로 진드기 조심 해야될것같네요 나무가 많은 밖이라",
+        "writer": "Ugz3NoknDBlp-C9xtf54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "털이 보온 보냉도 되요 털 깍으면 체온이 더 올라가요.",
+        "writer": "Ugyr4eEOqdOpCJq-R6t4AaABAg.9BaTPvVNJKg9BffeyEGg0l",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 여자랍니다",
+        "writer": "UgzOdpciyZ8yrVgVbB94AaABAg.9B_LUj7HTBl9Ng7uDmz00i",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인분 해피한테 흙 냅다 던지시는거 왤케 웃기징",
+        "writer": "Ugz99Vw0t32qrGjpwrB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Hot여름에도 털코트 입어야하나까요",
+        "writer": "UgyvkMXGzeV7CTRvgs94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순둥이들 어찌 이리 착하노",
+        "writer": "UgxviyP3dPKrS-PaRzN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니가 더 더울텐데",
+        "writer": "Ugwc3op0WAR96gA6mOl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 좀 만져보고싶은 1인. 어쩜저리 순둥순둥 하고 이쁜지,",
+        "writer": "Ugx5C4Ulshaf_DCJgeh4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올 여름엔 삽 가져다 구덩이를 만들어줘요. 지표 흙은 (반사회적용어)도 많은데 덮어주지 말고.",
+        "writer": "UgwkxOXsSCrAZUNKgkV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람도 더우면 그늘찾는데 개들은 땀(비속어)이 없어서 발바닥에만 더위를 더 탑니다 그늘막 하나 설치해 주세요 이쁘고 사랑스러운 애들 입장도 생각하시길",
+        "writer": "Ugxm00vdjU47kORC4Al4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일을 보고 안 들어올 수 없었어요",
+        "writer": "UgxZCWFH5OFRgR1j7Ut4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "땅파다 부르니까 안파는척,",
+        "writer": "Ugy_HH16_xj91DkZa6d4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 심는중이신가요 저 자리에 해피 자라나나요",
+        "writer": "Ugx1tV-2PBvja2Bj74V4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두더지소녀 해피 아이들이 서로 너무 순하고 잘맞고 잘노네여 넘넘 보기좋고 행복해요",
+        "writer": "UgzbLcJ78FMseSLJzLl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 젊고 힘이 좋으니까 더위도 잘 견디는구나.",
+        "writer": "Ugy7EFqtpWsgVmiXYyB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구충제 꼭 먹이셔야겠어요",
+        "writer": "UgybZH4aH1rGdwPdEdF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이쁘네요 서로서로 양보 해주고 본능적인걸 (비속어) 똘똘견과 견성좋기로 소문난 리트리버스라 그런지",
+        "writer": "UgwGBpEX4o8gbCKx8kZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야생진드기 조심해요",
+        "writer": "UgwRmF9E-ozYHVjiP4V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리집 (비속어)도 흙을 많이 파고 거기 엎어지던데 시원해서 그러거였나요",
+        "writer": "Ugzw2fylB-ypgeuWV_B4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 더운가보다",
+        "writer": "UgzphEG2QTDHH0uRPDJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼음 아주 큰거 하나 놔주세요 해피 완전 좋아할듯요. 몇시간만에 녹긴 하겠지만요.",
+        "writer": "UgxjlJ65CyiUgaeDX054AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희집 (비속어)는 시원해서 자주 땅파고 들어가드라구요",
+        "writer": "Ugzw2fylB-ypgeuWV_B4AaABAg.8xxMknlRwc_8xypNqZqPNI",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울집 개님도 여름만오면 열시미 땅파서 들어누워요 대리석보다 좋은가봐요",
+        "writer": "Ugzw2fylB-ypgeuWV_B4AaABAg.8xxMknlRwc_9Be0t34sMf0",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대리석 큰거 하나 장만했습니돠",
+        "writer": "UgxjlJ65CyiUgaeDX054AaABAg.8x7QpYWKbQP8x8Kb0xjqxq",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "땅속이 찹찹해서 좋거던요 시원허니 누구의 구속도 안받고",
+        "writer": "UgyHk_AgmtkoGuOHrE94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피가 더워 땅파는건 아닐까요 흙이 시원해서요",
+        "writer": "UgwXBWB09IPyCVZW0f94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "땅속에 뭐 있어요",
+        "writer": "UgwrlBguDfprDu_SF8B4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피야 벌써부터 더워해서 큰일이넹 여름 이즈 커밍",
+        "writer": "UgwaFiahXHHGXjoen454AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 자연견이다네요 흙이 시원하니 저렿게 좋을까",
+        "writer": "Ugwcres23NA4GazJL_l4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본능적으로 아는(혐오표현) 땅파서누우면 거기 진짜시원함",
+        "writer": "UgxQ2X1m6jJgYQzO4tV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "금동이네 보니까 여름엔 시원하고 평평힌 대리석 ( ) 돌침대( )에서 자더군요.",
+        "writer": "UgwugGKxu4i47zgyYTh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구, 그랬구나, 임시 풀장을 만들어 주시면 어떨까요 그럼 퍼니도 목욕에 적응할 수 있게될 듯요",
+        "writer": "Ugyu5fOUOdXgvVpe-yl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리해피 똑똑이.. 시원한 흙으로 제대로 샤워하넹",
+        "writer": "UgxHzaAMOEqiXc8M7WJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더워(이름) 해피퍼니가 밖에 나와있는 영상이 더 많은거 같고 해피 땅 잘 파넼",
+        "writer": "UgzYcNsBf4zxquvx3FF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 가장 큰 이유는 발톱이 계속 자라기 때문",
+        "writer": "Ugy3i1np8eAUD62QurJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흙으로 덮는데 가만히 있는거 너무 귀엽다구요.............물 마시는 것도 귀엽고, 그냥 다 귀여워요 진짜 , 해피라고 부르면 잠시 멈추는 것도 귀엽습니다 .복받으세요 오늘도",
+        "writer": "UgzaYkM87_8JRUu1xNx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여사님 씁쓸해. 지났다며 선풍기. 풀가동 하셔야 겠어유 에어콘은 둘째치고..",
+        "writer": "Ugxe9TgzeGFgMYIHx7R4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짖궂은 집사땜시. 여사님 사서고생 머드팩 없던걸 다행으로.",
+        "writer": "Ugz1YiTNa8uDRiOvOd54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코팩 마스크팩도. 흙팩 집사(비속어) 날이갈수록 위트가 넘치시네.",
+        "writer": "UgyuuPx79CldDdcgqa94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자동차 밑. 그늘 밑 땅파면 시원한 자리. 선점하시려고 다 이게. 해피여사 아이디어. 집사 미안하고. 꼭 이렇게까지. 하셔야만 했냐.. 반말지송 이런 개그가 있었어라우 여사님",
+        "writer": "UgwgaWQ-IJdQgMB7r154AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포복만 할줄아시면 수색대. 가야하신디 위장술은 (비속어).",
+        "writer": "UgywpSOZIvNzuoH0_Mt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피여사 굴삭기. 자격증 있으신가 지게차 자격증도.",
+        "writer": "UgwSL6AjQtGWl8be7Yd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마쟈요 요즘도 땅 엉청파용",
+        "writer": "UgwXBWB09IPyCVZW0f94AaABAg.8wbGCadvwVi8wbwOZZRjTH",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿀 숨켜놨어요",
+        "writer": "UgwrlBguDfprDu_SF8B4AaABAg.8wF1LjIMPjh8wFtVjKnuDP",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여름나기 쿨패드랑 대리석 주문했어용",
+        "writer": "UgwaFiahXHHGXjoen454AaABAg.8vilBa2_4ZX8vjSZpWy9kc",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본능적으로 느껴졌어",
+        "writer": "UgxQ2X1m6jJgYQzO4tV4AaABAg.8vXLj1AsMac8vXgFz6XctL",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대리석 이야기를 많이들 해주시네용",
+        "writer": "UgwugGKxu4i47zgyYTh4AaABAg.8vX6EAseZW98vXgILHl2RN",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 Happy Funny 그늘에 돌판은 누우면 입돌아간단 말도, 멍뭉들 땀(비속어) 없으니 큰도움 될듯요",
+        "writer": "UgwugGKxu4i47zgyYTh4AaABAg.8vX6EAseZW99BZHao9EbJN",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "풀장 괜찮을듯 싶어용",
+        "writer": "Ugyu5fOUOdXgvVpe-yl4AaABAg.8vWwG40K3vV8vXgKNgOfKm",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘때나 집에있고 보통 밖에 많이 있어용",
+        "writer": "UgzYcNsBf4zxquvx3FF4AaABAg.8vWcWx85-DA8vXgOEp35mX",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그것보단 더워서임",
+        "writer": "Ugy3i1np8eAUD62QurJ4AaABAg.8vW_tE4xEqt9HqBgIyvcbi",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거하고 폭풍 목욕",
+        "writer": "Ugz1YiTNa8uDRiOvOd54AaABAg.8vWSXtpm4fa8vWT3BGHIWZ",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포복에 삽질까지 군견으로 전향합니다욧",
+        "writer": "UgywpSOZIvNzuoH0_Mt4AaABAg.8vWRzYqcu288vWSzpEIvkk",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여사님 온천수(반사회적용어).",
+        "writer": "UgziOdMA6lxLSDkPU5d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피여사 칭찬하니. 식탐 못말려",
+        "writer": "UgzGbwj42x0ex_2H-dd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "않겄수 물도. 핧작하는 사이. 캬 부부같이.",
+        "writer": "Ugy4J_yg09qKcHkLLWR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인자 저거 우째 목욕(비속어)실라고,",
+        "writer": "Ugwb7JHdIGrEIwhMeMJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저러다가 해피 땅에 묻고가실듯.",
+        "writer": "UgzpeIBazcN0WkSPJIB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 진짜 너무너무너무 귀여워요 (이름) 매일 행복하시겠어요 요새 해피퍼니 영상만 기다리게 되네요 짱귀욤 해피퍼니 오늘 영상도 흐뭇하게 봤습니다",
+        "writer": "Ugz2KBT0LX8VjvGub6x4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여사님댁에 대리석 하나 놔드려야겠어요",
+        "writer": "Ugxwl-N-am_iYPVJnPF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 물 먹는 소리에 빵 터졌어요 지대로 벌컥벌컥 썰매견보다 더위를 더 타네요",
+        "writer": "Ugz3KcfRKbG9lqzYZkR4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피보면서 참 울집 골댕이랑 하는짓이 왤케 비슷한지, 저희집은 흙마당에 낮에는 묶어두고 밤에는 풀어주는데, 낮에 덥다고 자기집옆에 구덩이를 만들어서 거기 꽁하고 있는데",
+        "writer": "UgyCDBnwc-H3AAoJixp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흙 맞을때 해피둥절",
+        "writer": "UgykEn9GWE_BOlG2MdZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밖에 물 뿌리는 기계 있어서 물 쫘악 뿌리고 자연광으로 말렸어요 이렇게 하면 금방 끝",
+        "writer": "Ugwb7JHdIGrEIwhMeMJ4AaABAg.8vWQnjtzvoS8vWR7z8SOFR",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중 해피둥절 표정",
+        "writer": "UgzpeIBazcN0WkSPJIB4AaABAg.8vWQjXM4enw8vWRFJiiQSY",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 Happy Funny 볼때마다 넘 사랑럽겠네요.",
+        "writer": "UgzpeIBazcN0WkSPJIB4AaABAg.8vWQjXM4enw8vWRffk8ZBl",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 보고 생매장 생각이 났어요. 해피 또리둥절",
+        "writer": "UgzpeIBazcN0WkSPJIB4AaABAg.8vWQjXM4enw9AhA38VTCwX",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 기다리(이름) 감사합니당. 댕댕이들 때문에 심심할틈이 없어서 좋아욧",
+        "writer": "Ugz2KBT0LX8VjvGub6x4AaABAg.8vWPZPFev8n8vWQ__sbwxh",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 하나 주문할까요 여사님 그자리에서 꿈쩍도 안할거같아요",
+        "writer": "Ugxwl-N-am_iYPVJnPF4AaABAg.8vWOO2TNqWi8vWQSdwEC0E",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 Happy Funny 대리석아래 얼음같은거 깔아주는거 있던데 시원해 하더라구요",
+        "writer": "Ugxwl-N-am_iYPVJnPF4AaABAg.8vWOO2TNqWi8vWQyXfUv8G",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찾아봐야겠어요 꿀정보 감사합니닷",
+        "writer": "Ugxwl-N-am_iYPVJnPF4AaABAg.8vWOO2TNqWi8vWRMb5zpYA",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골댕이도 워낙 털때문에",
+        "writer": "Ugz3KcfRKbG9lqzYZkR4AaABAg.8vWNy0ZUmUm8vWQjDJmwot",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어제 표정도 비슷하다고 하셨는데 골댕이들 하는 행동까지",
+        "writer": "UgyCDBnwc-H3AAoJixp4AaABAg.8vWNi9YIQhv8vWQrL84x9X",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 Happy Funny 같은 암컷이라 그런가봐요",
+        "writer": "UgyCDBnwc-H3AAoJixp4AaABAg.8vWNi9YIQhv8vWRj-234zL",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=tjcVYQQhXnc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

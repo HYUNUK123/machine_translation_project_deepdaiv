@@ -1,0 +1,1668 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001423425",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001423425"
+    },
+    "text": [
+      {
+        "content": "이번 영상은 하루 5천 만 원 월 16억 이상 벌었던 플래피버드(Flappy Bird)의 클론 게임을 만드는 시리즈의 두 번째 강의입니다. 유니티(Unity) 게임 엔진을 처음 접하시는 분들도 누구나 따라 하실 수 있도록 설치 과정부터 상세히 설명해드리며 단순히 게임 개발뿐만 아니라 스토어 출시 광고 마케팅으로 게임을 사업화하는 것까지 다룹니다. 좋아요 눌러두시고 꼭 강의 끝까지 함께해주세요. 유니티 플래피버드 클론 게임 만들기 재생목록 playlist listPLU9uwewPMe0JVpshM9dhpJEOII4_dl1N 유니티 플래피버드 클론 게임 만들기 1강 jbBANDFK2M0 무료 효과음 추천 사이트 조코딩 30만 구독자 이벤트 (비속어) 여러분이 만든 앱을 홍보하고 싶으시다면 이번 30만 구독자 이벤트를 참여해주세요. 심사를 통해 선물을 드리고 제가 직접 30만 유튜브 채널에 서비스를 홍보해드리는 이벤트를 진행합니다. 참여 방법 조코딩 강의를 참고하여 웹앱게임 제작 후 URL을 설문지로 제출 상품 티셔츠 (100명) 서비스 홍보 지원 (TOP 10) 배달의 민족 3만 원 쿠폰 제출 기한 2021년 12월 5일(일) 자정까지 당첨자 발표 2021년 12월 12일(일) 유튜브 커뮤니티 (비속어) 및 이메일로 쿠폰 코드 전송 이벤트 상세 내용 확인 및 제출 Z9EeWFYuyuuCc2gL9 유니티(Unity) 다운로드 이미지 에셋 다운로드 flappy 목차 미리보기 인트로 강의 소개 목차 소개 유니티 변경 사항 소개 유니티 허브 3.0 달라진 점 지난 시간 내용 정리 파이프 장애물 만들기 파이프 움직이는 스크립트 생성 Update 함수의 FPS에 따른 문제점 (이메일)의 개념과 활용 방법 파이프 이동 스크립트 완성 파이프에 부딛치도록 만들기 Collider2D Prefab 이해하기 파이프 Prefab 만들기 Prefab 생성기 만들기 Prefab 생성 속도 조절하기 파이프 생성 위치 Random하게 만들기 난이도 조절하기 Prefab 수정사항 반영하기 파이프 사라지도록 만드는 Destroy 함수 점수 표시하는 UI 만들기 Rect Transform의 개념과 활용 Score 스크립트 만들기 static의 개념 UI 숫자 Update하는 기능 구현 구글링 방법과 장점 점수 올려주는 기능 구현 Collider의 Collision Trigger 차이 Trigger 스크립트 구현 GameOver Scene 만들기 GameOver Scene 꾸미기 Panel Image Text Button GameOver Scene으로 Scene 전환하기 Button 클릭하면 다시 Play Scene으로 전환하기 Score 표시 스크립트 만들기 Score 초기화 Best Score 구현하기 너무 높이 날았을때 GameOver 전환 효과음 추가하기 상업적 무료 효과음 추천 사이트 효과음 직접 만드는 방법 음원 확장자 변경 효과음 유니티에 적용하는 방법 스마트폰 테스트 폰트 사이즈 작은 오류 수정 Reference Resolution Best Fit 플래피버드 완성 테스트 총정리 및 배운 것 활용 방법 다음 강의 소개 구독 좋아요 알림 설정 부탁드립니다 아웃트로",
+        "writer": "Ugw0gzXfGOzkTqNxttJ4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 유니티 3강 기다리고 있습니다.",
+        "writer": "UgzSNfptRwJDCyH9Hm14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자세한 설명으로 저도 성공했어요 그런데 안드로이드로 빌딩하려고 하니 jdk 설정이 안되어 있다고 나와서 겨우겨우 java까지 받았으나 경로 설정을 못하겠네요, 어떻게 해야할까요,",
+        "writer": "UgzWgk5vNhucrnYNIk94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 하는거 다 했는데, BirdJump 스크립트를 완성하고 플레이버튼을 눌렀는데 파이프에 박아도 GameOver 화면이 뜨질 않네요 , 어떻게 해야할까요",
+        "writer": "Ugx02QMmwHdLZSuuvI94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 베스트 스코어는 문제없이 올라가고 저장되어있는데, 스코어가 계속 0점이네요 스크립트를 다 살펴보았는데도 문제가 안보여요.",
+        "writer": "UgxR7u80nr-mkiv1bbF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 보고있습니다. 파이프나오는 간격을 시간범위 정해서 랜덤으로 하고 싶은데 if(timer timeDiff)에서 (timer timeDiff (이메일)(mintime maxtime))으로 바꾸고 mintime maxtime 다 public으로 앞에 써놨는데 안되네요. (이메일)안에 직접 숫자써도 안되요. 어떻게 하면 될까요 아예 timeDiff 빼고 (이메일)(mintime maxtime)만넣고싶기고 하고요. 다 똑같은 간격만 계속 나오더라고요.",
+        "writer": "UgwrYgVtQ95uhfMUof94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이폰에서는 못하나요",
+        "writer": "UgzzWMXz0RyDQ74nqG14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 에셋을 만드셔서 유니티에 유료로 올려주시면 더 좋겠음.",
+        "writer": "UgyFLGQJOHQ3hj7tubZ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수익 인증까지 하던가, 이거뭐 사람농락하는거도 아니고, 그렇게 좋은 기술을 이렇게 가단하게 설명해서 그 수익이 가능하면 다 성공했겠네,돈버는 법도 가지가지다,",
+        "writer": "UgxWmJB4i4lTfYaJf8x4AaABAg",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 블로그만 붙이면 동물상테스트가 에드센스에 승인 받나요 아니면 동물상테스트에 무슨 코딩을 추가적으로 더 해야되나요",
+        "writer": "UgwWUf1Se6GJ8d1olSB4AaABAg",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님은 그정도 벌고 있나요",
+        "writer": "Ugy0fpVKV0wj1v5Dbnx4AaABAg",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하십니까 누구나 쉽게 따라하는 인(비속어)능 의 저자 이용권입니다. 조코딩 즐겁게 구독하고 있습니다. 우리나라에도 이런 대단한 유튜버 있다는게 놀랍고 자랑스럽기도 합니다. 저는 지금 일본과 (반사회적용어)에서 활동하고 있습니다만 해외에도 적극적으로 소개하고 싶네요. 앞으로도 많은 좋은 영상 부탁드립니다.",
+        "writer": "UgyVYLUKBPQ9cx3ciOx4AaABAg",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3강은 언제쯤 올라올까요",
+        "writer": "UgxoGG2sQlXiFu2HCvd4AaABAg",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은거 알려주셔서 감사합니다",
+        "writer": "UgzmatuEK2iK50jnqhN4AaABAg",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 파이프가 생성은 계속 되지만 제일 첫번째만 움직이고 나머지는 그 자리에서 중첩만 되는데 이건 어떻게 해야하나요 계속 찍어내는 것과 앞에 프리팹이 움직이는 걸 보니 코드상에 문제는 없어보이는데,",
+        "writer": "Ugzh-G_R25n_d7bhMph4AaABAg",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저는 Bathany css 플랫폼으로 블로그를 만들었는데 에드센스에서 승인이될까요",
+        "writer": "UgwEX5MRicr3XnzhlkR4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Assets (이메일)(5 1) error CS1022 Type or namespace definltion or endoffile expected 유니티에서 이렇게 빨간글씨로 뜨던데 뭔가 잘못된건가요",
+        "writer": "UgxhtQmkL_93VYUBbMZ4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자꾸 unity package manger 오류가 떠서 유니티가 안 켜지는데 어떻게 고치나요",
+        "writer": "UgwYTyhGl-CPTf6zrLl4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구구절절한 사연이 있는데 컨텐츠로 쓰셔도 좋으니 돈주고 맡긴 어플개발에 개발자 개인사정으로 중단을 하셨던 어플을 살려주시는 컨텐츠 한번 해주시면 안되나요 댓글 달아주시면 메일로 사연과 개발중단된 어플보내드리겠습니다 , (반사회적용어), 당한 제 어플좀 살려주세요",
+        "writer": "UgwZLB9tCufrl6_dpLB4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 저는 나이가 좀 있어서 솔직히 프로그램에 대한 기초도 없습니다 다만 다양한 아이디어는 많이 있지만 이걸 개발하기가 어려워 도움을 받으려합니다 아님 제 아이디어를 조코딩임이 개발하시면 어떨까 생각합니다 제겐 나중에 조금의 로얄티만 주시면 우리나라의 아파트에 주차되어 있는 차량수는 수천만대가 될겁니다 저는 제차의 위치를 몰라 종종 지하주차장을 층층 이동하면서 겨우 차를 찾는 경우가 있읍니다 저 뿐만 아니고 많은 분들이 비슷한 경우를 당할겁니다 이걸 쉽게 해결하기위해서 앱 개발을 하면 아마 굉장한 반응이 있지 않을까 오래전부터 생각했읍니다 자동차를 생산할때부터 프로그램화 하면 더욱 쉬울테고요 의견 답변부탁드립니다",
+        "writer": "Ugw0gzXfGOzkTqNxttJ4AaABAg.9TJbRsE1xLW9TMYNhLZAsE",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어서 3강을,",
+        "writer": "Ugw0gzXfGOzkTqNxttJ4AaABAg.9TJbRsE1xLW9TUWdIeOcnh",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼른 올리겠습니다..",
+        "writer": "UgzSNfptRwJDCyH9Hm14AaABAg.9TaduGNV7Pp9TaisBn3bkc",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1(비속어) entryUnityAndroidEBB98CEB939CEBB08FEC8BA4ED9689EC98A4EBA598 위 블로그를 참고하여 JDK 경로 설정을 해주세요.",
+        "writer": "UgzWgk5vNhucrnYNIk94AaABAg.9TaXql5e_Ce9TaimVALaqj",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상과 코드가 똑같다면 스크립트 저장을 하셨는지 확인해보세요.",
+        "writer": "Ugx02QMmwHdLZSuuvI94AaABAg.9T_k2jp_lxH9TaiWukjDDT",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Score의 스크립트가 UI의 Text를 static 변수 score를 참고하여 정상적으로 수정하도록 설정되었는지 확인해보세요.",
+        "writer": "UgxR7u80nr-mkiv1bbF4AaABAg.9TZGFg2GhKt9Tai-FWFQb2",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 수정했어요. 이제 잘 실행되네요. 이번 강의 정말 감사드리고 도움이 정말 많이 되었어요 조(이름). 다음 강의 기대하겠습니다.",
+        "writer": "UgxR7u80nr-mkiv1bbF4AaABAg.9TZGFg2GhKt9TbOA2tCW3h",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mintime maxtime 차이가 크지 않아서 똑같아 보일 수 있을 것 같아요. (이메일)(1 5000) 정도로 크게 (반사회적용어)도록 설정하고 확인해보세요.",
+        "writer": "UgwrYgVtQ95uhfMUof94AaABAg.9TYrq5mgfqt9TahY_Lnfch",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다. 눈에 띄는 효과가 보이네요. (이메일) 안에넣는 숫자는 자바스크립트처럼 1000이 1초인가요",
+        "writer": "UgwrYgVtQ95uhfMUof94AaABAg.9TYrq5mgfqt9TakgO_9ZbL",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Apple 개발자 계정 라이센스(991년)와 맥북 Xcode 등이 필요한데 아래 블로그를 참고해주세요.",
+        "writer": "UgzzWMXz0RyDQ74nqG14AaABAg.9TYYW0a7ns49TYfFlpwgFP",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이메일) idxno43761 인증합니다. 성공하는데 기술적인 요소가 많이 필요한 것은 절대 아닙니다. 이정도 단순한 게임이(반사회적용어) 사람들이 많이하면 당연히 돈을 많이 법니다. 추가로 아래는 제 강의에 나온 간단한 웹페이지로 많은 수익을 올(반사회적용어) 구독자 분들의 실제 사례입니다.",
+        "writer": "UgxWmJB4i4lTfYaJf8x4AaABAg.9TX3Ty3QhNc9TY_sM0QxFJ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블로그만 붙인다고 승인은 절대 안납니다. 500자 이상의 양질의 블로그 글을 1015개 이상은 올려야 승인이 날 수 있습니다.",
+        "writer": "UgwWUf1Se6GJ8d1olSB4AaABAg.9TX2Jjg7Yxg9TYa0XiEKQC",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다. 이용권님도 응원하겠습니다.",
+        "writer": "UgyVYLUKBPQ9cx3ciOx4AaABAg.9TWwnAkcB0N9TYa7MsAbnH",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음주에 올릴 수 있을 것 같아요.",
+        "writer": "UgxoGG2sQlXiFu2HCvd4AaABAg.9TWsrwG8Yq_9TaV2b2WjE_",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다.",
+        "writer": "UgxoGG2sQlXiFu2HCvd4AaABAg.9TWsrwG8Yq_9Tb94cYz(반사회적용어)9",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "움직이는 코드를 넣고 변경하신 후 prefab에 변경사항 반영()이 안되었거나 복제하는 GameObject에 Assets에 있는 prefab을 넣은 것이 아닌 하이어라키에서 단순히 파이프 오브젝트를 끌어다가 설정하지 않았나 싶습니다.",
+        "writer": "Ugzh-G_R25n_d7bhMph4AaABAg.9TVxcENFtK49TaUDX562x8",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블로그 형태를 갖추는 것이 유리한데 Bethany 템플릿은 어렵지 않을까 싶네요. 단순히 템플릿만 있다고 되는게 아니라 양질의 글도 500자 이상 1015개 이상 있어야 승인이 납니다.",
+        "writer": "UgwEX5MRicr3XnzhlkR4AaABAg.9TUgfj3w_7r9TVexyl9KCe",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "표시가 하나빠져서 생긴 문제일 것 같습니다. 오타를 확인해보세요.",
+        "writer": "UgxhtQmkL_93VYUBbMZ4AaABAg.9TUNyIJU1jM9TVelsv4-wG",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 아뇨, 코드는 완전히 똑같아요",
+        "writer": "UgxhtQmkL_93VYUBbMZ4AaABAg.9TUNyIJU1jM9TWfZmXDuGm",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떤 오류 메세지가 나오시나요",
+        "writer": "UgwYTyhGl-CPTf6zrLl4AaABAg.9TUNSOLVCyq9TVeh_pYoQE",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 에디터 설치하면 설치 보류라고 뜨고 프로젝트가 안 열려요",
+        "writer": "UgwYTyhGl-CPTf6zrLl4AaABAg.9TUNSOLVCyq9TYFrpdsxpa",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding android sdk ndk jdk가 validation failed 라고 뜨면서 설치 실패가 되요",
+        "writer": "UgwYTyhGl-CPTf6zrLl4AaABAg.9TUNSOLVCyq9TYWGXzniRn",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "40대도 코딩으로 부업을 할 수 있나요 뇌가 흡수를 할수 잇나요",
+        "writer": "Ugwcag-AuSIYCzEjI_l4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 구글애드센스광고를 받으려고 현재 카카오 애드핏 광고 태그를 삭제했는데 태그삭제로 내리기만 해도 되는건가요",
+        "writer": "UgxyvFSVX4quxGgJArt4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "객체를 (반사회적용어)하는데 (반사회적용어)이돼면 움직이고있는 파이프한테서 (반사회적용어)이돼요 어케 고쳐야하죠",
+        "writer": "Ugybfg2WR9OeNZgfgGN4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 강의 감사합니다 한가지 오류가 나서 조언부탁드립니다. 게임을 다만들고 Build And Run 을 클릭하고 저장을 누르니깐 Java Development Kit(JDK) directory is not set or invalid. Please fix it in Preferences External Tools 라고 오류를 뜹니다. unity허브에서 안드로이드 체크해서 다시 설치를 해봐도 오래된 파일이 있다고 안드로이드관련 팩키지는 오류로 설치가 되지 않네요 조언 부탁드립니다",
+        "writer": "UgxD1VcJYN4wmj9M2114AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1 2강 둘다 잘봤습니다 3강까지 잘부탁드려요 게임 만드는 거에 관심있었는데 이번 기회에 잘 알고 가고싶네요.",
+        "writer": "Ugzp1mefkkJuTVfcJe94AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 블로그를만들어서 동물상테스트에 삽입을하고 냇플리파이 업로드 했는데 콘탠츠 부족을 받았습니다. 뭘 해야 될까요",
+        "writer": "UgwuBetuEHP9BsLgZW14AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 양질의 강의 해주셔서 너무 감사합니다 혹시 유니티 프로젝트를 Git에서 관리하는 방법도 다뤄주실 계획이 있을까요 노트북과 데스크탑에서 번갈아가며 작업하려는데 자바 프로젝트랑 조금 다른 것 같아 애를 먹고 있습니다",
+        "writer": "Ugz2QxNOp_FwX0aZ5Ch4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 게임에 노래를 넣고 싶은데 상업용으로 사용할수 있는 무료 BGM이나 다운로드 가능한 사이트가 있을까요",
+        "writer": "Ugw-Z59TYqZpKBVGQT14AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독 좋아요를 무한대로 누르고 싶을 만큼 훌륭한 강의 감사합니다. 잘 보고있습니다 . 진정한 코딩 선생님..",
+        "writer": "Ugz-gfXxhE2BVjT5nHN4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플레이 버튼을 누른채로 어떻게 작업 화면 유지가 가는한가요",
+        "writer": "Ugz6FtBqnViXzlUSP7l4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀인은 인생의 지름길이라고도 하죠. 조(이름) 같은 분들이 여러분의 인생에서 흔히 만날수없는 귀인입니다. 그냥 재미로 (비속어)말고 구독좋아요 누르시고 머라고 하는지 모르더(반사회적용어) 몇번을 더 집중해서 보십시오. 이 길을 선택하는순간 인생의 질이 달라질것입니다. 대한민국 게임이 세계의 정상에 오를때까지 다함께 배우고 노력합시다.",
+        "writer": "UgxDT_TObGdu3XjpHi94AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배포 사업화까지 인프런에 올리면 각 강의당 1520만원은 받을 수 있겠네요. 질 좋은 무료강의 감사합니다",
+        "writer": "Ugz0kR0Rd13dVOUBmv54AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1강에서 만든 ground 에니메이션이 안 움직이는데 왜 이런 걸까요 1강 만들고 잘 되는 거 확인했는데 2강하려고 다시 켜 보니 플레이 버튼을 눌러도 안 움직입니다. bird에니메이션은 이상 없는데 답답하네요",
+        "writer": "Ugx4HYzqJXrz6-SUbTZ4AaABAg",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 2일째 고생고생하다가 결국 여쭤보게 되었습니다 에 나오는 대로 score를 입력했는데 Assets (이메일)(10 23) error CS0542 score member names cannot be the same as their enclosing type 이 에러가 자꾸 나옵니다. using (이메일) using (이메일) using UnityEngine using (이메일) public cl(비속어) score MonoBehaviour public static int score 0 Start is called before the first frame update void Start() Update is called once per frame void Update() GetComponent().text (이메일)() 좀 알아보니 뭔가가 중복되었다는것 같은데 도움 좀 부탁드리겠습니다,",
+        "writer": "Ugyu0dJ4-Iym9hwNOJx4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상으로 조(이름) 하루 5천만원 월 16억 버시는 영상 올려주세요",
+        "writer": "UgwwWb2nQBosmWr8Cxp4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내용 너무 좋은데 말끝을 딱딱 끊으시는게 훈련소 조교들이 생각나 PTSD 오네요",
+        "writer": "Ugx3UCEe5xiOtBQCa6x4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "분량이 점점 늘어나십니다.. 1시간이상 편집하려면 정말 힘드실텐데, 이참에 유니티 한번 공부해 봐야겠네요",
+        "writer": "UgzLMoC8FEggyKPTLeh4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정성이 대단하십니다. 현재까지는 잘 따라가고 있습니다. 끝까지 함께 하겠습니다",
+        "writer": "UgwCJHgyh-HGeh8rGE14AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) jekyll을 이용한 블로그를 만들 때 github를 이용하셨나요 blog를 만드려고 nodeJS와 express router를 이용하여 blog를 썼는데도 (cannot Get)얻을 수 없다고 나옵니다, 어떻게 블로그를 만들어야하나요",
+        "writer": "UgwaF6fBdK7IxwhWAOB4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손흥민보다 몸값이 비싼 앱이구먼",
+        "writer": "UgxqzY4_4j17yYpMT314AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인의 역량이나 의지에 따라서 다를 것 같습니다. 저는 충분히 할 수 있다고 봅니다",
+        "writer": "Ugwcag-AuSIYCzEjI_l4AaABAg.9TU3cGUNEBv9TVeaKhya-t",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "HTML에서 애드핏 관련 태그를 모두 제거하시면 되빈다.",
+        "writer": "UgxyvFSVX4quxGgJArt4AaABAg.9TU-M_uvgC89TVeWq1vlM5",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아래와 같이 특정 위치를 지정해주셔야합니다. GameObject newpipe Instantiate(pipe) (이메일) new Vector3(6 (이메일)(1.0f 5.5f) 0)",
+        "writer": "Ugybfg2WR9OeNZgfgGN4AaABAg.9TTWSNaM1Rf9TVdvBitc4B",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1(비속어) entryUnityAndroidEBB98CEB939CEBB08FEC8BA4ED9689EC98A4EBA598 위 블로그를 참고하여 JDK 경로 설정을 해주세요.",
+        "writer": "UgxD1VcJYN4wmj9M2114AaABAg.9TT4JIva1k69TVbqUjrNJ2",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니티 허브에서는 안드로이드 build support 가 설치가 완료가 되었고 Build Settings 에 안드로이드 탭으로 가면 install with Unity Hub라고 남아있어서 혹시 해결 방법이 있을까요 구글링을 해봐도 명쾌한 답을 잘 못찾겠네요 부탁드립니다",
+        "writer": "UgxD1VcJYN4wmj9M2114AaABAg.9TT4JIva1k69TXnkGw2zEa",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블로그에 최소 500자 이상의 의미 있는 글 1015개 이상 정도 올라가 있어야 콘텐츠가 충분하다고 판단되어 승인됩니다.",
+        "writer": "UgwuBetuEHP9BsLgZW14AaABAg.9TRjvV813lC9TSuW1C9u86",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 근데 저는 Bathany css 블로그에다 글을썻는데 괜찮나요",
+        "writer": "UgwuBetuEHP9BsLgZW14AaABAg.9TRjvV813lC9TTLhwCJpIr",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "103 Git 연동은 위 블로그를 참고해주세요.",
+        "writer": "Ugz2QxNOp_FwX0aZ5Ch4AaABAg.9TRZHaiz--p9TSuLnL27ns",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변 정말 감사드립니다. 제 경우 윈도우에서 관리자 권한으로 유니티를 실행하니 해결 되었습니다.",
+        "writer": "Ugz2QxNOp_FwX0aZ5Ch4AaABAg.9TRZHaiz--p9TSvyVpeRxx",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ansthddns221240764817 여기에 정리가 되어있으니 참고해주세요.",
+        "writer": "Ugw-Z59TYqZpKBVGQT14AaABAg.9TRVKJGWGzN9TSuFGuW_zg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다..",
+        "writer": "Ugw-Z59TYqZpKBVGQT14AaABAg.9TRVKJGWGzN9TTURP5lFM5",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임 재생 중인 상태에서 작업화면 조작 가능합니다",
+        "writer": "Ugz6FtBqnViXzlUSP7l4AaABAg.9TRSZe3SvZc9TSt0EWkxmZ",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다 화이팅입니다.",
+        "writer": "UgxDT_TObGdu3XjpHi94AaABAg.9TRR8NbAhIL9TSsyE1ATl-",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다",
+        "writer": "Ugz0kR0Rd13dVOUBmv54AaABAg.9TQmWhcmzY49TSs5XbnWuC",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ground 오브젝트를 클릭하신 후 우측 Inspector에서 Animation이 잘들어갔는지 확인해보세요.",
+        "writer": "Ugx4HYzqJXrz6-SUbTZ4AaABAg.9TQa3zuC3to9TQcex689ek",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클래스 네임 소문자 score와 스태틱 변수 score가 중복 되는거 같아요. 영상에는 클래스 명 첫글자가 대문자 입니다.",
+        "writer": "Ugyu0dJ4-Iym9hwNOJx4AaABAg.9TP1qby67cB9TPFbKMeB0a",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스크립트의 이름(cl(비속어)명)이 score라서 변수 score와 중복되어 생기는 문제입니다. 어느 한쪽의 이름을 변경하여 스크립트(클래스)의 이름과 변수 이름을 구분하셔야 합니다.",
+        "writer": "Ugyu0dJ4-Iym9hwNOJx4AaABAg.9TP1qby67cB9TPH8qT93Ur",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MetCaster 감사합니다",
+        "writer": "Ugyu0dJ4-Iym9hwNOJx4AaABAg.9TP1qby67cB9TQVkwl-tdT",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MetCaster 감사합니다",
+        "writer": "Ugyu0dJ4-Iym9hwNOJx4AaABAg.9TP1qby67cB9TQVmsmn5D6",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더 벌어보도록 하겠습니다",
+        "writer": "UgwwWb2nQBosmWr8Cxp4AaABAg.9TOwn7xSWsI9TPGxIN3_At",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 화이팅입니다.",
+        "writer": "UgwCJHgyh-HGeh8rGE14AaABAg.9TOWCcHLfK69TPFHeuDWYv",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "github 안쓰고 netlify 썼습니다. nodeJS도 안쓰고 jekyll은 루비 기반으로 동작합니다.",
+        "writer": "UgwaF6fBdK7IxwhWAOB4AaABAg.9TOFNRlkLtJ9TPF9DsT62f",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변감사합니다.",
+        "writer": "UgwaF6fBdK7IxwhWAOB4AaABAg.9TOFNRlkLtJ9TPLh_xmQue",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 1강그대로 따라하려면 2.45버전으로 설치받구 1강따라가는게 더 편할까요 유니티 사용 처음입니다. 아니면 그냥 3.0베타로 1강을 따라갈 수 있는지요",
+        "writer": "Ugwo4FtrNHiDs03ebOh4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 유니티를 깔았네요",
+        "writer": "UgximED7ztKqiNzXPVF4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 좋은 강의 정말 감사합니다",
+        "writer": "UgzhtMqKr2MH-3CTEiN4AaABAg",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 작동은 잘 되는데 게임을 휴대폰에서 실행하니 가로세로 모드가 (비속어)있음에도 앱을 실행했을때 가로로 두고 게임이 실행되고 이때 기둥의 생성과정등이 다 보이게 되는데 세로로만 되도록 설정하는 방법이 있을까요",
+        "writer": "UgxiMj-t9wo-ok6C1GJ4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니티 시작한지 얼마 안되었는데 때마침 좋은 강의를 발견했네요.",
+        "writer": "Ugz6p7r6leb9ZgfF2vV4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효과음을 만드는데 잡음(노이즈)제거 방법이 있을까요",
+        "writer": "UgwCdFd23q7oZn_Fcj14AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런데 저는 우클릭후 UI 메뉴자체가 안나오는데 이건 버전문제일까요",
+        "writer": "UgxpntMrmXX22AmMuSx4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일단 좋아요 박고갑니다. C 공부좀 때리고 2강 볼게요. Unity 따라 해보니 신기하네요 중력도 조정이 가능하다니",
+        "writer": "UgyjQwGBBkwt9HAbdYp4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 드래그로 pipe가 안움직여요",
+        "writer": "Ugz0UoGOOlDUpX(반사회적용어)IY14AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만약 console에서 Error CS1002가 나오신다면 코드가 끝날 때 세미콜론() 을 붙이지 않아서 생기는 오류입니다",
+        "writer": "UgzMrGb2mWRnJJkLLNB4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상잘보았습니다 12월전까지 개발중인 게임 출시해서 응모해보려고하는데요. 혹시 플래피버드처럼 단순한게임이 아니라면 안뽑히려나요 (비속어)없는 단순한 게임만 뽑는건 아닐지 궁금하네요)",
+        "writer": "Ugy3KLQdVSpWjcQfC2h4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 안녕하세요 너무 유익한 영상 고맙습니다 아이들을 위한 게임을 만들고져 하는데 만들어 주실수 있는지요 안되면 만드는곳을 소개 좀 부탁드립니다 감사합니다",
+        "writer": "UgxJ3h_q9c72bq4AHMV4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 저 모바일 빌드가 자꾸 에러나욥 1화 똑같이 따라했는데 디버깅은 되는데 빌드가 안되요,",
+        "writer": "UgwaRfKMcg4NeSGtdjx4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) prefab으로 파이프를 복사했는데 디버그에는 복사됬다고 뜨는데 파이프가 보이지 않아요 BoxCollider효과는 적용 되는데 복사된 파이프가 보이려면 어떻게 해야하나요 scene창에는 보이는데 game창에 보이지 않아요",
+        "writer": "UgzcALqdUnTDSpO-ugt4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 강의를 5년만 일찍 알았으면 엄청 좋았을것같아요",
+        "writer": "UgxmSexZR4xQ_Pgwcel4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칼을 뽑았으면 무까지는 썰 수 있도록 끝까지 배포까지 책임져 주시겠다는 마인드 최고 입니다 ..",
+        "writer": "UgyKXQ8QzKKz3WExFFx4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탄피까지 발사(비속어)는 그는",
+        "writer": "UgylT95Xlnkq9rhVNTF4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "usd 디버깅할때 JDK not found라고 뜨는데 해결방법 없나요",
+        "writer": "UgymE5FjVwPxQTwBsXJ4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ios는 그럼 어떻게 핸드폰으로 할수 있나요",
+        "writer": "Ugy2TkTLOvQ5X24YrY94AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니티 허브는 단순히 유니티를 실행하는 허브 역할이라 3.0 베타도 별다를 것 없이 따라가실 수 있습니다.",
+        "writer": "Ugwo4FtrNHiDs03ebOh4AaABAg.9TOB6_TZXbD9TPF1Ox3wsc",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3.0에서 모듈설치때 문제 생기면 2.대로 바꾸세요. 3.0에서 모듈설치 문제 생겨서 빌드가 안되서 엄청 시간 버렸네요",
+        "writer": "Ugwo4FtrNHiDs03ebOh4AaABAg.9TOB6_TZXbD9TQgdDBqo22",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다",
+        "writer": "Ugwo4FtrNHiDs03ebOh4AaABAg.9TOB6_TZXbD9TTPzTuyMPF",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정영훈 조언감사합니다",
+        "writer": "Ugwo4FtrNHiDs03ebOh4AaABAg.9TOB6_TZXbD9TTQ-fKOJmz",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 좋은 댓글 감사합니다.",
+        "writer": "UgzhtMqKr2MH-3CTEiN4AaABAg.9TNOBcNKA249TNgFZNqjmR",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "159 위 블로그를 참고해주세요.",
+        "writer": "UgxiMj-t9wo-ok6C1GJ4AaABAg.9TN00mIDrC99TNgEI2Ijgl",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다.",
+        "writer": "Ugz6p7r6leb9ZgfF2vV4AaABAg.9TMvoBGclUN9TNgATFpz_D",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오디오 편집 프로그램에서 노이즈 제거 기능을 제공합니다. 구글에 오디오 노이즈 제거 프로그램 등으로 검색해보시면 다양한 프로그램이 나옵니다.",
+        "writer": "UgwCdFd23q7oZn_Fcj14AaABAg.9TMscHeIRJr9TNg9IeZKD0",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠 그럴 것 같네요. (이메일) LTS 버전 이용하시면 동일하게 나오실 것 같습니다.",
+        "writer": "UgxpntMrmXX22AmMuSx4AaABAg.9TMlc6Hk86d9TNfn0Xkwn-",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 답변감사합니다 일마치고 다시 해보겠습니다 )",
+        "writer": "UgxpntMrmXX22AmMuSx4AaABAg.9TMlc6Hk86d9TNix6hSlrA",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요 감사합니다.",
+        "writer": "UgyjQwGBBkwt9HAbdYp4AaABAg.9TMhbKVP-mk9TMiYkdatDG",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오른쪽 Inspector의 Transform의 Position X 글씨를 클릭하고 마우스로 긁으면 위치 조정 가능합니다.",
+        "writer": "Ugz0UoGOOlDUpX(반사회적용어)IY14AaABAg.9TMfvVlIghC9TMiaezuhuV",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다",
+        "writer": "Ugz0UoGOOlDUpX(반사회적용어)IY14AaABAg.9TMfvVlIghC9TMjD2TdK5t",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 전문적인 것 보다는 다른 분들도 보시고 가볍게 만들 수 있겠다는 생각이 들 수 있을 정도의 게임을 소개하(비속어) 하는데 그 경계가 애매하긴 합니다, (비속어)가 있다고 해서 안뽑지는 않아요.",
+        "writer": "Ugy3KLQdVSpWjcQfC2h4AaABAg.9TMFQzdB8tp9TMQGIPB1Zj",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 외주 개발은 진행하고 있지 않습니다. 크몽 숨고 위시켓 등에서 찾아보시는 것을 추천드립니다.",
+        "writer": "UgxJ3h_q9c72bq4AHMV4AaABAg.9TMCzDfsN0s9TMis7tc7LE",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다",
+        "writer": "UgxJ3h_q9c72bq4AHMV4AaABAg.9TMCzDfsN0s9TOQ-t45VZE",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 에러 메세지가 어떤 것인지 알아야 해결이 가능합니다.",
+        "writer": "UgwaRfKMcg4NeSGtdjx4AaABAg.9TMBsnITw939TMQIylmkgp",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처럼 order in layer가 잘못 설정된 것은 아닌지 확인해보세요.",
+        "writer": "UgzcALqdUnTDSpO-ugt4AaABAg.9TM72YLTqxi9TMAnP-88aZ",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른방법이긴한데 해결 되었습니다.",
+        "writer": "UgzcALqdUnTDSpO-ugt4AaABAg.9TM72YLTqxi9TPP2Dr4Qol",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이지훈 오 어떤 문제였나요",
+        "writer": "UgzcALqdUnTDSpO-ugt4AaABAg.9TM72YLTqxi9TPRMapM1AQ",
+        "write_date": "2021-10-13",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇살이신가요 전19으러 곧20(혐오표현)데 지금시작하면좋을까요",
+        "writer": "UgxmSexZR4xQ_Pgwcel4AaABAg.9TM-eUSzrC79TUaCQfB7wH",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀자 흥부야 네 유니티 공부 시작하시는 거면 지금 하시면 되겠네요.",
+        "writer": "UgxmSexZR4xQ_Pgwcel4AaABAg.9TM-eUSzrC79TafRJaiKVM",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1(비속어) entryUnityAndroidEBB98CEB939CEBB08FEC8BA4ED9689EC98A4EBA598 위 블로그를 참고하여 경로 설정을 해주세요.",
+        "writer": "UgymE5FjVwPxQTwBsXJ4AaABAg.9TLfwWbVIKn9TM9vXOGcAu",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다",
+        "writer": "UgymE5FjVwPxQTwBsXJ4AaABAg.9TLfwWbVIKn9TMsmLM5NiG",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Apple 개발자 계정 라이센스(991년)와 맥북 Xcode 등이 필요한데 아래 블로그를 참고해주세요.",
+        "writer": "Ugy2TkTLOvQ5X24YrY94AaABAg.9TLeJNl869-9TM9rc72jOL",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에서 Bottom을 0으로 설정하니 글자가 않보입니다, 어떻게 해야하나요,",
+        "writer": "Ugz8JpUxy5NvBWusc514AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "apk 파일이 안 만들어져서 폰에 못 옮기는대 어떡게 해야해요",
+        "writer": "Ugysw7IjWyxMJJmx4K94AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올려주셔서 너무 감사합니다. 저는 40대 직장인 아재입니다. 보고 따라해보고 게임만드는게 유일한 취미예요. (비속어)피하기 게임 도 시간되시믄 영상올려주시면 안되실까요.따라하기 넘 어려워서 조코딩만 보고 있어요 즐거운 하루 되셔요 ps.굿즈 아이디어 넘 좋네요 오늘 발견",
+        "writer": "Ugwv_0A8NaZW7sPUjmZ4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 . 지난 강의에서 궁금했던 점을 다 설명해 주셨네요",
+        "writer": "UgyIoyW05_sNxu5giN94AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오징어게임이 돌풍인대, 안만듭니까 줄다리게임 여럿이 가능하고, 키빨리누르면 떨어져 다이",
+        "writer": "Ugw6UsIzAv_j0SeUWsp4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 에 작성한 코드에 오류 Assets (이메일)(26 10) error CS0106 The modifier private is not valid for this item 구글링 해봤는데 모르겠어요",
+        "writer": "UgyE5MCYNTwyWq4SYix4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상 감사드립니다. 다음강의시 꼭 작업날짜시점 말씀주세요 버전이 있다면 버전도 말씀주시고 구글콘솔이런것들이 자주 바뀌는것 같아 어렵습니다.",
+        "writer": "UgwZaii29sAxkK3KoQx4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 자꾸 cs1002 에러코드가 나왔는데 ((이메일))뒤에 를 안찍어서 그랬어요 영상에서는 을 안찍어서요 다른분들 참고하세요",
+        "writer": "UgzlRMAnm-JYWvSm_Zt4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런데서 만든 object 마우스로 위치 조정 어떻게 하시는건가요 그냥 하려고 하면 안되네요",
+        "writer": "UgyetaKzviwSiOg0fbx4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니티 업데이트하면서 잘못 건들었다가 아바타 작업해놓은 파일이 날아간,",
+        "writer": "UgwgxPmFm15cUqHsyG94AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상보며 만드는 내내 재밌었습니다. 근데 진행 중 생긴 2개의 오류 어떻게 해결해야하나요, 1. 너무 높이 날았을 때 게임오버 전환 부분을 영상과 똑같이 했는 데 실행해보니 아무리 위로가도 게임 오버 화면이 안 나오네요 2. USB 연결후 BUILD AND RUN 을 실행했으나 No Android devices connected Make sure your device is plugged in. 이라고 뜹니다,",
+        "writer": "UgzKo3YOhF_-KqfVBhh4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 제작 하느라 고생 많으셨습니다. 좋아요 누르고 갑니다. 감사 합니다.",
+        "writer": "UgzP9ktecIT8mg2BJ854AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강의 더 빨리 올려주세요. 너무 오래 기달렸어요.",
+        "writer": "Ugz7jj94TvYzURw0ZDt4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름). 저는 현재 한 초등학교를 다니고 있는 초5학생입니다. 제가 게임을 만든다고 하면 주변에서 놀라더군요. 조(이름) 덕분에 unity에 잘 입문했습니다 이런영상 올려주셔서 정말 감사합니다 앞으로도 unity영상 많이 올려주실 수있으신가요 다시한번 감사합니다..",
+        "writer": "UgxOKzQzNXQihQNy5dV4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 쉽고 재밌게 설명해주셔서 감서합니다.",
+        "writer": "UgyMOPgTjIbXKSOFRYV4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 왜 계속 자동완성툴이 안될까요 그래서 영상보면서 계속 전부 손으로 치고 있어요 분명히 다운도 다 잘되고 오류도 안뜨는데 왜그럴까요",
+        "writer": "UgyUnIZpHfQq3w64VvN4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팩트 개발자가 이 게임으로 16억을 벌었다고 해서 여러분도 16억을 벌 수 있는건 아니다",
+        "writer": "Ugzs7Z-rQ4U6Klo_zzV4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 코딩이랑은 전혀상관도없는 20대 청년입니다.요즘 하는일이 맞지않아 다른직업을 알아보던중 개발자직업에 흥미가생겨 조(이름) 영상을 좀보게되었는데요. 처음에 공부를 어떻게 시작해야될지 모르겠네요, 그 부트캠프가 한국에도 많이 있던데 이런걸로 시작하면 많이도움이 될까요,",
+        "writer": "UgxRdvcHRIBBpeXbHoR4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 그대로 따라 하시면서 잘 확인하세요.편집된 영상이라 세미클론 넣는거까지 잘린거 같은데 세미클론 넣는거 잘 확인하시고친행하시면 될거같습니다..",
+        "writer": "UgwiPCMrYc7oUnEW76B4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Scene에서 폰트가 박스보다 커서 그럴 수 있는데 처럼 박스를 확대하시면 보이실 것 같아요.",
+        "writer": "Ugz8JpUxy5NvBWusc514AaABAg.9TLW4bWv6wl9TM9ZrluUnP",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 넵 해결 했습니다..드디어 첫게임을 완성 했네요",
+        "writer": "Ugz8JpUxy5NvBWusc514AaABAg.9TLW4bWv6wl9TMCSsV427O",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오류 메세지가 나온 것에 어떤 문제가 있는지 나와있는데 그걸 해결하셔야합니다.",
+        "writer": "Ugysw7IjWyxMJJmx4K94AaABAg.9TLPaseKYJ59TM97VTottV",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "작성한 위치가 잘못된 것 같아요. 메소드 안에 또 메소드가 들어간 경우 private로 만들 수 없습니다. Update 안쪽이 아닌 완전 밖에 따로 만드셔야해요.",
+        "writer": "UgyE5MCYNTwyWq4SYix4AaABAg.9TL8DE2xpwm9TLHTd_U-Db",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오른쪽 Inspector의 Transform의 Position Y 글씨를 클릭하고 마우스로 긁으면 위치 조정 가능합니다.",
+        "writer": "UgyetaKzviwSiOg0fbx4AaABAg.9TL42cDFT-W9TLHe48cOUk",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bird 오브젝트에 스크립트로 OnCollision2D가 게임 종료 씬으로 넘어가도록 잘되었는지 확인하시고 공중에 넣은 빈 공백이 Box Collider2D가 맞는지 다시 확인해보세요. (Trigger가 체크 해제된 상태여야 합니다) 2. 1강 후반부에 나온 것 처럼 스마트폰 USB 디버깅이 켜져있고 PC와의 연결이 문제가 없는지 먼저 확인해보세요. 스마트폰 제조사 드라이버를 통해 USB 연결 드라이버를 받아야할 수 있습니다.",
+        "writer": "UgzKo3YOhF_-KqfVBhh4AaABAg.9TJw9vPsTAZ9(반사회적용어)XpXvqA51",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 1. main camera 가 잡은 이미지 바로 위에 만들었어야 했는 데 score canvas scale with screen size 할 때 만들어진 큰 사각형 위에다가 만들어서 안되었던 거였어요 2번은 usb 디버깅도 켜져있고 pc와의 연결 문제 없음 드라이버도 다운로드가 이미 완료한 상태인데 설정 bluetooth 및 기타 디바이스에 들어가보니 드라이버 오류 라고 뜨네요. 음, usb 자체 문제일까요",
+        "writer": "UgzKo3YOhF_-KqfVBhh4AaABAg.9TJw9vPsTAZ9(반사회적용어)uSURCSXO",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2번 혹시 usb 선이 충전용인지 확인이 필요할 것 같아요. usb 케이블 중 충전용이 있고 데이터 교환용이 있습니다.",
+        "writer": "UgzKo3YOhF_-KqfVBhh4AaABAg.9TJw9vPsTAZ9TL8wbqQSB2",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 드라이버 재 설치 삼성정품usb 로 연결했는 데 디바이스 오류는 면했지만 build and run 실행하니 unity가 android sdk 확인하다가 또 오류나서 그냥 체념하고 build 한뒤 파일을 직접 옮겼습니다 게임을 직접 만들어 볼 수 있는 경험 주셔서 감사해요 다음 영상도 기다리겠습니다..",
+        "writer": "UgzKo3YOhF_-KqfVBhh4AaABAg.9TJw9vPsTAZ9TRWNXxXkzU",
+        "write_date": "2021-10-14",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요 감사합니다.",
+        "writer": "UgzP9ktecIT8mg2BJ854AaABAg.9TJtqF2K6S69(반사회적용어)XbCFUKuL",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다려주셔서 감사합니다. 다음 것도 얼른 준비해볼게요.",
+        "writer": "Ugz7jj94TvYzURw0ZDt4AaABAg.9TJtDf9yKd79(반사회적용어)XTMNddtE",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 멋집니다 앞으로도 많이 올리겠습니다.",
+        "writer": "UgxOKzQzNXQihQNy5dV4AaABAg.9TJszqXZhP29(반사회적용어)X_oo8s97",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다.",
+        "writer": "UgxOKzQzNXQihQNy5dV4AaABAg.9TJszqXZhP29TL0DnryQqS",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1 아래 .NET들도 포함해서 영상에 나온 것들이 모두 정상적으로 설치되었는데 안되신다면 위 블로그를 참고해주세요. .NET SDK 다운로드 downloaddotnetsdkforvscode .NET 4.7.1 downloaddotnetframeworknet471",
+        "writer": "UgyUnIZpHfQq3w64VvN4AaABAg.9TJpx86S2WI9(반사회적용어)XPgopwxb",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다..",
+        "writer": "UgyUnIZpHfQq3w64VvN4AaABAg.9TJpx86S2WI9TLXK2RIjiN",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20대 청년이시면 굳이 유료 과정을 듣기보다는 국비지원으로 진행되는 무료 KDigital Training 과정이나 삼성 SSAFY 서울42 등의 과정도 알아보시는 것을 추천드립니다. 유튜브로 공부하시려면 아래 재생목록을 참고하시면 전반적인 웹 앱 개발에 대해서 배우실 수 있습니다.",
+        "writer": "UgxRdvcHRIBBpeXbHoR4AaABAg.9TJo4LqyuVH9(반사회적용어)XCoB0Ul9",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다...",
+        "writer": "UgxRdvcHRIBBpeXbHoR4AaABAg.9TJo4LqyuVH9TL52xs8Pup",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세미콜론은 찍어줘야합니다.",
+        "writer": "UgwiPCMrYc7oUnEW76B4AaABAg.9TJnWncU7P89TJnmmULE7t",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 왜 그랬어요.",
+        "writer": "UgwiPCMrYc7oUnEW76B4AaABAg.9TJnWncU7P89TJo7WSphV7",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다렸다 ........... 와 근데 1강 보고나서 유니티가 이렇게 쉽게 되는지 몰랐어요. 진짜 누구나 할수 있겠네요... 아 어쩐지 다운 받는 거하고 이런게 다르더라고요,",
+        "writer": "UgzbLFoRgb9DDU-VGBd4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 재밌닷",
+        "writer": "Ugxo9vdGjhlN3rUVadJ4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉽고 친절한 강의 넘 감사합니다",
+        "writer": "UgyRGXC8bgUaZQGefxF4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 영상도 너무 좋네요.. 감사합니다 다음에는 혹시 타이쿤 게임 만들기 강좌 가능할까요,",
+        "writer": "UgyBgydlQTVjeY4lpud4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 조(이름) 혹시 30만 이벤트 쯔꾸르(알만툴) 게임으로 제출해도 될까요",
+        "writer": "UgwYYwLdt0wx-jp1-Ad4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺄아아아아아아아아아아 2탄이다아아아아앙.........",
+        "writer": "UgyzJdXbfO2ycHcyTvx4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 감사합니다 너무너무 유익해요",
+        "writer": "UgxsGuh24NXqC5PZrtp4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니티가 조(이름) 영상을 보고 장난친게 학교의 점심",
+        "writer": "UgzP8y7LZYLEBwJC-R54AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2강이다 너무 빠르게 올려주셔서 감사합니다",
+        "writer": "UgxFv0UXywAzOvT35mF4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두둥 기다리던 2강이 올라오다니...",
+        "writer": "UgyBiHyU3peML3AouEN4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 유익한 콘텐츠 올려 주셔서 감사합니다.",
+        "writer": "UgyCF2ENl258vrzRsbp4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유니티를 쉽게 가르치(비속어) 하신다면 앞으로는 유니티의 노드 기반 비주얼 코딩 시스템인 Bolt에 대해서 알아 보셨으면 합니다. 마우스로 게임을 만들 수가 있습니다. 유니티가 Bolt를 인수한 이후로 유니티 2021.1 버전부터 Bolt가 기본 내장됩니다. 이제 Bolt의 시대가 옵니다.",
+        "writer": "UgzE1azE0Dip1bNTxM54AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "C언어 강의도 올려주실수 있나요",
+        "writer": "UgxJmb1UvAF3qki8xr14AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1강 까지 만들고 2강도 기다렸습니다 좋은 영상 감사합니다2강 스타트",
+        "writer": "Ugzs-tz266PXi4e2CJV4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 좋은 영상 감사합니다..",
+        "writer": "UgzptIuvsABnQmQwO7l4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제올라오나했네요 왜 게임이 고장나있나 했더니 1강이었어...",
+        "writer": "UgxtxCCCPNlKVKgc4KR4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2강 열심히 보며 따라해보겠습니다",
+        "writer": "UgzZ9iRU_zEJZhhzmoZ4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입으로 소리내는거 웃기네요",
+        "writer": "UgzGh-TGrkioAPrfk594AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 봐주셔서 감사합니다.",
+        "writer": "Ugxo9vdGjhlN3rUVadJ4AaABAg.9TJjxdeGi2q9TJkJJ64fDh",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 좋은 댓글 감사합니다",
+        "writer": "UgyRGXC8bgUaZQGefxF4AaABAg.9TJjit-SPzM9TJkICIFUo-",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타이쿤 게임은 수요가 많을 것 같지는 않아서 채널에서 다루기는 어려울 것 같습니다",
+        "writer": "UgyBgydlQTVjeY4lpud4AaABAg.9TJez-DRYgQ9TJkXmYhtEi",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흠 조코딩 채널 영상을 기반으로 이벤트를 여는 것이라 다른 툴로 만든 것은 조금 어려울 것 같습니다.",
+        "writer": "UgwYYwLdt0wx-jp1-Ad4AaABAg.9TJcbY3eLJd9TJkfR_hgMq",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 넵 알겠습니다",
+        "writer": "UgwYYwLdt0wx-jp1-Ad4AaABAg.9TJcbY3eLJd9TJmA6qP5_l",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유익하게 봐주셔서 감사합니다.",
+        "writer": "UgxsGuh24NXqC5PZrtp4AaABAg.9TJbzINf5s99TJcG7PmWUz",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빠르게 봐주셔서 감사합니다.",
+        "writer": "UgxFv0UXywAzOvT35mF4AaABAg.9TJbMwRe--R9TJbitqboZY",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기다려주셔서 감사합니다.",
+        "writer": "UgyBiHyU3peML3AouEN4AaABAg.9TJa2cXRL0T9TJaMp_eqBB",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유익하게 봐주셔서 감사합니다.",
+        "writer": "UgyCF2ENl258vrzRsbp4AaABAg.9TJ_fJROuQx9TJ_ucRCsls",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 항상 댓글 감사합니다.",
+        "writer": "Ugxe6G1rObJxSLQDjpd4AaABAg.9TJ_aAzs8_69TJayjtU9m2",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 Bolt 아주 좋네요. 이것도 추후 준비해보겠습니다.",
+        "writer": "UgzE1azE0Dip1bNTxM54AaABAg.9TJ_Arnydfa9TJ_TRR_cUN",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 볼트가 복잡하고 거대한 코드를 짤 때는 오히려 더 불편하지 않나요",
+        "writer": "UgzE1azE0Dip1bNTxM54AaABAg.9TJ_Arnydfa9TJuA8vbqXI",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Emphasis20 1 복잡하고 거대한 코드를 짤 수 있을 때 쯤이면 굳이 Bolt만 쓸 필요가 없겠죠. Bolt는 기존의 텍스트 기반 스크립트도 하나의 노드로 만들어서 같이 사용할 수 있기 때문에 자신의 실력에 따라서 유연하게 사용할 수 있습니다.",
+        "writer": "UgzE1azE0Dip1bNTxM54AaABAg.9TJ_Arnydfa9TL4HDmQr-T",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근시일에 계획은 없지만 추후 기회가 되면 해볼게요.",
+        "writer": "UgxJmb1UvAF3qki8xr14AaABAg.9TJZDaO7U1m9TJZMhSOP9f",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 넹",
+        "writer": "UgxJmb1UvAF3qki8xr14AaABAg.9TJZDaO7U1m9TJe8TDj5JY",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 화이팅입니다.",
+        "writer": "Ugzs-tz266PXi4e2CJV4AaABAg.9TJYyxBHfsj9TJZ5HgixFo",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다.",
+        "writer": "UgzptIuvsABnQmQwO7l4AaABAg.9TJYfsKH0TJ9TJYqH-6eob",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임 개발 게임 사업화까지 시리즈로 계속 업로드됩니다.",
+        "writer": "UgxtxCCCPNlKVKgc4KR4AaABAg.9TJYXI7biE89TJYthAoEdG",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 댓글 감사해요.",
+        "writer": "Ugz6Jh-5fGYL1PJwMMN4AaABAg.9TJYHcfpgT39TJYNKVt0Nk",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로젝트 배포해주세요",
+        "writer": "Ugz-lSrVdeoTDP_9K5F4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) ..",
+        "writer": "Ugz4Ni7QBJ7ftexdkPZ4AaABAg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 빠르게 봐주셔서 감사합니다.",
+        "writer": "Ugz4Ni7QBJ7ftexdkPZ4AaABAg.9TJX5GBbnmf9TJX9WarGDg",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 기다리고 있었죠",
+        "writer": "Ugz4Ni7QBJ7ftexdkPZ4AaABAg.9TJX5GBbnmf9TJXDikv_Ul",
+        "write_date": "2021-10-11",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=vbQH9T-F5ac",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

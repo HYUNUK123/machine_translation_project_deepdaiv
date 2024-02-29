@@ -1,0 +1,788 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001675631",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001675631"
+    },
+    "text": [
+      {
+        "content": "왁두수준 형 너무사랑해",
+        "writer": "Ugwht7rRz9GD77scPO54AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 좋은 총임",
+        "writer": "Ugz9Xj34uB2CWV5hZ3x4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오, 신총.",
+        "writer": "UgwN0iP0C1UCAzYNB2R4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "DMR 맞습니다 MDR",
+        "writer": "UgwQGdlN3JV6seqKcIp4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금은 버려진똥총이 되엇지, 출시당시 (반사회적용어)다 뭐다햇는데",
+        "writer": "UgzMM4Ebrk6b66GLabh4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지정사수 소총은 저격수보다 가깝고 일반 보병보다 먼거리에서 저격하는 총이에요",
+        "writer": "UgyJSJk4KblYztlj6IR4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저게 모드가 따로 있는건가요",
+        "writer": "Ugy92HrM8NgSM0cl_9h4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그놈의 슉슉슉슉슉",
+        "writer": "UgzzFCUttI0rwTsG0LB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아드레날린은 없네",
+        "writer": "UgzaMXnwd0I4bmCxeMx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신총보급으로 먹었는데 쫄아서 사리다가 한발쏘고 게임끝나서 좋은지 안좋은지 모르겠음",
+        "writer": "UgyZ0HviPXzNYd7AhQ14AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저격총이라고 말하는사람들 많은데 개발당시 목표가 m1개런드 자동화기 교체목적이라서 저격 소총이 아닌 전투 소총이 정확한 명칭임 그래서 최근에는 일반사수와 저격수 사이 개념인 자정사수라는걸 도입해서 전장에서 사용중이죠",
+        "writer": "Ugyt72jvP1AAP57NESd4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형떄문에 공부 못해서 구독취소했었는데 . 형이 없으면 난 안될것 같아. 그래도 성공한 왁창이되기 위해 구독 취소할게 성공해서 보러갈께 형 그떄까지 방송 (이름)래 해줘.",
+        "writer": "UgxnHgdnvP8CMHBD6VZ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 히오스 10만 넘기면 한다고 그랬지 (반사회적용어)했는데 겐지 신스킨을 얻으려면 히오스 15판을 해야 된다고 오버워치 우왁굳의게임방송 8개월 전 조회수 343 353회",
+        "writer": "UgzmCUXiLSjfwpSRKWl4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 유아이 왜저럼",
+        "writer": "Ugw9ZhW7rWNAyyC5cRR4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "MK14같은 경우 기존 M14를 개량하여 저격용이 아닌 지정사수소총으로 에 스코프가 달려있습니다",
+        "writer": "UgzSbi93Q9o-0vMWbnx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우(이름)구급상자하고 아드레날린도있습니다,",
+        "writer": "UgxN7BX1xFXGGxSXonh4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "업데이트 하고 이거 재장전할때 (반사회적용어)이랑 탄창 떨어지는 소리 오지게 크던데",
+        "writer": "Ugx5a7fCyRcmcr8NQFJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가을 YouTube 그건 오버워치 영상이 아닐까요",
+        "writer": "UgzmCUXiLSjfwpSRKWl4AaABAg.8VqWxdmkxPm8VqlbCwZgiF",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "케장콘 그런가여,",
+        "writer": "UgzmCUXiLSjfwpSRKWl4AaABAg.8VqWxdmkxPm8VriKVXDaWd",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "bjcoran 업데이트 되어서 설정에서 원래대로 할수 있어요 .",
+        "writer": "Ugw9ZhW7rWNAyyC5cRR4AaABAg.8VqUwZ_MADd8Vroe4gC_lN",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "coke explosive 님이 말하는건 M14EBR 인거같은데요 M14초기개발목적은 소총으로 알고있습니다",
+        "writer": "UgzSbi93Q9o-0vMWbnx4AaABAg.8VqRViyoAP18XZJZJqRIxr",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "m14가 m1개런드에서 개량됨",
+        "writer": "UgzSbi93Q9o-0vMWbnx4AaABAg.8VqRViyoAP18cFDvhPQpX6",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 본섭인가요",
+        "writer": "Ugwf3t677VkDQeTUITp4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "업뎃 후 달라진점 친절하게 리뷰하는 왁굳띠 사랑해",
+        "writer": "UgxhDgmYho4hb2OWbJd4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이총 보급에서만 나오나여",
+        "writer": "Ugw6mJZrbZ30fdCLB6Z4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 배그 다들 괜찮게 되나요 겁나 끊기던데,",
+        "writer": "UgwHTR5Kn4RInIVQ_l94AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)세 나왔네",
+        "writer": "Ugztk17hvfHxZtj9oot4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스쿼드할땐 엄크14라고 불러야겠다",
+        "writer": "UgylRxmkreBECoaO_TR4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 드링크마시는 소리 음원없어 ,",
+        "writer": "UgzpvNh3av5YRpl0BGF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데미지는 에땁이고 연사는 mk14 구만 , kar98 sks 좀 고인되겠네 아이템확률은 모르겠다만",
+        "writer": "Ugx9vzCr7AaeKOvjMcJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘아침에 고라니 교통사고 낼때 빵빵거리면서 쳤는데 (비속어)잼임",
+        "writer": "UgzMedBoM0qMP9ox7Qp4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁굳 앰뒤 노소통",
+        "writer": "UgxTS5lUAnv67r9_IvJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 역대급 얼렁뚱땅 리뷰",
+        "writer": "UgzbD7IaF0txI7fLXwJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리뷰 개깔끔해 취향저격",
+        "writer": "UgzAqLewUkI_PcKvUAR4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 뭐임 배그 방만들어서 하는거임",
+        "writer": "Ugx1zuVZ8iG7Mq7R-W94AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배그도 막십사 나오네",
+        "writer": "Ugzq1UyXFgDNoLGTxKB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소오오오올직히 이번 리뷰는 망했다, 그리고 슥슥이 바닥에 있었는데",
+        "writer": "Ugx6iWrxIaz3jdR4zIp4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보급 떨어질 때 보급 (반사회적용어)에 총질하면 (반사회적용어) 끊어지나요",
+        "writer": "Ugz56wLIjh5DfQnrZcp4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본인 인게임 스피커 꺼놓고 마이크 없냐면서 죽이는 왁두 인성 (반사회적용어), 3분의 1 달았다고 3번이나 말했는데",
+        "writer": "UgxLbDM437FYvoFuI5d4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 개웃껴 마이크 없니 쓰읍 1스텍 사망",
+        "writer": "UgzMtOiFjvCZcIgiGIl4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부스트 먹다가 팔 맞아 죽으면 억울하겠다",
+        "writer": "UgyX_-zeffoyszpBDCV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 네",
+        "writer": "Ugw6mJZrbZ30fdCLB6Z4AaABAg.8Vpdn8BsvHK8Vqlcb1bNYq",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그렇쿤요 감사합니다",
+        "writer": "Ugw6mJZrbZ30fdCLB6Z4AaABAg.8Vpdn8BsvHK8VqsI4_aUx8",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스크스는 쓸(이름) 없음",
+        "writer": "Ugx9vzCr7AaeKOvjMcJ4AaABAg.8VpUVIVZ_c88VpWkzQCF0h",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스크스 대퀵 탄창꽂고 풀파츠 넣으면 ar대신 써도 되는 (비속어)총인데",
+        "writer": "Ugx9vzCr7AaeKOvjMcJ4AaABAg.8VpUVIVZ_c88VqD2qRCGMA",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대퀵에 풀파츠 만드는건쉽나",
+        "writer": "Ugx9vzCr7AaeKOvjMcJ4AaABAg.8VpUVIVZ_c88VqQfjcCqFI",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직탑김인 그니까",
+        "writer": "Ugx9vzCr7AaeKOvjMcJ4AaABAg.8VpUVIVZ_c88VqQxniCG5I",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손희승 아 수직 손잡이 생긴거 못봤다 쓸만 할수도 근데 반동도 개심하고 m4 풀파츠 하고 비교해바 난 당연히 m4풀파츠를 택하겠다 그리고 암만 봐도 mk14 보다 구린뎊",
+        "writer": "Ugx9vzCr7AaeKOvjMcJ4AaABAg.8VpUVIVZ_c88VqRJVoQrlP",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 지금 배그 괜찮아요 상태",
+        "writer": "UgzMedBoM0qMP9ox7Qp4AaABAg.8VpMXTNSwrT8VpQmGBXa75",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)고민 상태 좋은건 아닌데 할만함 렉 걸리긴 해요",
+        "writer": "UgzMedBoM0qMP9ox7Qp4AaABAg.8VpMXTNSwrT8VpQzEJas8Y",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초깨비 똘킹 팬 아니 그럼 보(반사회적용어) 말라니깐 꼭 그렇게 욕하면서 봐야되냐",
+        "writer": "UgxTS5lUAnv67r9_IvJ4AaABAg.8VpJVDHsu3e8VpLOkovQx4",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소자후 안봄 쓰고나감",
+        "writer": "UgxTS5lUAnv67r9_IvJ4AaABAg.8VpJVDHsu3e8VpLXrDTnF1",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 초깨비 똘킹만 보던가 여기와서 (비속어)",
+        "writer": "UgxTS5lUAnv67r9_IvJ4AaABAg.8VpJVDHsu3e8VpRrykeKtx",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초깨비 똘킹 팬 (비속어)냐",
+        "writer": "UgxTS5lUAnv67r9_IvJ4AaABAg.8VpJVDHsu3e8VpZTIz-VUy",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sea 아이유",
+        "writer": "UgxLbDM437FYvoFuI5d4AaABAg.8VpAVwD77_S8VqLEmK6R29",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서른이라 미안해",
+        "writer": "UgxLbDM437FYvoFuI5d4AaABAg.8VpAVwD77_S8VqlV0BQ3ob",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "dmr 배필에서 (비속어)",
+        "writer": "UgzvyKB-KL7OLZCCHqV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "mk14는 dmr 입니다",
+        "writer": "UgzRfhj_Xm-g6yauDWx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 마지막은 왁굳엔딩",
+        "writer": "UgxLVguDJLRxEO3rgkd4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청자분들 고개 와리가리 하며 앉았다 일나는거 커엽,",
+        "writer": "UgxfNfq7FPcZ-zfn_0J4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런(비속어)는 아무도 못 만드나요",
+        "writer": "UgwQgEZQ1ZA8TWjB_ht4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윾시 왁(비속어)다 (이름) 몸에 상처내면 마음이 아픈듯 못맞추고 계속 빗나가네",
+        "writer": "UgzLoZPL_Hmbw5YBRI54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흒흒 왁구텽 넘흐져아",
+        "writer": "Ugx_vxl5UU9b0f5tJCh4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 업데이트 한거에요",
+        "writer": "UgwxntzheqOCB953tZx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음료 먹고난후에 깨알같은 버린캔 떼굴떼굴 굴러가는 모션, 좋구요",
+        "writer": "UgxZYv2YCGk6gO4hAKF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 왁굳식리뷰는 똥싸고 덜닦은느낌이라 좋구만기래",
+        "writer": "UgwE6EJem-TTGMzUpXB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "총기명 엠(비속어)새",
+        "writer": "UgwlnjGwebiK0V0YhpJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Sks가 연사가 안됬었나",
+        "writer": "UgxS1P3C18E-L-sgJJF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 구급상자는,",
+        "writer": "UgxMERmOyRFjWMB4xIh4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1인칭 가늠좌 보고 m1개런드 인 줄",
+        "writer": "UgxGFA4-xaFb3B_p_iZ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 떰네일이 간단하면서도 깔끔하니 괜찮다",
+        "writer": "UgwlJeWDEkFFgmWyGUR4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아바에서 엠(비속어) 라고 부름",
+        "writer": "Ugwp3-X-cKTypnVuH3V4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형 생방하고 바로 올리네",
+        "writer": "UgzapEfBv4e-wn9QBQ14AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "DMR과SSR의 차이점이 뭔가요",
+        "writer": "UgxJQKhbGbnzvJb9dop4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "M14가 나오네",
+        "writer": "Ugx9CX4-9liXxM26QZB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천메바 마우스 좌클릭 연사로하면 가능하죵",
+        "writer": "UgxS1P3C18E-L-sgJJF4AaABAg.8VoQajgoQm88VokMUuPIyC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천메바 스크스는 광클해야만 빨리나가요 그반면 이건 발사모드가 있음",
+        "writer": "UgxS1P3C18E-L-sgJJF4AaABAg.8VoQajgoQm88Vp3Tj0t8yc",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sks 는 연발이 안되고 단발이죠, 반자동 소총입니다.",
+        "writer": "UgxS1P3C18E-L-sgJJF4AaABAg.8VoQajgoQm88XFUDmaa75b",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우승원 반자동저격소총",
+        "writer": "UgxS1P3C18E-L-sgJJF4AaABAg.8VoQajgoQm88cFDpdphElP",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천메바 진통제 주사꼽는걸로압니다",
+        "writer": "UgxMERmOyRFjWMB4xIh4AaABAg.8VoQZoZevuD8Vozhxlxeq9",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천메바 누워서하면 옆으로 몸비틀어서함 무슨오징어인줄알았음",
+        "writer": "UgxMERmOyRFjWMB4xIh4AaABAg.8VoQZoZevuD8VpgkCPaiLc",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) dmr과 sr의 차이를 묻으시는 거면 dmr은 지정사수소총이고 sr은 저격소총입니다 지정사수라함은 일반 보병과 저격수 사이의 포지션이라고 보시면 될듯합니다",
+        "writer": "UgxJQKhbGbnzvJb9dop4AaABAg.8VoJ7JM3N7C8VoK05gkcpC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) dmr이 분대 지정사수 화기라는뜻인데 보병의 교전거리를 늘리기위해 사영된거고 scar ssr은 고유명사로 사용된거같은데 스나이퍼 서포트 라이플 의 약자. 뜻은 똑같이 지정사수화기입니다",
+        "writer": "UgxJQKhbGbnzvJb9dop4AaABAg.8VoJ7JM3N7C8VoKWMp0Vgr",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김바람 무슨 약자인지와 뜻은 알았는데 둘의 쓰임의 차이가 궁금해서 물어본 거였어요. 답변해주셔서 감사합니다.",
+        "writer": "UgxJQKhbGbnzvJb9dop4AaABAg.8VoJ7JM3N7C8VoKv7MB1Ht",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 저범에했던 잠수함스팀게임하면안댐",
+        "writer": "UgwE2pcEAsVup-3pJhl4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리뷰 수준",
+        "writer": "Ugy-XGYHVq-CrSFVP0V4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 (비속어)",
+        "writer": "UgxI6hCDClMDnDk14r94AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야뭐야 리뷰가 너무 상세흐자너 어디에서도 보지 못했던 신선한재미를 주는 신개념 리뷰자너",
+        "writer": "UgxbECeicTYdZ3LwP0F4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정보) 시청자가 마이크가 없는게 아니라 본인이 인게임 스피커를 꺼놓은 거였다고 한다.",
+        "writer": "UgzaspOBJ9kqplF5ga54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀 빠진건 있지만 대부분 리뷰 확인 굳굳",
+        "writer": "UgwqS-GKq45p0YKODjh4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 찍은 따끈따끈한 영상",
+        "writer": "Ugw9rEKtFBWgn1wOk6J4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 올라와",
+        "writer": "UgwvwwgiqJ3mbsjrY3h4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 에땁으로 머리 안날아가는 사람도 있냐, 적어도 난 아니었구만",
+        "writer": "Ugw4MKOBUanC3tY7obR4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2렙 (반사회적용어) 안부서진걸로 나왔지만 실제로는 한대맞고 내구도 0이 되었다고 하네요. 버그란 말씀",
+        "writer": "UgzmSj5xHUkLjzdX6Rt4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한발늦었네 에잉",
+        "writer": "Ugzfc2I4kh5A35BhHKt4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 왁굳형 너무좋아",
+        "writer": "UgxqFeNECxt08zUG6tB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1빠 왁굳형 사랑해",
+        "writer": "UgyCcEbGtP6QPJlygjl4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=22y-yDmf54E",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

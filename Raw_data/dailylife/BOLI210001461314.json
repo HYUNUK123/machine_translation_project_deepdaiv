@@ -1,0 +1,564 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001461314",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOLI210001461314"
+    },
+    "text": [
+      {
+        "content": "추운데 괜찮아요",
+        "writer": "Ugz2idWQIMT7CJBxWIt4AaABAg",
+        "write_date": "2021-05-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진정한 자연인",
+        "writer": "Ugz2WxY0P935Eiaj3Kp4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 폭격기요",
+        "writer": "UgySE-gHYhLgfLKRlHR4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 이거볼때 그, 폭격 그게엄마등에 할때 괞찬아 잘될꺼야 이러고 노래 나왔어욬",
+        "writer": "UgzRnp1aqNrHw1NFhVh4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번엔 얼음이 안얼어서 빙판이고뭐고 못본듯",
+        "writer": "UgwVn2aOrMs-uyWDxvZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금2020년인데 지금거기는 2008년도네,",
+        "writer": "Ugza3voWY-dcHh_T86p4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강하게 잘사세요",
+        "writer": "UgzL1ki5ABmHddfN2K94AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 공감0",
+        "writer": "UgzDtbizepFcyQfBY6p4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에 이거 5학년때나오는데 어떻게진짜",
+        "writer": "UgzPydEpfjYmuHpZRYp4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래랑 할아버지 비닐봉지 소리랑 박자가 맞아요",
+        "writer": "UgzaXgeaxJdWgurqyzh4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 할아버지가아니고 거이 젏은인데",
+        "writer": "Ugzmmterk1c337_utnZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여름에도 찬물로 못 씻는데",
+        "writer": "Ugz-I0hXxXtCLDSzW454AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 이거 사회책에 나왓엇어요.",
+        "writer": "UgwtbogrMmTtjKeR_5l4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여름에는 개좋을듯 밖에서 있다가 더우면 10분만들어갓다 나와도 개시원",
+        "writer": "UgxN309XTo9WfrwNCJF4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회책 135쪽인가",
+        "writer": "UgzPydEpfjYmuHpZRYp4AaABAg.954U--uPV4s95HbLcXzagn",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 맞아오",
+        "writer": "UgzPydEpfjYmuHpZRYp4AaABAg.954U--uPV4s95K7kAcFkav",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 개학때 5학년인데",
+        "writer": "UgzPydEpfjYmuHpZRYp4AaABAg.954U--uPV4s96BaZ16lLaB",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브베생각난다, 죄송해요(이름)",
+        "writer": "UgyJdVIFGHRAr0_gGh54AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브베인줄, 죄송합니다 할부지",
+        "writer": "Ugwwl9JD-o65U6ALSTJ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 몸은 추워도 손발이 차가운건못참는데",
+        "writer": "UgxnFV4NFb0ScUJ47R54AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브금이랑 비닐봉지 소리랑 싱크 잘 맞아서 계속 듣는중,",
+        "writer": "UgwsB1PF3k7QeQWZsDt4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이정도면 난 얼어죽고도 남았다. 게다가 저나이시면 따뜻해야 좋아하셔야 하는거 아님 . 게다가 엄마가 자신의 눈앞에서 돌아가셨는데 꿋꿋히 갈길가셨네, 대단하셔요..",
+        "writer": "UgykKC2OQ_vl1fn-M2t4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "12년 전 영상 이네요 어쩐지 이번 겨울 진심으로 역대급 따듯한데 실내에서 저렇게 김이 나올리가 없어",
+        "writer": "Ugwntlw5Z1NjrWRFtid4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4시간 전 인데 2008년도 ..",
+        "writer": "Ugx06h5-sCfG-DMVljx4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 눌러서 좋아요 700",
+        "writer": "Ugz2iVZ08HGWQk1apm94AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한비디오 화이팅",
+        "writer": "UgwfCdgbVcu8J4m1RkN4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라판 베어그릴스다",
+        "writer": "UgzsAo8cEJPRKfo1XUJ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리집이랑 같은 시계",
+        "writer": "Ugx3BylKdqUfmKiOyQF4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦어서 죄송해요",
+        "writer": "UgzMN9dGWf05Pn-_rjd4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마가 눈 앞에서 죽다니흐어",
+        "writer": "UgxWGgueNNr31QKuCCd4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 분이 있네",
+        "writer": "Ugy2rhPw3JvCL_aTi6l4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난타봤음 넘어지면서,",
+        "writer": "UgzlpV6hTsk1d4Uv8wZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힐리스 아 기야우셔",
+        "writer": "UgxnbFNnymUKNrPJJoV4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 좋아요 눌러서 출첵해라",
+        "writer": "Ugzn9FOvbrsEQ2aQuih4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키보드 바퀴 단단해서 물끼만 있어도 미끄러지는데 눈길 얼음위에 타시는거 진기(반사회적용어)임.",
+        "writer": "UgzHY4RDhgoI-n2YjR94AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "극한직업 제작진",
+        "writer": "UgyY73dhAz-301PQk4Z4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼음 알몸빔....",
+        "writer": "UgxCZpVOam-ZylpR-5R4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "0(비속어) 자막바가 파란색이에요..",
+        "writer": "UgzH3ZS5EJ9XXmEZXEZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 우와한 비디오에서 추위 못 느끼는 사람 웰케 많냐",
+        "writer": "UgwzN0bNQYWYlyXVTR94AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감동이다 할배",
+        "writer": "Ugz0bBCHdrQT2TDOhr14AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실내온도 2도면 냉장고 수준",
+        "writer": "Ugx11FhJtiePapKGKLZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는 사람이 춥다,",
+        "writer": "Ugx7PXWOyrWHtJBEzox4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이불 안에서 보는데 춥다,",
+        "writer": "Ugxt--jihakg6X7_RFh4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어후, 내가 더 춥다",
+        "writer": "UgxBjZkCPfSDkEjwujp4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 어떡해 제작진 불쌍해,",
+        "writer": "Ugzpj7xWwcRMzpx0aV14AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜저러실까요 보는 내가 춥네요,",
+        "writer": "Ugxyj2Sg-1SgAl4jxDB4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음량 좌우 안맞는거 실화,",
+        "writer": "UgycEsSLsHpoNSmMgqN4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 추워서 덜덜떨다가 이빨이 부디쳐서 이빨다깨질듯",
+        "writer": "Ugx6aX8mc8EGRiCMMy94AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로도 건강하세요.",
+        "writer": "UgzwMZDmP6y9FACmG7J4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마가폭격기에, 주륵, 나라면 나도 죽었을듯 좋아요 감사해요",
+        "writer": "UgzuV9EEeP9rzdseqLZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 날짜 보니 2008년으로 되있던데 지금은 잘지내실지,",
+        "writer": "Ugy_bkiIhz9aip35LlN4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ANDREW KIM 어르신께 어후 왜저래는 좀 그렇네요 그냥 왜 저러실까 이렇게 하시는게 나을 듯 하네요",
+        "writer": "Ugxyj2Sg-1SgAl4jxDB4AaABAg.94yc_z_UCnw94ytjBmWCVW",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "B127 J 아앗 자세히 생각해보니 그러네요 죄송합니다 알려주셔서 감사해요 ) 다음부터 주의하겠습니당 .",
+        "writer": "Ugxyj2Sg-1SgAl4jxDB4AaABAg.94yc_z_UCnw94yuwrpwXFu",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ANDREW KIM 프사 귀엽네요D",
+        "writer": "Ugxyj2Sg-1SgAl4jxDB4AaABAg.94yc_z_UCnw95-vw4iK9oN",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "B127 J 아아 감사합니다",
+        "writer": "Ugxyj2Sg-1SgAl4jxDB4AaABAg.94yc_z_UCnw950Mo4yC3G_",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 모성애란",
+        "writer": "UgzuV9EEeP9rzdseqLZ4AaABAg.94yb9jBrhof94yfAgnbTmK",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래두 엄마가 나대신 희생해서 죽었는데 누구보다 열심히 살아야죵.. 엄마도 그걸 간절히 바랄꺼구여",
+        "writer": "UgzuV9EEeP9rzdseqLZ4AaABAg.94yb9jBrhof9528Q0Ta9X1",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그러야겠어요 엄마들은 아들을 소중히 어기고 자신의 목숨보다 귀하다고생각하는데 엄마몫까지살아야되구나, 할아버지는 오히려 이렇게살았는데, 살아야겠죠,",
+        "writer": "UgzuV9EEeP9rzdseqLZ4AaABAg.94yb9jBrhof953bsLPV0zY",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "countach 저때가2008년도였으면화질이저렇게좋진안았을듯",
+        "writer": "Ugy_bkiIhz9aip35LlN4AaABAg.94yat9v1vav94ybSIofgyO",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SW 화질 좋게 바꾼거 아닐까요",
+        "writer": "Ugy_bkiIhz9aip35LlN4AaABAg.94yat9v1vav94ybjY-9D2k",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시계 고장난거같음 힐리스 있는거 보니",
+        "writer": "Ugy_bkiIhz9aip35LlN4AaABAg.94yat9v1vav94ycNmdO80Q",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SUZUKI HAYABUSA 힐리스 그당시에도 있었던거 같은데,",
+        "writer": "Ugy_bkiIhz9aip35LlN4AaABAg.94yat9v1vav94yfdE26fEZ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오예 10등 이당",
+        "writer": "Ugw8PUFALEHOMRHGI1t4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 대단하다 진짜세상에이런일다",
+        "writer": "UgwL_xZZ-yD6dKSK1Kp4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 건강하시네요 앞으로도 이 건강 유지하시길,",
+        "writer": "Ugz9_H9f6iMibK1V13Z4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분전 이닫",
+        "writer": "UgzMscgkRKGLK1Yb81p4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개일 왔다",
+        "writer": "UgzMR5_6IGNATk9m7m54AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 왔닿 그데 내가 더 추워",
+        "writer": "UgxyJ3BRB_qaGcsffwR4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)억지로 구독하게 만드내",
+        "writer": "Ugz9_H9f6iMibK1V13Z4AaABAg.94yaW7250UE950j7HFbZ5D",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=IsZJlFInJSc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

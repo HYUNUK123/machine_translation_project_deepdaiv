@@ -1,0 +1,1764 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001273335",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOGA210001273335"
+    },
+    "text": [
+      {
+        "content": "내가 좋아하는 장면",
+        "writer": "UgzwOSpzeuoEpPiytzF4AaABAg",
+        "write_date": "2020-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 고졸드립 갑자기 생각나서 보러옴",
+        "writer": "UgyOFvAqP24w2eb6wQh4AaABAg",
+        "write_date": "2020-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 너무 착하셔가지고 시작했을때 팀만 안바꿨어도",
+        "writer": "UgzoK_uEKfpjlyiQ6fx4AaABAg",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 발끈",
+        "writer": "Ugx4pTyGbHbZ63RXpt94AaABAg",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "폭탄모양이, 3, 30,",
+        "writer": "Ugy_EYbomrcnRqZ4_Kt4AaABAg",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막애 했다",
+        "writer": "UgwLV1X9zDNi-4VdHYl4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 다구분할려고 갑옷입었는데 잠뜰 찬이 (이름)만 입었어",
+        "writer": "UgwBoRixH_Fu-n5JroZ4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빅콘이 게느리다",
+        "writer": "UgyuwG1wQl-6FMhjnsp4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 기다리는거 까먹지 마세요.",
+        "writer": "UgzyLeLOYKb4y2qYHZx4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 뭐 웃으면 않 되나",
+        "writer": "Ugx48pAPlrIU72WIUNp4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 짱 모두들 짱",
+        "writer": "UgxKTZSMNU3fWR2AnIN4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 (이름) 도대체 왜 그러세요 (이름)은 파쿠르나 드로퍼 그런거 이겼다고 (이름)을 놀린다거나 얄밉게 벌칙 시킨단거나 그런걸 거의 안 하시는데 (이름)은 이겼다고 막 엄청 좋아하시고 (이름)도 겁나 좋아하시네 왜 그렇게 같은 회사고 아무리 친하다고 해도 그렇게 놀리고 그 놀리는게 아무리 장난이여도 (이름)도 그걸 다 버텨줄수는 없잖아요 근데 그렇게 (이름)은 버텨줄만큼은 버텨주시고 잘 챙겨주시고 그런데 대체.. 대체 왜 그러시는 거에요",
+        "writer": "Ugjpytv_zGHr03gCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 박잠뜰 남 죽었는데 그렇게 크게 웃냐 와그럼 난 너 죽을때 크게 웃을게",
+        "writer": "UghDt6coVvdB83gCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 고구마 100개는 먹은 줄,",
+        "writer": "UgzeO6KvxtoSYBo38FN4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "져그맵해봤는데 3031번죽었어요",
+        "writer": "UgxiHflbdIhxVaCLy0x4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 다 컨셉이야",
+        "writer": "Ugjpytv_zGHr03gCoAEC.8Ul-ZozlIvi8V3y1IcLf3V",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "까리 이분은 친구들이랑 벌칙 걸고 놀아보신적이 없으신가보네",
+        "writer": "Ugjpytv_zGHr03gCoAEC.8Ul-ZozlIvi8bTfG29YTMM",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물론 사람마다 (이름)이 (이름)을 놀리시는게 보기 않좋을수도 있죠 하지만 (이름) 본인이 웃어넘기시고 다들 장난이고 컨셉이라는것을 아는데 굳이 (이름)을 비난하시는 어투를 사용하셨어야 했나요",
+        "writer": "Ugjpytv_zGHr03gCoAEC.8Ul-ZozlIvi8cZSs4L8R6u",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)도 (이름) 보고 돼지라고 하는데 다 받아주시잖아여 그리고 (이름) 채널보면 (이름) 성격이 밝고 활기차고 장난많은 성격인거 모르시나요",
+        "writer": "Ugjpytv_zGHr03gCoAEC.8Ul-ZozlIvi8dIFjWoq3OA",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 왜이러시는건지,",
+        "writer": "UghDt6coVvdB83gCoAEC.8UBapMj8SuS8cZSn1TjsYJ",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 결국, 욕이 나왔다고 한다",
+        "writer": "UghrHqKJrFD_oXgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말하기 무섭게 죽은 (이름)",
+        "writer": "UgjQIVCW-9y8_3gCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 화이팅하세요",
+        "writer": "UggK3jjZKO47PngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이 적으면 뭐 따석이냐 나이만 쳐높으면서",
+        "writer": "UgiVzCutuYpaUHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 잘하는 사람이 한명있어야해서 (이름)이갔네요",
+        "writer": "UghX8p7x7txPgXgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 처음보니까 운학이 빨강 양털2개 뽑았는데 운학이 원하는거 줘야되지 않아요",
+        "writer": "UgiI7XhqBsDOqHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 어머니는 41세 이신데,",
+        "writer": "UgjsQDVCiWHQ5HgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 이런거 할수 있어요",
+        "writer": "UgimCBTEGDMi5XgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)면싸 이에요 .",
+        "writer": "UghIDamkSv_nRHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모자 쓰세요.",
+        "writer": "UgjM1JiaIKccVngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기, (이름), (이름) 나이가 어떻게 되시나요 (연세라 해야 되나 ) 목소리가 되게 어른(어르신 농담입니다,죄송해요,) 이신것 같은데,",
+        "writer": "Ugj3mG6022Uk6HgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 야 라뇨, 거기서 왜 가 나와욬",
+        "writer": "UghId5DbvhJUkHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 야 라뇨, 거기서 왜 가 나와욬",
+        "writer": "UggbmrbeNyb01ngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 수영. 할 때 왤캐 귀엽나",
+        "writer": "UgjNo7B16zP1p3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RUDY tv 그럼 니 보다 어린애 한태 따석이라고 들으면 기분좋냐",
+        "writer": "UgiVzCutuYpaUHgCoAEC.8OR1rKkV6dl8VOa12DE5Ro",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RUDY tv (이름)이 (이름)한태 존대말 쓰는건 뭔대",
+        "writer": "UgiVzCutuYpaUHgCoAEC.8OR1rKkV6dl8VmscNIQBFj",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RUDY tv 나이가 만은만큼 지식이많고 경험이만음",
+        "writer": "UgiVzCutuYpaUHgCoAEC.8OR1rKkV6dl8Vmt1r0dFjN",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키키쿠 천재당",
+        "writer": "UgiVzCutuYpaUHgCoAEC.8OR1rKkV6dl8Vmt3qPOJf9",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "베이비돌꽃 이건 나도함 거진말않치고 16번 죽고 깨슴 걸린 시간은 26분40초",
+        "writer": "UgimCBTEGDMi5XgCoAEC.8Liy59Iw4aM8NdDZDu_Bfh",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 대박..",
+        "writer": "UghMZ14Z9XgJS3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고졸이 뭐지",
+        "writer": "Ugh7_ZhhdQubt3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저포캤애디션 하는대 그냥 블록을 대쉬를 않하고 2칸을뛰었는대 뒷어요",
+        "writer": "UghqJsNXWdzriHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠뜰 완전 도라서",
+        "writer": "UgiXZFugVNR7U3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 정말 도라스",
+        "writer": "Ugj2Svblv5wqOngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 힘내세요 잠뜰이 해주세요 (이름)힘내세요 모두조아요 모두힘내세요 저는 도티잠뜰메이베님다조아해요 저는 다 맑이조아해요 용하지마세요",
+        "writer": "UgiYe6NNLXdMsngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 키보드 소리 너무 웃겨욬",
+        "writer": "UggEYxwIo56Q93gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막전부분에 도메비 죽을때 너무 불쌍했어",
+        "writer": "UghxA2V7ENaOFHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런데 (이름)이랑 (이름)이랑 은근 잘어울려요",
+        "writer": "Uggj8ledUS3ss3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 매일 발달되는 도라스 도로퍼여",
+        "writer": "UgiVGZNDMpAf0ngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "때 렉걸려서 (이름) 떨어질때 웃기게보임.",
+        "writer": "UgjDHy9O2cudyHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 도라스.",
+        "writer": "UgiFsDdCHXQ5I3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 4분25초 쯤에 또라 라는거 잘못들은건가요",
+        "writer": "Ugh3yt5kiqzNc3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 무슨 야. 이럴때 너무 웃었어요. 아직도 웃겨 죽겠네요.",
+        "writer": "Ughpf0w7voqbOngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 14번 죽고 깻어요",
+        "writer": "UgiI8xBcQfbkv3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 모자 벗어도 제일 낫던데,",
+        "writer": "UgihBcwTnIYyk3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도나리자도 (이름)도 멋져욤",
+        "writer": "UggKK_qYtqhWdXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 컴 주의보할때요. 네, 전폰입니다, 넘멈춰요",
+        "writer": "UghmOD-4s0BkGHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나빠",
+        "writer": "UgipbauIezY9E3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤성준 (이름)은잘하는데요",
+        "writer": "UgjMTPkR7K8GsngCoAEC.8ILJ0IqiM6H8RyCQeGZtQx",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤성준 (이름) 진짜잘하시는대",
+        "writer": "UgjMTPkR7K8GsngCoAEC.8ILJ0IqiM6H8VmrzgVpEv2",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팀이 못한거에요",
+        "writer": "UgjMTPkR7K8GsngCoAEC.8ILJ0IqiM6H8rqO9fZXVqs",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이TV 레 고등학교를 졸업해서 대학을 안 갔거나 고등학교에서 끝냈다는것일거예요",
+        "writer": "Ugh7_ZhhdQubt3gCoAEC.8I3itjl8xWx8Q2ADw8ObNx",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 대쉬안하고 2칸 돼요",
+        "writer": "UghqJsNXWdzriHgCoAEC.8HiiLAOrK2f8HmMegwCWsl",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 , 유치하게 아직도 이런 사람이 있네,",
+        "writer": "UgiXZFugVNR7U3gCoAEC.8H_lPG-LEcB8HdnwQFLS_1",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌았다의 뜻이나 알고 쓰시죠",
+        "writer": "UgiXZFugVNR7U3gCoAEC.8H_lPG-LEcB8HmMqFyWZ9A",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "녀마 님 완전 돌았어 이러면 좋으신지",
+        "writer": "UgiXZFugVNR7U3gCoAEC.8H_lPG-LEcB8dIFrEnfmF1",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찰지기도 하구욬",
+        "writer": "UggEYxwIo56Q93gCoAEC.8H5fDv0f_-A8H5frn0xD6d",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김지민 넵.맞아여.",
+        "writer": "UghxA2V7ENaOFHgCoAEC.8Gx05rSAA9M8MrNCPXDHZ8",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Chansu Lim 뭔 임 잠뜰이 얼마나 재밌는데",
+        "writer": "UghxA2V7ENaOFHgCoAEC.8Gx05rSAA9M8PYu3qpfFWN",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Chansu Lim 유치하다",
+        "writer": "UghxA2V7ENaOFHgCoAEC.8Gx05rSAA9M8Q2XBqe_fu8",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김지훈 저건영상이라 상관없음 구.",
+        "writer": "UghmOD-4s0BkGHgCoAEC.8DrJ94izbsq8c6LaBX0Jn-",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름하여 (반사회적용어)레인저",
+        "writer": "UghX6rydDgOq7XgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고졸은 공부못해서 졸업못한 사람을말하는것 입니다",
+        "writer": "UgjABwis-P2SN3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 머리 빡삑이다",
+        "writer": "Ughx3GN1FQqlpXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘내세요 (이름) (이름) (이름).",
+        "writer": "UgjoTo0R9mJ5HHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 107번 죽었어요",
+        "writer": "UgjT_bzTmLq3mngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 님 멋진 모습으로 다시 방송..",
+        "writer": "UgiWLi2MjQX9ZHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티엔티터질때 모양이30",
+        "writer": "UgirFBx_2m46oXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도라스 잘못말아면 돌앗, 아니,",
+        "writer": "Ughiv9ZwFqsMe3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런데 (이름) 채널분둘 나이 정리좀, 정확히 부탁해요, 예) 도티 잠뜰 찬이( ) 이렇게 제발 최대한 빨리요,",
+        "writer": "UghVgvU33WzDh3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회사원 우나까까랰",
+        "writer": "UggD4JlWib8mingCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 수영 할때 너무기여워.",
+        "writer": "UggHQYluwplrIXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상밖으로 떨어질때 킬치시면 되는데,",
+        "writer": "UggyHWpAaE0m4HgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벌써 1년 전이라니,",
+        "writer": "UgjoTo0R9mJ5HHgCoAEC.8CycQ5AFJMQ8YY7Z4M2Ejs",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 인데요",
+        "writer": "UgjT_bzTmLq3mngCoAEC.8CCI5ZXehn58kUDquPSe_c",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 아니고 (이름)이예요",
+        "writer": "UggBrvcFeHtSL3gCoAEC.8B25FYg_O5r8B3lXoU0H1d",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 47번, 다른 분들도 대단하신거죠.깼으니까요.",
+        "writer": "UggBrvcFeHtSL3gCoAEC.8B25FYg_O5r8BMBGmatmiC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윤기의 소파가 되겠슴다호비의 츄러쯔가 여기에서 일단 (이름)이 제일 막내입니다",
+        "writer": "UghVgvU33WzDh3gCoAEC.8Ap0M75qI_E8dIGSM6F7FI",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타자 잘못치면 그냥 죽어요",
+        "writer": "UggyHWpAaE0m4HgCoAEC.8Ai-cIQB8Lw8C9DbF3IpFN",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저 (이름) 기록 깼어요.",
+        "writer": "UggMVM62iof7i3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)이 너무 잘해서 너무 빨리빨리 지나가서 재미가없어요",
+        "writer": "Uggu6f9jdXUh-XgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 (이름) 맴버 하고 싶당,",
+        "writer": "UgjorvG2LK8C_XgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전 꿀잼 맨날 봐요",
+        "writer": "Ugh4vPAgFfup9XgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 아니라 입니다",
+        "writer": "UghSAdmgueD2X3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 엔딩할 때 TNT설치모양이, 서른이라고 쓰였네여,",
+        "writer": "Ugj04kn73ib25HgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차니 찬이",
+        "writer": "Ugh2YNVHbpp79HgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 도라스",
+        "writer": "UgjLPCt-aQSyAngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 모자벗으니깐 핵미남",
+        "writer": "UgggnKFOKlBKAHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사회비판 고졸 학교 야자숙 야자",
+        "writer": "UggF-zgZ31GxH3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천령 제가 (이름)은 아니지만 축하해드리고 싶네요 정말 대단하시네요. 저라면 한 508번 정도 죽었을 듯 , 마크 저런거 초보라 지식은 아는데 ,",
+        "writer": "UggMVM62iof7i3gCoAEC.8AaVqY3UPd48AqPgT1zWaz",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무려 30년동안 마크연습하고 샌드박스 되면은 좋겠지요",
+        "writer": "UgjD90ujqAjKcHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만궁금한건가 우나(이름)((이름))왜 끝에 39가들어가나여",
+        "writer": "UggU5BrHhh6ijXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도 도티 (이름) (이름)사 (이름)사랑 도티남사랑해 (이름)사랑해요 (이름)사랑해 (이름)사랑 (이름)사 (이름) 도티 도",
+        "writer": "Ugihjlv_RYas13gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 벌칙으로 터질때 게임모드 쳐놓고 터질떼 바꿔서 살았는뎈",
+        "writer": "UghuWXDuydAnpngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)노래무르세요 아려드릴게요 자 넌 할 수 있어라고 마래주세요",
+        "writer": "UggPCBNVnSWiRHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 도티 서른이라고 우울하지마세요",
+        "writer": "Ugj56R-gD9CG63gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 (이름)과(이름) (이름)은 제작자 기록 깨진않으셨네여",
+        "writer": "UgixxHrGk0aI-ngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑, (이름) 점프맵 에서 계속 떨어지시네 그래도 잘 하신다, 난,밤 샐텐데, 한,만번은 죽을듯,저여",
+        "writer": "UggGYzseTfOk2XgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마(이름)이어떡해 고려대를가갰어요 고려대는아무나갈 수있는학교가아니에요 고려대는스카이라는곳이에요 고려대는로봇갓은거만드는학교에요 고려대는아무나갈 수있는학교가아니에요",
+        "writer": "Ugg7_wsIonC3dHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저 영상많이 보고있요 정말 꿀잼입니다 그런데요 저도 컴퓨터 마크를 깔고싶은데 알려줄수있나요",
+        "writer": "UghrdSaiit-OLXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운학 (혐오표현)마",
+        "writer": "UgggfV-Rj61s3HgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소울샌드는 해석하면 영혼모래라서 영혼이 담긴 모래라고 생각하면 되요",
+        "writer": "Ugic2iCSVx8PtngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고, 고려대에서, 로봇, 을 , 만드나염, (지금까지 카이스트만 만드는줄)",
+        "writer": "Ugg7_wsIonC3dHgCoAEC.86hB-8A4ygY87_heFtJ2nO",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님이 고려대 가지도 못 하면서 그딴 말 하지 마요",
+        "writer": "Ugg7_wsIonC3dHgCoAEC.86hB-8A4ygY8B4-IILSdOF",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서른 서른",
+        "writer": "UghMVZboKfpiGngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 모자 벚지마세요.왜냐면요, 모자 벚지 않고 하는게 더욱더욱,멋지니깐요, 모자벚으면 이상(반사회적용어)자.",
+        "writer": "UghNfRPypIDcuHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "깐뜨롤은 역시 도뜰...",
+        "writer": "UghIBG2sx1Xq0HgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 이거 했는데 111번 죽음",
+        "writer": "UgjAi88mrhm7wngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 이거 했는데 111번 죽음",
+        "writer": "UgjE6ShomYI-m3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "휴덕은 있어도 탈덕은 도저히 못하겠네요. 우와, 진짜 오랫만에 보네요. 진짜 시간이 금방가는, 방금 보기시작했는데 눈 떠보니 끝났어요 허허,내 시간, 앞으로도 응원합니다D",
+        "writer": "Ugg9PsYpcNlE63gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "검나 어렵겠따.....",
+        "writer": "UgiQCl8uk21z6HgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아픈데 (이름)방송보고있어요(으엌, )",
+        "writer": "UggV6uECq7CsGXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보고 싱글로 했는데 2번 죽고 (반사회적용어)어함",
+        "writer": "UgisK6ueXwcvI3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 티엔티한테 주거써",
+        "writer": "UghY2vMvWpbWm3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴저서 큰일이네용.",
+        "writer": "UgiPzWPncpC2WngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸보면서 느낀건데 (이름)님이나 (이름)이나 다른여자분들은 자기보다 나이높으신분들에게 오빠라고하는데 왜 (이름)한텐 오빠라고안하고 님을붙히죠",
+        "writer": "Ugg-gKNnNJNTu3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제작자보다더적게죽으셧다,",
+        "writer": "Ugj4RPY4O9y5EngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독하고 가요",
+        "writer": "UghHbdwFmbJRt3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 (이름) 팬이예요",
+        "writer": "UgjCbmnOB0XOongCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름).게임하나 추천 해드릴게요 (반사회적용어) 주식회사라고 치면 붉은 아이콘의 게임이 나오는데 이 게임이 새로운 (반사회적용어)를 만들어서 모두를 죽이는건데 약간 전략게임이에요",
+        "writer": "UgjKs5AvGnbgqXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 메르스 조심하세요.",
+        "writer": "UgiSiYK6iWmvkngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 대단하시네요",
+        "writer": "UgiK9DgYxB7phHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이소울샌드에서점프할때 키보드소리에맞춰내어깨가들석들석",
+        "writer": "Ughjp9OTxXyO_3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소울샌드에서는 느리기때문에 시프트키가 거의 필여가 없죠, 그냥 바로바로 달리는게 빠르고 편합니다",
+        "writer": "Ugi4sQbXg-nDY3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 소울샌드에서 엄청 기달렸다죠그래도 꿀잼",
+        "writer": "UggfRcqoJp4uwXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 몇일동안 엄마때문에 못봤습니다 근데 보니까 더욱 꿀잼",
+        "writer": "UghhU4tiEziRhHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쉽게 말하면 이것은 도라쓰다................",
+        "writer": "Ughrx6nYsVpa5XgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소울샌드밑에 얼음 놓고 구속 1000에다 거미줄 설치하면,",
+        "writer": "UgjZ7kFWiJXqiXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 힘내세요,",
+        "writer": "Ugivu6ssHxqDzXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 클래시오브클랜 클랜 트로피 좀 낮춰주세요 저 들어가고 십어요",
+        "writer": "Ugg-UMEL9uw-3ngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동영상 다른것언제나와요",
+        "writer": "Ugi0flfCkx09zXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 오늘 coc 트로피 1000개 모았는데 오늘 트로피00개로 바꿨어요 님 다시 1000개로 바꿔 주세요 부탁드려요 (이름) 제발요 부탁 드려요",
+        "writer": "UgiP3PIwIVk0r3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 울트라 슈퍼 짱 짱. 연세대에서 법합과 들어가신 (이름) 짱. (이름) 마크 너무 잘함.",
+        "writer": "UgjHaEvl64A_g3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안녕하세요",
+        "writer": "UghJVgOsTtDCVHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소울샌드에서 첨엔 감기 담은 독감 담엔 폐렴 담엔, 암.",
+        "writer": "Ugh6TC5a5oxawngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 3시간동안 (이름) 영상만 봐요",
+        "writer": "UghZoeLFm3MJz3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구속 1000은 걸수가없어요, 255까지 가능합니다. 근데 90만해도 .완전답답할듯,",
+        "writer": "UgjZ7kFWiJXqiXgCoAEC.8057I7M6qwu7-UKHT55hao",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YT Drop 아 그건 앎 장난임",
+        "writer": "UgjZ7kFWiJXqiXgCoAEC.8057I7M6qwu7-UZ5lvIAso",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "COC얘기는 COC영상 댓글에 하는걸 추천드립니다.",
+        "writer": "UgiP3PIwIVk0r3gCoAEC.804srjYnvaM7-JOQ6Z1wYD",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 스킨 모자였음",
+        "writer": "UghiYec7pOAXV3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 왜 스킨이 한복인가요 여기말구용",
+        "writer": "UgjgexRzM3N8CHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 메르스 조심하세요",
+        "writer": "UghFqEjFa_Q_J3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름은 수정하다가 잘못 하였어요",
+        "writer": "UggJz3LrxgkVr3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음은 샤스님이만든 말달리자게임 이에요",
+        "writer": "UghpylZVJRsnjXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 클랜에서 트로피조건 1200개로 내려주세요. 부탁해요 제발요",
+        "writer": "UgiXpz4jLtsCNHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소울샌드의특성사람들을 떨어뜨린다",
+        "writer": "UggvRJFGnfVaBXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)에 영상 어첨 재미있어요. 그리고 원 커맨드 랑 모두 쇼캐이스도 많이많이 해주세요 (이름) 그리고 이거 (이름) 혼자 한거 있죠 이거2에요 난 1인거 갔은데 기분탓이죠",
+        "writer": "UghL_pCutniUWHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나 이거 나오고 난뒤 몇분전에 보았는데 디게 뜨끈뜨끈했었는닝 아빠걸로 봐 가지고 못 올렸다능 , 9분전인가 그랬는뎅",
+        "writer": "UgjE826LFSbsIHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 댓글 꼼꼼히본다고하셨잖아요.",
+        "writer": "Ugi75arGVciDWXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 목소리가 참 좋고 넝담을 마니하셔서 너무너무 조아여",
+        "writer": "Ugg_H-5UVvkaj3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "WSMBS20J 이거 (이름)이 만든 원커맨드임 잘만드심",
+        "writer": "UgiiqP-StSKQoXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멤버나 (이름) 방송 들어가면 2시간이 넘게 본다 얼마나 재미가 있는지 ((이름) 좋아요 눌르고 갈께요) 뿅",
+        "writer": "Ugh_ruxLe1cqUXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안녕하세요.",
+        "writer": "UgjTzqpX6i6-SXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 특성을 이해하지 못했어 할때 포켓몬 대사가틈 (피카츄 라이츄 파이리 꼬부기 버터플 야도, )",
+        "writer": "UggtY0kp8hXxengCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 점프맵같은거할때 점프한다음에 떨어지면 옼, 케, 아악, 오케이하시려다갘 떨어지셔욬 정말 재미있내요 (이름)은 사랑의배터리를 채워주시는 사랑이세요.(오글, 글, )",
+        "writer": "UggGFhVFpm0-yngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악플 선플 힘내새요 .",
+        "writer": "UggeghxRkTp723gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는(이름)처럼크레에이터가 돼고싶어요,(이름)처럼일러스트레이터도돼고싶고.아이돌도돼고시퍼여.사람들을행복하게해주고싶어요. 저한테, 가능할까요",
+        "writer": "Ugj_6v-v4iFJRHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역쉬 도라스. 점프맵엄청 잘하시네요.",
+        "writer": "Ugi6S7dBFoznAHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (반사회적용어)과 도둑 오랜만에 해주세요",
+        "writer": "UghPznhssGIekHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마랑 싸웠는데 이거 보니까 잼있어요..",
+        "writer": "UgiPvFiy71o7o3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)영상 너무재미있어요.",
+        "writer": "Uggl1F75dPiMF3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비코나..천천히 하래찌...",
+        "writer": "UgidYhXdOgbRUHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 궁금했는데 (이름) 아프리카도 키시면서 방송하시는거에요",
+        "writer": "Ughejdgi6s-zMHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유트부를 들어가면 도티TV때문에 손을 놀수없다, 지금 1시간30분째",
+        "writer": "UgjulbAscAUS4ngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저 광팬",
+        "writer": "UggruGr_zNvha3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소울샌드를 걷다 자연스럽게 밑으로 빠진다.",
+        "writer": "UghtM33lwslcQXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 (이름)",
+        "writer": "UgiXu4oC4gEFaHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승륜유 네 당연하죠.",
+        "writer": "Ughejdgi6s-zMHgCoAEC.802s3aPcikq7-HDtlrgxKm",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 510 까지 시간이 있는데, 마크도 하고싶고 (이름)영상도 보고싶어서, 마크하면서 (이름) 영상틀어놔요.(그러니까 하루에 (이름) 영상을 개 정도를 보죠, )",
+        "writer": "UgjulbAscAUS4ngCoAEC.802rXsfleVJ7-IbA4M3nqZ",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YT Drop 헐",
+        "writer": "UgjulbAscAUS4ngCoAEC.802rXsfleVJ7-IbGh0YWFH",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 태극기 휘날리며를 봐서 슬펐는뎅T.T 영상을 보니 슬픈것도 잊어버리네요",
+        "writer": "UghJh8fpZhb1i3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 원커맨드를 만들었어요. 한번 해 보세요.",
+        "writer": "UghO7qAvh7dJcXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리벗지마세요 이상해요",
+        "writer": "Ugh4uSxz252L-3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금까지 댓글을 못 달다가 이제서야 다네요 (이름) 영상 너무 재밌고 항상 잘 챙겨보고 있습니다..",
+        "writer": "Ugg-J1mPS_knsXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 티엔티에 (이름) 허허허허허허허허저만웃긴가욬",
+        "writer": "Uggtc_0eMA0io3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 피아노치면 멋지겟어요 올래몇잇지만은 (이름) 사랑해요",
+        "writer": "UgjaGDMA4yrdkXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 채널 넘넘 재미있어여 중독이 되어버릴것 같아요. (이름) 채널은 중독채널 이에요",
+        "writer": "UggLC_PMdyTJyXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 고려대 다니시지 않나",
+        "writer": "UgirvO0iVO90OngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 근데 속삭임에 마을엄제해요요",
+        "writer": "Ugh8_7cduFsouXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맵 퀄리티보소,",
+        "writer": "UggjVAvEo5xbxXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "25분전 잼",
+        "writer": "Ugi0l5cwWU_JwngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에도 도나리자 가 나왔다고 한다",
+        "writer": "UgiLYUO1eXcL1XgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 70,",
+        "writer": "UggO7AJGhgdbMHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모자 입니다",
+        "writer": "Ugh4uSxz252L-3gCoAEC.802kj6OChqI709F81-0j08",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠우 파돼지 쿠우 에너지파",
+        "writer": "UggqITtFvQr5PHgCoAEC.802bvSvTGth7-H2UYcCCMR",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김의현의현 아닌가",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HFwnTeEBC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 연세대 법학과임",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HHdQQqz_a",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YT NEW 고려대는 (이름) 일껄요",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HIxRvfyk3",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이효빈 (이름)은 하버드대 입니당",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HXsBAkbjY",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 치카 센스있으시네요하지만 (이름)은 고려대일껄요",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HYKbjjJxL",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 치카 하바드임",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HZgte1ttg",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코난 GC 정확히 말하자면 고려대일거구요 컨셉( )상 말하자면 하바드대 맞죠",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HZs71Ld1j",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 치카 고려대 나왔음",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-H_NcLZXBJ",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코난 GC 하버드 하바드 둘다 맞아요",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-H_QXFIL15",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)고려대 (이름)연세대 법학과",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-H_S0M39dO",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YT NEW (이름)과 하는 아무나밎지마 보세연",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-Hb4Muld3C",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 치카 그건 상황극이에요",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HbAYTeyi1",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YT NEW 아그래욬",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-HbH7K7Bco",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 치카 구글에서 찾으니 맞는지는 모르지만 찬님 (이름)은 고대 (이름) (이름)이 연대라고 나옵니당",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-Iq5VfaVS_",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코난 GC 아니에여 (이름) 로스쿨 나오셨어여",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-J1GpukODD",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "YT NEW (이름) (이름)은 연세대고 (이름) (이름)이 고려대입니다. 정확한정보는 엔하위키미러에서",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-J1O4ClNpe",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강진성 엔하위키는 망했으니 나무위키에서",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB7-JVEis0lpT",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강진성 개인정보를 말하시면 골란합니다",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB70xrA_K_SZb",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 아나운서시니까 공부 잘하셨갰죠",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB86SLWOQjcLu",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김벼리 메이비",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB88Mw0JAkwk3",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "peeo p (이름)도 밝히신거라 밝혀도상관없어요",
+        "writer": "UgirvO0iVO90OngCoAEC.802ThqmlidB88QG1mYApl1",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "속삭임의 마을 끝났는데요",
+        "writer": "Ugh8_7cduFsouXgCoAEC.802RqMXTeL_7-HBV3W76P6",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫번째 좋아요 꿀잼",
+        "writer": "Uggf8j3s0ZkL1HgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분전 따끈따끈",
+        "writer": "UggsThkfhEDpeHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=qhilHORUfTo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

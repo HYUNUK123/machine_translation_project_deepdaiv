@@ -1,0 +1,620 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001679393",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001679393"
+    },
+    "text": [
+      {
+        "content": "바이올린 곡 제목은 BachDouble presto야 형 내가 지금 그 곡 연습중이야",
+        "writer": "Ugz03C1y0YUl7__P90t4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채팅좀 봐 (비속어),",
+        "writer": "Ugy4OcjvEpxBGS_BmSh4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구랑 싸움",
+        "writer": "Ugz-xF-Hcp5gahxz9W54AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 제일 잘생긴 애",
+        "writer": "Ugw7R7IwR9lWYKIt6Kx4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쵸오오온내에에 깝깝해 , 겜못택 오못겜",
+        "writer": "Ugz3Y6c8mnU3s1VAxux4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "로봇 목소리내는거 (비속어)이다",
+        "writer": "Ugxu1HN5hmlgAtbspHV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)싸움 개웃기넼",
+        "writer": "UgzQ7onDL827SBAwctB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "google 번역 개발자님 너무 귀여우어엌",
+        "writer": "Ugx_hcODUMWJ-8d-Lwh4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 합방해줘 현기증나",
+        "writer": "UgzUhXyOYQ3mSmWULR54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 이거 gta에 이어 형이랑 겜스터의 새로운 먹거리산업,",
+        "writer": "UgzKqe6CAJBB9CZ0Hup4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기대하고있어 형",
+        "writer": "UgwcEV7aJu3OUg9eADZ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주먹싸움 (비속어)",
+        "writer": "UgxnmVlbV_AWKr6O-oN4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦었지만 재밌게 잘보고 가..",
+        "writer": "Ugz8JAqq6gfLyLCwA0V4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "티그그 넵",
+        "writer": "Ugw0GFWcDGeQHQhE7sJ4AaABAg.8YVLZiyVEpZ8YwENdhyL1H",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1 2화 둘 다 진짜 (비속어) (비속어)",
+        "writer": "UgwRsul94CoIv-WRZnV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀 답답하넹 왜 굳이 대포딸린 멀쩡한배 냅두고 탈출용배를쓰냐",
+        "writer": "UgxSZ3byoek0A7YGp8V4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겜 중간에 흐름 많이 끊긴다 컨셉잡아서 하려면 따로따로 올려 왁굳",
+        "writer": "Ugxt05sKP34V9fRg9AV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광고가 6개나, 너무 많은거 아닌가요",
+        "writer": "UgwCTlWlIOIPmREYzLx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항복무새 왁(반사회적용어) 타고난 (반사회적용어) 근성 오졌네",
+        "writer": "UgyMJgM-K99C_QqMEoV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇분마다 명장면 터져나오는 갓겜",
+        "writer": "UgxOtwG3dd58yHhg7TV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌자너",
+        "writer": "UgzQkytRevm5m-lXtQx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 웃기네 진짜 형 (이름)래 방송해줘 흑흑 (비속어)좋아 메친",
+        "writer": "UgzngR4wEexndsgTm-B4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시험끝나고 참여해볼까",
+        "writer": "Ugz0_V5HKZUGaYwoOR54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리끼리 싸운다고할때 내가봤어 저쪽에 쐇어 하다가 말바꾸네",
+        "writer": "UgxPNm1-sV3bxFuUhHZ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳 c발 진심 소통좀하자",
+        "writer": "UgxwMyF4WobsIwhWlmF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 3화 각이야 비공개라 뜸",
+        "writer": "UgyFsJQeD7RIa4BECFZ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 형님은 맨날 2시까지 안쳐자는데 영상 업로드를 안하셔요 내가 못본건지 모르겠는덕 학생왁창은 웁니다, 하 늦었지만 잘 볼게요 형. 아 1화 안봤다 흑",
+        "writer": "UgzSB8sus45-OU6optl4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓겜 인정합니다",
+        "writer": "Ugy-W_RnAZAMR5qhlpB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 멋있어",
+        "writer": "Ugy0vZuEHDjqeIpwOph4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 대포활용을 못해,",
+        "writer": "Ugz-ajuBnw5olujazDx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Remallow 그러고 싶은가보지 그냥 냅둬요",
+        "writer": "UgxSZ3byoek0A7YGp8V4AaABAg.8Y98qU_XA7r8YyNvRKj4cz",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 우리 영택이형 (이름)래 방송해야돼요, 이해해주세요",
+        "writer": "UgwCTlWlIOIPmREYzLx4AaABAg.8Y4-VC5KD838Yw4a-8Ay2p",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공격모션은 마블과 비슷하네요 우옹, 해봐야제,",
+        "writer": "UgzFNO3mQs3gjtFyc7V4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 오토튠이 살렸다",
+        "writer": "UgzkV_zQojJgpUmyoHJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현 시간부로 왁굳TV 진호TV로 변경됩니다. 왁굳 클.럽.원 님",
+        "writer": "Ugw9H_HWtCtZLcVxmHJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해상전 아군식별 안돼서 팀킬을 몇번이나 했는지",
+        "writer": "UgwUHkMA7_JSwGeSyDd4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)가 떠올랐다,",
+        "writer": "UgzcBX_9smZTcJPHEn54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오토튠 개웃겨 진심",
+        "writer": "UgzxDWFkXaCQ0at_j554AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌네 룰 정리해서 하면 되게 재밌을것 같다. 오랜만에 영상편집각도 잡힌것 같고",
+        "writer": "UgzVHaQRxCUIx7Mg-x54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 예약으로 올리는거 있는거야 늦게자는거야 건강챙겨요",
+        "writer": "UgwfVpX2BSPb5meWnsZ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서순 실화",
+        "writer": "Ugwyqe1gFecKVTU2zR94AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루 레전드였어 형",
+        "writer": "UgyHlKiYYI7XRg_m-lJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최근 본 게임중 레전드였다",
+        "writer": "Ugyf7-y5fmbAGpq8YZh4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1화 어딨엉",
+        "writer": "UgwdPFJcNMXlefgsaIF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힝 나두 마이크쓰면서 같이하구싶은데 왜 안돼 마이크가 그래두 재밌었다 형아 최고",
+        "writer": "UgzbxJTGbh-GXgXosct4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꼭 그것같다 블랙웨이크랑 마운트앤블레이드 나폴레옹 느낌이다",
+        "writer": "Ugxwt9eKV3JhnrU9gz54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 1화좀줘,",
+        "writer": "Ugy8o-VAb_w-ge9Y1WJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1화 왜없엉",
+        "writer": "UgxUMP5b89vr_e-Y_PB4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 기메리",
+        "writer": "UgyD9yQ-5fZwKUQMBhZ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해 흑흑 얼른자 난 형꿈꿀게,",
+        "writer": "Ugw50suXiK2wVBrxESF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 꿀잼이자너",
+        "writer": "UgwNQYHFzq9TPojdMct4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몰라 (비속어) 일단 나는 살거야",
+        "writer": "UgzM7VKIbOs1KrdHcUZ4AaABAg.8XxhQ47CzCb8XxuSH-FW9e",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 내려갔고",
+        "writer": "UgzcBX_9smZTcJPHEn54AaABAg.8Xxf9qr1ME98ZQk5BCpNt3",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한코코, 당신은 대체,",
+        "writer": "UgyD9yQ-5fZwKUQMBhZ4AaABAg.8XwnvVR_iYk8Xz73_JixOi",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌀택이형 빨리 1화도 올려줘 엉엉",
+        "writer": "Ugz8xcZqApcsLv2bwM54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오토튠 (비속어) 웃긴네",
+        "writer": "Ugz8wT1of6nHL3h9C8B4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 1화어디써",
+        "writer": "UgzR2dFYNRsaJFG2liV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로필 사진이 바뀐거 같은데,",
+        "writer": "Ugzxb8CLzjp8OAehtrF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgxqZzK_3eYhbjyJuGV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시오늘도, 올리는 순서 멋대로지만 형,사랑해,",
+        "writer": "Ugzzbp0ojRNGEJ0_P0x4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 빨리 올려줘 쌀 것 같아,",
+        "writer": "Ugz9cKxQygIY89gHblV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 발자왔어",
+        "writer": "UgxNiMUTAdDxB48E8_x4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘한거 바로올라오네 형이 이렇게 열심히하는데 내가 잠을 잘 리가 없자너 쌀떡이형 사랑해",
+        "writer": "UgxTcwzbnpyjCw673up4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 시청자 반응도 꿀잼으로 나온 오늘자 방송",
+        "writer": "UgyDUYxdzOUeY9ofch54AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 안자,",
+        "writer": "UgzCNxciH4rExgfwpYl4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1화 레전드니까 꼭보세요",
+        "writer": "Ugyd0xjVUzs0M1B6moN4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분 이거 레알루다가 개 꿀잼",
+        "writer": "UgzPunByyWIKLGjGiS14AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1화는 지금 메시가 열심히 올리고 있을 거야 기다리자",
+        "writer": "Ugy5o1Aai3UEXEHM0zF4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 1화 어딨어",
+        "writer": "UgzfKbWGnchhgD_CiTV4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 내 폰에 화질조절기능이 사라졌어 근데 조회수7인데 화질 잘 나와 나에대한 형의 마음이라 믿을게",
+        "writer": "UggZEuAvZzMcHXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "합방 예고 계속하는걸 보니 진짜 각이다,",
+        "writer": "Ugx6hQ-1ZuxXbqZiTWt4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반푼김 샀어요 쌋어요",
+        "writer": "Ugx6hQ-1ZuxXbqZiTWt4AaABAg.8XwhDwLW-2y8Xx_Eqf2YVH",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 관인듯",
+        "writer": "Ugx6hQ-1ZuxXbqZiTWt4AaABAg.8XwhDwLW-2y92-0TU5tKzB",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 먼저잘게,",
+        "writer": "UgwuQ4vMyU1wB_3BqhJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 2화부터야",
+        "writer": "UgxrkvC8Ik9m52bnBIx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해 오늘 시험보는데 잘 볼게",
+        "writer": "UgznzYx-xr6gH1lTMX14AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=WdmvbOSwGHU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

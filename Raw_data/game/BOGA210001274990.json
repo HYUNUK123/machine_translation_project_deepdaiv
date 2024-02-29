@@ -1,0 +1,580 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001274990",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOGA210001274990"
+    },
+    "text": [
+      {
+        "content": "최근 댓글이 1년전",
+        "writer": "Ugx7Ch2aVhuBUTUuaXp4AaABAg",
+        "write_date": "2021-05-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아카이누 쓰니까 양털색 바뀜",
+        "writer": "Ugx6oUSsWb0IKLSzrS54AaABAg",
+        "write_date": "2020-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러고 보니 (이름) 어디 가심",
+        "writer": "UgzFe3w4fZqUqFeeeiJ4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "글레디 개 (반사회적용어) 인정",
+        "writer": "UgzJRuwIyANKqmB7jSx4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 글레디에이터의 능력이 뭐에여",
+        "writer": "Ugwv21Z7-rzig0BdYwV4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도능은 인첸트랑 능력은 실력이아니라 운인데 싸움은 실력이지만",
+        "writer": "UgxfvAMOvU9qCbfTqDx4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)팀 싸운 동영상 안보이는데요",
+        "writer": "UgwHIp8raOeqylyb8rV4AaABAg",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도도한 친구들말고 도티와 친구들인 이때가 더 좋았는데 3c",
+        "writer": "Ugib8NhB88V4LngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재가 더쉬운",
+        "writer": "Ugj0noN4T2o8Z3gCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블루팀이안보여 블루팀사랑해요",
+        "writer": "Ugiy8Qp_8uOl1HgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 자꾸 샌드박습에라고 말하셨어요",
+        "writer": "UghWDI_BlBgkm3gCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 봉인걸려서 그런건데",
+        "writer": "UgjFFy13Z51EaXgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갓에넬 진짜 좋은데",
+        "writer": "Ugh-LHSINgVGKngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 (반사회적용어)42라는 게임도 있어요.",
+        "writer": "Ugg0hC4u5E4SWXgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때가 정말 (이름)이 좋았었는데,",
+        "writer": "UgiEfaTYLxL8YngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 핼리캠 하시면서 재미있게 설명하시는것도 보기 좋은데 왜 다 (이름)이 결승 못올라 가셨다고 안보시는지,",
+        "writer": "UgjfSxkHAIP_dXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찬님은 로(이름)이헐크일때글래디라그런거아닐까요 (그래도 퍼블잼)",
+        "writer": "UgiT976nDCc9NHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박향숙 근데 (이름) 헐크한테 발려요",
+        "writer": "UgzJRuwIyANKqmB7jSx4AaABAg.8cUKNVgyZZD8hs69rjBKEt",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시라 인정각",
+        "writer": "Ugib8NhB88V4LngCoAEC.8Pq0I98lD-o8VYA0iI_M2f",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시라 지금도 좋아요",
+        "writer": "Ugib8NhB88V4LngCoAEC.8Pq0I98lD-o8WMxr3jA8jM",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때가 훨 재밌었지",
+        "writer": "Ugib8NhB88V4LngCoAEC.8Pq0I98lD-o8x5-qrtVgfT",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 난 이때가 그리운데 한번 합쳤으면 좋겠음",
+        "writer": "Ugib8NhB88V4LngCoAEC.8Pq0I98lD-o96l4972-1Vi",
+        "write_date": "2020-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건우 kim 왜요",
+        "writer": "UgiEfaTYLxL8YngCoAEC.8L4IbCzfZWW8NAeXqTS8s_",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "james kim 인정이요, 지금은다뿔뿔이흩어지고 예전처럼다시 같이하면좋겠어요",
+        "writer": "UgiEfaTYLxL8YngCoAEC.8L4IbCzfZWW8N_Zw1mR7ZI",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "TV 페이 옳소..",
+        "writer": "UgiEfaTYLxL8YngCoAEC.8L4IbCzfZWW8N_haa13hRn",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 인정요 지금은 다 흐터져 있는데, 다시 합쳐지면 좋겠네요,",
+        "writer": "UgiEfaTYLxL8YngCoAEC.8L4IbCzfZWW8Nfo5xteUDK",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 글래디",
+        "writer": "UgjZfcNdHwBrgngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 광전사 걸린 적 있음",
+        "writer": "UgjdCVxTNQl-ZHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 패배",
+        "writer": "UggTxO99kbrAGngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)팀능력만좋았으면 이겼음",
+        "writer": "Ugj6JQpfZxSGMHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으앙, 2편에 (이름)팀 졌어으아아아아어애이언",
+        "writer": "Ugj_fgKY7G0UI3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)팀은 어떻게 된건가요 아시는 분 좀 알려주세요",
+        "writer": "UgiuWUF71oEr7XgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이거요 (이름)이 계속 먼저 죽어서 좀 재미가 없어요 이제는 좀 늦게 죽었으면 좋겠고요. 그리고 이거요 재미있었어요.",
+        "writer": "UggcA6tzt0Y5R3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)갓 GG",
+        "writer": "UghlATP7a-4-QXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 능력사움이 재일 재미이는것 같아요 구독 꾸욱 이런 것 많이 올려주세요",
+        "writer": "UghFBn96BG2mX3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 오해하시는거 같은데 갓에넬이 글레디랑 뜨면 갓에넬이 이깁니다 번개 맞추면 사스케보다 쌥니다",
+        "writer": "UggwRITS7yW2C3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 (이름)은 (이름)이랑 (이름)한태는 오빠라 하시면서 (이름)한태는 (이름)이라고 부르시는지,",
+        "writer": "Ugi_xDa3jo_gqHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이번 콘텐츠 너무너무 진짜로 재미있어요.. (이름) 언젠가 한번 더 이렇게 해주세요",
+        "writer": "UgiZ1FL4-mysVXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 1대 14 되나여",
+        "writer": "Ugg2OFb7gdRLW3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) ci 안했어요",
+        "writer": "UghIZxmVLRYarHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 선풍기 상대가2칸위에있을때쓰면 엄청 좋은능력이에요 위로나라가서 실명으로 않보여서 낙사로바로죽어요",
+        "writer": "UgjYrympKtQH3XgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진승민 맞아 도티가 짱이지",
+        "writer": "Ugj6JQpfZxSGMHgCoAEC.8AIk3LhfdVv8KEG5Yvd0Wd",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 에휴",
+        "writer": "Ugj6JQpfZxSGMHgCoAEC.8AIk3LhfdVv8aJSicbCzO_",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원래 보통은 다그럼",
+        "writer": "Ugj6JQpfZxSGMHgCoAEC.8AIk3LhfdVv8vEfdLz-y1x",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당연하지 그렇게 따지면 찬이 (이름)오면 아무리 찬이(반사회적용어) (이름)이 그냥 짐 당연한거 아님 도능은 능력 싸움인데",
+        "writer": "Ugj6JQpfZxSGMHgCoAEC.8AIk3LhfdVv92irPJKu9wi",
+        "write_date": "2020-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜르 여기선괞찬습니다",
+        "writer": "Ugj_fgKY7G0UI3gCoAEC.8A6bOpnD38S8Asdmfn93pk",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저같은 경우는 이컨텐츠가 관련영상에있어서 댓글을봤는데 스포가되는경우가있어서 그랬습니다",
+        "writer": "Ugj_fgKY7G0UI3gCoAEC.8A6bOpnD38S8AsftJQLJAs",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜르 옙",
+        "writer": "Ugj_fgKY7G0UI3gCoAEC.8A6bOpnD38S8AsjfnxlOwp",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팀은 떨어지셨습니다",
+        "writer": "UgiuWUF71oEr7XgCoAEC.89UGSGg8PEH8A64XyUm9mk",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운학팀분들은2판다져서 떨어졌어요",
+        "writer": "UgiuWUF71oEr7XgCoAEC.89UGSGg8PEH8B7R-jpuvpO",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 훨씬 나이가 많으셔서 하는거 아니에요",
+        "writer": "Ugi_xDa3jo_gqHgCoAEC.8-pwwIBjp3u89Y95AvhfRG",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "율아꽃 (이름)",
+        "writer": "Ugi_xDa3jo_gqHgCoAEC.8-pwwIBjp3u8DuFS_pZHyQ",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 저승사자라고 해서 글래디인거 예상함, 간다",
+        "writer": "Ugi1IO9TGcy6YngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 글레디 헐크부다 좋음 아마 헐크가 힘버프주는건데 글레디쓰면 힘버프 힐버프 저항버프 화염저항버프 다걸려서 사긴데,",
+        "writer": "UgiNPx4nSyJBX3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 잼나는 영상 감사합니다.. 언제나 (이름)을 응원하고 힘이 되는 팬이 될게요. (이름), 사, 사, 사탕해요...",
+        "writer": "Uggq0q-F7NAQ3ngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티는우유우유 태잠 도빅",
+        "writer": "UghMwfcfse2SVHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘 봤습니다 (이름) 일때. 글래디일때도 재밌었고 3대3하니까 정말 재밌네요.",
+        "writer": "Ugiee2U2rYyqHHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태경팀은 축하축하",
+        "writer": "UghC1skuUuPdS3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제가 생각한 컨텐츠가 있는데, 일단 (이름)께 부탁해서 하늘에서 티엔티가 떨어진다든지 번개가 내리친다든지 하는 공격스킬 같은 명령어를 책에 써서 숨겨놓으면 (이름)과 친구분들이 파밍으로 찾아 명령어로만 싸우는 겁니다. 한 번 해주시면 재미있을 것 같아요",
+        "writer": "Ugg-I_-HgcMmF3gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 갓 에넬잘맞춰서 피까게한후 (이름)제외 나머지분들 썬거같네요.",
+        "writer": "UghfQbHNvfV-93gCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금 식었지만 전자레인지에다 돌려서봐야징 (이름) 앞으로도 재밌는 컨텐츠 올려주세요",
+        "writer": "UggL9300zK2_dHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오믈은 일찍봤다......",
+        "writer": "Ugh6f8r6CLUqgHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇일전부터 우승자를 알고있었지 김(이름) 방송을 통해서 하핫",
+        "writer": "Ugih2VlfT9ZrsXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉.57분전.완전 따끈.약간식음,",
+        "writer": "UgjiHITDZE0ljHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 제가이댓글창을 조금더럽히고 싶은데 그래도 될까요",
+        "writer": "UghkF9Av_tuBcngCoAEC.8-kTV5QRCLF7-LxG9qafNW",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐크가 더 좋습니다.",
+        "writer": "UgiNPx4nSyJBX3gCoAEC.8-jiDIgSUur7-JNmRGs1ze",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐크는 힘이 5이상 재생 저항 5이상 받습니다 글레디는 힘1 저항1 받습니다 헐크가 더 쌥니다",
+        "writer": "UgiNPx4nSyJBX3gCoAEC.8-jiDIgSUur7-Yu8LFms69",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광전사가 종결자입니다",
+        "writer": "UgiNPx4nSyJBX3gCoAEC.8-jiDIgSUur8AskGI2JXcs",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "광전사가 제일좋아여",
+        "writer": "UgiNPx4nSyJBX3gCoAEC.8-jiDIgSUur8B27K3Yxf3E",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 저번에도그러시더만 스포좀하지말아주세요",
+        "writer": "UghC1skuUuPdS3gCoAEC.8-jIeKCPprX7-HPhNxv1E-",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너때문에 됨",
+        "writer": "UghC1skuUuPdS3gCoAEC.8-jIeKCPprX7-LA3f1HKuR",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=imp4-HpG1lM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

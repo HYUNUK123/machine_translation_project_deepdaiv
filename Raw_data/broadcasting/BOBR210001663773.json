@@ -1,0 +1,788 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001663773",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001663773"
+    },
+    "text": [
+      {
+        "content": "만원짜리 과자를 먹었구나",
+        "writer": "UgzDqT3yX9mgQoN58kZ4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 나날이 이쁘지는 (이름) 있네요 저렇게. 사랑 받어니요",
+        "writer": "UgzOAR_Jpew0J5rvWsl4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완씨 (이름)이. 잘 키운것 같아요 방송 보니. 말없지만 .",
+        "writer": "Ugy9RNLh0LOzeP8Di_h4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 두 부부는 진짜 재미있어 내가 그렇게 살지 못하니 대리만족으로 보게 되는듯",
+        "writer": "UgyrJu55-ZiGVnxxBX14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도 도하 도하영 도하영의 도하영의 미 도하영의 미소 도하영의 미소에 도하영의 미소에 힐 도하영의 미소에 힐링 도하영의 미소에 힐링합 도하영의 미소에 힐링합니 도하영의 미소에 힐링합니다 도하영의 미소에 힐링합니다",
+        "writer": "Ugwv9V9YmOj2f_KeaOx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 젤부러운 부부",
+        "writer": "UgzGssdlqTZcLgq1SPN4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 아(비속어) 역쉬 최고.",
+        "writer": "Ugz9mIFqiLak7Rd1UTN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 알러뷰 진짜 쏘스윗이다",
+        "writer": "Ugz-7qbkRq-vRDxJHR94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 도경완 (비속어)푸 사랑해 당신",
+        "writer": "UgxJdalAe3rbQ1aCAf14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 멘트 최고다",
+        "writer": "UgyfU-CeF8kdaaPbbcZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울딸도 결혼해서 저렇게살면 결혼시킨다",
+        "writer": "UgzzOReeiwu9VKEX9ZV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 가정 이 프로그램 상 줘야혀",
+        "writer": "Ugzz3TOVS_IS8_Ze4RN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 가족 꾸밈없는 모슾 행복한 모습 좋아요 하영이 엄마 트롯신인에서 응원 아끼지 않고 있어요 행복하세요",
+        "writer": "UgzXSnEUZWCPxZouGQZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 예쁜 도가네난몇백번 본 영상을 보면서휠링중그래 웃으면서 살아야하는데",
+        "writer": "UgyYAb9-wh57m_DC8zx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 뭐얔또또또 널좋아햌 에흌",
+        "writer": "UgxTJage3FED0OSF5nx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국민 가정 굿에요.",
+        "writer": "UgxWnGLymS27J9G13bd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도아빠 도남편 만점남자에요",
+        "writer": "UgzyAboili7YpfT6vZ54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미치겠다 저 말재주, 시티뷰 오션뷰 알러뷰",
+        "writer": "Ugy-pBBhWNbJ6mgK05d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방탄 실제로 보고 싶다",
+        "writer": "Ugzpj0gEKJYKA8KecHB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 머리 너무 웃기다 하영이 귀엽당.....",
+        "writer": "Ugw_3Get5tRsDUDuyOl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남매를 혼자 데리고 여행한다는 거 쉽지 않을텐데",
+        "writer": "UgxbSpY25V7BOyuD6m14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 행복한가정 너무이뻐요",
+        "writer": "UgzPlHXf5vFX8odFAKF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 장(이름) 참 착하게 잘사시네요. 착하고 고운 아들 딸과 영원히 행복하세요",
+        "writer": "UgzCnRMkHlhQYp6Uoxh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참행복해보여 너무행복해 보는사람도 행복해 영원이 이모습보여주세요",
+        "writer": "Ugx3s0v-8Vi-lMguxUh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 부럽고 행복한 가정. 서로가 서로를 진심으로 사랑하는 모습 해피 (반사회적용어) 네요.",
+        "writer": "Ugw6_wU2Rc-mMGwV0Ld4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복하게 사는모습은 보기좋으나 방송 에 너무비친다 쫌 도경완씨는 직장 안나 가나봐요 얘들만 보는지",
+        "writer": "Ugw7k5XM0nxo8bUPhmZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우야(이름)엄마호텔에있어지금도연우아들은 도경완아빠랑 하영이동생이랑호텔에왔네",
+        "writer": "UgwziZWAMi7GIXXXKj14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영 너무너무 귀여워요",
+        "writer": "UgzAzEoTwi0oNndxrQh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할, 지민이도 만나고 좋겠다 퓨",
+        "writer": "UgwB2Y53vlLc2t7Hpzh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고급진 멘트 나도 책 많이 읽어야겠어요",
+        "writer": "UgysLXX7As64p2qlWUF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영 너무너무 예뻐요",
+        "writer": "UgzJLt8rLLoKKRWqKnp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)인 가정이다 .",
+        "writer": "UgwR5hpeR_296qc1JRV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완씨는 어떻게 저래 이쁜말이 나오지 오션뷰 시티뷰 알러뷰 작가가 써주는것 처럼 개그맨으로 직업 바꾸셔야 될듯 진짜 재미있어요 온가족이 다 이뿌고 장(이름) 노래는 다 좋아요",
+        "writer": "UgwKR8Pw52AXni8Okih4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시티뷰 오션뷰 알러뷰",
+        "writer": "UgyMF5eqc9mnQles4UN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완아빠께서(이름)부인이랑 영상통화하네 아들도연우도 (이름)엄마보구싶겠다",
+        "writer": "Ugzod-z407FiotKM79J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 진짜 최고의 남편 머리도 좋은듯어떻게 저런 센스있는 말들을 끊임없이 만들어내지 ..",
+        "writer": "UgzmVU8gkzAJQp1DiV54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "BTS는 건들지말잨 유쾌하셬",
+        "writer": "UgxemMmYGo07zs1rGZt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 남편이. 잘하면 가정이 화목한겨",
+        "writer": "UgwJkXMPT4o6tfEVT2Z4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영 넘 귀여워요",
+        "writer": "Ugw9cPnRFxvB-azhtZl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또또 널좋아해 아휴 하영이가 말하는거 귀여워",
+        "writer": "UgzUOBPnixWSL50XHW94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 보는내가다행벅해이게모얌",
+        "writer": "UgyAAAoy8NkjsyD_q6R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 진짜 우울한 사람도 연우네 집에 가서 1시간만 있으면 행복해져서 나오겠다, 너무 부러운 가족이에요",
+        "writer": "UgyQiSoLiUPVdlvVH9N4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장(이름) 팬인데요 가정사 너무 지나친것 아니예요",
+        "writer": "UgzMhFpg4Amh0xrnKV54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 도가 또 도했네 알러뷰, 스윗",
+        "writer": "UgxWqbKRlw8lJqeSBZB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑이 철철 넘치는 가족 이예요 지금처럼 평생 행복 하세요 (이름) 경환씨 연우와 하영 예쁜 가족들",
+        "writer": "UgxAMxtb9mXjdD-Ohw14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가식적인 부분이 없는것 같아서 더정감이 가네요살림살이가 없어서 호텔을 가끔씩은 (이름)는게 좋겠어요",
+        "writer": "UgyPzKnr8z6VWPe2CIN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 가족 너무 좋아요 정말",
+        "writer": "UgyRIJn2f1O_N8ZV8IJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해운대 가야지",
+        "writer": "Ugyho14oiee9p6BoXCh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이정도면 결혼찬성일세 화목하고 사랑있고 능력있고",
+        "writer": "Ugx5MnK9H8qnMrTNLlZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞는 말씀이십니다",
+        "writer": "UgwJkXMPT4o6tfEVT2Z4AaABAg.96KuKXoe6FD9CoYu5r_zsm",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에고 저리 돈도 잘벌고 이쁘고 아들딸 순풍 순풍 낳고 뭐 하나 빠지는게 없는 (이름) 클라스를 어캐, , 감히 범접 할수 없는 (이름) 이기에 가능한 일이라고 봐요",
+        "writer": "UgwJkXMPT4o6tfEVT2Z4AaABAg.96KuKXoe6FD9KXGSPJgUYH",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 난 전혀, (이름) 집안이 얼마나 풍비박살났는데, 도경완이 그만큼 (이름)을 지탱해주는거임. (이름) 클라쓰를 유지하도록.",
+        "writer": "UgwJkXMPT4o6tfEVT2Z4AaABAg.96KuKXoe6FD9MRE2wU_tI8",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젤 젤 젤 이뻐용",
+        "writer": "Ugw9cPnRFxvB-azhtZl4AaABAg.96KQl4gFSw696ttDfxjShG",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런 이애기는 남이 말하면 안된다고 생각합니다. 자신의 일을 누군가가 이래라 저래라 하면 기분이 어떨까요",
+        "writer": "UgzMhFpg4Amh0xrnKV54AaABAg.960GWkSv7xx96V4a9Pl5oz",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보기 좋쿠만...",
+        "writer": "UgzMhFpg4Amh0xrnKV54AaABAg.960GWkSv7xx96ttZthj6gk",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩜 이리도 예쁜가족이 있을수가 있나요 ... 넷이 함께이면 너무 보기좋아요. 최고의 기쁨이예요",
+        "writer": "UgzFq3HOGCzdLTeiGl94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모두들 행복해 보이니까 좋다",
+        "writer": "UgwLGEGzlVdgx8zJTW14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 웃는 모습 보는거 넘 좋다. 이 가족 진심 행복하길 바란다.",
+        "writer": "UgxJeiIF0WHE1aMj-PF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑이 넘치는 투꼼이네 모닝부터 알콩달콩 보기좋네요",
+        "writer": "UgwsqpkiBBpG5gXZ8mV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 국민남편 국민아빠 최고",
+        "writer": "UgxbLML21jRJBIre8DJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부부 사이가 조으니까 연우하영이도 행복하게 지내는것이 날이면 날마다 보이네요 아이들은 그러케 키워야되요 (이름) 뜯어보니까 섬세하면서 어는때는 쿨한 모습 다향 하게 갖추어진 모습이네요 아빠도 물론 자상하고 특히 하영이 육아 하는 모습이 아릅다워요 아빠사랑으로 하영이가 항상 스마일을 연발 발사하더라구요 저는 손녀만 둘이있는 할미 인데 외국에 있다보니 영상을 가끔 보지만 보고플 때는 연우와하영이 웃는 모습을 즐겨하는 할미임다 연우 하영 이 잘자라거라 쪽쪽쪽 식구데로 하트 날였어염",
+        "writer": "UgyDsH87yUNzrDdw3Vx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도책바가지는 부드럽고 애교많고 장(이름) 쿨하고 대범하고잘만났어",
+        "writer": "Ugyj1UC5JJiwrSOJoWh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너의 사랑과 관심 유머가 풍부(반사회적용어)편 멋져요. 도경완씨 왜케 멋진 거에요.",
+        "writer": "Ugzm7jxjtH7DurfU0Rl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 항상 지금처럼 행복하게 잘살길 애기들도 너무이뿌고 보기좋습니다 하이팅...",
+        "writer": "Ugz3OUgdvqR37gCxURR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 알랴뷰 가정 멋저부러.",
+        "writer": "Ugzokf6tNTbqCe2HZlV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이쁜가족들",
+        "writer": "UgyWdmgcS3detWSAQiZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찬또배기 넘노래 잘해 이뻐죽겠어요 꼭일등해요 두손모아 빔니대",
+        "writer": "UgxID3wqYbnnWKQKCnl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똥을 쌌다고",
+        "writer": "UgyQ1xriMN0DXKOggkh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 행복해보인다 부러우어어엉어엉 보기너무좋아요꺄아앙랑러아랑아 알러뷰 널좋아해",
+        "writer": "Ugw_3Dr1GKxLZ1XExQl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보기 좋아요",
+        "writer": "Ugyr7ipsKo4-yxR3trl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 방송 부부가 달달하니 흐뭇해피(반사회적용어) 뿜뿜",
+        "writer": "Ugxzw0--Ez0WsM0Q4QB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성실하고 가족 최고인줄알고 최고죠 국민남편 등극",
+        "writer": "Ugzm7jxjtH7DurfU0Rl4AaABAg.95eVgBOKmnx96ttSIUB0uW",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경환씨 사랑꾼, 너무 보기 좋아요 (이름)도 연우도 아빠 닮아가넹",
+        "writer": "UgxgV2FwJtNKykQNdWF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 도경완부부 평생 행복하세요",
+        "writer": "UgyTwqIam4FLOGX0YW94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장(이름) 연에인들 사는거 다 가식이라들하는데 (이름)집은 진짜 이렇게살것같아요, (이름) 행복하게사는데 왜 내가 이리기분이 좋을까요, 이쁘고착한 애들 보고 진짜 잘사셨음합니다 영원히",
+        "writer": "UgxmQs31u8mIGB-vMxR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 행복해 보여요 (이름)가 사랑받아서 나날이 이뻐지는거같아요 애기들도 넘 순둥순둥 똘똘 넘 이쁘고 귀여워요",
+        "writer": "UgwCvmDeWNTSnbazfeh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도장부부 이쁜애기 많이 낳길바래,",
+        "writer": "UgxsZ9J88hJKKSuuwj14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편사랑 많이 받고 사는 장(이름)를 보고 있으면 제가 행복해 집니다 행복(반사회적용어) 웃음(반사회적용어) 좋아요 연우 하영 귀요미",
+        "writer": "Ugz4HKyWeegLE1rQfx54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고 남편",
+        "writer": "UgylsezrPMklhiMEM_54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 환상에 궁합 오찌 고로케잘만났댜 엄마 걱(이름)는 연우 오늘도 어김없는 하영이 나의 짝사랑 도하영",
+        "writer": "Ugw7tWuwsXwkbNNjvYB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전세계에서 제일 행복한 가족.",
+        "writer": "UgypBmVxG9PqKoM3DRV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시티뷰 오션뷰 알러뷰 스윗하셔",
+        "writer": "Ugx0lNjg-CUszci0x6J4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도플갱어 가족 사랑합니다",
+        "writer": "UgxFspw6MRV6EC1Fo0F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국민남편 도경완 멋지다",
+        "writer": "UgyjPKbUggTx_Ps2lFF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장(이름)는 심심할겨를이 없겠네요 남편분이 저렇게 사랑을 주니까 재밌게사시네요",
+        "writer": "UgxN00q8QsformswIKh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇고 말고요",
+        "writer": "UgyTwqIam4FLOGX0YW94AaABAg.95cDfmmL9J-9820D17fERx",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공감합니다 저두그래요 볼때마다 뭉클하고 내딸같습니다",
+        "writer": "UgxmQs31u8mIGB-vMxR4AaABAg.95c9rzRdhb0982-_S-Wq_E",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인 입니다",
+        "writer": "UgxmQs31u8mIGB-vMxR4AaABAg.95c9rzRdhb09CjvPwQrH01",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 가족은 잘나가서 좋겠다",
+        "writer": "UgwCvmDeWNTSnbazfeh4AaABAg.95c0pfwZgRL95j49rBq7uS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 가족만 보면날려주고싶네요",
+        "writer": "UgwCvmDeWNTSnbazfeh4AaABAg.95c0pfwZgRL982-u6OKZ8F",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완사랑 듬뿍 받는게 늦껴져요",
+        "writer": "Ugz4HKyWeegLE1rQfx54AaABAg.95beEwio7Ob98201lzAP6J",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국민남편 (이름)까요",
+        "writer": "UgylsezrPMklhiMEM_54AaABAg.95bbX3OiB3p982-lqEO_YF",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연우 하영 너무귀여워요",
+        "writer": "UgypBmVxG9PqKoM3DRV4AaABAg.95b2RFlj2vU986KSsi1w9k",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여워 죽겠다",
+        "writer": "Ugx0lNjg-CUszci0x6J4AaABAg.95_lBjOlBpC960C1PXhJY0",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쵝오의 남편 도경완 아나운서, 세상의 저런남편은 다시없을듯, (이름) 겸손하게 남편께 더욱 감사 할 줄 아시길,",
+        "writer": "UgyjPKbUggTx_Ps2lFF4AaABAg.95_MPh13Wo99INXsBaRrKc",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하영이 또 또 널 좋아해 무한 반복 시청중 아 이뻐라",
+        "writer": "UgydSdv5c2Efhc2CsaN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 도장부부넘(이름) 연우하영도 넘이뻐요",
+        "writer": "UgySXoJuFgmU20iGR6l4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=NcUdclFFHTw",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

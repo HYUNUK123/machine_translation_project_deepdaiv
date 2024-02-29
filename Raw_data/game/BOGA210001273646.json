@@ -1,0 +1,868 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001273646",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOGA210001273646"
+    },
+    "text": [
+      {
+        "content": "20년에 본사람.",
+        "writer": "Ugx8CQwZgnubnMyTeS14AaABAg",
+        "write_date": "2019-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 곡괭이는(이름)이, 못만들어서그래요 이름보고하시면않돼요",
+        "writer": "UgxdQWEG9WIgZbYs1_R4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칼 아깝다",
+        "writer": "UgxmOrbfKeYauDokxpR4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 칼만들수있는뎀",
+        "writer": "UgxNyV4XQZvNQ9yqAcN4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그 주황색 광물 캐주새요,",
+        "writer": "UgyGpOr4W30UT9n038h4AaABAg",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠뜰 님나쁘세요",
+        "writer": "UghKF6IoxUpvLHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음댓글 이름 김유민 인가 그 썸네일 여자인사람 (반사회적용어)꾼임",
+        "writer": "UgiGCmDBCyJQa3gCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거진짜 오래전이네",
+        "writer": "UggYDEmLrTbkhXgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애해머차나어러뉴랴 FGHJL 쨔헤아러 우해커 루",
+        "writer": "UghGefDS9H-hYngCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가방 좋은데 안 들고 가시네 ,",
+        "writer": "UghK6pZWDxxcTHgCoAEC",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오징어 모자는 (이름) 모자",
+        "writer": "Ugg-R2S0wY8rGngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "t 컨스트럭트 모드를 써야 하는디 이구아나트윅스 있으면 바닐라 마인크래프트 도구 못써요",
+        "writer": "UggN7oEib7QMx3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 어떤곡갱이만캘수있는광물있는거아니에요",
+        "writer": "UgiBMBb(반사회적용어)AKHTngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "버전 몇점몇인가용",
+        "writer": "Ugi_t7I682jvb3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시험기간이라고 해서 영상 못 본다는데 뭔 댓글을 다니",
+        "writer": "UgiGCmDBCyJQa3gCoAEC.8NgzB7ukXxR8NgzE1ICk_I",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 허무개그대사 세상에서사장큰꿈나무는 (왕꿈트리)",
+        "writer": "Ugjlkwdp_lHfuXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쥬라기모드 넣어서 잡으면 변신해서 재밋겟다",
+        "writer": "Ugh7nJL2-UUGuHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쯤에 블루 슬라임있었어요.",
+        "writer": "UgiYIW0Q0hjbU3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 고고학모드를해보세요 모든공룡들이다있어요.",
+        "writer": "UghmW9rjhp8zeXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오징어라서 오징어를좋아하네",
+        "writer": "Ugi-2n91hk6zWngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짱 재밌어요.",
+        "writer": "UgjdJMF8tj0PdngCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "링크 좀",
+        "writer": "UgjJ4e_OI7vfiXgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 기억해둘께요 를귀엽게둘게요로 들었어요.",
+        "writer": "Ugi9CN(반사회적용어)y06dJHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그거 몬스터로 변하면 동족들이 공격 안해요",
+        "writer": "UgiTpZoY8IS1bHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 넘 재밌어요",
+        "writer": "UggPbNXnSI_uSHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번애는 모드가 재미있네",
+        "writer": "UgjMbkEplYVeJHgCoAEC",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 잼 있어요",
+        "writer": "UgiSLtVl6Q7FKngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 신기해지고 있다 . 갈수록 더 신기하고 생소한 아이템들이,",
+        "writer": "UghTyrHKEBX_lXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 신기해지고 있다 . 갈수록 더 신기하고 생소한 아이템들이,",
+        "writer": "UggoIZhTovvDy3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왼지 말이 좀 심한듯한 느낌,",
+        "writer": "Ugi-2n91hk6zWngCoAEC.85OyMPlDhQZ8CF_ILC4TrF",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 안하던데,",
+        "writer": "UgiTpZoY8IS1bHgCoAEC.7-H0Z7-T5JV7-hNLVsrFHV",
+        "write_date": "2015-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허브스위트 즐",
+        "writer": "UgiTpZoY8IS1bHgCoAEC.7-H0Z7-T5JV9D0rzdkDr5f",
+        "write_date": "2020-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 발견하신 것은 팅커스 컨스트럭터에 추가된 도구(무기)부품입니다 그것을 Tool stition( )에 조합을하여 도구(무기)를 만들수있어요.",
+        "writer": "UggFvs5pLU_wTngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 캐신 (반사회적용어)은 조합하면 최후의순간에만 먹어야하는 파우더( )를 얻을수있어요",
+        "writer": "UghpOGWT-YknYHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 영상도중에뇌와근육을먹었다는데 어떤맛이나요",
+        "writer": "UgiIGyl5vQchzHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 석탄녀에요, 한개를 캐면 64개가,",
+        "writer": "UghbCZzfFBDQnHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 석탄녀에요, 한개를 캐면 64개가,",
+        "writer": "Ugjy_nihPjUQAngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 (이름)이 하와이모드를 꼭 해보셨으면 좋겠어요.파인애플이 나오는 모드가 바로 하와이 모드입니다요.",
+        "writer": "UgjbUE3eU8YX73gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 (이름)이 하와이모드를 꼭 해보셨으면 좋겠어요.파인애플이 나오는 모드가 바로 하와이 모드입니다요.",
+        "writer": "UggMycljo_bDrngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우옹 몬스터로 변신하면 몬스터가 안때릴줄알았는데, 때리네용",
+        "writer": "Ugj5QuMAHmeJyngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 잡으신 (반사회적용어) 뇌 근육은 necromancy 모드의 일부분입니다. 양x님이 플레이하셨던걸로압니다..(욕같다,죄송,)",
+        "writer": "UggZuG1lvwyduHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이 모드에 파란 슬라임 모드도 있네요.",
+        "writer": "Ugix3olQC3f4O3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이 모드에 파란 슬라임 모드도 있네요.",
+        "writer": "Ugjw_ISPSVxAb3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무슨 모드에요",
+        "writer": "Ugid-IklSVEHMXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네크로멘시모드는 몬스터들의 뇌 근육들을 섞어새로운 기형몬스터를만들수있는모드예요. 팅커스 컨스트럭스모드는 다양한도구들을만들수있는모드구요",
+        "writer": "UgimuqCN4HaW_3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네크로멘시모드는 몬스터들의 뇌 근육들을 섞어새로운 기형몬스터를만들수있는모드예요. 팅커스 컨스트럭스모드는 다양한도구들을만들수있는모드구요",
+        "writer": "UghNqxsUUTPBsngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팅커스 컨스트럭트 모드는 여러가지 도구들을 만들 수 잇는 모드에요. (이름)이 만드셨던 곡괭이는 슬라임곡괭이라 안좋은거고요(제가 아는한 슬라임곡괭이는 나무급임). 나중에는 다이아보다 더 좋은 곡괭이도 만들 수 있어요.",
+        "writer": "UgiowH6vkff0CngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슬라임곡괭이는 속도는 느리지만 옵시디언도 캘수 있습니다.",
+        "writer": "UgiowH6vkff0CngCoAEC.7-H0Z7-Si6671RFFOVqlQc",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름).박쥐잡아서 박쥐로 변신하면 날닐수 있어요 광질하면서 박쥐 발견하면 꼭 잡으세요..",
+        "writer": "UghAm_0GQfoY6HgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곡괭이가 슬라임 으로 만둘어졌다",
+        "writer": "UgjfbkN7J9Sy83gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팅컨스컨스트럭트 모드는, 광물을 녹이거나 조합해 여러 도구들을 만들 수 있습니다. 대거 대미지가 기본 20 이상(업글시 40이상도 가능) 2. 프라이팬 때리면 상대가 구속 버프에 걸림(약 3초 이상) 3. 해머 블럭이 3 3으로 한번에 파짐. 우클릭으로 해머 옆 인벤토리슬롯의 아이템 배치 4. 곡괭이 1) 종이로 이음새를 만들면 인챈트 효율이 좋아짐 2) (반사회적용어)에 코발트 등 광물이 좋음(곡괭이 머리) 3) 석영으로 업글시 효율을(검은 대미지) 블레이즈의 막대로 화염효과를 높여줌 5. 치슬인가, 돌이나 석영블록을 우클릭으로 조각할 수 있음 6. 레이피어 우클릭시 뒤로 점프(도망용 대미지는 대거 추천) 전용 화로(제작 가능 마을에 가끔 (반사회적용어))에 용암(에너지)과 광물을 넣고 녹여 틀에 짜내(광물은 나무판에 짜낼 수 없기때문에 뼈로 제작후 광물을 짜내는것을 추천함) 도구를 제작할 수 있다. 이 모드는 좋은 모드인데 약간 오류가있습니다. 대거가 무겁다는걸 생각해 대거를 들면 검 공격속도가 느려지는 버프를 받는데 대거를 손에 든 채 대거를 뿌리면 그 버프가 계속 갑니다. 그리고 가구모드 등 액자에 약간 이상하게 걸릴 수 있습니다. 팅컨스컨스트럭트모드는 매우 유용하고 좋은모드이기 때문에 건드려볼만한 모드라고 생각합니다.",
+        "writer": "Ughunx6O6VG0XHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 님 박쥐 잡으세요 그러면 날수 있어요. 그리고 한칸 통과 가능",
+        "writer": "Ugidx-movm6D-HgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 님 박쥐 잡으세요 그러면 날수 있어요. 그리고 한칸 통과 가능",
+        "writer": "UghNrekUWm_3C3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 다 챙겨야 하는디",
+        "writer": "Ugi3rmykg2HJUngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거는 퀵샌드모드에요",
+        "writer": "Ugje9uoqy8mpYngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팅커스컨스트럭트 모드에서 paper 보다 obsidian slime 등이 효율아 좋고 레드스톤을 놓으면 효울 moss stone 9개 조합시 나오는 것을 달면 내구도 자동 등 하지만 paper는 쓰 랍니다.",
+        "writer": "Ughr4YXmT2uLR3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박쥐로변하면 하늘남",
+        "writer": "Ugh528Cgn_c_qngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박쥐로변하면 하늘남",
+        "writer": "UghMNjBZfs9ue3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 (반사회적용어)뇌 와 근육은 내크로맨시모드에서 새로운 몬스터 만들때 쓰여요.",
+        "writer": "Ugh7EhyMoofsL3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저 내일이 시험인데 응원좀 해주세요 부담백배",
+        "writer": "UggFKTEiET0nMHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 이건 너무웃겨서 내배꼽이 사라졌다 마녀의 함정카드 발동 캬캬캬",
+        "writer": "UghbfdlBx-LG-ngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 업로드 되라",
+        "writer": "UghLA8TvwHJmBHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨리 업로드 되라",
+        "writer": "UggOVXtTsioCUXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야, 찰진 드립과 설레는 목소리를 가진 이분은.. 이제서야 알다니 다른컨텐츠도 정주행해야겠슴요",
+        "writer": "UgiS3CgVuD-slngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "석영은 때릴때 데미(반사회적용어) 늘리며 블레이즈 가루는 때리면 불타는 효과입니다.",
+        "writer": "Ugj5lzQIwAMVBXgCoAEC.7-H0Z7-Aco_71ShRjWl_Ov",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대거는 단검이므로 높아야 기본 105칸정도입니다. 대거가 아니라 (반사회적용어)버팅커스에서 가장 강한검 도 최상의 재료마뉼린로 만들어야 정도 데미지9칸 입니다. 그리고 우클릭 했을시 오른쪽 슬롯1번의경우 9번슬롯의 블럭이 놓아지는 것은 모든도구우클릭 능력이 없는 도구공용이며 종이 부품은 업그레이드 갯수를 늘려주는 역할이고 뼈보단 돌로 제작후 판을 짜내는게 좋고 석영은 무조건 데미지이고 빠르게 캐는것은 레드스톤입니다. 블레이즈는 가루만 인식합니다.",
+        "writer": "Ughunx6O6VG0XHgCoAEC.7-H0Z7-5ftj71TbzVTZwWw",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "완전히 쓰는 아닙니다. paper그러니까 종이는 업그레이드 횟수를 늘려주므로 연결부에 하는것이 효과적입니다.",
+        "writer": "Ughr4YXmT2uLR3gCoAEC.7-H0Z7-JKzN71TjuEeZbAD",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 다른 모드팩을 하시는것을 추천드립니다(YOG BOX)이 모드팩은 무기도 많고 광질대신 모험하면서 템을 얻어요 모 험 좋아하시는 (이름)에게 좋을것 같네요 뭐 이갈 꼭 해달라는 의미는 아니지만 좋을것 같아 올려봅니다",
+        "writer": "Ugjlq3FAxgySDngCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 3화는언제나오나요 빨리보고싶어요",
+        "writer": "Uggk8xJ4_LR8aHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그 맞춰서 만드는것있잖아요 그거 조합을 잘해야 좋은 도구가 되요 그리고 나중에 그 틀도 필요해요 그 틀에 어떤 액체( ) 를 끼면 드 도구의 재료되요. 그거 필수 다 가져가야 해요..",
+        "writer": "Ugi21Z5lXSGop3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3편 언제나오지 기다리고있어요..",
+        "writer": "Ugh2YPZMSrHZOHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 모드팩 저도 해보고 싶네요 그런데 깐지나는 모자를 얻어 대장은 (이름)이되었으면 좋겠네요 (이름) 꼭 대장이 되십시요 충성.",
+        "writer": "Ughvc31m6ez4jHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팅커스턴 스트럭트모드는재대로사용할려면횽광로를만들어야함니다.",
+        "writer": "UggW5221-2NfungCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팅커스턴 스트럭트모드는재대로사용할려면횽광로를만들어야함니다.",
+        "writer": "Ugh4EFiDZ2RningCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 방송이 너무 재미잇어서 처음부터 다 봤어요 완전 재미잇구요 아프리카 tv도 생방 잘볼게요",
+        "writer": "UgjRIvCeVwmN73gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "철이 없어서 다이아를 못캐신 (이름), 근처에 있던 크리퍼를 이용해 충분히 캘수 있었는데,",
+        "writer": "UghiiGR7yyV1FXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞입니다 지난 댓글 고쳐쓰기",
+        "writer": "UghRr2ujNFqWTXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 언제나 재미있는 영상 올려주셔서 감사합니다 그리고 제 이름에 전은 맨 앞입나다",
+        "writer": "Ugj2xZ4HSiFM73gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (반사회적용어)장사하세요, 계속보게하는(반사회적용어) 엄마가끄라는데 잠시만이라면서보게되네요, TIP박쥐잡으면 날수잇고 낙댐안받는걸로알음.",
+        "writer": "UggFSCLSLd63K3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기저기서 다이아가 보이네",
+        "writer": "Ugj64maJKwVFAHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "21분 40초쯤에땅에발보면 철곡괭이잇던데",
+        "writer": "UggGptX1L0oie3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변신모드 박쥐나 블레이즈잡으면하늘날수있어요",
+        "writer": "UggoOoiGMaVIQXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그 팅커스컨스트럭트 모드로 여러가지아이템. 만들수 잇어여 이상한테이블이 따로잇어여 그거 만드는 테이블이",
+        "writer": "Ugg7FFWFwU-nvHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 구독자 12000명 넘으신거 축하드리고 20000까지D (이름) 매일 동영상 올리는거 수고하십니다. 앞으로 화이팅 댓글부탁드려요D",
+        "writer": "Uggt3vXm5l0wi3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "따끈 .. 이 모드팩 꼭해봐야지 (이름)이 넘 재밌게 함",
+        "writer": "UgiEWkPpwKP9KHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 재료로 모든게 되는것이 아니라 업그레이드를 해야합니다.",
+        "writer": "UggW5221-2NfungCoAEC.7-H0Z7-HZse71U3pNqJHtP",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "13이 기다려진다 빠릿빠릿.....",
+        "writer": "UgidRXPyKrV3gXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "13이 기다려진다 빠릿빠릿.....",
+        "writer": "UgidqsJ_T46hoHgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전(이름) 유트브를 보고 많이 재밌게봤어요 꼭이모드에서 대장대세요",
+        "writer": "Ugiv3tVyDRV8yXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마녀는 함정을만들고 자기가 빠지지는 안겠죠",
+        "writer": "Ugj1mTUW1xZd7XgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마녀는 함정을만들고 자기가 빠지지는 안겠죠",
+        "writer": "UgiDZ30oFFtlbXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오머저는 엔더맨도 보고싶네요, 시험이 내일인데 영상보고있네요, 저 열심히 (이름) 클라스받고 제발 80점 이하로 내려가지말자,",
+        "writer": "Ugg6O2V7QViY-XgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) npc집에서 찾으것들 유트브에 (이름)의 헥싯영상보면 어떻게 쓰는지 있어요 한 1416정도에",
+        "writer": "UggV96m-uCKKR3gCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 물은 아마 기름일것입니다 그리고 팅컨스트록트 모드는 여러가지 도구를 만드 는겁니다",
+        "writer": "UggFiuFKGNGSJXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "추천 동영상 (제목 링크 클릭) 어부지리잼. 현상금 사냥꾼 미니게임 Bounty Hunters 마인크래프트 Minecraft 도티",
+        "writer": "UghbghdSlUYu5XgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팅커스트런트모드는 자기가 직접 무기나 도구를 만드는 대작모드입니다 또한 용광로를 만들수있어요",
+        "writer": "UghoO3YleL4-XXgCoAEC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 박쥐 잡아요 그럼 날수 있음",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF7-HASIB_zmL",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이번동영상도 정말재미있어용.",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF7-HMP5rFD8q",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3편 올려주세용",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF7-HS7t3mILC",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몬스터가 되면 (이름)이 자기팀 인줄알고 공격안해요",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF7-HlL6AlW9H",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 옆에 인챈트 철곡괭이 있었는데",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF7-HpOewLXsB",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 모드한당.",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF7-IYJcr9ng2",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나진호 안됌",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF70_Jk5XOXJW",
+        "write_date": "2014-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF8PgDbuSpYpH",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옵시디언 고갱이가 좋지 않은가",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF8Qxj8tdcjfX",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV 님재료좋은거안써서그래요",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF8WOAnLYRNbt",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닝겐지나가는 행인하이",
+        "writer": "UghbghdSlUYu5XgCoAEC.7-H0Z7--KaF8WOAqfve9ZT",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=3C_sYbob4Fc",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

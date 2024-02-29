@@ -1,0 +1,628 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001594344",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHE210001594344"
+    },
+    "text": [
+      {
+        "content": "쿨럭 두마리 먹었,",
+        "writer": "UgwczZfiXtTREkpST2F4AaABAg",
+        "write_date": "2021-10-19",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)들에겐 케잌 따위랑 비교도 안되는 좋은 간식이 아닐까 일반인들이야 단백질 잉여칼로리로 거진 남을테니 엄청 차이는 없겠지만",
+        "writer": "UgwF1OImfBGKfwpedpl4AaABAg",
+        "write_date": "2021-10-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반건조 오징어도 비슷하겟죵",
+        "writer": "Ugz7LFHU4E-Co7VubBt4AaABAg",
+        "write_date": "2021-09-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본여가수가 마른오징어랑 물만먹고 8kg뺀경우도 있는데 그건 어떤케이스에요",
+        "writer": "UgyJKg8M-lL-DGMKo7h4AaABAg",
+        "write_date": "2021-08-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해산물 단백질의 흡수율이 높다는 점도 또 하나의 이점(이름). 다만 너무 비싸다는게 문제.",
+        "writer": "UgyLk5tpI1ztPnsz37B4AaABAg",
+        "write_date": "2021-08-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니근데, 우리거 좋아하는건 오징어가 아니라 찍어먹는걸 빙자한 마요네즈나 (비속어)장이란말이야,",
+        "writer": "UgwAzCffNdRlYYji7sJ4AaABAg",
+        "write_date": "2021-07-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가, 감사합니다. ()(__) 1일 1오징어중이라서 걱정했는데, 헿",
+        "writer": "UgzIT7d6FwRz9OA0ENJ4AaABAg",
+        "write_date": "2021-04-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닭가슴살 너무 싫어서 마른 오징어로 15키로 뺏던 기억이 나네요 입 심심할때 간식용으로 먹었었어요",
+        "writer": "UgwqggwbckarHUbQWfR4AaABAg",
+        "write_date": "2021-04-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맥주랑 같이 먹고 있는 제가, 미워요",
+        "writer": "UgxP--YLL92IaUYXGSt4AaABAg",
+        "write_date": "2021-01-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어육함량이 높은(밀가루가 없거나 매우적은)어묵 or 쥐포는 어떤가요 아무래도 쥐포의 경우 첨가물이 많기때문에 다이어트 중 적합하진 않겠죠",
+        "writer": "UgxiUpWMqMZwgH6u_rN4AaABAg",
+        "write_date": "2020-12-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 엽문같이 생겼네 그 배우 견자단",
+        "writer": "UgyN72_lon24v6MUeLF4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1일 오지어(이름) 하고있는데 물론 술은없이. 이거맛있지만 술생각오지게나욤",
+        "writer": "Ugxw4PzU-h_oXsgSUS54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 감사합니다 저 마른오징어 간식 진짜 좋아하는데 다이어트 시작하면서 먹을때마다 너무 걱정했는데, 정말 다행이예요.",
+        "writer": "Ugyri9pLcoELv2WjNw14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마른오징어를 진짜 빼빼로 반절굵기로 가늘게 가위질해서 담아놓고 출출할때 몇가닥씩 먹는데 포만감(이름)님 다요트중인데 도움이 많이됨",
+        "writer": "UgwRu78DM72l9QUoqZ94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한치 드시오",
+        "writer": "UgyBHzwW-ERCQUe94kt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 DNA 덕분에 70세가 넘어서도 자신의 이로 식사를 하시는 집안 어르신들을 둔 저는 마른 오징어 문어 진짜 껌처럼 (비속어)어먹어서, 정말 심하게 좋아하는데 다이어트 걱정했는데 감사합니다.....",
+        "writer": "Ugy1serOQf2Xf7JiF4V4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다이어트때 뭔가 입이 심심하고 (비속어)고십은데 마른오징어를 조금씩 먹어야겠어요. 껍질벗겨서 먹으면 더 좋을거같아요.",
+        "writer": "Ugxi_BBu5ArbJg6i48J4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 제가 간혈적 단식 12시간16시간정도 하고 식사때 양상추 100g 빨간토마토200g 치즈 적당량(모짜렐라or필라델피아 크림치즈) 양파 당근에 발사믹글레이즈드 뿌려서 샐러드와 단호박 200g 닭가슴살 100 호두 8개정도 먹습니다. 유지어턴데 가끔 간식 먹는다고 살 안찌겠죠 운동은 웨이트 주 6일 1시간 합니다 일요일은 2시간정도 등산하고요 일주일에 23번 일반식 먹고 가끔은 과식 을 좀 합니다. (비속어)3cm에 체중은 77.579 80왔다갔다 합니다. 체지방은 이번 주 수요일 기준 6에 근육량은 43kg나오네요, 가끔 기분 내려고 먹는데 불(이름)요 그리고 단호박 300g 늘려도 될까요 너무 맛있어서요,제가 먹으면서 체크 해야겠지만 선생님 생각이 궁금합니다 샐러드 단호박 닭가슴살이 배부를 때가 있고 가끔은 부족할 때가 있어서요 샐러드를 너무 많이 먹는게 아닌가 싶기도하고(탄수화물) , 질문이 참 난해하네요, 요점은 제가 먹는거에서 간식 좀 먹는다고 체지방이 늘어날까요 입니다,(탄수화물단백질지방) 답변 기다릴게요",
+        "writer": "UgxL9uraaK-IhRFlMZR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숏다리 한봉지는 간식으로 먹어도 되네요) 살찔까바 걸렀는데 닥터시완(이름) 감사감사",
+        "writer": "UgyMqhCPb(반사회적용어)moubxRUR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥은 못먹겠던데 마른걸 물에 불려서 굽거나 마른걸 직화로 구워먹으면 영양소 흡수나 다른부분이 생길까요",
+        "writer": "UgxFurUWRPdlMSw5AZ14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "황태도 알고 싶어요,",
+        "writer": "UgzTOVIffy9F5C9Rjm14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회식 전에 마른 오징어 (이름)라니 상상하니 뭔가 웃기네요 내일은 오징어 먹어야겠어요",
+        "writer": "UgwL_rQtydQETkLUmSt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당근좋음요 심지어쥐포도 저는자주먹어요. 탄수화물만조심할뿐 적당히먹고싶은건다먹어도 근육형마른마름 잘유지중입니다",
+        "writer": "UgwokanBDRE1Pewi1GV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다이어트는 칼로리를 무시하세요. 칼로리가 높아도 탄수화물과 당질 설탕이 없고 영양성분이 단백질이거나 지방이면 갠찮습니다(다만 트랜스지방이나 식물성 기름은 안됨.) 저는 탄수화물을 하루에 50그람만 먹고(보리잡곡밥) 고기 채소 달걀 버터 치즈 무설탕 요거트 위주로 먹어서 한달에 7키로 뺐어요. 그리고 소금과 비만은 연관이 없습니다.( 다만 고혈압인 분들은 좀 조심해야죠. 저는 저혈압이라 소금 많이 먹어도 되는 체질이거든요)",
+        "writer": "Ugx0SfQ_8Qr84MJ7CRR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마요네즈 같이 먹어도 되나요 전 오징어 먹을때 마요네즈를 찍어먹는게 아니라 퍼먹거든요, 안되겠죠",
+        "writer": "Ugw4fj8mRvoVcWrpfk94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 좋은 정보네요 좋은 정보 감사합니다 (해창)",
+        "writer": "UgwPaSh6KrAP_Ntvrjh4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가끔 다이어트. 심하게하면 오징어가 땡긴적이 잇엇는데 넘나 맛잇음",
+        "writer": "UgxUsymJmnqsPgF_rql4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 운동 식단할때 오징어 엄청 먹었어요. 막 (비속어)고 싶은 욕구도 해소되고 근데 이에 안 좋아요",
+        "writer": "UgxSPRR77VhCt9QiQUd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오징어 체급이래 유용한 의학지식을 듣다가 빵터지는 유일한 채널인듯 늘 잘 보고 저장하고 있습니다",
+        "writer": "Ugz0Kl7FJwx632Ggkfp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상에 꿀이네요...넘 좋아요",
+        "writer": "Ugxft_-DSD-w0yR2Ckt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 보고 마른 오징어 먹방인 줄 알았어요 형님",
+        "writer": "Ugy4Mf3HRr8hST64GJR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐헝 영상감사해요 진짜 마른오징어 너무 조아해서 과자같은거 대신 먹곤햇는데 주변에서 짜서 다이어트에 도움안된다고 막 타(이름) 궁금했었는데 어디에서도 알수없던 정보에요.. 진짜진짜 너무 감사드려요.. 영상 저장해놨다가 반박할때 보여드려야겠어영..",
+        "writer": "UgyNsej-LP1KGsDAf5t4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숏다리는 가공해서 안댐",
+        "writer": "UgyMqhCPb(반사회적용어)moubxRUR4AaABAg.93X2hM4XnP993gbt3EH2x7",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숏다리 드실꺼면 탄수화물과 지방함유량 확인하보세요. 탄수화물과 지방이 100g당3g이하면 합격이고 정말 못참겠을 때 5g까지만 허용해야합니다",
+        "writer": "UgyMqhCPb(반사회적용어)moubxRUR4AaABAg.93X2hM4XnP99Qu9vRZAMzG",
+        "write_date": "2021-09-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반건조오징어도 괜찮나요",
+        "writer": "Ugyo0KQurRh6GGIo1z14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닥터시완 짱입니다",
+        "writer": "UgzUtd9PZRJmTq-xjT54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 요즘 스트레스 받을꺼도 아닌데 잠이 너무안와요 불면증인가요 잠편하게 잘수있는법 알려주세요 약도있으면 추천좀해주세요",
+        "writer": "UgwUyMuIMu4-cW4FJqp4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오징어가 비싸요,",
+        "writer": "UgyhJ2_b5BXTPW2moWV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샘 저 맥주 아직도 못 끊었구요, 안주는 요즘 반건조 오징어에 꽂혔어요. 짝은 놈 (이름)로 마요없이 그냥 먹구요계란후라이 두개랑. 심한가요 흐, 아 이게 저녁이에요. 간식 아니구 자주 먹던 라면은 딱 끊었어요.",
+        "writer": "Ugx1jW5Xk6REOgVJZYZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오징어 최고죠 좋은정보 감사합니다",
+        "writer": "Ugxb6AT9_dclqErAASJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상보고 마른오징어주문했습니다 에휴",
+        "writer": "UgzKoI_0gRexWUSA9SV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자주오세요 봣던거계속보고 있자나요 선생님다욧 영상보면서 12키로 감량했습니다",
+        "writer": "UgzN8vPUkUL0hWC7CHd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무엇을 먹느냐도 중요하지만 어떻게 먹느냐도 중요하네요",
+        "writer": "UgyLNAPPEk682RrHAoR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼 닭가슴살도 삶거나 굽는방식이 아닌 에어프라이기. 오븐같은걸로 (이름)면 단백질량이 높아지나요",
+        "writer": "UgwZY32uTV5tPQe3peR4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "횟집딸입니당, 전 닭가슴살 구하는것보다 생선을 구하는게 편해서 단백질챙겨먹어야 할때 꼭먹습니당 포만감도 좋고 회나 매운탕 먹고 살쪄본적이 없네여,",
+        "writer": "Ugxxh6quH65VVuHEwFV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘은 마른오징어보다 먹태 많이 먹는데 먹태도 괜찮겠죠",
+        "writer": "Ugy_DoYLMzXkJdPOgU94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩐지 마른오징어 먹고나면 배가안고프더니 그런놀라운게 있었네요 가끔 과자생각나고 입심심하면 오징어 먹고는했는데 좋은정보감사합니다",
+        "writer": "Ugzx59aPC2MQak3mkI14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 궁금했던거......",
+        "writer": "Ugyd7QdyHkGV2I9kAw94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우마른오징어가 그렇군요 그럼 반건조 오징어는 어떤가요 반건조 오징어는 부드러워서 많이 먹을수 있는데 다음 영상은 반건조 오징어로 부탁드려요",
+        "writer": "UgzV8IKvimRiHNE3KaV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 영상 하도 웃겨서 이젠 목소리만 들어도 웃김",
+        "writer": "UgxZfiH_fFu9y0zuft14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랫만입니다 와 높네 엄청먹는데 적당이는 없어요",
+        "writer": "UgxNHT7yRxTD9FuHbdt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부럽 .전 시원하고 칼칼 매콤한 궁물 국물 성(비속어)라",
+        "writer": "Ugxxh6quH65VVuHEwFV4AaABAg.92QMdl0VC5g92ZPY5VGoZu",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "회도 칼로리있어용",
+        "writer": "Ugxxh6quH65VVuHEwFV4AaABAg.92QMdl0VC5g97BO5XLe8Sw",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할리쾅 그럼 음식인데 칼로리가 없겠습니까 상대적으로 적은 칼로리라는 (혐오표현)",
+        "writer": "Ugxxh6quH65VVuHEwFV4AaABAg.92QMdl0VC5g9BH5G5hBrad",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난행운의여신 저두요..",
+        "writer": "UgyXO8XU-hQbrCFnk5t4AaABAg.92PRcmLNG4e92Qmdco_PDi",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 설탕이 많이 들어가요. 꿈꿈한거 글고 (비속어)고 싶어지면 반건조 오징어나 북어포 드셈.",
+        "writer": "UgxxJM1-aIhUf-aM2RB4AaABAg.92PN3mB-Tsl92ZRpLQBGBX",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런거 넘 좋아요 쌤.",
+        "writer": "UgwtyJzNhp4qZ-xu8Jt4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다이어트중인데 멀 먹도 갠찮타는 말에 눈물나게 반갑네요",
+        "writer": "UgyhIF-Ks7PF-RH2pRV4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 다이어트식품 알고갑니다",
+        "writer": "Ugxpv0eZW8fqcuD0WuJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마른오징어야 그렇다치고 데친오징어가 진짜 짱임 닭가슴살 지겨울때 오징어 낙지 이런거 최고에요 비싸서그렇지",
+        "writer": "Ugw9X44-dGG8aBgT7zd4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 대박 저지금 숏다리먹고있는데",
+        "writer": "UgwrSOCKfJ5gFnl27C54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반가워요 시완샘.",
+        "writer": "UgzlBr9cR0ZVZk5G9IN4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 마른오징어라니.",
+        "writer": "UgwVqhXyBxElWE4EgU54AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마른오징어 (비속어)다가 이 부러진 이후로 안먹는데,",
+        "writer": "Ugz9yoVSMRM9jctZIAN4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당장 오징어 사야겠슴돠",
+        "writer": "UgzEGKd2lPEp2wJSaJZ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내일 마른오징어 먹어야겠어요 간헐적단식중이니까",
+        "writer": "UgxY5tnqAdbQtxYerfl4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 기다리던 영상 반갑습니다. 마른오징어 너무좋아해요, 무조건 살땜에 피했는데요. 고단백식품 , 회식전에 (이름)먼저 이렇게 좋은 정보 너무 감사해요, 양이 중요하다는거요 국그릇 크기 줄이고",
+        "writer": "Ugz-iyPTxZOj3bNOLH14AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에서 거짓말 안하고 눈이 동그래졌어요",
+        "writer": "Ugw00u0vZE8AE5_MMkJ4AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1번으로 좋아요 누르고 댓글 달아요 이 영상을 보니 마른 오징어에 캔맥주 하나 먹고 싶어요",
+        "writer": "Ugzn3QUYiNT6AqdyaC94AaABAg",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러키 그니까욬",
+        "writer": "UgyhIF-Ks7PF-RH2pRV4AaABAg.92PIjWyT6e_92QmZax_4QE",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kkotgil 2 좋은정보 쨩쨩",
+        "writer": "Ugxpv0eZW8fqcuD0WuJ4AaABAg.92PIOasktrn92Qmet2L-uX",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "tv justine 오오 오징어는 한번도 안먹아봤는데 좋은정보 감사합니다.",
+        "writer": "Ugw9X44-dGG8aBgT7zd4AaABAg.92PH7lcNDjo92QmYNDeZeR",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스윔tv 오징어 데치고 밥 조금 넣고 야채 많이넣고 간장식초 소스 살짝 넣어서 비벼먹거나 오징어야채에 스리라차소스 살짝 뿌려서 비벼먹어도 좋아요",
+        "writer": "Ugw9X44-dGG8aBgT7zd4AaABAg.92PH7lcNDjo92QntcZbK4x",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "닭가슴살이 지겨울때 환기용으로 한번씩 먹어요",
+        "writer": "Ugw9X44-dGG8aBgT7zd4AaABAg.92PH7lcNDjo9LkJXR8URmx",
+        "write_date": "2021-04-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방부제 때문에",
+        "writer": "Ugyvrg27m_ZDu6TCiUt4AaABAg.92PEfgmJOMz9O2tuG5fh6x",
+        "write_date": "2021-06-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선영 조 저도 바로 사러갑니다",
+        "writer": "UgzEGKd2lPEp2wJSaJZ4AaABAg.92PCA2LUIZY92QmgQPyEO3",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 60g 대박이다",
+        "writer": "Ugw00u0vZE8AE5_MMkJ4AaABAg.92PBX6AxHlg92QmbnD0SBj",
+        "write_date": "2020-11-09",
+        "url": "https://www.youtube.com/channel/UC8r-AMMZ8w10-HUT1pKtidw",
+        "parent_url": "https://www.youtube.com/watch?v=sB730AtH-U0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

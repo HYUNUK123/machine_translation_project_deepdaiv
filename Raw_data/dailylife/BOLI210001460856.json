@@ -1,0 +1,548 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001460856",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOLI210001460856"
+    },
+    "text": [
+      {
+        "content": "벤(도베르만 M) 내 여동생은 내가 지킨다.. 벤 퐈이팅..",
+        "writer": "UgxN0iIkM2ZHZyqySKd4AaABAg",
+        "write_date": "2021-07-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키가아니라 말라뮤트네요",
+        "writer": "Ugw9iJA5EqnN5k5IjTd4AaABAg",
+        "write_date": "2021-02-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 허스키아닌뎁, 말라뮤튼데 덩치가",
+        "writer": "UgwDMdk4GHOVFuP3Ky14AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걍 녹용짜먹어라",
+        "writer": "UgwRj55rOm_ou-UydFZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 말라뮤트 네여",
+        "writer": "UgyEqKl-ROqKCQvPVwV4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)도 설레는구나,",
+        "writer": "UgzYrjn85aBe_E3VCBV4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 마멩공주 예서 별명",
+        "writer": "UgzUv9-Jk_y9O0tV4kd4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사슴을 아래에서 위로 흝는 소개 영상은 첨이네.",
+        "writer": "UgzOGme-EwgQ-Wjinax4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키가 아니라 말라뮤트",
+        "writer": "UgzPfMbVBSb4j5bzHy14AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아앙..0난 저런 계.",
+        "writer": "Ugw_ivbTqAx4U3fFcKF4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말라뮤튼디 무슨 허스키라는겨 허스키는 더 작음",
+        "writer": "UgyjoG_dVe_CDcULbIB4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃님이 암컷이에요 수컷이에요",
+        "writer": "UgwA4QaxIFHUnhcG1wl4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기에나오는 말라뮤트가 저희 (반사회적용어)이같아용 예전에 누가 카메라로 뭐 찍긴했는데,",
+        "writer": "UgxziuC0iQ_MmK3x7KR4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 가봤는데 사슴 이 너무 피해서 만지는거 포기했었는데",
+        "writer": "UgzSvFAnYoGXB5JhDj94AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아빠 사슴은 꽃님이를 버리고 엄마 사슴은 꽃님이를 키우다가 3일만에 하늘나라로가 혼자 살게되 너무 슬프다",
+        "writer": "Ugw_1ovwoNtP39BMADl4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 발라뮤트 급(이름)는거보소",
+        "writer": "Ugx2NfbahKLgMz1REpd4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몬가, 집돌이총각하고 그 개랑 똑같은 데 성격이 좀 달르네 .",
+        "writer": "UgxKApcq9fwia7hS2114AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자, 잠깐 그버릇 곳치고 와",
+        "writer": "UgxCyCRBx5PviKpfdQV4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물리면 끝장일텐테 포기하지 않으시는 점 존경합니다",
+        "writer": "UgwykyhqLunmWkfH6lt4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 저기 실제로 가봤는데 벤 순하고 귀여운대 ,",
+        "writer": "UgzKY2Ie7xa1_fGxpNt4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "입마개 얘기 하는사람있는데 이 짧은 영상 하나보고 저 보호자보다 벤이라는 개에 대해 다 아는것처럼 얘기하지 마라 개물림사고 때문에 대형견 견주들 안그래도 예민하고 짜증나니까 함부로 대형견 선입견 갖지마 우리도 노력하고 있으니까 그쪽들도 이해하려는 태도가 조금이(반사회적용어) 있으면 좋겠네",
+        "writer": "UgwX_clAcz9IPrGDcpN4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이름왜벤줄알겠음 이냐면재한테 물리면 벤츠자동차한테맞는느(이름) 서 (그럴싸하지 )()",
+        "writer": "UgzZppB3oEZVos9WaBt4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 벤,",
+        "writer": "UgyEq1OPMCUNNSrOjOl4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 도베르만키워요 순해요",
+        "writer": "UgxINq6_2nmGnDcfwWJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키가 아니고 말라뮤트네요",
+        "writer": "Ugz5YYASpPTYCmZ01BR4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최소 입마개는 해야 하지 않을까",
+        "writer": "UgxQ-H4FR15IHLsBo9R4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사냥견이라서 더욱더 듬직하다,",
+        "writer": "UgyD0X7ZKEk0SxbMrcJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호두마루 애견카페인가요 벤이랑 2마리더있고 완두도 있을 탠대",
+        "writer": "UgwTS72JZChQRxoHG2h4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세퍼트가 도베르만한테 안되구나",
+        "writer": "UgxFnrOIr6mKV7l9n0t4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃님이 너무 예쁘다",
+        "writer": "UgwrA9i5kXqHKLALl954AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쒯더퍼드 (이름) 말재간이 아주 좋아요",
+        "writer": "UgxseQHQibmTCIeaSIB4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상을 동물농장 제작진이 싫어합니다.",
+        "writer": "Ugziq1y5SOD3rNnLwHh4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위 영상에선 견주 공간이라 주인 맘이지만 외출시엔 입마개 무조건임. 노력할테니 선입견 갖지 말라 이런 말 필요없이 견주들은 외출시엔 입마개 이 공식만 외우고 지키면 됩니다.",
+        "writer": "UgwX_clAcz9IPrGDcpN4AaABAg.8xvwWGjRPuy8y9ytdbEcam",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스톤 Stone golem 테블릿 진짜 재밌다",
+        "writer": "UgzZppB3oEZVos9WaBt4AaABAg.8xJpHDAVdGP97i1A19ebyr",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "asfasf safsf 와 (저한테)옛날나는 뭐하냐,",
+        "writer": "UgzZppB3oEZVos9WaBt4AaABAg.8xJpHDAVdGP97i3EAaJeUQ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스톤 Stone golem 테블릿 와 또 빵 터졌네요",
+        "writer": "UgzZppB3oEZVos9WaBt4AaABAg.8xJpHDAVdGP97iR5g__01a",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "asfasf safsf 와, 갑분사다 창피하네,",
+        "writer": "UgzZppB3oEZVos9WaBt4AaABAg.8xJpHDAVdGP97jX-AB97NR",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 보통 도베르만 순한 편,",
+        "writer": "UgxINq6_2nmGnDcfwWJ4AaABAg.8wnzuLDHkJz96Frwa-2nQV",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Bad boY 반려인의 성격에 따라 다른데 일반적으론 져먼셰퍼드가 이겨요",
+        "writer": "UgxFnrOIr6mKV7l9n0t4AaABAg.8wjizcTo-Ru95-jZ29HzUk",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 태어나자마자혼자되서 슬펐어요",
+        "writer": "UgwrA9i5kXqHKLALl954AaABAg.8wihI9mUh_k8wjuztrBnB5",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그래요 저도 꽃님이 혼자 되서 슬펐어요",
+        "writer": "UgwrA9i5kXqHKLALl954AaABAg.8wihI9mUh_k8wjx6O4Lbkk",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서, 설마요",
+        "writer": "Ugziq1y5SOD3rNnLwHh4AaABAg.8wiWjMNQ5Xz8wiZpZR8gnn",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 설마 맞을 듯",
+        "writer": "Ugziq1y5SOD3rNnLwHh4AaABAg.8wiWjMNQ5Xz8yrKxpM2Tgo",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어서 오세요.",
+        "writer": "Ugzks6CfL2YOFCgtyEp4AaABAg.8wiU_z5oAOs8wiZtpjOVgu",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺄아악........답글 해 주셧어",
+        "writer": "Ugzks6CfL2YOFCgtyEp4AaABAg.8wiU_z5oAOs8wib5ev9Ox9",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽃님이 존예",
+        "writer": "Ugyyw1m684NLFgdYyOR4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보디개드 근데 하나같이 다 너무 귀엽네요",
+        "writer": "Ugz4Pqse-K6kDKU3BzJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 제작진이었으면 카메라 개한테 던지고 튀었을듯",
+        "writer": "UgyJLCMgoaaKrr7G5054AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개 깜짝앜 처음에 보고 놀랐네, 영상으로 보는 나도 놀랐는데, (이름)은 어땠을까나,",
+        "writer": "UgzcVSDvnPzYsy2HqU54AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨 오프닝때 벤보고 깜놀",
+        "writer": "UgwR7eqhaatgfZw-tit4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨 오프닝보고 개 깜놀,",
+        "writer": "UgwyUoipVU1NmqWcK5F4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "딱히 참신한 드립이 안 떠오르는군요 헐,",
+        "writer": "Ugyq-Q2CdfgXiXjm49F4AaABAg.8wiTENKC3MG8wiaTL15sQ2",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘죠 하지만 모솔이라는 사실",
+        "writer": "Ugyyw1m684NLFgdYyOR4AaABAg.8wiSBvqMA6e8wi_3LrzztC",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘게 봐주셔서 감사합니당 )",
+        "writer": "Ugz4Pqse-K6kDKU3BzJ4AaABAg.8wiRaTZxJrO8wi_96Wa7If",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄송한데 11 이신 듯",
+        "writer": "UgxGkFMWmpBVhBobz4B4AaABAg.8wiOhcxZln68wia6cehP3X",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마요, 제작진에게 카메라는 군인에게 총과 같은 것..",
+        "writer": "UgyJLCMgoaaKrr7G5054AaABAg.8wiNdW2dsTa8wi_LLgzFsc",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 위험하니까 포돌이한테 맡겨놉시다",
+        "writer": "UgyJLCMgoaaKrr7G5054AaABAg.8wiNdW2dsTa8wibcdVFbXy",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 넵.",
+        "writer": "UgyJLCMgoaaKrr7G5054AaABAg.8wiNdW2dsTa8wicsb9god0",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저카메라 값이 얼만데 돈은 챙기고 튀셔야지.",
+        "writer": "UgyJLCMgoaaKrr7G5054AaABAg.8wiNdW2dsTa8wjGHYC_w3B",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알아주셔서 감사합니다 게다가 도베르만,",
+        "writer": "UgzcVSDvnPzYsy2HqU54AaABAg.8wiNGGtJv4l8wi_UIgLgMh",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 네. 항상 재미있게 영상 보고있어요",
+        "writer": "UgxDiGdXBxSzjHWZRXB4AaABAg.8wiNCoMRMxz8wiaO4NPfQ8",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어서 오세요.",
+        "writer": "UgxKfujL2jOXmRUZ1954AaABAg.8wiMd_9AWHy8wi_Vk091gD",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "을 기억하지 않는 드르븐 세상(",
+        "writer": "Ugz0B9vG94mG-xD03t14AaABAg.8wiMYImRHjV8wi_qB6ICHX",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 도베르만.",
+        "writer": "UgwR7eqhaatgfZw-tit4AaABAg.8wiMXj1XVjz8wi__YL0Oc5",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오오 빠를 사랑해 아아아아 죄송합니다",
+        "writer": "UgxO5zcqZQi_0v18U-94AaABAg.8wiMUoRNq708wi_l6Sdkb2",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우사인 볼트.",
+        "writer": "Ugwdh539-15hFRlo1MB4AaABAg.8wiMJ7rAzeb8wi_i_7tW80",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도베르만 보고 놀랐다는 댓글로 도배로군요",
+        "writer": "UgwyUoipVU1NmqWcK5F4AaABAg.8wiMDJRSwPS8wi_g-3N75D",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=UFbIxbE7ONo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

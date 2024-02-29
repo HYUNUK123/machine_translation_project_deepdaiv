@@ -1,0 +1,540 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001423401",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001423401"
+    },
+    "text": [
+      {
+        "content": "그냥 a i eat 3 apples print(a) 하는게 제일 편한거 같은데 포매팅을 쓰거나 문자열 덧셈으로 해주는 이유가 뭔지 알수 있을까용",
+        "writer": "UgwqqOjqEu5Go6qjXwR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강의 올리실 때 라이브 동영상은 편집해서 올려주세요. 처음 10분동안 안녕하세요만 듣고 있어요. 컴이 맥북인 경우 코딩 프로그램은 어떤걸 사용해야 하나요 기종은 맥북 에어 m1 모델입니다.",
+        "writer": "UgwHfb1_JeQyy3t7mX14AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강의 잘 보고 있습니다. 궁금한게 있는데, 문자열 더할 때 I eat 3 apples 하면 I eat 3 apples 나오지 않나요 3에 str을 씌워주는 이유가 따로 있나요",
+        "writer": "Ugw9FM0svz0QAieuOO54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올해 멋사 9기 운영진으로서 파이썬 기초 문법 강의를 맡았는데 단원도 자료형만 다루는 거라 심화 실습을 어떤식으로 할지 고민했는데 많은 참고가 되었습니다.",
+        "writer": "Ugxg2bSCGh9XL3Kn1IF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 처음 배우는데 정말 쉽게 설명해주시는거 같아요.",
+        "writer": "UgxvLv8FPXfRKbD2u5p4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 아주 기초적인 것도 하나하나 세세히 설명해주시다니 너무 친절하고 유익해요..",
+        "writer": "UgwlSnydjbEPZ7sG0eN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 전 vscode 실행버튼이 없는지 모르겠습니다",
+        "writer": "Ugz4PYXoHZNsUhaU-Fh4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 강의잘봤습니다",
+        "writer": "UgwCj2LYVLMhlQVyYfx4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 조(이름) 질문 있습니다.. Run Python File in Terminal의 단축기(꼭 있어야 할 것 같네요. ) 2.문자열 부호에 띄어쓰기를 안해도 괜찮고 색도 나뉘어져 있던데 문자 쓸 때 띄어쓰기를 하는 이유 (특히 부호 사이에) 3.슬라이싱 간격에 대해 쉽게 생각하면 2글자(2글자 간격으로) 마다 1개씩 없앤다는 말이 맞나요 4. 터미널 표시창에 주소들이 너무 길게 나오는데 위치 안옮기고 안보이게 하는 법 있나요 5. ppt 자료 갖고 싶은데 받을 수 있나요 이상 질문 5가지 드려요.",
+        "writer": "Ugwjk4vBRGYfUk_vFA54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦게 알게되었지만 선구자 이십니다.",
+        "writer": "UgyDiyoT_r7YudhbrtZ4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 나누기 부호가 아니라 루트 부호인데",
+        "writer": "UgyJMKo-PbO3QHgV_BV4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 재밌네요강의가",
+        "writer": "UgyzH1MCnHSGCiyEwE54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질문타임 따로해주셔서 너무 감사합니다",
+        "writer": "Ugz8NyShx8oRzn1bxIR4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 기초 파이썬 강의 잘 들었습니다.",
+        "writer": "UgySFvhHRmdrq8-3CIF4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주요 편의기능들이 파이썬말고도 다른 곳에서도 똑같이 사용되나요",
+        "writer": "UgzS6tBh4fCl6ZuNer14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦게나마 영상보고 공부를 하는데 비주얼 스튜디오에서 a 3 프린터를 (비속어)면 print(a) Traceback (most recent call last) File line 1 in NameError name a is not defined 요런식으로 계속나오네요 혹시 잡아줘야할 셋팅이 있을까요",
+        "writer": "UgwwIGjzYk48TGziyiR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무래도 따라하면서 하려다 보니 녹화본으로 자꾸 보게되네요. 근데 질문을 실시간으로 못하는 단점이. 댓글로 질문 드려요, 1. Terminal python 입력 후 할 때는 a 이렇게 바로 입력해도 나오는데 위에서는 꼭 print(a) 를 해줘야해서 Terminal에서 바로 python으로 들어가서 하는게 편한 것 같은데, 위에서 계속 해주시는 이유가 따로 있나요 2. 위에서 입력해서 화살표 눌러서 실행하는경우는 꼭 위에 입력한 전체 구문이 동작되나요 일부만 실행할 수 있는 방법은 없나요 (평소에 sql R을 썼는데 그냥 ctrlenter만 치고 그 줄만 실행되는데 너무적응됐는지 좀 불편하네요) 3. 함수의 특성에 따라 print() 안에 치면 나오고 안나오고 한다고하셨는데, a.pop()은 print()에 넣으면 삭제되는 값(마지막 변수)이 프린트되고 동시에 pop함수 자체도 적용이 되는 것 같은데, 이게 좀 헷갈리더라구요. return값이 있는 함수는 print안에 쓰면 return값도 보이고(return값이 함수 적용 결과와는 다를 수 있음) 함수도 적용되고 한다고 이해하면 될까요 함수 부분에서 나올런지, 감사합니당.",
+        "writer": "UgwQWRvbPGX_wJg9K8B4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프로그래밍언어 처음 공부해보는 대학생입니다. 파이썬 입문하는데 쉽고 친근하게 설명해주셔서 감사해요.. 만약에 파이썬을 다 공부한다면 다음으로는 어떤 것을 하는게 좋나요 Java나 C를 공부하는게 좋을까요",
+        "writer": "UgyKTlBitaLTMeJgrCh4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "playlist listPLU9uwewPMe2AX9o9hFgvnRvOcBdzvP5 편집본 모음도 따로 있습니다. 맥도 동일한 방식으로 진행하되 명령어만 python3 로 입력하려 python3 (이메일)로 실행하시면 됩니다.",
+        "writer": "UgwHfb1_JeQyy3t7mX14AaABAg.9OK3HY6V4ud9OKNWjKxirK",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 최근에 책을 사서 들어왔는데 편집본 모음이 따로 있는지 몰랐습니다. 답글 해 주셔서 감사합니다.",
+        "writer": "UgwHfb1_JeQyy3t7mX14AaABAg.9OK3HY6V4ud9OKOJRqxSOL",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두궁금 숫자는 문자로인식안하나봐요 그래서str써준건가요",
+        "writer": "Ugw9FM0svz0QAieuOO54AaABAg.9NEUxX1ENvs9Px8IGyBoAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 멋사 운영진이시군요.",
+        "writer": "Ugxg2bSCGh9XL3Kn1IF4AaABAg.9MdW9rWiuYG9Mdf352WNut",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2년 전 초창기에 HTML 강좌로부터 시작해서 구독부터 누르고 알람 설정하면서 영상 보다가 코딩에 관심이 생겼는데 이제는 프론트엔드 분야를 꿈꾸고 있네요. 당시에 멋사 출신이신걸 몰랐는데 나중에 알고 놀랐어요 앞으로도 응원합니다",
+        "writer": "Ugxg2bSCGh9XL3Kn1IF4AaABAg.9MdW9rWiuYG9MdfNj6GeuZ",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "python extension이 재대로 설치되지 않은 것 같습니다. extension 설치한 것을 확인하신 후 vscode를 재실행하시면 되실거예요.",
+        "writer": "Ugz4PYXoHZNsUhaU-Fh4AaABAg.9KTExvWNAqp9KTb2iIHa4g",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다",
+        "writer": "UgyDiyoT_r7YudhbrtZ4AaABAg.9HzXYZdOGQH9I-D2uw8eI_",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 그러네요 좀 더 둥그렇게 그렸어야 했는데",
+        "writer": "UgyJMKo-PbO3QHgV_BV4AaABAg.9HnwXvmsGTZ9HoNu2bYGIC",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 감사합니다.",
+        "writer": "Ugz8NyShx8oRzn1bxIR4AaABAg.9GaoatLuynn9GdpNqyBJeq",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 조(이름)의 강의를 따라서 하다보니 어떤것은 같은 같은 화면에서 오픈 등 클릭을 할부분이 보이지 않는것이 있는데 같은 웹브라우즈 크롬을 사용해야 되나요 저는 현재 마이크로 Edge를 사용하고 있습니다.",
+        "writer": "UgySFvhHRmdrq8-3CIF4AaABAg.9CkBjDnCGE_9Cnn2Xb_oxM",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 정태만님.",
+        "writer": "UgzOf0KuXQrUsgmWiwt4AaABAg.9C8njr9fIBL9C9wnxgbv2l",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른 언어에도 유사한 기능이 있는 것도 있고 좀 더 복잡하게 구현해야하는 것도 있습니다. 파이썬이 쉬운편입니다 )",
+        "writer": "UgzS6tBh4fCl6ZuNer14AaABAg.9Arafr-8y5f9AtL144prFi",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "idle에선 문제없이 됩니다.",
+        "writer": "UgwwIGjzYk48TGziyiR4AaABAg.9AoQ95o0BSv9AoQCIWBnS6",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비주얼 스튜디오에서 a 3부분을 쓰지 않으시고 바로 print(a)를 하신 것 같아요. a 3 print(a) 이렇게 이어서 쓰셔야합니다.",
+        "writer": "UgwwIGjzYk48TGziyiR4AaABAg.9AoQ95o0BSv9AtI0uAX8VN",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말씀 주신대로 python REPL에서 진행해도 되지만 같은 구문을 여러번 써야할 경우 오히려 한줄씩 쓰는 것이 불편하고 이전에 다른 강의들을 vscode에서 주로 진행하여 연장선 상에서 쓰고 있습니다. 물론 꼭 여기에 하실 필요는 없고 REPL IDLE jupyter notebook colab 등 다양한 환경이 있으니 편하신 곳에서 하셔도 좋아요 ) 2. vscode 같은 편집기는 전체로만 실행되는 것 같습니다 jupyter notebook colab에서는 한칸씩 작성하여 실행가능해요. 함수에서 좀 더 배우겠지만 pop의 경우 들어온 list의 변화를 주고 또 return 값이 있어서 print로 나오는 겁니다. 말씀해주신 부분이 맞습니다 print는 return 값을 보여주는 것일 뿐이고 함수로 대상의 변화는 함수의 특성에 따라 다릅니다.",
+        "writer": "UgwQWRvbPGX_wJg9K8B4AaABAg.9AjAZ7gOCpY9AjayaDRAud",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 매번 친절히 답변 달아주셔서 넘넘 감사합니당.",
+        "writer": "UgwQWRvbPGX_wJg9K8B4AaABAg.9AjAZ7gOCpY9AoHtR1EvHz",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언어들만 쭉 배우는 것 보다는 배운 python을 활용해서 무엇인가 만들어보시는 것을 추천드려요. flask 혹은 django를 이용해서 웹 프로젝트를 만들어보는 것도 좋을 것 같습니다 )",
+        "writer": "UgyKTlBitaLTMeJgrCh4AaABAg.9Ag9qKbA7o19AgAenTkQbf",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 유익한 강의 감사합니다.",
+        "writer": "UgzWK1Tt2nckd87r_E54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기에 질문을 남겨도 될지 모르겟는데 numpy라는 모듈이라고 댓글에서 봐서그러는데 자바에서는 객체라고하고 C언어에서는 함수라고하거나 구조체등등 으로 쓰이는데 파이썬에서는 이러한 객체 들을 모듈이라 칭하나요",
+        "writer": "Ugy7EJJZHgPOkgGeZQh4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 열심인 조(이름), 엄청 응원합니다,",
+        "writer": "UgyDiqN4RVD128b1GSh4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)처럼 전(비속어)분들께서 해주시는 강의랑 또 다른 느낌이어서 너무 좋네요. 실시간 채팅 보는 재미도 있고요. 코딩을 배운다기보다 즐기는 것 같은 느낌. 그리고 뭔가 되게 가족 같은 느낌..",
+        "writer": "UgxNywh9gP4qAcpsfXp4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그리구. 궁금한게 있습니다. 1강의때 pylint 이 부분에서 저는 설치를 못했어요 근데 프로그램 키면 자동으로 설치 하라고 뜨더라구요. 근데 컴터 환경이 문제가 있어서 그런지 설치가 안된다고 뜨네요, 혹시 이거 꼭 설치를 해야만 강의 따라갈 수 있는걸까요",
+        "writer": "Ugx93nsn6Oo6bTfX6mZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 강의도 잘 보고 따라했습니다 근데, 저만 그런걸까요 저는 어린 초등학생 중학생들에 비해 한참 나이가 있는지라 나이 있으신 분들도 강의 많이 들으실건데, 화면에 대화내용 때문에 강의에 집중이 잘 안되더라구요. 혹시나 강의 하실때 화면에 대화창 안보이게 수업 가능할까요",
+        "writer": "UgwLbzEV3kCTLWy4Jwt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조(이름) 점프 투 파이썬 인터넷 책 주소 가려야 하지 않을까용, 주소치면 저 책 그대로 나오는걸로 알고있습니다.",
+        "writer": "UgxQxf6J6S-3gr65vIt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오 드디어 자료형이군요,",
+        "writer": "UgxiIqs-QRbzm5HvMJR4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "visual studio code에서 오른쪽 상단에 실행버튼이 없는데 어떻게 실행(비속어)나요",
+        "writer": "UgyDrn49DYEgOTBm2WZ4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "25년 전 대학때만 해도 컴터 언어 어려워서 꿈도 못 꾸었는데 조(이름) 덕에 재밌게 공부하고 있어요 모든 영상 탐닉해 보려고 합니다.",
+        "writer": "Ugxpxgo50SqF8peaaIt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리액션이 변수명으로 쓰는거라니 재밌구만",
+        "writer": "Ugw4DOovrTwYD9ic1al4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 파이썬 강의 감사합니다 앞으로도 영상보고 열심히 공부하겠습니다",
+        "writer": "Ugzcj5NQlFVvmzARWMN4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 형님",
+        "writer": "UgzPXuOTdqrpUPq57h54AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘보고 있어요",
+        "writer": "UgxoIxtTEZu_fB8BpI14AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 뜨셨네요 구독자 장면부터 봤던 시청잡니다 축하드립니당",
+        "writer": "UgxHgeDeIKXFKYUasBx4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "긴 강의 봐주셔서 감사드립니다",
+        "writer": "UgzWK1Tt2nckd87r_E54AaABAg.9A_LtIZ93kV9Ab3cD-_xOX",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "객체를 여러개 모은 것이 모듈이라고 보시면 됩니다. 아래 이고잉 선생님의 관련 설명을 보시면 더 이해가 빠르실 것 같습니다 course17509966",
+        "writer": "Ugy7EJJZHgPOkgGeZQh4AaABAg.9AWbCmKra9o9Ab1aqg3DK0",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응원 감사합니다..",
+        "writer": "UgyDiqN4RVD128b1GSh4AaABAg.9AWWrCRuc2e9AXAvuzNqxa",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다",
+        "writer": "UgxNywh9gP4qAcpsfXp4AaABAg.9AW1qwp_L7A9AX8OjOveQn",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문법 오류를 잡아주는 익스텐션인데 없어도 따라오시는데는 문제 없습니다. 구글링을 해보니 아래에 유사한 사례가 있는 것 같아 혹시 해결방법이 같지 않을까해서 참고 블로그 첨부드립니다 ) 35",
+        "writer": "Ugx93nsn6Oo6bTfX6mZ4AaABAg.9AUq_lcroe39AV5SVDj6rf",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조코딩 JoCoding 감사합니다",
+        "writer": "Ugx93nsn6Oo6bTfX6mZ4AaABAg.9AUq_lcroe39AVxgPIOet4",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 강의도 잘 봐주셔서 감사합니다 말씀 들어보니 다음시간에는 수업때는 채팅을 안보이게 해놓고 질문시간에 따로 켜는 것도 좋을 것 같네요.",
+        "writer": "UgwLbzEV3kCTLWy4Jwt4AaABAg.9AUoDOmgzxZ9AV4SFh40W7",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출판사에 문의해서 확인해본 결과 북이오 측에서 앞부분은 무료로 오픈 한 것이라 괜찮다고 합니다. 놓칠 수 있었던 부분 말씀해주셔서 감사합니다 )",
+        "writer": "UgxQxf6J6S-3gr65vIt4AaABAg.9AUfE_A64QW9A_3lbFFZ1U",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 영상 봐주셔서 감사합니다 )",
+        "writer": "UgxiIqs-QRbzm5HvMJR4AaABAg.9AUQCWXX0n69AUi7I5nvwU",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단축키 Ctrl F5를 누르셔도 되고 명령어 입력창에 python 파일명. py를 입력하셔도 실행이 됩니다.",
+        "writer": "UgyDrn49DYEgOTBm2WZ4AaABAg.9AULv_EasVv9AUhx_i6p6R",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 재미있게 봐주셔서 감사합니다",
+        "writer": "Ugxpxgo50SqF8peaaIt4AaABAg.9AUDBCZaWHM9AUhhyfWfOk",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 봐주셔서 감사합니다 )",
+        "writer": "Ugw4DOovrTwYD9ic1al4AaABAg.9ASa5Yn1QrB9ATHloumz3Y",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋게 봐주셔서 감사합니다 저도 많은 지식 전달드릴 수 있도록 열심히 준비하겠습니다.",
+        "writer": "Ugzcj5NQlFVvmzARWMN4AaABAg.9ASVsAbioEb9ASXkxmjAJx",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 댓글 감사합니다.",
+        "writer": "UgzPXuOTdqrpUPq57h54AaABAg.9ASOgnUw-x59ASSiF8A7hR",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘봐주셔서 감사합니다",
+        "writer": "UgxoIxtTEZu_fB8BpI14AaABAg.9ASFaAQrCG69ASG-OqTWc5",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 봐주셔서 감사드립니다 )",
+        "writer": "UgxHgeDeIKXFKYUasBx4AaABAg.9ASF_CpSC0I9ASFtikj3Cf",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+        "parent_url": "https://www.youtube.com/watch?v=1M9EOxQIT7k",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

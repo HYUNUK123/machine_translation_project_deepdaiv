@@ -1,0 +1,1268 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001461074",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOLI210001461074"
+    },
+    "text": [
+      {
+        "content": "진라면순한맛 닉넴보고 응아니야 라는줄",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zfFThD5lm",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "100년 전",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zfXgZeVYO",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑혀언니 1분전",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zfk7N7-Wr",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)머리앤 2분전",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zg3LC5kAK",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇초전이 그렇게 신기한건지 모르겠군요 (혐오표현)방지_____________________",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zgj_T8w01",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문어무뇨 싹뚝",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zqOaal1W7",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니근데 진짜궁금한데 초 분전 이거왜하는거임",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zrBp567I1",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "d 3분전",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zrcRODdP7",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민혁 2시간 전",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98ztoqRytaG",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "d (반사회적용어)이라",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zvoZeZ8X7",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "d 자연스럽게",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp98zwGTMKw4-",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_삒삐 한두번은 웃고 넘기겠는데 몇초 분인지 왜 이렇게 궁금해할까요 1 2절도 아니고 (혐오표현)이여. 그리고 갑자기 무슨 노래 가사를 적음 그리고 영어로 못쳐서 한국어로 들리는대로 적은거 난 좀 무식해보임. 아님 진짜 발음대로 적든가 발음 1도 안맞는데",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp99-XKTfv8iP",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)해서 민폐 가는게 있나, 화가 나거나 불편하면 말을 하면 될 것이지 찐 이런 말 하고,",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp991XGDcVHnL",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Kamja choriem 한사람이 도배하는거랑 똑같은 거임",
+        "writer": "Ugy7Owk6uK5ZLJljhDl4AaABAg.98z_fW2L1tp9Bm8aNsOEes",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이예요",
+        "writer": "Ugy7C2Icdh4kuAkHACt4AaABAg.98z_R3JonPY98z_XPNKIDf",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 무엇 동명이인",
+        "writer": "Ugy7C2Icdh4kuAkHACt4AaABAg.98z_R3JonPY98z_vd01-xJ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무섭다뇨 그럴수도 있겠지만 생각만하세요 그런 말보다 힘네세요 이 말 한마디가 더 괜찮은 말이에요",
+        "writer": "UgxkaPvsRSvuAXHXMwJ4AaABAg.98zZdFBk7OA98zZo4Zy1-y",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예이가 없으시네요 다른 어린애들이 님보고 무서워라고 하시면 기분이 좋을까요 그런말보단 힘내세요 건강하세요가 더 맞는 말이지 않을까요",
+        "writer": "UgxkaPvsRSvuAXHXMwJ4AaABAg.98zZdFBk7OA98zaHhqlstJ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘드실텐데 마스크도 용기내서벗으신분한테 무섭다고하는 님이 무섭네요",
+        "writer": "UgxkaPvsRSvuAXHXMwJ4AaABAg.98zZdFBk7OA98zeApwJIta",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "석찌니1204번째머리카락 예이가 아니라 예의",
+        "writer": "UgxkaPvsRSvuAXHXMwJ4AaABAg.98zZdFBk7OA98zjNrgd39L",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘내세요 그리고 너무 착하세요",
+        "writer": "UgzhaCG8jqHZByNahdp4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 예쁘신데 용기내서 앞으로(반사회적용어) 더 홧팅 하시면사 지내시길 바래요 저희가 응원할께요.",
+        "writer": "UgwhTiLF8RpBL40pl414AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로는 행복하시길 바래요 아주머니",
+        "writer": "UgylO7M2x-xY0MMBH9l4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이를 잃은 절망적인 감정때문에 마음의 상처가 걸국 심한 합병증으로 이어져 버렸군요, 꼭 이 채널에 마음의 문제때문에 합병증 생기는 경우가 많네요",
+        "writer": "UgzTiVNtN7sMOQDj3CZ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 영상에 제발 등놀이 (비속어) 하지마세요 제발",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄청 아프시겠다",
+        "writer": "UgyReMWpxnyOBqfje7N4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 저는 3분도 마스크 쓰고있으면 답답해 뒤질것같은데, 와,어떻하냐고 힘내세요 엉엉유",
+        "writer": "UgxD66F9x5EBPCwQBnl4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 7분전,",
+        "writer": "Ugz7IeU-KnpJHkaW5zt4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 또 코로나 때문에 계속 마스크 끼는줄",
+        "writer": "UgxOpWpJ6WzyTPQiMI14AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로 말씀하시는데 이해하는 제작진 무엇 ,",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로나 때매 마스크 쓰기도 싫은데 대단랍니다",
+        "writer": "UgybaEnADqBXeLBoTaF4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 이와중에 제작진이 말을 알아듣는게 신기함",
+        "writer": "Ugylyb83BedOl90rX8F4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 힘내세요",
+        "writer": "UgzcltiIqCOdqcFMY1x4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별로 안(이름)데,",
+        "writer": "UgzTiVNtN7sMOQDj3CZ4AaABAg.98zZJv63zoe98zf3inmVLV",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김훈 뭐가요",
+        "writer": "UgzTiVNtN7sMOQDj3CZ4AaABAg.98zZJv63zoe98zfvaFCrOu",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전화문희 합병증으로 (이름)생긴 얼굴보고 별로 (이름)지 않다고하신 거 같은데",
+        "writer": "UgzTiVNtN7sMOQDj3CZ4AaABAg.98zZJv63zoe98zhoXuRml-",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스노피 아니 그러면 댓글을 (비속어) 마시던가요,",
+        "writer": "UgzTiVNtN7sMOQDj3CZ4AaABAg.98zZJv63zoe99-4_eSg6OK",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)들아 제발 이런 영상에서만이(반사회적용어) (비속어)는 하지말자",
+        "writer": "UgwSgTPieQo5aOmvW1h4AaABAg.98zZGMp2Myz98zaFgiN_x9",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "js Lee 니가 맘대로 만든 규칙에 쟤가 따라야 함",
+        "writer": "UgwSgTPieQo5aOmvW1h4AaABAg.98zZGMp2Myz98zjSMw4bQt",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만두 머리가 있다면 하지않지 심각한 영상인데",
+        "writer": "UgwSgTPieQo5aOmvW1h4AaABAg.98zZGMp2Myz98zuDvHz3Zp",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 신경쓰는 니(비속어)가 감동 쳐 깨네",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV98zdGgcLf5t",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "말하는 (반사회적용어) 봐라 맞는말 한건데",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV98zf-0GFAm2",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭘봐 초면에 말 증말 예쁘게 하시네요",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV98ziTwzdJnR",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대(이름) 헌법 1조 읽어 대(이름)은 민주 공화국이야",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV98zjXbJbTwH",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하면 어떠냐 저 여자가 이 댓글읽을리도 없는데",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV98zlkSAc_OQ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아니 그럼 안타까운 사연인데 (비속어)하면서 (비속어)하는게 맞는행동임",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV98zmoJF5xfV",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만두 갑자기",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV98zvzHIl9HZ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만두 자유에는 책임이 있죠. 갑자기 웬 딴소리.",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV991TTMT71j9",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다굴할꺼 예상함",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV994kAB1tvHA",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 하면 철창가냐 발 (비속어) 보기좋네",
+        "writer": "UgwbEtLJjyfZGuCT2HB4AaABAg.98zZAnQzoHV994kFsqSJaP",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삶 입니다",
+        "writer": "UgyReMWpxnyOBqfje7N4AaABAg.98zZ70CP38s98zZq1Hg7o6",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "굳이 이런데서 이렇게 이런영상에서 좀 생각을해라 눈치꽝 (혐오표현)야",
+        "writer": "UgyReMWpxnyOBqfje7N4AaABAg.98zZ70CP38s98zgRTTzrFu",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 뭔소리인지 모르겠음",
+        "writer": "UgwycrHPgt9xnu87NJh4AaABAg.98zYthGoejZ98zpgw5iXyf",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방채훈 오 맞는것같네요. 해석 감사합니다",
+        "writer": "UgwycrHPgt9xnu87NJh4AaABAg.98zYthGoejZ99-UEFfyceO",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행동으로 살짝 표현하시는데 그걸 제작진이 캐치하는거죠",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98za3Y-EVbz",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세은이볼은인절미 1분",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zaFpvivmG",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벅규TV 49초전",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zaWN6GwH5",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이슬 53초전",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zad8vtekS",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이슬 58초 전",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zadlqB3c8",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "L_Slime 8분전",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zbd2BfPmH",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마전 왜 쓰는거임",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zbsnLx1VI",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "AI ww 6초전",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zbt3Ak0bB",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그만좀",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zbtfyzy9v",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대체 시간이 뭐라고 와 1분 와 10초 이러냐,",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zbugrmkDK",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이영상에서 얼마전 그런 댓은 좀,",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zc1pu8d8C",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런데서 숫자놀이나 하고있노",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zcFgHyW3r",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뷔꾹짐진 (비속어)초전",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zcJ8lEQPw",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3 6분 전",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zcR2DYSh7",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "숫자놀이 금지선",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zh376HcY0",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 숫자놀이 금지선 님",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98zhPMuLt4H",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (비속어) 너때문에 (비속어)밭됐잖아",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98znT2cdcSU",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇초전 이러는 애들 진짜 없는애들 같아",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec98ztgoHrOBi",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 방지선",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec99-2tXp3Nnc",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 수화도 하시는 것 같아요",
+        "writer": "Ugws1E_NUsksGN_Ls054AaABAg.98zYseeICec9KCv8gpsM5-",
+        "write_date": "2021-03-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 조금 (이름)네요",
+        "writer": "Ugylyb83BedOl90rX8F4AaABAg.98zYdiM8mDN98zaannNqm8",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 일분도 안 되서 보는거 첨이얌",
+        "writer": "UgyheSYFPzAEBZJoUWR4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마스크 쓰고 있으면 불편하실 텐데 그것도 20년이나",
+        "writer": "Ugya061NSBxMc16oLzt4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 댓글이 제 심기를 찌르네요 (비속어) 왜 하는(혐오표현) 별거 아닌 댓글에 좋아요 감사하고 너무 슬프네요",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋어요 1번째인데 오륜가))그래도 이재 행복하길 바래요 이쁘신데",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요는 4등",
+        "writer": "UgzK9wrgkWo_eB0VUFd4AaABAg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형석 그레여",
+        "writer": "Ugya061NSBxMc16oLzt4AaABAg.98zYTZcodvt98za_AIoXQK",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형석 계속쓰면 쓰고있는지도 모름",
+        "writer": "Ugya061NSBxMc16oLzt4AaABAg.98zYTZcodvt98zaa50FABm",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형석 .요즘 마스크 많이 끼는데 2시간정도 끼니까 있는지도 몰라서 끼고있는상태에서 물마심",
+        "writer": "Ugya061NSBxMc16oLzt4AaABAg.98zYTZcodvt98zdGYST1pU",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오듀 너무 웃겨,",
+        "writer": "Ugya061NSBxMc16oLzt4AaABAg.98zYTZcodvt98ze-Sopk70",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 대부분 다 수준 낮은 (반사회적용어)들이나 함.",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zZlBIz0bo",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 하는 수준낮은 (반사회적용어)들 때문에 그나마 괜찮은 (반사회적용어)들 (이름)가 회손됨,",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98z_P4L3CF_",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그와중에 또 (비속어)하시네, (반사회적용어)들 (이름) 깨지마요",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zayLzXrU1",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 그러시군요. 그건 죄송합니다",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zbVICgzb9",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정사또 신고만 (비속어)하는 (비속어) (비속어)같아,",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zdSZUQZ15",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "rkd 라고 (비속어)가 말하였습니다.",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zdUnkBZze",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샐리채널 라고 (반사회적용어)이 말하였습니다.",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zdVsuUUUt",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 (반사회적용어) 아닙니다. 제가 (비속어)를 영상 보는 것마다 있길래 말한 거였습니다. 님은 닉네임 봐서 (반사회적용어)인것 같은데 그러지 않으셨음 합니다.",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zeILFLPXq",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샐리채널 아닛 이렇게논리적이게 욕안하시고말하시는데 중딩같으신디요,",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98ziH34LDf9",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자신의 감정을 남에게도 적용(비속어)려는 그들, 대(이름)은 민주공화국 입니다",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa98zjmLFFNyW",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정사또 컨셉인데 죄송합니다",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa99-G18Nqg4T",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "담떡 죄송합니다 그럴 의도는 없었어요 죄송해요",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa99-G4inItR4",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정사또 근데 욕하지는마요 왜욕하는건지 꼭 욕을써야하나 욕이 버릇됨",
+        "writer": "Ugwik7QuciQgPK7t0iJ4AaABAg.98zYNL11LQa99-GAk49Uth",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런데와서 빠놀,",
+        "writer": "UgxtqnoIGLgtTvJTCqF4AaABAg.98zYJMHTEzC98z_EuimqPm",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런데서 빠놀 하고싶나요 (비속어)",
+        "writer": "UgxtqnoIGLgtTvJTCqF4AaABAg.98zYJMHTEzC98zaMpO5cA3",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름뭐하지 오류인가를 줄여서 오륜가로 한거다",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98z_FfzgfD5",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름뭐하지 오류인가를 줄여서 오륜가로 말씀하신겁니다,",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98z_XA6RUOF",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름뭐하지 요류인가의 줄인말 오륜가",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98z_j9JPc-h",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름뭐하지 다른사람들은 님 한테 존댓 썻는데 님은 왜 아아 죄송합니다. 라고 안했어요 죄송이뭐에요 죄송은 친구나 이는 사람한테 하는말아닌가 님 인생 그따구로 살지마세요 또 그러면 내 반모자중에 100만 있는데 저격할거에요",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98zbP58P-c7",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예룜 컨셉이죠,",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98zbsEywA_r",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지연 3년차 태싹이 어엉 제발그래줭 우리 (비속어)(비속어)",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98zgjW-KtQU",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름뭐하지 굳이 이영상에서 지적을",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98zglDyx2co",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지연 3년차 태싹이 제발 컨셉이라 말해줘요,",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98zvqr1m3qA",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지연 3년차 태싹이 말 한번 잘못썼다고 꼬투리 잡으시네",
+        "writer": "Ugxi32jExEGIiFhtTw14AaABAg.98zYGQYLLhz98zwZha2hqL",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕 하지 말아주세요",
+        "writer": "Ugy7fGZbiMhmZqcxEZB4AaABAg.98zYGK3sUOO98zvGACu1hU",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "익명ikmmyong (비속어)하지 말아주세요",
+        "writer": "Ugy7fGZbiMhmZqcxEZB4AaABAg.98zYGK3sUOO98zySwfvut8",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형석 네",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zYdA4wB4v",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형석 맞아요 댓글1빠",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zZCpPYJhr",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모르면서 그러지마세요",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zZHLW-p5A",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형석 싫은데요",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98z_1DoXYWz",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승연 1빠 아닌거같으니까 발뺌하는거봐라",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zaWUEW3q-",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Js 아니에요",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zbOO1pDo7",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형석 너도 그래",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zbPmTnb34",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승연 다른사람이 1할때 제가 댓 1빠인데 하트 7개 빼고 그걸 또 찾아가서 말 하는 수준 너무 유치하시네요, 그럴 시간에 영상에 대해 한번만 이(반사회적용어) 자신의 인생을 생각하시는건 어떠실까요, 채팅 물 흐리지 말아주시고,",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zcSro1NZI",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승연 뭐 자기말은 무조건 맞다고 생각하시나보네, 실제는 10등이신데,",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zc_pEL26D",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승연 이런 영상에서도 (비속어)하는 님도 참",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zchUySZ7Y",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세란 네 노력할께요 좋게말해주셔서 감사해요",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zcuhQ3uPx",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아 그래요 제가 댓달때 댓이 없어서",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zcxk0Ljj6",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승연 아녜요 저도 답글이 공격적으로 말 한거 같아서 이 부분은 죄송합니다. 긍정적으로 수긍해주셔서 오히려 감사합니다",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zdKrlOGG4",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈치없게 이런영상에 (비속어)하지마요",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zdtHKc2BL",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 그만좀",
+        "writer": "Ugxb99TRT617VdHkUS14AaABAg.98zYFu1Pty-98zxv5F9xx1",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지구에사는사람 이사람 (비속어) 하는데마다 가서 (비속어) 적고 왔엌",
+        "writer": "UgyltkTRy9X7R_82eUZ4AaABAg.98zYFrpNrBT98zdC6RtCz1",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "SH 진짜요",
+        "writer": "UgyltkTRy9X7R_82eUZ4AaABAg.98zYFrpNrBT98zeD79y_dP",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김쑤TV Kim soo 저 애 (비속어) 수(이름)면서 이(비속어)했음",
+        "writer": "UgyltkTRy9X7R_82eUZ4AaABAg.98zYFrpNrBT98zhpQlgqID",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 8번째아니었나요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zecY1UFGE",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "규열 갑자기 (비속어)은 뭐예요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zeePF_bQf",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지윤 이 영상보면서 (비속어)하는 (비속어) 당신에게 하는 말입니다",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zhddBsEwc",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워요 제가 왜 (비속어)이죠 그리고 님 저 알아요 초면이면 말좀 똑바로 하세요 그리고 저만 (비속어)하는것도 아(비속어)든요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598ziUgQwYHm",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 (비속어)는 금지인가요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598ziXsmEcZ7",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지윤 진지한 영상에서 (비속어) 쳐하는게 정상이냐",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zigEeezWh",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지윤 혼자 아니면 다 되냐 무식한야 그럼 살(반사회적용어) 많은 사람들이 지렀는데 그게 합법이냐 (비속어)들은 자신감은많 은데 나 무식하네",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zjI0gtEhu",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그런데 왜 반말이죠",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zjsqypuqN",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워요 (혐오표현)이랑 (비속어)랑 같아요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zjxKycDQO",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Max Verstappen 그럼 님은 모르는 사람한테 반말하는게 정상이예요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zk1151PbY",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지윤 반말 운운하면서 (비속어)하지 말고 니가 욕먹는 이유를 좀 쳐 알아보세요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zk5GIw2YV",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지윤 그럼 (비속어) (비속어)들 다한다고 (혐오표현)하는 당신한테 비유도못하고 오냐오냐 할까",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zkm4Qocvf",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지윤 그러는 니는 진지한 영상에서 (비속어) (비속어)하는게 정상이에요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zlDeuj51V",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Max Verstappen 그럼 제가 잘못한게 (비속어)고 님은 잘못한거없어요",
+        "writer": "UgzTs_826S8fxYnBeVd4AaABAg.98zYFhg5AL598zm4e1gj4d",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 (비속어)빠",
+        "writer": "UgyMHGY3Ty2N9C-2YHZ4AaABAg.98zYFA0Yl1C99-CoE1JqRb",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 댓 1빠인데 하트는7빠고",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zYSsfI1T8",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)하지마 (반사회적용어)들아 저분 안불쌍하시냐",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zaMhDV-O0",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 그켬",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zaV8ecxlg",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "js Lee 니는 (반사회적용어)아니냐 (반사회적용어)아니면 초(비속어)절없었냐 양심에 털났어 아니 아예 양심이 없지",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zbYRwb9sZ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 양심없는 (비속어)",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zcEd5dhOw",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 (반사회적용어)때도 (비속어) 그딴거 안했어",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zcH5B0gAV",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 중1이다",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zcICehn8G",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주형아 숙제하자 뭐야 이제 갓중딩이구만 중딩됐다고 신났네 (비속어) 안하는게 맞긴 하지만 갓중딩이 (비속어)(비속어) 거리는거 보기 안좋음",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zcOkuKPIO",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중딩이고 (반사회적용어)이고 이 영상에 (비속어) 하는게 맞는게 아니잖아",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zch7rHMeK",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 하지마라",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zckFEAiZb",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서리 그리고 그 말(반사회적용어)보면 니가 양심이없구나 저분을 보시면서 그런소리가나오나",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zhLVor_SQ",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서리 왜저래",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zuKwm52J3",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜리 (비속어)는 어림이를 가리키는게 아닌 녜의없고 양심없는사람을 가리키는 말입니다",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zy6amL9qe",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혜리 그리고 원래 저런거 저도 나 싫었는데 이제 중딩됬으니까 그러는거기도 하고(나이물어볼까봐) 계속 귀찮았던 것도 있어요",
+        "writer": "UgxnnJ1bUqbsmMhjMBZ4AaABAg.98zYEPebMXn98zyLNrU9AN",
+        "write_date": "2020-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=JET_-j_3scA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

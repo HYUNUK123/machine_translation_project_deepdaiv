@@ -1,0 +1,844 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001675404",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001675404"
+    },
+    "text": [
+      {
+        "content": "왜 좋아요가 달리는거여 난 단순히 (이름)의 영어발음을 쓰고싶었던건데",
+        "writer": "UgxG0uedMTyiNOQDnIB4AaABAg.97WF-TunqiF97WVdVI98nx",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심바앙 내이름은 준",
+        "writer": "UgxG0uedMTyiNOQDnIB4AaABAg.97WF-TunqiF97WhOiQznM0",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신문철 글시채 레게노",
+        "writer": "Ugwwsr4-FHYiE3tAS194AaABAg.97WF-OwYZ__97WFO5-kwQ4",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신문철 어케함요",
+        "writer": "Ugwwsr4-FHYiE3tAS194AaABAg.97WF-OwYZ__97WFgyr50gm",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "aaa 레세노",
+        "writer": "Ugwwsr4-FHYiE3tAS194AaABAg.97WF-OwYZ__97WGmQlewqu",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "NO 신고합LEGE.",
+        "writer": "Ugwwsr4-FHYiE3tAS194AaABAg.97WF-OwYZ__97WOI0AHdIE",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그는 마크유튜버이다",
+        "writer": "Ugz-uNVhDvfUQbxTN5V4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뱅송보다 왔어요",
+        "writer": "UgxkLxVqdaFZ138AWB14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보고잘께 사랑해",
+        "writer": "UgzPEDQPRpyv90Jw5hF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계 최초.",
+        "writer": "UgwR6zvmjp1pr1aUvjJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 보고있는데 떴다",
+        "writer": "Ugz1StaSjn7wX3bJ7Ah4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁구텽 하트줘",
+        "writer": "UgwKxyOQdGLnTRFFm-J4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 너무조아 햙",
+        "writer": "Ugx2A1Kj_a8erZu5Cop4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgxfY-xvCUn_HeWf6SZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방보고 달려옴...",
+        "writer": "UgwIBaLZXC9cOzvpeVh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "월 형클이야",
+        "writer": "UgwF-hdnJAoppJ89Led4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 (비속어)같던 우왁굳이 맞냐 진짜 가슴이 웅(이름)다,",
+        "writer": "UgzKzaM5gq6ihJnAq4R4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 형 세계최초. 그 (비속어)같던 우왁굳이 맞나 가슴이 웅(이름)다,",
+        "writer": "Ugw_jM-CF9vQauEJNjJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끝말잇기 시작 사다리",
+        "writer": "Ugxd5s-4G01kTEhxF-N4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 형 월클 다됐구나 개미쳤다 형 (비속어)멋져",
+        "writer": "Ugxuo7KZhW-KCAHt-SZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해 혀엉",
+        "writer": "UgxxePgEEMfxaYHLaKZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 너무 자랑스러워",
+        "writer": "Ugw0Hc-txBmfUuqZfx54AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 레게노야",
+        "writer": "UgynmlUZA3JosLD2YbJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개미쳤다 내가 알던 우왁굳 맞냐 맞네",
+        "writer": "Ugxuo7KZhW-KCAHt-SZ4AaABAg.97WEyF7-9BU97WFNj-FoG4",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 우왁굳은 (이름)다,",
+        "writer": "Ugxuo7KZhW-KCAHt-SZ4AaABAg.97WEyF7-9BU97WGsv5GOdq",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 (비속어)같던 우왁굳 맞냐 아직도 (비속어)인 우왁굳 보면 마음이 우왕해진다",
+        "writer": "Ugxuo7KZhW-KCAHt-SZ4AaABAg.97WEyF7-9BU97WGtHG-Es8",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시연진 그 (비속어)같던 우왁굳이 맞냐 맞다,",
+        "writer": "Ugxuo7KZhW-KCAHt-SZ4AaABAg.97WEyF7-9BU97WJT7HvOtg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 개미 쳤다고 봄",
+        "writer": "Ugxuo7KZhW-KCAHt-SZ4AaABAg.97WEyF7-9BU97WJztkX12z",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자면서 왜형(이름)노 오빠지 성정체성 혼란왔노",
+        "writer": "Ugw0Hc-txBmfUuqZfx54AaABAg.97WEy3_f2T897WLWD_TdOh",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 쓋",
+        "writer": "UgwgQbNtfuXn0XI4i3R4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgxjjvA9Ob48li2Q-IV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방보고온 팬치 우끼끽",
+        "writer": "UgxuVbj_1gLjN9BUrUt4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크으 미쳤따",
+        "writer": "Ugw9OGtzMBKLUWNZSpd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 2회 댓글 57개 (비속어)누",
+        "writer": "UgwCcbRrt-kKjKZc9LZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 3신가 , 아닌데 10신데 , 형 왜 벌써 ,",
+        "writer": "Ugyn1X0BA5kETW24wlp4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 나 3회야",
+        "writer": "UgyCop0l1Kaj4tgOEmN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 진짜 (비속어) 너무 좋아 RTX가되는 마크라니",
+        "writer": "UgybuZleKcxjJvlJGeB4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최초굳 레게노",
+        "writer": "Ugw_gyjF4Q9troTuWvh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올라왔어 형",
+        "writer": "UgyQwmqE9dl-Aoha5ul4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계 최초",
+        "writer": "UgxiROvYJSxsLYfUBdZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁굳 그는 신인가",
+        "writer": "UgxEJuDsQbenJkPhiLh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 레전드야",
+        "writer": "Ugz-mmG_6AGq_N0VKNJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 세계최초",
+        "writer": "Ugz-JGZvI52fLY4-FAN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 세계최초 레게노",
+        "writer": "Ugxft4YwhF9KCyG9fGV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 레게노야",
+        "writer": "Ugzvb1MiLu6oZJtJRDF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 방송에서 올렸다고 해서 달려왔어",
+        "writer": "Ugywq4Z6W08L3W5tm8d4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 이거다",
+        "writer": "UgzcC_6GZUgN2jgcQiN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgzNvUUBcfvhuv6PlTd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 형이야",
+        "writer": "Ugy5f6GWTSJdcsQ3b9N4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계최초 타이틀 우왁굳 형은 우리의 레게노야",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "타이 틀",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg.97WEwvMo8Xy97WFld7Rkyo",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)왕김도치 따구리",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg.97WEwvMo8Xy97WHqR5ADQI",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우(이름) (비속어) 하시나요",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg.97WEwvMo8Xy97WIkxNHvSO",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 레게노가 어딜봐서 (비속어)냐 (비속어)아",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg.97WEwvMo8Xy97WJ5RV6bGB",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 뭔 (비속어) 하는거야",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg.97WEwvMo8Xy97WJ8YQaquW",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 우리 준식이형 닉네임달고 그런 소리 하지마라",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg.97WEwvMo8Xy97WM2ZV37BB",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 엄준식 이미 떠난지오래야 (비속어) 정신차려 (비속어) 그가 돌아올거같애",
+        "writer": "UgyFA_VwS-fx8Rlc_UF4AaABAg.97WEwvMo8Xy97WPJD_dNIp",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 우왁굳",
+        "writer": "UgxIEJrosDWifegUN914AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와, 지금올라왔네,",
+        "writer": "UgygsUrkMkTAEzE5aUF4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 형 너무좋아",
+        "writer": "UgzSkzlrOYo8gV3x1JB4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가슴이 웅(이름)다,",
+        "writer": "UgxGeLM_b2GkDweVtB94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이시간에 무슨일,",
+        "writer": "UgwwYhW0jPHQwFnfW254AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 멋져",
+        "writer": "UgzW8mp4Nf4seUk2EAV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "RTX라니 와. 세계최초 레게노",
+        "writer": "UgyO5bwEj85FdCJBaEV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해 드디어 1위야",
+        "writer": "UgwPDxH3HHqmSu3oxRt4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "23번째 좋아요",
+        "writer": "UgylTLFjzrxT49ZN8Xx4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계최초 실화야",
+        "writer": "UgxQTgEVXFsTJBeqLth4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레게노 기대도못했다",
+        "writer": "UgxpIiE2MynxEpO_hM94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "UgwaaLdmLeQBoGKWr9l4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 세계 최초야",
+        "writer": "Ugy6-Id1sR1Z4Dr5s5d4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계최초 레게노.......",
+        "writer": "UgwlGkz0PxQnalXP3CJ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 래게노",
+        "writer": "UgzNVOKJNP0HHG_bpql4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁트모르즈비 vr 끼고 함 하자",
+        "writer": "UgzMVlNpUyMnoYA-DPZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계 최초",
+        "writer": "UgwAvYwo6laNr16fhzp4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 잘시간이야",
+        "writer": "UgzGXu5NvFtbM1jEZeN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 뭐야 이시간",
+        "writer": "UgzizRvE8qZUeyxvSJh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계최초 LEGENO",
+        "writer": "UgyhpWy976PA5bwYPE14AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "홀리몰리 멋있어 형",
+        "writer": "Ugz9i4FaSuwvkuIN3IZ4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "곽부장 팬치 우끼긱 우끼 덮어 덮어 세계 최초다 우끼끼",
+        "writer": "UgwAvYwo6laNr16fhzp4AaABAg.97WEvuhkH1c97WF8vCYhTY",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방으로도 보면서 유튭까지 같이봐버리는 우리 참팬치들,",
+        "writer": "UgwAvYwo6laNr16fhzp4AaABAg.97WEvuhkH1c97WFdFL-_io",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엠바고 풀림",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WFA9PJ9lC",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김인직 핀과 제이크의",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WH-78mSTl",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화이팅 콩나무",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WHcmPvk21",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우(이름) (비속어) 하시나요",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WInSinHQw",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄준식은살아있다 너 (반사회적용어) 오지게 끈다 며칠전부터",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WJ40J5H0l",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 엄",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WJ9nGYmKj",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 니네 고향으로 돌아가 여기서 물 흐리지말고",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WJBVEcn-K",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄준식이 사람 이름임",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WJhMa--kX",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 준",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WKDyPWpem",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 식",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WL70_QGvs",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남재원 (반사회적용어)를 처음 봤을 때 뭐지 이 (비속어)는 이란 생각이 들었다 이제 너의 (반사회적용어)를 보면 슬슬 안타까워지려고 한다",
+        "writer": "Ugy2VMDPB6zf1OZJ5B54AaABAg.97WEvpKQYnk97WLqe3xjUX",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 (비속어)",
+        "writer": "Ugz_NHDtvgz2OgmX8HR4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것이 세계최강자",
+        "writer": "UgyS5_YzrSUpCKrx5bl4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 세계최초 실화야",
+        "writer": "UgzZHVtkZIddpipGI7B4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 마크 유튜버 우왁굳 미춌다",
+        "writer": "UgyTYp1VIiDHw5EPS454AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세계최초 플레이",
+        "writer": "UgzNXGO9B6gublz4RMx4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 오늘 진 일찍 올렸당",
+        "writer": "UgzbNlGR5MLuCwF5Yrd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 세계최초 미쵸",
+        "writer": "UgzKSvxvYx8PdQUTaaV4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 기분좋아",
+        "writer": "UgxCvNPjoaEA6qu5EBl4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 쩔어",
+        "writer": "UgyU_KHbG-OmL7DdT3V4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후욱 후욱",
+        "writer": "UgzC10RneaGAyxlMFc94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해",
+        "writer": "Ugx_EcEFIkfv0c3CM1B4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역씨 왁꾸텽이야 근데 형 너무 커지는거 아니야, 마크 (이름) 뭔진모르지만 세계최초라니, 난, 나만의 멈춰있는, 오쨩이 그립워,",
+        "writer": "UgyuCapqTE_0aWHHNw94AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 을 보았다,",
+        "writer": "UgyuCapqTE_0aWHHNw94AaABAg.97WErv5HIav97WFbV6Lg9k",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=UCq1TUmhCNM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

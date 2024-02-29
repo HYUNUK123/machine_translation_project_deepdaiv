@@ -1,0 +1,556 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001401218",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001401218"
+    },
+    "text": [
+      {
+        "content": "(비속어) 사항 2021.06.13 게임에 버그가 있어서 알려드립니다. 보석을 잡아서 끌고 오는 시점에 마우스 클릭을 하면 다시 보석이 쭉 발사되었다가 빠른 속도로 되돌아오는 버그가 있습니다. 이는 게임 루프 내 마우스 이벤트 처리하는 부분에서 다음과 같이 수정해주시면 해결됩니다. if (이메일) (이메일) (비속어)1 line if (이메일) . STOP 조건 추가 집게가 좌우로 이동중일 때만 마우스 이벤트 처리 (이메일)_direction(STOP) to_x move_speed 학습에 혼란을 드려 대단히 죄송합니다. 그리고 버그 제보해주신 봉희 님께 진심으로 감사드립니다. 환경 설정이 필요하신 분은 아래 링크를 방문해주세요 4 게임 설명 및 소스코드는 아래 링크에서 받으실 수 있습니다. 88 목차 () 0.Intro () 1.소개 () 2.기본 (반사회적용어) () 3.배경 이미지 () 4.보석 클래스 () 5.보석 그룹핑 () 6.집게 클래스 () 7.집게 중심점 () 8.집게까지 직선 긋기 () 9.집게 흔들기 1 () 10.집게 흔들기 2 () 11.집게 발사 () 12.집게 돌아오기 () 13.충돌 처리 기본 1 () 14.충돌 처리 기본 2 () 15.충돌 처리 기본 3 () 16.충돌 처리 고급 1 () 17.충돌 처리 고급 2 () (비속어).게임 점수 (2(비속어)25) 19.게임 오버 () 20.다양한 보석 추가 () (이메일) 패키징 게임 이미지 1. 집게 (이메일) 2. 보석 (이메일)1querygold20minerposition5 3. 배경 (이메일)1queryyellowposition45 4. 카트 (이메일)1querymine20cartposition33 5. 광부 (이메일)1querygold20minerposition1",
+        "writer": "UgyAnc2UQ2dn8yAuESt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대학생인데 공부는 드럽게 하기 싫고, 유투브에 뜨길래 컴 앞에서 뚝딱 만들어봤습니다. print만 아는 인간인데 어찌 다 만들어졌네요 재밌네요. 저는 바탕에 보도블럭 사진 깔고 금을 은행열매로 바꾸어서 은행(비속어)치우기 게임으로 만들어봤어요 잘봤습니다",
+        "writer": "UgysmxTtjiQEuYY7tip4AaABAg",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 선생님 저, 혹시 키보드 뭐쓰세요 혹시, 저렴하게 구할방법은 없나유",
+        "writer": "Ugz09Z_nqjMT2EE4RdR4AaABAg",
+        "write_date": "2021-10-04",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "pip install game이라고 치면 계속 pip pip 용어가 cmdlet 함수 스크립트 파일 또는 실행할 수 있는 프로그램 이름으 로 인식되지 않습니다. 이름이 정확한지 확인하고 경로가 포함된 경우 경로가 올바른지 검증한 다음 다시 시도하십시오. 위치 줄1 문자1 pip install pygame CategoryInfo ObjectNotFound (pipString) CommandNotFoundExc eption FullyQualifiedErrorId CommandNotFoundException 이라고 떠요",
+        "writer": "UgwRorl5WRLDoGlsdiJ4AaABAg",
+        "write_date": "2021-09-20",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)이라 영상 보다가 삼각함수 나와서 깜짝 놀람",
+        "writer": "Ugz5WL9LnicnNq6_mvx4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 초5인데 파이썬때문에 일부러 지금 고3 수학 배우는중",
+        "writer": "Ugwr0Z4zXbd7AQKY-XJ4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기본 (반사회적용어)에서 똑같이 코드 쳤는데 display 가 저렇게색표시가 안되서 그런가 창이 안열려요 이럴땐 어떨게 해야하나요,",
+        "writer": "Ugx9bgd88lxC6p84-lR4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진도 다운받고 환경설정도 하고 소스도 다운받은거 다 썼는데 뭐가 문제죠,",
+        "writer": "UgxmDMgedauV8Fg5jMh4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 궁금한점이 있습니다. 선생님꼐서 영상을 만드시기 전에 공부를 하셨을 것입니다. 다 구글링해서 공부를 하는 것인가요",
+        "writer": "Ugy9fEsbIxtkKRwL3-N4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 수고많으셨습니다. 감사하다는 말씀을 드리고싶네요.",
+        "writer": "Ugx7Tw0MlPOVnGsJLUJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느아닛 알고리즘이 내게 가장 필요할 영상을 1개월 후에야 알려주네 알림 켜야겄다",
+        "writer": "Ugzbs8gIM3FmcpVh4Y54AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 (이름)을 통해서 코딩이 이렇게 재밌는건지 처음알았어요. 혹시 파이썬 활용편 데이터분석편은 언제 나오는지 알 수 있을까요 항상 영상 잘 보고 있습니다.",
+        "writer": "Ugzt3s1xXquDLNMQAAN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우, 무지 기다렸었는데, 항상 감사드립니다.",
+        "writer": "UgwLmLJSpEZL2RhxeZB4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 opengl과 c강의 가능하신가요",
+        "writer": "UgxqbnAad02dOjoHlqJ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 pip install pygame 했는데 왜 다운이 인받아지죠",
+        "writer": "UgwhCS4a8hLGfyla_Wl4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 일어나떠 ..",
+        "writer": "UgyAnc2UQ2dn8yAuESt4AaABAg.9O29B_PXNwI9RPPdBHYD4J",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 다운로드 PATH 가 잘못되었을 수 있습니다. 저도 그랬거든요,",
+        "writer": "UgwhCS4a8hLGfyla_Wl4AaABAg.9PHSOg1hOme9PPyilAYtZb",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 다름이 아니라 파이썬 터미널이 뭘 잘못 눌렀는지 갑자기 한줄씩만 뜨는데 어떻게 해결해야하나요",
+        "writer": "UgwpLfdmeXRvzCYeF1F4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 잘보고갑니다 혹시 c 강의 만들실 계획은 있으신가요",
+        "writer": "UgyzqppHI78E7BxVNM14AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질문입니다 랜덤을 여러개 뽑을 수 있나요",
+        "writer": "Ugw4ieiXl42HiU9yKUx4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 수업 들으면서 게임 실행할때 FileNotFoundError No such file or directory. 이라는데 이게 무엇이죠 이거 때문에 게임이 실행 되지 않는것 같은데,",
+        "writer": "Ugy3sb1uZUXaCRntMLh4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 즐겨하는 게임을 제가 직접 만들다니 감회가 새롭다. 난 내가 이걸 만들 줄은 몰랐어",
+        "writer": "UgzjjnxiPaAOKZFo0GZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나고(이름) 혹시 코딩에대한 고민이 하나있는데 들어주실수 있을가요",
+        "writer": "UgyT_ZEsHWJtnimi0NZ4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 파이썬 강의 잘 봤습니다 혹시 swiftui 강의 계획은 있으신가요",
+        "writer": "Ugx8rOVwGO8vaM_OcRV4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주식 자동매매 프로그램을 만들고 싶은데 어떻게 해야 하나요",
+        "writer": "UgxSoYZq4hPyaKlOGdV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 강의를 또 발표하셨네요. 언제나 응원합니다,",
+        "writer": "UgzRxyU707r7PyRIaPR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Pyinstaller 패키징에서 (이메일) 실행시 Failed to execute script 13_setup 오류가 발생하는데 찾아보니 경로 (비속어)거 같아요 해결 방법 있을까요",
+        "writer": "Ugxfyv0U1WXiy55GlHx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌 큰 황금을 끌고 오고 있을때 한번 더 누르면 빠르게 와요.",
+        "writer": "UgwxvBS7h904SOfhkw54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 감사합니다.",
+        "writer": "Ugy0gh_pre_kGNIXOKt4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 너무 잘봤습니다. 너무 감사합니다.",
+        "writer": "UgwqsbScaCjHYrVwJaV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 보았습니다. 말씀 하신 그림 화일 링크가 어떠게 되는지요 아무리 보아도 링크를 찾을 수 없네요",
+        "writer": "Ugz8XE2F9sHFVE0KU4J4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 백엔드 강의좀 해주세요..",
+        "writer": "UgzsAXzLgs2IqEnuDpl4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화면 캡처 어떻게 하나요",
+        "writer": "UgwSkm5gnYHHWPZsn2R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 추억겜",
+        "writer": "UgyL4X1Xc_bI_S-uqTN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇시간 짜리 양질의 강의 무료로 만드시느라 수고가 정말 많으십니다.",
+        "writer": "UgwsYMYd3Qj3VcWFzBB4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "님 왜 stone을 stond로 썼는데 왜 눈치를 못채여",
+        "writer": "UgycFfaa1H2b0ds85L94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 terminal 실행했을때",
+        "writer": "Ugy3sb1uZUXaCRntMLh4AaABAg.9Oz4Z__AJ9h9Oz5jWO3B6U",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알려주셔서 감사합니다. 미처 확인하지 못한 버그가 있었네요. 게임 루프 내 마우스 이벤트 처리하는 부분에서 코드를 다음과 같이 수정해주시면 됩니다. if (이메일) (이메일) (비속어)1 line if (이메일) . STOP 조건 추가 집게가 좌우로 이동중일 때만 마우스 이벤트 처리 (이메일)_direction(STOP) to_x move_speed 고정 댓글에 이 내용을 추가해두겠습니다. 학습에 혼란을 드려 죄송합니다.",
+        "writer": "UgwxvBS7h904SOfhkw54AaABAg.9OXQiVFLWSy9OXSUZSuiRV",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 작성한 고정댓글에 링크를 작성해두었는데 동일한 내용으로 답변드립니다 단 저작권 문제로 인해 제가 배포할 수는 없고 직접 편집하셔서 사용하셔야 합니다. 게임 이미지 1. 집게 (이메일) 2. 보석 (이메일)1querygold20minerposition5 3. 배경 (이메일)1queryyellowposition45 4. 카트 (이메일)1querymine20cartposition33 5. 광부 (이메일)1querygold20minerposition1",
+        "writer": "Ugz8XE2F9sHFVE0KU4J4AaABAg.9ORE6AFfyZ79ORFbOW6shE",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키보드 우측 상단에 PrtSc 라고 적힌 버튼 (Print Screen) 을 누르시고 그림판에서 붙여넣기(ctrl v) 하시면 돼요",
+        "writer": "UgwSkm5gnYHHWPZsn2R4AaABAg.9OGcrpyNb6n9OGf9qawnjP",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기본편과 gui 업무자동화 활용편까지 모두 도움정말 많이받아서 업무에 적용도 성공적으로 할수있었습니다 정말감사드려요 데이터분석편도 간절히 기다리고있습니다 늘감사드려요",
+        "writer": "UgyEFsJFo7FULUv83794AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언젠가는 파이썬으로 RPG도 만드나요",
+        "writer": "UgyJm-qJhKpEQxtY_w94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초6 인데, 동네 코딩학원에서,파이썬 9개월과정이라길래 c언어(학습식 )바로 가르쳐주는 다른 학원 알아보다가 여기까지 왔어요, 바로 c언어 배우는 학원이 나을지,올려주신 동영상으로 공부해도 될지, 아님 그냥 다 필요없고 영수공부 매진할지, 조언부탁드립니다.",
+        "writer": "UgwvyzvPtXXl7dTW_0p4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 우리 아들의 최애 채널에서 새 강의가... 오늘부터 우리아들은 황금캐기 게임 개발에 몰입하겠네요, 아들래미 질문에 답하기 위해서 저도 공부해야 할것 같다능,",
+        "writer": "UgxJqN6qI8s6ayKBxMR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 깔끔하고 좋은 강의 너무 감사드려요",
+        "writer": "Ugy6tSyHfBtOh2CelXB4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선생님 항상 좋은 강의 올려주셔서 감사해요 저는 데이터 분석 직무로 진로를 잡은 대학생인데 선생님이 알려주시는 데이터분석으로 기본기를 잡으면 흔들리지 않고 튼튼해질것 같아서 괜히 더 기다리게 되네요 구독자 쑥쑥 오르는거 너무 축하드리고 항상 감사합니다..",
+        "writer": "UgyFdtwhpJNU6BXeINp4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 잘 보고 공부하고있습니다. 혹시 다음에 기회가 된다면 django강의도 한번 검토해주세요.",
+        "writer": "Ugw0ECHWfsOlhq1tIHV4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운 영상 감사합니다 나도(이름) 덕분에 너무 재밌게 코딩하고있어요. 요즘 pyqt 공부해보느라 활용편 중간에 끊겼는데 얼른 프로젝트 마무리하고 다시 보러가야겠어요",
+        "writer": "Ugxfa8LPRTJ50zBF0rN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 오늘 올라온 따끈한 강의네요. 기본과 활용편 게임 개발에 대해 배웠으니까 저도 배울 수 있겠네요. 천천히 잘 배우겠습니다. 강의를 쉽게 잘 가르쳐 주셔서 늘 고마운 마음입니다. 6월의 첫날이네요. 시원하고 행복한 여름을 맞이하시기를 바라며 늘 건강하세요.",
+        "writer": "UgyTmjNkbwgMqe_mrFR4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 잘보겠습니다",
+        "writer": "Ugx5QI1tfeDMHcACzKN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "열심히 합니다",
+        "writer": "UgxyPfITSh4hZOGLGFx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "feat 꼬맹이 목소리가 궁금해서 열씸히 들어야겠어요 강의 감사합니닷.",
+        "writer": "Ugx-_eF_Dk94-Dm2xi54AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갈수록 강의력이 성장하시네요 감사합니다",
+        "writer": "Ugxr_3kK0AGOuSBjI9N4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기본편 다 보고 pip install이 맥북에 안되서 몇일 애먹다가 해결하고 오늘 활용편1 시작했어요 1편 보고 이 게임 만들기도 해보고 싶네요",
+        "writer": "UgzvXn_Zc0bgdtaByuh4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 따끈따끈한 강의다...",
+        "writer": "UgxWa7S4fpLZQLlzMpN4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 정말 보석같은 강의입니다.",
+        "writer": "UgymbUtSL61KteZr7Wx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싱글플레이 게임처럼 메인화면에서 게임화면 넘어가는걸 어떻게 만들지 안풀리네요",
+        "writer": "UgyJm-qJhKpEQxtY_w94AaABAg.9O7SAgZKPhq9O98zhDki6C",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 최근 영상 중 기억력 테스트 게임 개발편을 참고하시면 시작화면에서 게임화면으로 그리고 레벨별로 새롭게 화면을 그려서 플레이하는 방법을 소개하니 학습에 참고 부탁드립니다",
+        "writer": "UgyJm-qJhKpEQxtY_w94AaABAg.9O7SAgZKPhq9O9B_aAIoAs",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파이썬 기본편으로 공부 해보시고 재미가 있으시다면 활용편을 통해서 게임도 만들어보시고 적성에 맞다 생각되시면 그 때 C 를 제대로 공부하셔도 됩니다 처음부터 어려운 언어를 접하기에는 너무 이른 나이에요. 지금은 재미로 먼저 배워보시는게 좋겠습니다",
+        "writer": "UgwvyzvPtXXl7dTW_0p4AaABAg.9O4Emj21LbR9O4Qnx1bnDo",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도코딩 감사합니다. 파이썬은 올려주신 동영상으로 공부해도 되겠지요 9개월에 (비속어)0만원 이미 3개월하긴 했는데,",
+        "writer": "UgwvyzvPtXXl7dTW_0p4AaABAg.9O4Emj21LbR9O4dvk7bPzy",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Eunhee Lee 9개월동안의 커리큘럼이 어떤지 모르겠지만 초등 6년인데 그렇게까지 오랜 시간 자세한 내용까지 배울 필요가 있을까 싶습니다 학원 다니시면서 제 강의 함께 보시며 판단하는 것도 나쁘지 않습니다. 시간이 길지 않아서 맘먹으면 일주일 안에 기본은 뗄 수 있어요.",
+        "writer": "UgwvyzvPtXXl7dTW_0p4AaABAg.9O4Emj21LbR9O4eSDGg5eR",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도코딩 감사합니다",
+        "writer": "UgwvyzvPtXXl7dTW_0p4AaABAg.9O4Emj21LbR9O4f4nRX16o",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉, 강의가 늦어져 죄송합니다 혹시 지금 몇학년이신가요",
+        "writer": "UgyFdtwhpJNU6BXeINp4AaABAg.9O3qDrSQcyS9O3t6VVCdd0",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도코딩 아녜요 선생님.. 다른 강의들도 너무 양질의 강의라 천천히 보면서 코딩연습 하고 있습니다 현재 31 학기 입니다..",
+        "writer": "UgyFdtwhpJNU6BXeINp4AaABAg.9O3qDrSQcyS9O3tDs6mceu",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 다행히 1년은 더 남아있으시네요. 그래도 내년 초부터는 취업 준비 조금씩 하셔야할테니 하반기 중으로는 꼭 올리도록 노력하겠습니다. 이번학기 마무리 잘 지으시고 보람찬 방학생활 하시길 바랄게요 댓글 감사드립니다.",
+        "writer": "UgyFdtwhpJNU6BXeINp4AaABAg.9O3qDrSQcyS9O3thrza0Ts",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도코딩 정말정말 감사 드립니다 .. 많은 도움을 받고 있습니다. 선생님도 이번여름 즐겁게 보내세요.",
+        "writer": "UgyFdtwhpJNU6BXeINp4AaABAg.9O3qDrSQcyS9O3u3WdvKJe",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장고도 좋지요 활용편 강의를 얼른 마무리짓고 이후 커리큘럼으로 고려해보겠습니다. 의견 감사드려요",
+        "writer": "Ugw0ECHWfsOlhq1tIHV4AaABAg.9O3YkmWIlPY9O3_YzB04sc",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 잘 배웠습니다. 그림까지 바꿔서 하니까 정말 실감이 나네요. 그림을 넣을 때 절대 경로로 넣어서 하면 실행 파일이 잘 만들어지는데 현재 파일 위치 반환을 통해서 하면 안 되더라고요. 똑같이 따라 했는데도 잘 안 되네요. 그래도 실행 파일을 만들 수 있어서 다행입니다. 많이 배웠어요. 시원한 여름 보내시고 좋은 일 가득하세요. 늘 건강하세요",
+        "writer": "UgyTmjNkbwgMqe_mrFR4AaABAg.9O2TbGxRdsE9OXC5KfO2IU",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=sf5TmP137IM",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656514",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656514"
+    },
+    "text": [
+      {
+        "content": "걍 라면에 (반사회적용어) 먹어,",
+        "writer": "UgzuZ-T_SSYbyVi3uNJ4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게주는 레스토랑있듬",
+        "writer": "UgyQsds29YK4GzmUEUJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음 샤인머스켓",
+        "writer": "UgwlPEO55ZZBkxGoNkB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 돈 아낀다더니 나가 사먹는것보다 더 비싸게 먹네",
+        "writer": "UgxnAuG3cMfuOudt8id4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤인머스켓 없다고 쳐도 걍 잘처먹는수준인데",
+        "writer": "UgxxMlEJNqxfYQBHDbF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허허 나보다 잘먹는구만",
+        "writer": "UgxhoA01Qm1rFMCfLOJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 기억이 맞다면 송훈이란 분 국제요리대회 심판였던분 아닌가요 여기서 보네요, 얼마전에 유투브 파블린가 거기서 헬스장 망한다고 푸념하며 매일 치킨 시켜먹는거도 봤는데 인기가 많은분인가 보네요. 이분하고 그 통통하신 김훈 요리사도 기억나요.",
+        "writer": "UgyqyJsK4J9rW31TyB94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평소에 뭘먹길래 해물라면 막창 제육 샤인머스켓 나온게 아껴먹는거",
+        "writer": "Ugx1o9kIV97kG36S6dd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쇼 끝은 없는거야",
+        "writer": "UgytDnL6qNaAXnLvXhJ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저정도가 아껴 먹는 수준이면 평소에 어떻게 먹은거야",
+        "writer": "UgzsvV3s70h15_EEhuZ4AaABAg",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 언제 쉐프됨",
+        "writer": "UgwVZMTEgB3RQh01wWN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤인이나, 냉동완제보다 재료발주해서 제육해먹는게 더 싸지않음",
+        "writer": "Ugyxf2sgOrZ-0Oritax4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "업장에서 스텝밀 챙기다 보면 주변 가게나 지인 혹은 일하는 직원들의 (이름)들께서 이것 저것 챙겨주는게 많습니다. 스텝밀 먹는데 후식으로 먹을 과일을 그것도 샤인머스켓으로 십만원 넘게 구매해서 먹진 않겠죠. 아무리 봐도 협찬이나 선물인 것 같네요.",
+        "writer": "UgxiynKz1Nnn0F24QsN4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 샤인머스켓이야, 그냥 청포도아니야",
+        "writer": "UgyKSIqZBrZxKnfga854AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저게 때우는 거면 평상시엔 도대체 어떻게 먹어야 되는거여",
+        "writer": "Ugy5XVq8gZV_9az4MJV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지나가는 소상공인이 울겠다",
+        "writer": "UgzkDULz3-6S_qlc1oR4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도구가 있어야 요리 하죠 칼도 뻇겼어 지금",
+        "writer": "UgykRvjYqZiC1TAxc0x4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동정심 챙길려다가 샤인머스켓에서 터지네",
+        "writer": "UgxVebcAml4jc-7svE54AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) (반사회적용어)쑈 봐라",
+        "writer": "UgzPDd2k6y_W2gsIZFt4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엥 샤인머스켓 저 양이면 나머지 식재료값보다 더 비싸지않음",
+        "writer": "UgxR9EtVloCxMriiqSV4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헬스장은 다른 분이십니다",
+        "writer": "UgyqyJsK4J9rW31TyB94AaABAg.9LHAWjV8wza9LQGG_0X-1n",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제천대성 억측과 오해가 쌓이니 그걸 해소하기 위해 추정할 수 있는 예를 상술한겁니다. 되려 직원이면 구체적인 사정을 이야기 했겠죠. 예를들어 당시 어느 업장에서 누구에게 받은 것이라던지 혹은 늘 재료 사입하던 곳에서 직원들과 먹으라고 줬다던지요.",
+        "writer": "UgxiynKz1Nnn0F24QsN4AaABAg.9JJ2SOuB2BS9JwxRSymdlP",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤인머스켓이 아니라 청포도입니다.",
+        "writer": "UgxR9EtVloCxMriiqSV4AaABAg.9IonWmIfUEL9LXqAjBeZrE",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)맨 청포도 종류에 샤인머스켓이 있습니다.",
+        "writer": "UgxR9EtVloCxMriiqSV4AaABAg.9IonWmIfUEL9LY_a5o6_4v",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "se park 아닙니다 청포도입니다",
+        "writer": "UgxR9EtVloCxMriiqSV4AaABAg.9IonWmIfUEL9L_PJuNuxBi",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 대체 무슨대화야",
+        "writer": "UgxR9EtVloCxMriiqSV4AaABAg.9IonWmIfUEL9Ph9qKUropL",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)맨 저 색은 샤인머스켓이다",
+        "writer": "UgxR9EtVloCxMriiqSV4AaABAg.9IonWmIfUEL9Qt1rAwD9yC",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cbc 청포도라니깐",
+        "writer": "UgxR9EtVloCxMriiqSV4AaABAg.9IonWmIfUEL9QweOUNxC2h",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 맛 없어 보임",
+        "writer": "Ugyl9DM-EXxVeWwnHPx4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 비싼 샤인머스켓",
+        "writer": "Ugxw4iu9LYNHIO3uiWp4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식당주방에서 저렇게먹으면 일할시간없음만들어진거 가게메뉴 보통 먹음 주방사람들은",
+        "writer": "UgxU6JL6biXb4Vm6unt4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) .그래도 티안나. 어차피 매출대비 경비는 (비속어).큰법이야.",
+        "writer": "Ugywwwng7GgubgvfYqN4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈 아기려고 라면 떼우는데 샤인머스켓을 저렇게 싸아놓구먹냐",
+        "writer": "UgwhuiXPkZjQYDwJ_td4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식당에서 일하다보면 밥시간에 은근히 라면 땡길때가 있음. 염분 보충엔 라면에 제격인듯.",
+        "writer": "Ugyz3S6H9XDS6qTyPF14AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘나오는구만 걍 라면이아니라 해물라면에 막창에 고기까지 저정도면 진수성찬임 마지막 디저트로 샤인머스켓까지 솔직히 잘나오는거아님",
+        "writer": "Ugx-xnEdBM6kfRdbof54AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 주는게 어디야. 각자 사먹거나 도시락 싸오는 곳도 많을텐데",
+        "writer": "UgxP2sl2XNrNYiQwV254AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 라면이 라면이지맛있겠다 멘트 웃기네",
+        "writer": "Ugx3yGD1Dz1l4fjNDIF4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원유지되나보네, 부럽다,",
+        "writer": "UgwxFHWfTro_EqecRz14AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진수성찬먹는구만 뭘",
+        "writer": "Ugw9rmw6K9zuWqGkYvZ4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있겠구만 샤인머스켓에 해물라면에 막창에 제육에 아쉬울게 없는데, 제목만 보면 되게 불쌍해보이게 워딩을 썻네요.",
+        "writer": "Ugy3H2_Ch7i6fp0OYct4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 전날 회식하고 해장하고싶어서 라면끓인거같은데",
+        "writer": "UgwbDZada6rNTuLiPMx4AaABAg",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇고 저렇고 떠나서 이쪽 파트는 노잼",
+        "writer": "UgwmR4q3VX61kn4F2cd4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원 밥 가지고 저런식으로 하는거 아닙니다",
+        "writer": "UgzyHmSSLwpfrP-xohZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막에디저트, 샤인머스캣아닌가,",
+        "writer": "UgxpByo9wBAB_ZdQvox4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짬좀되는 애들은 덜 먹어도 송훈이 알아주는게 더 득이니까 아마 말단직원들은 근데 저정도면 잘 나오는겁니다",
+        "writer": "UgyJipUj3cNg0d4ZQHp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리사들은 코로나 퍼지기 전부터 요리에 침 같은거 안들어 가게 할려고 저런 마스크 써왔는데 모르나봄",
+        "writer": "UgxAufoqi0C5eoq849d4AaABAg.9I7iO4Mzn9u9IBIW1-OPnq",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹고살려면 별수있나, 저렇게(반사회적용어) 액션해야지",
+        "writer": "Ugx3yGD1Dz1l4fjNDIF4AaABAg.9HMKw0-pT_s9LLTUy0SyYP",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머(반사회적용어) 한컷더나오려고 나혼자산다에도 많은현상이지 한귀퉁이에 작은화면으로나와서",
+        "writer": "Ugx3yGD1Dz1l4fjNDIF4AaABAg.9HMKw0-pT_s9LmB2jaXVsf",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발방송은 방송으로만 보세요 악플 다는 (비속어)들이 아직도 있네",
+        "writer": "UgxLAcgmqpUUiNmJhSx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송훈 내용이 항상 . 그만 나왔으면",
+        "writer": "Ugx7xaUO4_Ow3nNC9It4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 식당에서 일해도 밥잘 안챙겨 준다,",
+        "writer": "UgzFqwznAYf-khspTPF4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직원들이 이렇게 아끼는데, 제주도에 뭘 자꾸 차린다구 ,",
+        "writer": "UgwAvEICoPjigqjdE-d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 샤인머스켓먹는것자체가 넉넉함의 상징아닌가",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 방송용 보여주기식",
+        "writer": "UgzCbkad_chWXqr3ZP14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악플이 싫어면 도대체 왜 방송에 나와 연예(반사회적용어) 아닌것이, 결국 방송타서 인지도 올리겠다는거잔아 하나를 얻어면 하나를 잃는것이 인지상정이다. 악플싫어면 방송 타지말라고 하렴.",
+        "writer": "UgxLAcgmqpUUiNmJhSx4AaABAg.9FugXdIoGOC9I7wm27ArIJ",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 재밌게 보는중 걍 너가 안보는게 답이고 가장 빠를듯",
+        "writer": "Ugx7xaUO4_Ow3nNC9It4AaABAg.9FsYPinLerJ9G0DfXDpuJZ",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥가라 으휴 말뽄새",
+        "writer": "Ugx7xaUO4_Ow3nNC9It4AaABAg.9FsYPinLerJ9GA019RLlwH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물병 잘나오고 있는 사람 그만 나왔으면 이라고 하는게 더 말뽄새다",
+        "writer": "Ugx7xaUO4_Ow3nNC9It4AaABAg.9FsYPinLerJ9GTPf4pBwJ8",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물병 (비속어)나 잘챙겨",
+        "writer": "Ugx7xaUO4_Ow3nNC9It4AaABAg.9FsYPinLerJ9Gr5pCtaK6S",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물병 으 말뽄새",
+        "writer": "Ugx7xaUO4_Ow3nNC9It4AaABAg.9FsYPinLerJ9Hy5HHwXJjt",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니라 원래 잘안챙겨줌",
+        "writer": "UgzFqwznAYf-khspTPF4AaABAg.9FsM4Tg7u0J9Fssi4WicnH",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전 고기집에서 알바했을때 반찬은 (반사회적용어)하나 한달에 한번 칠레산 삽겹살 먹었는데 특히 알바들은 사장옆에 앉기 때문에 많이 못먹고 눈치 엄청줌",
+        "writer": "UgzFqwznAYf-khspTPF4AaABAg.9FsM4Tg7u0J9G1PWXG89lS",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 애들 밥은 진짜 나가는거보다 잘먹였는데 항상 시간없이 바쁜가게면 모를까 하긴 근데 요즘은 세시간하고 가고 이러니깐,",
+        "writer": "UgzFqwznAYf-khspTPF4AaABAg.9FsM4Tg7u0J9GbVTW_knib",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식당에서 밥잘안주면 관둬야됨 잘주는곳이 더 많을걸",
+        "writer": "UgzFqwznAYf-khspTPF4AaABAg.9FsM4Tg7u0J9H6dtqt3h_9",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식당마다 케바케인데 고깃집같은경우는 잘챙겨주던데,",
+        "writer": "UgzFqwznAYf-khspTPF4AaABAg.9FsM4Tg7u0J9LEsvqMYSU0",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샤인머스켓 오지게 잘팔리는데 협찬을뭐하러함",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9H6diLIp1uH",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 송이에 만오천원이던데요,",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9H7p0fudWKj",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1딴딴몬 물건안팔려서 협찬하냐",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9HL_McgYbJ4",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "용용용 잘팔리면 왜함 (비속어)아",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9HM-frxZAdm",
+        "write_date": "2020-12-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1딴딴몬 bbq나 다른 유명 브랜드 치킨집도 잘팔려도 협찬합니다 뒷광고때 다걸렸잖아요",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9IDWdEmeS_P",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1딴딴몬 심지어 나이키도 협찬하는데 잘팔리는걸 더잘팔려고 협찬함",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9J18AORFrpv",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 잘나가도 광고안하는 기업은 잘 없는데",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9KjE4TrRHW7",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1딴딴몬 의류브랜드중에 명품브랜드는 안팔려서 배우들한테 협찬하겟냐 생각짧네",
+        "writer": "UgwRSUKcX1sRaxFHdad4AaABAg.9Fjv0FnLngu9L3yV8isNHk",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=MbhbQXx2zWE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

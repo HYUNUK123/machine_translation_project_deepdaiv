@@ -1,0 +1,636 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001424682",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHU210001424682"
+    },
+    "text": [
+      {
+        "content": "순진한 표정 이집 잘하네",
+        "writer": "UgxfcdQtkCNaWG0pwyd4AaABAg",
+        "write_date": "2021-09-30",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 아이디어 신박하다",
+        "writer": "UgwraFPmIZS6ba9KN1d4AaABAg",
+        "write_date": "2021-09-30",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 엄청 실감나네요",
+        "writer": "UgxTUMIE6xALI2SpgQ14AaABAg",
+        "write_date": "2021-09-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 배아파",
+        "writer": "UgxUIXacFoB3sm3QqBB4AaABAg",
+        "write_date": "2021-08-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 천재다 너무 웃다",
+        "writer": "UgwJ9ycd8sjtgjrotNt4AaABAg",
+        "write_date": "2021-05-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차에 태우눈거 (비속어) 웃겨",
+        "writer": "UgySb9J5qfeq1PhH69h4AaABAg",
+        "write_date": "2021-04-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역(혐오표현) 찐으루 웃음",
+        "writer": "Ugw8_r5WemwTPSLkWpx4AaABAg",
+        "write_date": "2021-03-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 완전 웃겻다",
+        "writer": "UgwTGflmu3-vwPMRgph4AaABAg",
+        "write_date": "2021-02-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 소렌토인데 무슨 폭소바겐이야",
+        "writer": "UgxYYl1EL5EykY62bGx4AaABAg",
+        "write_date": "2021-02-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 웃었는데, 설정이 너무 조잡해요다들 후배 선배인가,",
+        "writer": "Ugwq75Xeqjb39WOs4Rt4AaABAg",
+        "write_date": "2021-02-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 저만 웃음참는거로 보이는건가요",
+        "writer": "Ugzr-2gVHaWLMj0UKdN4AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 웃어서 입이 안다물어져",
+        "writer": "UgwjA7lUgPqJgAt5PN54AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒷자리 등장 빵터짐",
+        "writer": "UgxYu1fYJpR69olHiP14AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헉 얼굴 많이뵙던분인데 조폭역할 (이름)",
+        "writer": "UgzX1dLP53vl_J2hHiR4AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런거 별로다, 애들이 뭘 배우겠냐 조폭같이 크고 건들거리면 이기는 사회, 이런걸 보여주고 싶은거냐,",
+        "writer": "UgyrNggg-PAHT2UFMv14AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역(혐오표현) 뒷자(이름) 당직 사령인줄",
+        "writer": "UgxV6IZ_pmCSWAGSKjh4AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 언힌지드라는 교통관련 스릴러 영화가있는데 그 영화 같이 본다음 이 (혐오표현)하면 재밌을듯",
+        "writer": "UgwyUVKuUNecROqUkzV4AaABAg.9GYrZoOX9Bl9GhaQISMEuj",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 (비속어)",
+        "writer": "UgyrNggg-PAHT2UFMv14AaABAg.9I4UiIRMHkM9JhGvet1u_-",
+        "write_date": "2021-02-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "30만 가즈아",
+        "writer": "Ugyxv36iYQMumwNxpCR4AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번째는 쎄리 아님",
+        "writer": "Ugwwsrnb7xDBQPP77BZ4AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2번째 급식왕 (비속어)인데",
+        "writer": "UgwWpwOfguWsvDN6YjR4AaABAg",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(비속어)씨 여동생,",
+        "writer": "UgyLuNdD5HXKMKP6zgV4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팔토시는 왜벗어",
+        "writer": "Ugx4LIkLFK1Xv97wKx54AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국은 무슨 전부 조폭들한데 쫄아서 살아가는 사회인가 장난으로 찍었다고는 하지만 당하는 사람들은 진짜라고 생각하고반응하는건데 목소리크고 조폭스러우면 이기는사회되자는 캠페인같음 .조폭컨텐츠 판치는 사회. 장난으로 보기에는 씁슬한 (비속어). 전국민이 건달이되야 살만한 세상이 오는건가 미(비속어)",
+        "writer": "UgySPoV1TSYtbU1EMnp4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재밌게 봤어요",
+        "writer": "UgzVcaD0XyRzoLtoD_V4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번째 쎄리같아욤",
+        "writer": "UgwaaI8bRVl2z-na47t4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이디어가 넘 좋다, 이젠 진화하고 있어, 더 기대가 된다.",
+        "writer": "UgwD-JJOISeKaJlFIvB4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안되겠죠 시리즈는 왜 안보이나요 와이프 보여주려고 했는데 못찾겠어요.........",
+        "writer": "UgzOf1eMnvJilxcaFZ54AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번째 여바분 급식왕 나오는 쎄리 아님",
+        "writer": "UgzNEiaizFR80uvIe2B4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수희 너무 귀엽네",
+        "writer": "UgwocJKt6y78yARtJeR4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역(혐오표현) 성명준이네",
+        "writer": "UgziBdBQrFSiWCBd0I94AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 영상은 대박이넹",
+        "writer": "Ugz2PWpFD72tm0DB18B4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이리 중독되냐",
+        "writer": "UgzGR_l69_SI606xpu94AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 이 시리즈가 레전드 역(혐오표현)도 웃기고 아이디어 대박입니다",
+        "writer": "Ugxqkp2yNbwBJinXmVx4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금쇼미보고왓는데 쯤에스카(이름)인줄,",
+        "writer": "UgwcjW12w0sbfgceVCB4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜(비속어)2열 창문이 열리는뎈미치겠넼차문 열릴 때 도어락 소리 너무 웃겨",
+        "writer": "UgwDQ-Dydfimz-vzDw14AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 당황하는 모습도 이쁘다. (이름) 화이팅...",
+        "writer": "UgwqWeISwhLIKkzgwld4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)거 올려주세요 제발",
+        "writer": "UgwRbUaFscSA3_vAaWl4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리얼리티, (이름) 화이팅",
+        "writer": "Ugx7cy77zkLB1J1UoAd4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오올 서울사대천왕 유튜브 개재밌네",
+        "writer": "UgyIaNwDNb8VeUc7JXZ4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진주는 알고있었다 (혐오표현)라는것을",
+        "writer": "Ugx7DXA01aPwrkv8IEp4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)리가 하나씩하나씩 찾아볼수있는건데 모음집은, 새로운거보고싶엉",
+        "writer": "Ugwh6FGRGERcThsVV5N4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시봐도 겁나웃기다",
+        "writer": "UgyonmbByuwiw7tDhgJ4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "휴대폰을 내려",
+        "writer": "Ugx8WGCNSvxPSrTSQyV4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 겨울인데 반팔티에 매미",
+        "writer": "UgwMcTPtAZ_TBDXvx8l4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진수선배편 함 더찍져",
+        "writer": "UgznjBomMt_gx9tO_XZ4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 여기서 박(이름) 영상이 최고던대",
+        "writer": "UgxhQ83z-1qz3yE5b9l4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아무리 봐도 웃기네",
+        "writer": "UgwrekgoiuPFLI0EgmN4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 다시봐도 웃기네",
+        "writer": "Ugxqkp2yNbwBJinXmVx4AaABAg.9G_FFqPC5hr9G_F_nQBy1y",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 (이름)가 쌉캐리 했던걸로 기억하는구만",
+        "writer": "Ugxh9WPsCUIfutupk4V4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 시리즈 넘 재밌었음 역(혐오표현)도 개웃",
+        "writer": "UgxdlwCGn3dogZcdB7B4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "폭소바겐은 차종이 아니야",
+        "writer": "Ugw0R6697L2nCpP_Ui54AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두번째 여성분 누구에요",
+        "writer": "UgwHTybwtXP37k7lSt54AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한참 웃었넹 요즘 웃을일도 별로 없는데",
+        "writer": "UgwP-QmLCWs2Xgai7eV4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하이라이트 너무좋다,",
+        "writer": "UgxZXYqA3NTT38foRE54AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참, 당황스럽다,",
+        "writer": "Ugw0L6A2M9Q0hmlht6Z4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형민씨 대단하네 아이템 죽인다 승승장구 하세요 잘될꺼예요 항상 응원합니다",
+        "writer": "UgwoiB9MKquqbSfJggR4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아 역시, 웃겨",
+        "writer": "Ugwhn2qP_8w6WVvwaRF4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형민이형 박(이름) 걸크러쉬 리액션은 왜 안올리시는거임 완존 반했는뎅",
+        "writer": "UgxNOYhOT9qeNW1onJx4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새로운걸 찍어야지 기존에 찍었던걸 우려 먹으면 어떡하냐",
+        "writer": "UgwhOe0uGrNSpddRGnh4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (반사회적용어)같어폭소바겐 역시 재밌어",
+        "writer": "UgwpTlMIBnEXOi9lHQR4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 유튜브에 재밌는거 보네",
+        "writer": "Ugw260zEfF_BoJE_f0h4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 (이름)이 짱이었던거 같은데,",
+        "writer": "UgzAVORYsEtNFsIPILp4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우연히 지나가다가 내채널을 보고 내채널을 구독하면 신비로운 일이 생긴다. 2.(이름) 건강 3. 좋은직장 4.장수 5.하는일 모두 잘된다. 6.부자 7.무사고기원 제가오늘부터 열심히 기도드리겠습니다,",
+        "writer": "UgyHcxZndbuLh72XLZF4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중복은 그렇다치고 재밌는 리액션부분 다 짤라서 올렸어,",
+        "writer": "UgzIQRJgyNCW0m24vgl4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 개윳겨",
+        "writer": "UgxMz3OEIkVY3_dMoy54AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "단발머리누나 말하는거면 (이름) 누나에요",
+        "writer": "UgwHTybwtXP37k7lSt54AaABAg.9GYyF8f67Xu9GZbE2l3TXp",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩌라고 자세히 보기",
+        "writer": "UgwhOe0uGrNSpddRGnh4AaABAg.9GYtfNKxYVl9GZ1fw3wYpT",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집본 올리는게 뭐잘못 보기싫음 (비속어)마세요",
+        "writer": "UgwhOe0uGrNSpddRGnh4AaABAg.9GYtfNKxYVl9GZL7nj0sGo",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 사실 자세히 보기",
+        "writer": "UgwhOe0uGrNSpddRGnh4AaABAg.9GYtfNKxYVl9GZouWMN9KP",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자때리면 벌금더 쌔니까 막까불수있죠부럽",
+        "writer": "UgzAVORYsEtNFsIPILp4AaABAg.9GYsLFUO_po9IMAXyIiehP",
+        "write_date": "2021-01-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "폭소바겐과 함께해주셔서 감사하고 애정어린 의견 감사해유",
+        "writer": "UgzIQRJgyNCW0m24vgl4AaABAg.9GYrp4rOl549GYrzPIgsYM",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모아놓으니까 더 재미썽.",
+        "writer": "UgzborvmWF4fpFD-7sp4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뒤에 건달 (이름) 아니냐",
+        "writer": "Ugw7SOLvoW5CVpjMQkh4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청잘하고 갑니다",
+        "writer": "Ugy1qGRYVSFFbCoUZUV4AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중복은 쫌",
+        "writer": "UgzgvckP8RzyljU0-V54AaABAg",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "폭소바겐Foksowagen oh thank you so much",
+        "writer": "UgxXlMPEvWNERUzRjZN4AaABAg.9GYrN6hq0CF9GYs5MvXAfe",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 다 읽어보고 있습니다 의견 감사합니다",
+        "writer": "UgzgvckP8RzyljU0-V54AaABAg.9GYq_SFhT5u9GYrp_2GZrm",
+        "write_date": "2020-12-21",
+        "url": "https://www.youtube.com/channel/UCVsBCfvb1NPjuoIMRDtDjHg",
+        "parent_url": "https://www.youtube.com/watch?v=Q9oKjP5O5KA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

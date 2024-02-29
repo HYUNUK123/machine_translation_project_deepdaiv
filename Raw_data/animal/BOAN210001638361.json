@@ -1,0 +1,860 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001638361",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001638361"
+    },
+    "text": [
+      {
+        "content": "퍼니 기죽은거 불쌍해 진짜 누나한테 도와달라고 눈빛으로 신호주네요",
+        "writer": "UgysHfny0GbthtdlGkB4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사고 치지 말라며 쓰다듬깈 혼내지 말라는게 아니라 쓰다듬어다라고 온거 아니에요",
+        "writer": "UgyqZWYiBmAF8DZxKaV4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈빛은 늑대인데 (비속어)",
+        "writer": "UgxvYPmupHsXBGY8qxl4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피야 너는 어느별에서 온 천사니",
+        "writer": "Ugw9VI2wnTu8TUsF89d4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(이름)께서 보시면 교육은 그렇게하는게 아니라고 (이름) 들으시겠다 너무 부드러우시네 단호하게 노려보며 엄하게 하셔야죠..",
+        "writer": "Ugw6GHPe9JoMKX8GykZ4AaABAg",
+        "write_date": "2020-12-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인간은 리트리버에게 인격을 배워야,",
+        "writer": "UgyQciX0PeOIfZdQBuN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기죽은 대형견은 언제봐도 (비속어)",
+        "writer": "UgzaF9LuQ2N9ej7SRmp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인간관점 퍼니 혼내니까 해피가 막네 해피관점 쟤만 관심 받네 나도 앞으로 가서 얼쩡거리면 관심좀 줄라나",
+        "writer": "UgyiqrtyXVBCy-0CcV54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 도우려는게 아니라 자기한테 더 관심가져달라는거 아니에요",
+        "writer": "Ugy1yWEroiEuzlnxYsN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리트리버만 보면 지구뿌시고싶어 하 귀여워",
+        "writer": "Ugye4GehhjWdoH693iR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피는 넘착하고 젤 귀여워",
+        "writer": "UgwyaLPkb7fnrM_ae5F4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피는 보는 사람 해피해피하게 만들고 퍼니는 퍼니퍼니하게 만드네요 댕댕이들도 견생이 이름따라 가는 것인가,",
+        "writer": "UgxkHQ8cIPmCB_EEekx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힝 해피 늠 사랑스럽고 퍼니 귀여웡 영상길게 만들어주세요 퍼니 시무룩 앉았다 엎드리는거 늠귀엽고 해피 아빠 쳐다보는거 늠 사랑스러워요",
+        "writer": "Ugy82sHxLKCBih0p9_V4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름 그대로 해피네요",
+        "writer": "UgzHBofK9VTvxqrktEt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희는 말티남매거든요 혼날때 제옆에와서 같이 짖어요 같이혼내욬",
+        "writer": "UgyJoH8ggkI1JCAO2Gt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리가 보기에는 귀엽지만 개들이 보기에는 생계에 위협이 되지 않을까 퇴직금 저축금도 없는데 혼자 살기 각(이름)겠지",
+        "writer": "UgwVrDh3Uz7cP6Tze154AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여움에 녹는다 녹아",
+        "writer": "UgzExwnoOY6nmgBueil4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼내는거 맞냐고요 해피가 자기도 쓰다듬어달라고 끼어든거 아닌지",
+        "writer": "UgwpOA9Ujw9ei2pysQt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 개기특.",
+        "writer": "Ugwp0suv9Afxz3iXkLJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할머니네는 가끔 놀러가늠곤가용",
+        "writer": "UgwVvpxfuihhCUzc51V4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사고치냐면서 쓰다듬으시면 어케요 하긴, 얼굴 보면서 혼내기엔 퍼니가 너무 귀여워,",
+        "writer": "UgzNVje3IdUlG2saxNR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼날때는 안대드네요",
+        "writer": "UgwkQk1kN--3qYLGlbN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개들 꼭 혼나면 되게 기력없고 순진한척",
+        "writer": "UgwfauAEPaWaZ7F6gEh4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기특한 해피누나",
+        "writer": "UgzpWpM24uy-lbMua_94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사이에 끼어드는 행동이 말리는 행동이라던데.",
+        "writer": "UgwmlWd1sJTqKnejyCl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훈육할때 머리쓰다듬으면 혼란스라워 하지.",
+        "writer": "UgzhadYocD_Kvx1Ol-14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 지지배 실실 웃으면서 화 못내게 함",
+        "writer": "UgxvjChy-rzow5Q3lRZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썰매견이 밖에 못나가고 안에만 있으니 스트레스 받나바요.",
+        "writer": "UgwubaoHSmbk3Jh8Us14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옆에서 말리는 시누이가 더 밉다고,",
+        "writer": "Ugxw2KZTJQNeX5y9RRd4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허스키 키우면서 사고 않치기를 기대하면 곤란하지요,",
+        "writer": "UgzvwsnYeNBllIs7EaF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도망가는거 왜케 귀욥냐",
+        "writer": "UgxxAQcVTasHtT24CVl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들이 너무 착해. 가정교육의 중요성",
+        "writer": "UgylPuklR9bkwjrVqAt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우, 소녀도 자기동생 혼날때 엄청 말리던데 동생사랑 넘 보기조아욧",
+        "writer": "Ugw-INtBb6toPJ-r8xp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 퍼니 볼때마다 왜 이렇게 귀여운거야 진짜 해피 울집에 데려와서 같이 살고싶다",
+        "writer": "UgwW73s3ETvnnSPSA3x4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이 이번 애피소드는 좀 어(혐오표현)다",
+        "writer": "UgyzHbIRqce-IdEdKK54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개(비속어)를 집구석에 쳐넣고 돈벌이로 여기는 (비속어)(비속어).",
+        "writer": "UgxoIJ7D0hMrh9CVEKF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 사랑스러운 해피",
+        "writer": "Ugx5r3LjFL33yoGWFGB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출근해서 힐링",
+        "writer": "UgzmgYDwtXzBiD3pjQ14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 화이또",
+        "writer": "Ugy1KspWgnbWoT_dpT14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요때만해도 퍼니 애기티 많이났네요",
+        "writer": "Ugz-Ar8sXx3dtR2p0jh4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 이뽀요 에흥",
+        "writer": "UgznRI6WLf9PbyVLfOl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사고치는 퍼닠 귀여움",
+        "writer": "Ugw2W0BL-01OLk6Cv4h4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들이 넘 사랑스러워 정말",
+        "writer": "UgzxIsKBTaWyS9nkD6Z4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "36계 겸둥이들",
+        "writer": "UgzxDdRIlafe1hJyelF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 쏘 서윗하다",
+        "writer": "Ugx8DrxWBiwktdUZWUp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗 해피가 누나였군요 오늘 알았어요",
+        "writer": "Ugz_hZ2TkiN1GP6E8Dp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 갖고싶당",
+        "writer": "Ugzyb1MF2_B_U85Cvm94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동생 혼내는 거 알고 껴 드는 해피 진짜 큰누나넹 퍼니는 걍 미운네살",
+        "writer": "Ugzd05gXmYkFUURIJXd4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼내지 말라는게 아니라 퍼니에게 관심주니 해피가 시기나서 지가 관심받고 싶어 껴드는건데, 개를 저리도 모르시네,",
+        "writer": "Ugy7r_4g3-bzuLVDiDV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리개들은 (이름) 혼내키고 있음 다른2마리들은 화장실에 앉아서 벽만 보고있는데",
+        "writer": "UgwznTDzmhRC1-Gzbz54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭣땜에 혼나는줄 모름 보호자에 목소리 톤으로 화난줄 알고 그러는거임",
+        "writer": "UgySATp6eEi2hDNNn5l4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 미소보면 없던 화도 사르르 녹아내릴듯, 퍼니야 누나 잘뒀당",
+        "writer": "Ugz3EqxkWWdg5rWmBu14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한참을 지켜보다 안되겠는지 애교작전에 들어간 해피, 여튼 우애가 남다르구만 사랑스런 울둥이들",
+        "writer": "UgxCqdtIXV0WwHSdFzZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피퍼니 넘 귀욤",
+        "writer": "UgyDvzNxyyxfYzV5PfV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍼니 아직도 (비속어)네,",
+        "writer": "UgwnHlMfhznuZJMevl94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얘네 넘귀여워요",
+        "writer": "UgxdNYo_5GK4L2ueyyl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 너무 착하고 귀엽습니다.",
+        "writer": "UgzanISDaAnPIkHWkYJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한 해피",
+        "writer": "UgwPqNhKNLaehiVkGlx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "착한 해피네요",
+        "writer": "UgxsSsgW8E6VVh5WzKF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진자 돈 많이 벌면 리트리버 꼭키워야지",
+        "writer": "UgzOkw0l0xejXTutsgx4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캬 난왜 리트리버를보면 삼성생명광고가 떠오를까",
+        "writer": "UgzWtjbSTrAufkNOt_d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아해피 너무 댕청한듯",
+        "writer": "UgxQjCIhvTXhlkSuQYd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 의리.. (이름) (이름) 저리가라네",
+        "writer": "UgyrEE_xbRczBHbcHfN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼내는 상황 인식못함 관심을 주는줄알고 옆에 붙은것 같음",
+        "writer": "Ugxl72F2AOXXpEtn0o94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퍄 역시 골든리트리버 그런데 도중에 도망가는 퍼니는 대체 둘다 넘넘 긔엽네여",
+        "writer": "Ugy-tVAiKnfaGKGfm114AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아흐흑 이 귀염뽀작한 댕댕이",
+        "writer": "UgwRbrJ3lUhTrWsYUh14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인절미 허숙희",
+        "writer": "UgymzzLuwI5XRnIRo8V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑하고 사랑스러운 해피와 퍼니에요 구독 좋아요 눌러요",
+        "writer": "UgxTEmNd0dH1UaSd3Hl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피들어가니 동생 내뺀다 얘들 사람이다",
+        "writer": "UgwsjeIozApG9_cDLxd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으앙 넘 이쁜것들",
+        "writer": "UgycE6juwpdarSCNUil4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리트리버는 다 천사견인가",
+        "writer": "Ugyq9o6-4az1MxAjBHZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 미치겟다 너무 귀여워",
+        "writer": "UgzMe0XgibbA9uJBDV94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개들 혼날때 기죽어 있는거 꿀귀 등치가 커도 애기같아. 지들 혼난다는걸 어찌 알까",
+        "writer": "UgxTBGCnuyvIR3AZgIB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜로 아(비속어) 동생 혼내는거 막네요. 너쩜 저리도 예쁘고 착할까요, 그사이 퍼니는 잽싸게 도망치네요.",
+        "writer": "Ugz3ZFstO63lZP4DWgp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈이매력적 퍼니이갈(이름)봐요 천사해피 역시 천사네요 사람보다나은친구",
+        "writer": "UgyZBHAvZBY67PzmgLh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 너무 착하네요",
+        "writer": "UgwcfFJ_UV8HmVYMW6x4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아따 애는 혼내지 마쇼..",
+        "writer": "UgxU1YSHAfo8rd1cn8p4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해키 심쿵",
+        "writer": "UgzZCYGxIhYfAGo-DCp4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 천사견",
+        "writer": "UgzOkw0l0xejXTutsgx4AaABAg.8s0KFPjyTa58s0LuCd4Gnk",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 그런게 아니었네용",
+        "writer": "UgzWtjbSTrAufkNOt_d4AaABAg.8rxSPcLE_1l8s-Akp8iUdH",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치와와진진이 애(비속어)들이 왜 자꾸 말리는쥴 알지 답답한 인간들이네",
+        "writer": "Ugxl72F2AOXXpEtn0o94AaABAg.8rcRomzMCHo8u9ni5Cte01",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반려견 키우는 지인분 집에서보면 개에대해 잘모르는 내가봐도 알겠는데, 영상에서처럼 주인과 저정도 같이지내고 교감있는 사이라면 혼내는 말투인지 칭찬 말투인지 개들은 다아는데, 그냥 관심받으려 온건 아닌듯",
+        "writer": "Ugxl72F2AOXXpEtn0o94AaABAg.8rcRomzMCHo92ti9mjFIHO",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자긴 살겠다 이거겠죠 허숙희",
+        "writer": "Ugy-tVAiKnfaGKGfm114AaABAg.8raIOpWcXN68raWlCC1ji2",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "골댕이 (이름)가, 넘 좋아요",
+        "writer": "UgwRbrJ3lUhTrWsYUh14AaABAg.8raFpY4jNnh8raWildjItR",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우애좋은 남매들임돠",
+        "writer": "UgymzzLuwI5XRnIRo8V4AaABAg.8raA7gQZ85V8raWePBdWke",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꾸벅 감사합니당 이쁜 해피 퍼니 영상 자주 올릴게용",
+        "writer": "UgxTEmNd0dH1UaSd3Hl4AaABAg.8rZ8PKPBVSf8rZADc0ljs0",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람보다 낳을때도 있어용 저 힘들면 바로 알아차리고 핥아줘용",
+        "writer": "UgwsjeIozApG9_cDLxd4AaABAg.8rXJ3UeNTUc8rZz4UgWRxl",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 순딩이에용 으헝",
+        "writer": "UgycE6juwpdarSCNUil4AaABAg.8rWnHb8EES48rWr4nDCFls",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 천사견하면 리트리버라구 하는지 알겠네용",
+        "writer": "Ugyq9o6-4az1MxAjBHZ4AaABAg.8rW3-jR6tSg8rWFJrk8uyB",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "똑똑하고 눈치도 빠른 리트리버는 하는짓이 사람같아요",
+        "writer": "Ugyq9o6-4az1MxAjBHZ4AaABAg.8rW3-jR6tSg8rZ8dJ0u-V6",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 많이 달아주셨는데 알람이 안떠서 이제 답글 달아용",
+        "writer": "UgzMe0XgibbA9uJBDV94AaABAg.8rVTMoQfn198r_34TeAy-K",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잽싸게 도망",
+        "writer": "Ugz3ZFstO63lZP4DWgp4AaABAg.8rKalWkIThY8rKkZ01jnI3",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아가들 칭찬하는 훈련으로 교육시킬게용 설날 잘 쉬고 출근할려니 힘드네요 설날 잘 보내셨는지요",
+        "writer": "UgxU1YSHAfo8rd1cn8p4AaABAg.8r1JA_zfwRq8r1LbQSD0Lq",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피한 리트리버와 퍼니한 허스키 잘보냈어용 그래도 저렇게 기염둥이가 둘이나 있어서 행복하셨겠어요..",
+        "writer": "UgxU1YSHAfo8rd1cn8p4AaABAg.8r1JA_zfwRq8r1M2QP792s",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아고 해피의 동생사랑이 대단한데요",
+        "writer": "Ugwg6-Wn0eb0INMAkKF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애들 보러 오랜만에 왔는데 퍼니는 그새 또 많이 컸네여 혼나는 퍼니도 애교로 말리는 해피도 귀엽,",
+        "writer": "UgxuqUtSIOAG0g6Ng5Z4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 해피 말리는거 실화냐, 너무귀엽네",
+        "writer": "UgzG9ZH8cr-Ucmi-RXF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하, 리트리버 진 사랑스럽다",
+        "writer": "UgxFcLbFBbARxeoS21d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피 오구오구 (이름)도 이뽀",
+        "writer": "UgzmLqepveJzmtSOhup4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 퍼니야, 그 장판 비싼거래, 사이좋은 아이들,보기 좋네요",
+        "writer": "Ugy0L6MGfyUp7GDl1qd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 귀엽네요,",
+        "writer": "UgwsGHCJI2D0pd2rmr14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 너무 착해요",
+        "writer": "UgxFcLbFBbARxeoS21d4AaABAg.8qvhQ-1SL_i8qviCNpH1Dx",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진정매력남 골댕이 진짜 천사",
+        "writer": "UgxFcLbFBbARxeoS21d4AaABAg.8qvhQ-1SL_i8s5kzmIm903",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 명절에는 해피하고 퍼니한 하루 되세용",
+        "writer": "Ugy0L6MGfyUp7GDl1qd4AaABAg.8quvoFcmPHw8qv2H-B2CjK",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명절 해피하고 퍼니한 시간보내세용",
+        "writer": "UgwsGHCJI2D0pd2rmr14AaABAg.8quvY8Qpheq8qv2FJ5KtDF",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해피하고 퍼니랑 같이 명절 잘보내세요",
+        "writer": "UgwsGHCJI2D0pd2rmr14AaABAg.8quvY8Qpheq8qv2aGGoR6d",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCFfK4rHnI034zostNwzXHIw",
+        "parent_url": "https://www.youtube.com/watch?v=1hE78HNenw0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

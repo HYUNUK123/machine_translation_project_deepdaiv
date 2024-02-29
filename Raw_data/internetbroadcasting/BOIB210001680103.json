@@ -1,0 +1,404 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680103",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680103"
+    },
+    "text": [
+      {
+        "content": "한번 보고 다시보고있는데 소름인게 기억훈련할때 나오는것들 다 그 남자의 기억에 관련있어서 뒤에 또 나옴",
+        "writer": "UgxHdK3kdRDEufDLX014AaABAg",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이 (비속어) 깜짝아 왤케 대놓고보냐",
+        "writer": "UgxROFbq8pKK-KXTDPp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 진짜진짜 힐링된다,",
+        "writer": "Ugzkar8ak6MR9Q5QEJt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 최고다 나죽어... 견(이름) 러스티 레이크 퍼즐 게임 영상 잘 보고 갑니다 사랑해요",
+        "writer": "UgxGeym5ohWZGUBo4CJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오오 올라왔네요 기다렸어요..",
+        "writer": "Ugy9_0hXixuoYB1mIod4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생선 눈알 맛있는데 왜 다 그러시나 뭐 언제부턴가 안먹게 되긴 하더라,",
+        "writer": "UgyBrZKgfqaPZGzuZe14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하루 지났는데 댓글이 100개를 못넘네 견덕력 부족한것들같으니",
+        "writer": "Ugz2YVmReBLqG1V4_yh4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (비속어) 1972년이면 그게 자꾸 떠올라",
+        "writer": "UgyqYAaLewxajTx0VNJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와나 퍼즐게임 댕 못하는데 뭔가 생각없이 하면 안되는게임 같다",
+        "writer": "UgzA24HQBjZMrDB9bzx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 물을 다 마시고 약을 드시넹 역시 뭐가 달라",
+        "writer": "UgyskgnvoK7ZvlUS7q94AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)가, (크흠)",
+        "writer": "UgwHd97tQelurEyrVzF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아름다운 후속",
+        "writer": "UgzUJbqqquLDk_bdm6l4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허억 드디어 새로나온건가",
+        "writer": "UgxqKU7RKpmSdqJo8x54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 생방으로 본거다 뭐지 이 뿌듯함",
+        "writer": "Ugxz6J5GUZy3npvy0_l4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 사랑해요",
+        "writer": "UgwQpX7UBokfbjmA3uB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 지병으로 쓰러지고 말았다",
+        "writer": "UgyqYAaLewxajTx0VNJ4AaABAg.943dYZGhxpp949hSo8Eq7e",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 썸넬 뭐에요",
+        "writer": "Ugwj1FwKAn-ZxFVrY2R4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 보면서 귀는 회복되었지만 눈은 손상되었다",
+        "writer": "UgwDZma8PAQghWNmrQF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코그모 소리",
+        "writer": "Ugz6U2qdLJRGkczsdvt4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인트로 이뻐욧.",
+        "writer": "UgzD5OZKbXrMPk-sa2p4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 유료라서 안샀던 겜 해주셔서 감사하다요오",
+        "writer": "UgzdVGRTSqCAfhvdi4N4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "섬넬 너무 조아 치과 가도 (이름) 생각이나",
+        "writer": "UgxevU7bYuWfINhjPXx4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 보고 게임보니, (비속어). 난 왜 여자가 주인공이라고 생각한(혐오표현).",
+        "writer": "UgzRROhMiYe0O4s2Cnp4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도미노에서, (반사회적용어)처참이, 쓰읍,",
+        "writer": "UgzMK4fTfVpKgrO8Q4t4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨보는겜이뎅, 공포겜인가",
+        "writer": "UgzcexvCRf8xUrVeNZZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견하 오늘은 좀 늦게일어 났다",
+        "writer": "UgwPrl7Kmv5bo1GozGF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10분인줄알았는데 40분이여써. 40분을 10분으로만드는 짜희마법",
+        "writer": "UgzWW7YtqDZf4zYodFR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러스티 레이크 신작(이름), 제가 좋아하는 게임 회산데, 큐브 익스케이프가 스토리도 좋아서",
+        "writer": "UgxsbR2aXSlk4txwmYV4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘무 좋고",
+        "writer": "UgylJ0J-nzSR4uEcCkl4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 마음에 들었던 게임, 그래서 기다렸던 영상..",
+        "writer": "UgxQhD80T9t8j32M7p14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 굿",
+        "writer": "Ugx3g-6x-bSDXkei2OB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜히목소리 넘모넘모 좋고",
+        "writer": "UgzKFfFCZV9f8I2Okh14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스타트는 견하로 시작",
+        "writer": "Ugyv6RPRzt7NXPF3z914AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기서 부터 나오는 미니게임이 리듬세상같네요 게임중독중증인가,",
+        "writer": "UgxfO0J88yaJY2UOK394AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견(이름)의 머릿속은 새하얗다",
+        "writer": "Ugx956pfjl0LXz7AdfR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 그림체 내스타일, 오우, 좋아,",
+        "writer": "UgyuJ8PSWJUBgjGJ1i14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 좋아하는 (이름)과 러스티 레이크를 둘다 볼수있다니 넘모 좋자너",
+        "writer": "Ugy6TPWXdIDDxoLYPgF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 이거 빠르게 올라오네요 좋다아 (썸네일 뭔가 불안한데)",
+        "writer": "UgwmZXawY-K54dsFwVJ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)을 진심으로 사랑한다, 랄까",
+        "writer": "Ugybnfvr0YLrc7GBAtN4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 견손실 없는 하루를 시작하게 해주셔서 감사합니다",
+        "writer": "Ugztce_Hs24iwojeq694AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 보고싶었어요 사실 밤 샜어요 졸려요 사랑해요",
+        "writer": "Ugxp5PoRMVbQDKsi1FB4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느아니 생방때 봤던건대 뒷부분에서 보고 앞부분은 못봤던 그거자나아..",
+        "writer": "Ugwu-AweQW7pVE4Tp9R4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 생방이더 재밌어여 트위치도 가끔씩 와주세연",
+        "writer": "UgyLlhlyth-razrmiDZ4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짜희 파이팅",
+        "writer": "UgyvPgRrCPlyoG9rRD14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 (이름) 영상으로 아침 시작.",
+        "writer": "UgxYHQKtIRcRU-hIdeR4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔가 묘하게 기괴한 게임이네요 분위기가,",
+        "writer": "Ugz2mKXYIf0wrEb8he54AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 바로왔어요",
+        "writer": "Ugyk_GAoN9KNBfm2Uh14AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 이거 생방때 못봤는데, 보고자야겠다",
+        "writer": "UgzxIQn2vDpYxJVZICF4AaABAg",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요16등이다 까비. 맞쳐서 할라했는데",
+        "writer": "UgzxIQn2vDpYxJVZICF4AaABAg.941I6jKWRMA941ILC6QfLj",
+        "write_date": "2020-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=RE0bdDIJFOs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

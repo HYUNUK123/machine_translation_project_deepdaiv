@@ -1,0 +1,796 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001680699",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001680699"
+    },
+    "text": [
+      {
+        "content": "머야 봤던건데 알고(이름) 감사합니다",
+        "writer": "UgxjM2i0ruZQNbX6J8F4AaABAg",
+        "write_date": "2021-09-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와나나 멸종설,",
+        "writer": "UgyeOiDRX2xI5m1ves14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 이미 한번 멸종하고 지금 먹는건 2세대인데 또 멸종하고있어서 3세대 만들어내야하는거 아닌감",
+        "writer": "UgwWpX0WspseVAd1Wgx4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 우유가 아니고 정확히 바나나맛 우유에요",
+        "writer": "Ugz2UrldOJI2ebXUsfZ4AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2년(이름)서 더젊은 목소리",
+        "writer": "UgxdVAaH4wViYLr_mT14AaABAg",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "색소우유 색소 (반사회적용어) 에서 추출 하아,",
+        "writer": "UgywSB9KiFYJYK2Hhc14AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 막 보살펴주고싶은 목소리,",
+        "writer": "UgzKp_v3F3LazGR8RmJ4AaABAg",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 동생있음 잘해주면 오구오구할짓만 할 동생같은데,",
+        "writer": "Ugh5o1sLRNed43gCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀엽다.",
+        "writer": "UgjHUWcFYVDZfHgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머도기같다 왜에 머도깅 왜에 헐 레알 .",
+        "writer": "Ugj9kJWfAOVhwngCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하 진짜 누나",
+        "writer": "Ugi0CQSuKRJh2XgCoAEC",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "함부로 귀엽고 그러면, 깨물어줄것이다..",
+        "writer": "Ugie1rEf3sfN53gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나우유 못머금",
+        "writer": "UggbuUGRxDnCiXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무 귀엽당,",
+        "writer": "UggRtN1rjGGJLngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메인히어로 딸기우유가 연지벌래에서 색(반사회적용어)출해서 쓴적도 있었지만 지금은 단가가 너무 쌔서 벌래 안쓴답니다 안심해도 될듯",
+        "writer": "UgywSB9KiFYJYK2Hhc14AaABAg.8ZBZzQfTvD38a_O8r5EPd2",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 바나나우유 가 아니라 바나나 맛 우유 라지요,",
+        "writer": "UghL5yM9PYl4Z3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한마디로 견덕사",
+        "writer": "UggsgsKoQnVAAHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)한테 왜 전염되셧나",
+        "writer": "UgjbKbNwdEHL13gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허, 견덕사 해버렷다,",
+        "writer": "UgjHh-1ojKOl4ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 최소 학창시절 목소리로 학교를 제패하신분이다",
+        "writer": "UgitT_EL2VsXsngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못.머금 (비속어)탱,",
+        "writer": "Ugi_dpa_eQjelHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 못머금",
+        "writer": "Ugju_Ujd7OMHAngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 귀여워미치겟어",
+        "writer": "UgiDbpoM8Vi8CHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나건 뭐건 목소리가 달달해서 계속 듣는다,",
+        "writer": "Ugj0JSUI8OJp7ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 bj여대생이 (이름) 뒷담깐거 유튜브에서 보고와서 기분 드러웟는데 힐링하구 가요",
+        "writer": "UgifEUCLv8KS6XgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", (비속어),커여워,",
+        "writer": "UggdohBWl8DwsXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배경 이쁘네요.",
+        "writer": "Ugj_MxVdN0dxXXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 견자희 (비속어). 심쿵사 한다.",
+        "writer": "UggJCusbbeUUnngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생각해보니깡 우리가 먹는 바나나부위는 하얗네",
+        "writer": "UggrtI1l6h0TR3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿈에 나오겠다,",
+        "writer": "Ugitr6qZyd-ez3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 사다드릴께요.",
+        "writer": "Ugidl_1QNYgfQXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견, 덕,사",
+        "writer": "UggHJU_UW586UXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 우유에 바나나즙 1있음",
+        "writer": "UghnGXbLGDR8zXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아 어제밤에 꿈에서 인터넷도 안되는 할머니 댁에서 유튜브로 견(이름) 유튜브 봤어요 진짜 목소리만 나오더라고요",
+        "writer": "UggsWgvYuqt8wHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 심쿵사 여기에 잠들다,",
+        "writer": "Ugj3HYAD3b0OV3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 바나나가 멸종한다구 할때 20번은 돌려들은거같다,",
+        "writer": "UgitS3olOKk6DXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나향, 이니까",
+        "writer": "Ughl-2mFI9AC-3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 바낫나바낫바낫",
+        "writer": "UghWeRQvg2QcyHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘부터 바나나농장 돌입각",
+        "writer": "Ugixvn67hpNWRngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 귀엽네 (비속어)",
+        "writer": "UghZRI0vRAyqjHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)덕사 (반사회적용어)실려구 쿠헉, 읍읍",
+        "writer": "UgjFn8V06Ez7HXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽다 견덕사",
+        "writer": "UgjUicYULNW6yngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 바나나는 씨가 없어서 뿌리로 번식하는데 그럼 유전자가 다 동일해서 다양성이 부족해서 적응능력이 부족해서 멸종한대는데요, 다른종류의 바나나를 구하면 된다지만 맛이 이만큼 좋은 것이 없고요 그리고 다른 바나나는 씨 때문에 먹기 힘든 것 뿐이라네요, 출처영어교과서",
+        "writer": "UggsWgvYuqt8wHgCoAEC.87h648vvUOQ87h6Jhg9KVK",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 목소리 꿀귀",
+        "writer": "UghIaP0Azy3WjHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사, 사랑스러워",
+        "writer": "UgjMzoiPJh-vpngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 마음을 바나나...",
+        "writer": "UgirDsrvN4S9B3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 바나나를 못먹는다구 왜에 할때 (비속어)사",
+        "writer": "UggOXsGG5ZeqIngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심각한얘기인데 심쿵한다 끄얽",
+        "writer": "UghOom7g7yhrOngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유전자가 하나라는건 우리가 흔히 아는 그 바나나고, 완전히 다 자(반사회적용어) 손가락만한 바나나도 있고 뭐 대체는 가능합니다만 바나나맛에 차이가 있겠죠",
+        "writer": "UggiLWkJ44qJW3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀, 여",
+        "writer": "Ugh85XqFXTk0z3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)은행에 다른 종도 많아요",
+        "writer": "UgitW03-WvPYWXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 미치겠다",
+        "writer": "UggFP27c0L-PWHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 뭐라구 하시는거 나만좋나,",
+        "writer": "Ugg6ymiLvZJeYngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)을위해 바나나를 심기로하자",
+        "writer": "UggmpqCyRmtCAHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자희와 함께하는 생명과학 수업",
+        "writer": "Ugha8aGP9vBm-HgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 영상저장하고싶다,",
+        "writer": "UgjnSkmf-wnvDHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안돼 내가 과일중 3위로 좋아하는 바나나가",
+        "writer": "UgjqNU6fO6Y0WngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나, 큼큼 오해하지 말자",
+        "writer": "UghKWXayBkkNnHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견(이름) 목소리 역시 좋으시네",
+        "writer": "UgjxOL6awBkS3ngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 울 (이름) 먹을 바나나 좀 구해둬야겠음.",
+        "writer": "Ugjvs2rlFfE7-XgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 드시고 싶을때 꺼내먹는걸로",
+        "writer": "UggmpqCyRmtCAHgCoAEC.87eqtig2JPk8H_uNnBnR1P",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아너무기여우셔미팀, 취향저격",
+        "writer": "Ugh9eJ5LHCV1e3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리 너무 귀여우셔",
+        "writer": "UggaBEAnMP1NnHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 우유",
+        "writer": "UggMdJCxplSGV3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아너무 귀여우셔",
+        "writer": "Ugi8FOHzjAuJ9HgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 죽기전에 (이름) 귀여워서 내가 먼저 심쿵사할 판이구만 바나나는 무슨, 하앍,",
+        "writer": "UgirqHPF1VaDs3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방송으로 봤지만 또 봐도 귀여우셔",
+        "writer": "UgjSXfyqzNzvsXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발음 왜그래요 미치겟따",
+        "writer": "UgjC-RvkEgr4MngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날에는 바나나 종류가 여러가지였는데 (제가 아는건 딱 2종류) 옜날에 먹던 바나나와 현재 먹고있는 바나나입니다. 옛날에 상품용으로 재배됬던 바나나는 지금 바나나와는 비교도 할 수 없을만큼 달고 맛있었는데 (이름은 그로스 미셸 Gros Michel ) 그게 곰팡이균 (파나마병) 때문에 바나나 나무가 살지 못해서 다 멸종했고 지금 먹는 바나나는 (반사회적용어) 뻔했던 바나나 회사가 몸에 좋다고 광고해서 먹긴,하는데 그거보단 현저히 맛이 떨어지는 카벤디쉬 (우리가 자주 먹는 바나나 )를 재배하고있지요. 근데 그로스 미셸을 멸종시킨 곰팡이가 이제는 카벤디쉬도 먹는다네요, 참고로 바나나 우유는 바나나 안들어가도 만들 수 있어서 괜찮아요, 기쁜건지 슬픈건지, 그리고 바나나 종은 생각보다 많으니 200여가지 종이 멸종할때까지 다양한 맛의 바나나를 즐기면 되겠습니다.",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나, 좋아하는데,",
+        "writer": "UggkvVc_JrJal3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언니 귀엽다",
+        "writer": "UgjhjkZVa0BDH3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으 왜에가 너무좋아",
+        "writer": "Uggd-ch0i5Nai3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 원래 지금보다 더 달았다고하던데",
+        "writer": "UghMaKgbJJ4KMXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 레드웨건",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC.87eg48S-rLV87elHGNKyRT",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 혼또니 .",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC.87eg48S-rLV87p9zsnXZgy",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 종류가 많아서 모든 종이 멸종하기에는 오랜 시간이 걸리는 것이 맞지만 지금 먹는 그 맛이 안 나겠죠,",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC.87eg48S-rLV887fULRjhEO",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 종이 많은것은 사실이지만 대규모 생산과 수확이 가능한 (비속어)는 지금 전(비속어)이 돌고있는 (비속어)라 알고있습니다, 다른 종을 지금 필요로하는 스케일로 상용화하려면 그만큼 많은 시간이 필요하겠죠",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC.87eg48S-rLV88J4vxNO_ks",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 좋아하진 않지만 옛날에 먹었다는 (멸종됬다는) 그 바나나 무슨맛인지 궁금하다.",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC.87eg48S-rLV88b8OBkgoVU",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Yes I hate u 2 검정고무신 기영이 바나나",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC.87eg48S-rLV8Ryngf8Jntn",
+        "write_date": "2017-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고2 영어 본문에서 배운 거당",
+        "writer": "Ugj1jLHYNgZNX3gCoAEC.87eg48S-rLV8bn4N66NxI6",
+        "write_date": "2018-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핧, 뭐라구 에서 심장이",
+        "writer": "UgjU9tLsu3oGOXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나중을 대비해서 바나나나무 (비속어)(반사회적용어) 보관하고 있으려나요 아마도, _",
+        "writer": "Ugi8affSQ9wvXHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 바나나 멸종되면 (반사회적용어)는",
+        "writer": "Ugju4iieEMyvuXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 쪼꼬미 바나나랑 길쭉이랑 두가지 선택이 있는데 병은 길쭉이가 걸립니당, 쪼꼬민 문제 없을듯.",
+        "writer": "UgjSSsHviSKMQngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 아냐 먹을수 있을거에여",
+        "writer": "UggIxcc6G49yVHgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나우유 바나나빵",
+        "writer": "Ugir7MUwIPGbnXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견자희 언니 사랑해요",
+        "writer": "UggkzaP-HFE1Y3gCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바나나 (비속어)같은거 격리해놓은데 없나,",
+        "writer": "Ugh56Gm6zWw-WngCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허얼 사랑해요",
+        "writer": "UghG5TmFlyI0hXgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도토리먹으면 됨 조삼모사 모르시나,",
+        "writer": "Ugju4iieEMyvuXgCoAEC.87eebPfJCLL87ei3R0mnWD",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페어리 레일TV 조삼모사요",
+        "writer": "Ugju4iieEMyvuXgCoAEC.87eebPfJCLL88BWBiT0ijq",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페어리 레일TV 아침에3개 저녁에4개",
+        "writer": "Ugju4iieEMyvuXgCoAEC.87eebPfJCLL88BWG_pL0Nl",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페어리 레일TV 천재인걸로",
+        "writer": "Ugju4iieEMyvuXgCoAEC.87eebPfJCLL88BWyTRzU7-",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "페어리 레일TV 조삼모사가 약간 안어울리지 않나요 그런의미로 말한건데",
+        "writer": "Ugju4iieEMyvuXgCoAEC.87eebPfJCLL88D1KZOMfHO",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남주냄쥬스 조삼모사의 유래로 말씀드린건데",
+        "writer": "Ugju4iieEMyvuXgCoAEC.87eebPfJCLL88D2ViN_1cD",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "((반사회적용어)먹이)일반적으로 나뭇잎과 과실 등을 먹는 것으로 알려져 있지만 곤충이나 작은 설치류 등도먹는다. (반사회적용어)는 바나나만 먹지않아요",
+        "writer": "Ugju4iieEMyvuXgCoAEC.87eebPfJCLL8K0_OBfo8X7",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 님 왤케 귀여움 바나나 사드릴게요",
+        "writer": "UghG5TmFlyI0hXgCoAEC.87eeSNOfH3q87eeVZoC9JD",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "군대갑니다 1듯",
+        "writer": "Ugj2PwoeNHSC_XgCoAEC",
+        "write_date": "2016-11-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=3HNo6hdXigU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001460152",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOLI210001460152"
+    },
+    "text": [
+      {
+        "content": "추석떼 봐서 아는데",
+        "writer": "UgyGhRyyUSW_3qB7vVx4AaABAg",
+        "write_date": "2021-10-19",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 대박이다...",
+        "writer": "UgzwAoH6dJUDEGfjW6N4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빨간머리 거슬리누",
+        "writer": "UgzfjspINdNssQU-f5V4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새총 국가대표 없나",
+        "writer": "Ugz8iBQCqGIs6h3VfOh4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결승전 멋지네요.",
+        "writer": "UgzSxykKjEkjZbNZ7PJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜이렇게 잘하는(혐오표현) 너무잘함",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어캐 맞힘",
+        "writer": "Ugy-agRjnDAdDpged9x4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋있다 김환기이겼다.",
+        "writer": "Ugz1bPhgPFkb2QyWsBp4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김구 하니까 일제 강점기때 김구 쌤 기억나네, 일본 (혐오표현)",
+        "writer": "Ugxx_lJzh9nWlZtyF6V4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 우와한 비디오에 나오고싶다 나 노래랑 케첩아트 영젠데,",
+        "writer": "UgxskHvSNGHzeZCRepl4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계란엽꾸리세총을로맞으니그리고 김환기의 승리",
+        "writer": "UgzNE2V9D_8x4Ya7MDV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 짱이다",
+        "writer": "UgxMXzuzu-66Zg8obzV4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 재밌게 잘 봤습니다",
+        "writer": "UgzHOkmVyDe8BbyFs1F4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기는 자신의 친구 수를 적는 곳이 아닙니다",
+        "writer": "UgzfjspINdNssQU-f5V4AaABAg.9TPF2V-ic9u9Tb4vLMqzp7",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "있음 좋겠네요. 10위안엔 자신 있는데",
+        "writer": "Ugz8iBQCqGIs6h3VfOh4AaABAg.9TMiuRzsvBh9TY2eoJfE4P",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새총 국가대표 없나",
+        "writer": "UgzSxykKjEkjZbNZ7PJ4AaABAg.9TMaUteQIqe9Tb4vM6_WBI",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그다지 좀 별로",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TY26yoJNL3",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할리아이언짱 저정도 할수있음",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TY7XThRltj",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 그이상 합니다. 제가 가르쳤으니까",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TYBtRpdv5u",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할리아이언짱 헐 대박 tv에 나오셔야하는거아에요",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TYYvQcQ8mf",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 욕심 없어요, 생활달인 연락온거도 다 거절했어요. 나간다고 득될건 없으니까요,",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TYgbUgI1Pp",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할리아이언짱 대박이다",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TYyejSvY-M",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 배워보세요. 진짜 3개월이면 고수됩니다 100",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TZ-wC4Grka",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할리아이언짱 진짜요",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9TZSM7BNBLu",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 내가 3개월배우고 대회서 우승하고 2등하고 고수로 이름날리고 다른이들 여럿 가르쳐봤는데 평균 35개월이면 끝",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9T_LzI8H_RG",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결승전 멋지네요.",
+        "writer": "UgzIJcfw9xFVLKVgn-x4AaABAg.9TMTfSYLy6c9Tb4vMYTlQ8",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결승전 멋지네요.",
+        "writer": "Ugz1bPhgPFkb2QyWsBp4AaABAg.9TMMtIqOV3y9Tb4vT-y_ud",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배워 보실래요. 3개월이면 누구나 합니다 저사람도 딱 3개월만 가르쳤고 연습많이한거에요",
+        "writer": "UgxMXzuzu-66Zg8obzV4AaABAg.9TLsPfup1489TY2Gom-kNo",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 저런 재주 하나만 있으면 좋겠다",
+        "writer": "UgxgobxxJLTzK23URY54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국대 선발전 느낌이네",
+        "writer": "UgwCFEIPSn1MQH0DLOF4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘다 레전드지",
+        "writer": "UgymSjY9up_xY86obk94AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이사람 110년만 빨리 태어 났으면 일본군을 몰살 시켰을듯",
+        "writer": "UgyxT-1Donw5VsTBZLR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대충 악플",
+        "writer": "UgzS1fvOjkfd8ilKHHN4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 채널의 영상은 정말 우와소리가 절로 나네요,",
+        "writer": "Ugz1ziNDqR2ecOYw96Z4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조회수 버그남.",
+        "writer": "Ugy2cS1hM9MWEG19WbJ4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 새총구입했다가 고무줄에 눈맞고 집에박아놨는데 다시 꺼내봐야지 히히",
+        "writer": "UgzrL23rNF47ktO8_S54AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기는 자신의 친구 수를 적는 곳이 아닙니다",
+        "writer": "UgwNci2VR8upAz1PL554AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 진짜 우와하고 간당,",
+        "writer": "UgxWwTRsgZned2lxapR4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이스 3등",
+        "writer": "Ugwgp_YJ6bvYy_ClN-R4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금 노력해보심 될거여요",
+        "writer": "UgxgobxxJLTzK23URY54AaABAg.9TLZW-50ISL9TMY2_VAU79",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천둥 새총 slingshot 감사하지만 흥미가 없어서,",
+        "writer": "UgxgobxxJLTzK23URY54AaABAg.9TLZW-50ISL9TODgtaNGVK",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결승전 멋지네요.",
+        "writer": "UgzGBwuve3UiUaCPppZ4AaABAg.9TLWxu90g_W9Tb4vLjSs76",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그건 아니에요 이긴사람이 전국 랭킹 몇이나될지.",
+        "writer": "UgwCFEIPSn1MQH0DLOF4AaABAg.9TLWbiteS-49TY2Urdpp6x",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 진짜 우와하고 간당,",
+        "writer": "UgyZ5DAUvy14U5bqZuR4AaABAg.9TLWGai8V459TWlLjmJIPu",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대충 악플",
+        "writer": "UgymSjY9up_xY86obk94AaABAg.9TLV_SRWkxB9Tb4vYHZSJR",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 우와한 비디오에 나오고싶다 나 노래랑 케첩아트 영젠데,",
+        "writer": "UgyxT-1Donw5VsTBZLR4AaABAg.9TLVQdu1bar9Tb4vLO_6sY",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대놓고 따라하네",
+        "writer": "Ugz1ziNDqR2ecOYw96Z4AaABAg.9TLUFn5aQC59TLjhBs62zr",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차원결 그러면서 왜 내 댓글에 좋아요 누름",
+        "writer": "Ugz1ziNDqR2ecOYw96Z4AaABAg.9TLUFn5aQC59TLkoOJ3QCy",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 나좋아요 안누름",
+        "writer": "Ugz1ziNDqR2ecOYw96Z4AaABAg.9TLUFn5aQC59TLlspmtEiu",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인터넷에서 구입하는 새총은 사고율이 80입니다. 왜다쳤는지 안봤어도 원인 알거같네요. 그거로 문의 많이 들어와서",
+        "writer": "UgzrL23rNF47ktO8_S54AaABAg.9TLTjb-1fra9TY2QMlu49a",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 진짜 우와하고 간당,",
+        "writer": "UgwNci2VR8upAz1PL554AaABAg.9TLTVZncTkh9Tb4vhK6lVM",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 한 비디오",
+        "writer": "Ugyat5Wy2uMSj9DT1IB4AaABAg.9TLSvKiMhnW9Tb4vM6m48J",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와한 비디오 진짜 우와하고 간당,",
+        "writer": "UgyBaxoAZTyz_Kjpk_B4AaABAg.9TLSqCdtiGP9Tb4vM2hUIW",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라임 먹으면서 보고있는데 라임 지렸다",
+        "writer": "UgxWwTRsgZned2lxapR4AaABAg.9TLSdqAsXWq9TLUYX8jVbE",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 와 쩌렀노 그제 라는 (혐오표현)",
+        "writer": "UgxWwTRsgZned2lxapR4AaABAg.9TLSdqAsXWq9TLh5hwtvX1",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노을 맞음",
+        "writer": "UgxWwTRsgZned2lxapR4AaABAg.9TLSdqAsXWq9TM5PIXAiBM",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이스 1등",
+        "writer": "Ugz7LKvuduDu9bmdmLx4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옼해이 1등",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 님보다 일찍왔어요 ,",
+        "writer": "Ugz5KEFTt22ifhiG_BV4AaABAg.9TLSVHZ4NWv9TLSb_7r2MG",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 돌아온 더미 웅아니양",
+        "writer": "Ugz5KEFTt22ifhiG_BV4AaABAg.9TLSVHZ4NWv9TLbC4TPwXT",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 님보다 일찍왔어요,",
+        "writer": "Ugz7LKvuduDu9bmdmLx4AaABAg.9TLSUxfbucp9TLT2IikktC",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 1등인데요 ,",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLSaLV7a11",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 돌아온 더미 제가 일등 맞아요 최신순 댓글로 들어가서 맨 밑으로 가보세요 제가 제일 아래로 떠요 알지도 못하면서 우기지 마세요 빡치니까요",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLSyJCOJ_6",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 4초전",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLT0HqGkyO",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 돌아온 더미 할말 없는 잼 친구 저멀리 떠났네",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLT6n7uOyI",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 어머 그러네요 죄송해여",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLTZq2RZjr",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구수 적노",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLUQWDAMk8",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿 나대지 마세요 , 기분 덜티해요",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLg4VsACG0",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 쓸대없이 영어 섞는거 보니 맞네,",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLh6rtLXT2",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채소 쓸데없이 영어쓴다고 다 (비속어)요 그러면 이세상 영어 섞어 쓰는 사람들 다 (비속어)네요 신경끄세요",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLkOPXVxUh",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 쓸때없이 영어쓰는게 (비속어)가 아니라 (비속어)가 쓸대없이 영어를 섞어쓴다는 말이다",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TLrlcKEQV_",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 닉네임 올린 영상 말투 댓글 만봐도 그거다, 얘가 찐이다,",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TM5vKdHeXG",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채소 어쩌라고 신경 끄라고",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMAjrv0UvZ",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌멩이 (혐오표현)stone frog 너도 좀 나대지마 내 닉네임이 뭐 어떻고 뭐 말투 말투만 봐서 (비속어)인지 몇(혐오표현)지 니가 어떻게 아는데 몇(혐오표현)지 알지도 못하면서 얘 거리지마 니보다 나이 많으면 얘라고한거 책임질수있어",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMB3WOx7e6",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV (비속어)들은 어쩌라고랑 말끝에 붙이는건 기본요손가",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMDLsX3SYE",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 글고 신경끄는건 자기 자유죠",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMDSN8rVH-",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채소 작작하라고",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMDgt70GZG",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채소 시비걸지말라고",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMDjUpGnuY",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채소 에휴 맞춤법도 (반사회적용어)네",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMEtd--_Vj",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 시비걸지 말라면서 정작 말이 끝자마자 자신이 시비를 터는 당신은 대체,",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMF7KlPAk_",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채소 너는 이제 그만 나대",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMV9R_CtT8",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 알았어 그만 나댈테니 너도 좀 (비속어)줘",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TMW0CZvdv0",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 왜그럼",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TN2KnCdxhw",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채소 니가 안나대면 애초에 이런일도 없었어 나도 그만할께",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TNUARrQwAe",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 닥치세요. 나도 닥칠꺼니까",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TO9F2OV_7J",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 아니 니 영상보면 목소리 (비속어)구먼 뭔 (비속어)가 아니래",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TO9Na9z4Zu",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌멩이 (혐오표현)stone frog 에초에 먼저 신경 안썼으면 되잖아요 왜 끼어들어가지고 참,",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TO9_thAje-",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌멩이 (혐오표현)stone frog 몇(혐오표현)진 알고말하라고 니 거리지 말고 목소리만 듣고 (비속어)라고하는 니가 문제있는거야 그리고 (비속어) 목소리가 뭐라고 단정지어있는것도아닌데 니가 (비속어) 목소리를 어케알아 작작 나대",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TO9wY-_WM3",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유은TV 욕은 그만하시고요. (비속어)는 어린이를 말하는 말입니다. 영상에 보시면 당신의 목소리가 어린이 같다고 말한겁니다. 본(반사회적용어) 작작 나대셨으면 좋겠습니다",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TOJsQn4uM1",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌멩이 (혐오표현)stone frog 어린이 아니에요",
+        "writer": "Ugy4QKrHEZjVGtNsH-J4AaABAg.9TLSSV1Eyw99TOm9Iy9-IP",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=lRADfA3bDuY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

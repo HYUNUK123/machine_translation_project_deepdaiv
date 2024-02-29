@@ -1,0 +1,708 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001460449",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOLI210001460449"
+    },
+    "text": [
+      {
+        "content": "대박 넘 멋져요. 전시회 하시면 가고 싶어요",
+        "writer": "Ugwh8UOnChh_zWOjjXF4AaABAg",
+        "write_date": "2021-06-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 아는선생님도 저런식으로그려요.",
+        "writer": "UgwxxIx_0EjbxdDrK3p4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 걍 밑그림해도 저런 그림 안나옴",
+        "writer": "UgyFyx00ECDpM95zvWJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 나도 이렇게 잘그렸으면",
+        "writer": "UgyrZMpVt5qvyb-mSm14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 볼펜만 있으면, 그럼 뭐해",
+        "writer": "UgylhABi3DK8pgvfjZx4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제 꿈이 미대인데 저렇게 그리고 싶어요오",
+        "writer": "UgxptWmv26AmBWoBvjZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으아아이아아앙앙 잘그린다 대박,",
+        "writer": "UgwxoUhOctR2afXNn-N4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)다 나는,",
+        "writer": "UgwDDSCdTuPgc6kBn1N4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 꿈이 화가인대,",
+        "writer": "UgzBcccxcGn7opHO0WJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밑그림 없이도 구도랑 각도 비율이 완벽,",
+        "writer": "UgxiV4wiC8tMXc65jRZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가저럿개사람을그리면 몽큐의절규될듯",
+        "writer": "UgxBDlek3RcPZz0iK_R4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우, 와우",
+        "writer": "UgybxwXZDDmqkzDcFS14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잔 침 두번 심키면 트름 나옴",
+        "writer": "UgwHA4gPktMf5kkMRld4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허거덕 금손,",
+        "writer": "Ugypm1V1Z8i1TPNVltx4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저두요 그럼 저런데에 나오겠죠",
+        "writer": "UgyrZMpVt5qvyb-mSm14AaABAg.8nzxYMY686K8okmhfF8DDN",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래 확실히 이번생은 틀렸어 난 이제부터 이 분을 핥으며 살거야..",
+        "writer": "Ugxh2CZQ45_Z69rpUKV4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "허거걱 나의 40배나 잘 그(반사회적용어)당",
+        "writer": "Ugy0yR8qfv1iotW9OfJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어이쿠 어휴어휴 아주머니 충성충성 어휴어휴",
+        "writer": "UgzGJYsvZmqz5-O_4T14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저랑 손 바꾸요",
+        "writer": "UgzpXr7srcHgrhHx_BB4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상을 흔(비속어)매님이 시청하셨다니,",
+        "writer": "UgwMk6wdF0JS0H7tLgN4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 이럴때 오졌다 라고 하는겁니다",
+        "writer": "Ugx1sYGElHMZ_at4cNZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와.대박진짜잘그리시네요이건누구나못그린데한사람 손",
+        "writer": "UgyEINtbBXrsLsjRCbV4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나 저거 TV에서 봤는데",
+        "writer": "Ugw4F8SEi3K_5feAQ-p4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나랑 같은 펜들이 수없이 많은데 , 내 수준 무엇",
+        "writer": "UgxcxrswCvG9qOMZKM14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박 밑그림 없이 나는 미술 분야 공부중이여도 밑그님 하나 진짜 어려워하는데,",
+        "writer": "UgzN_ATeXSAWVN2-3M14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 진짜 잘그리시고 천재네요",
+        "writer": "UgzwVPrMZVgVFZIzi-54AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 살순없나요 진짜 작품인데",
+        "writer": "UgxVp8Dag5PLA3MmyAB4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라에 외계인 한명 더 추가용......... 도망쳐야도 .(비속어)",
+        "writer": "Ugww-oZspQ5Zx9i0IaN4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발자국을 펜으로 어떡해 그려 (반사회적용어)",
+        "writer": "UgyeIlqou5LEixhuQ6t4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 겁나쉽게그리는데 (작품명살면서 가장 잘 그린그림) 하하하하핳헣허헠",
+        "writer": "UgwjwW3TLyxzYdTS04x4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요 999개 인거",
+        "writer": "UgzaXAe60Oc2XVuIM3R4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 그리네",
+        "writer": "UgwzQOgBdqksbyH-pZd4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트럼프랑 (이름),",
+        "writer": "Ugx2LJ1N9n83wdR7oW14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 만발성이(반사회적용어) 돼고 싶네",
+        "writer": "UgxSGYjCwilvMs-H5wx4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 사람이야 말로 진정한 화가다 위인전에 나와야한다",
+        "writer": "UgwDM944Tb2hD2MkPVZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난믿그림없이 이쁘게 , 쫄라멘을그려요,",
+        "writer": "UgzK8csAw9XoIoUR_194AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐, 금손,",
+        "writer": "UgxfPQw_OlzapQVQiTV4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런분한테 하는 말을 의학적 용어로 와, (비속어)(비속어) 라고 하죠.",
+        "writer": "UgzNu0RpHmsch0r6srh4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 우,",
+        "writer": "UgxH1TFmej-qkfANsUx4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 보기엔 저분은 분명 어렸을때 부터 재능이 있었을거야,",
+        "writer": "UgyygQYUkd8ks7QmjBd4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머님 멋져요 짱... 저도 꼭 그렇게 되고싶어요.",
+        "writer": "UgwUqqAp4DYDIKtlLHh4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 (비속어),",
+        "writer": "Ugyuv6cKEBor3NKH7lZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와, 대단 하시다,",
+        "writer": "UgxUDBAEbj7KL8mXcYN4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대박, 우리집에도 저 볼펜 비슷한거 있는데 나는 그걸로 (비속어)같은 그림그리는데, 크흠",
+        "writer": "UgyIZcyQBkW7CWGYY0V4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 저그림 그리려면 나무가 100그루 잘릴듯",
+        "writer": "UgxVJuL_FvKW68Qz5ut4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 대박이다",
+        "writer": "UgyEjW9lGM8ebsJHCt14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신의 손 이여 나 에게 그 손을좀 다오",
+        "writer": "UgwM25KrOYeA5ytX12B4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 나만 (비속어)손임",
+        "writer": "UgyPaD7gr-Hb56PQqbB4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 금손아니야(시무룩)",
+        "writer": "UgwALPecTxGxZWQLlpp4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 대(이름)고 생각하는사람 손들어",
+        "writer": "Ugxpgz-T4pww76l9lgh4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젠 탱 글 나도 젠탱글에 관심있음",
+        "writer": "Ugw5QUKzVsUBs0odNWZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 다음 저(비속어)손",
+        "writer": "UgwAGO4AWdv-pKzCi4Z4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헝 대박 잘그린다",
+        "writer": "UgwfW1nYOB3xhkjsOlZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늦었죵 다음부턴 일찍올게용",
+        "writer": "Ugx4hEPQWwoj4AvcwCZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서, 얼마죠",
+        "writer": "Ugwkq0lUERuU8nRis1J4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 아예 포기를,",
+        "writer": "UgxVJuL_FvKW68Qz5ut4AaABAg.8ns5NJasgL08nuRhbn7R08",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가그릴려면 만구르",
+        "writer": "UgxVJuL_FvKW68Qz5ut4AaABAg.8ns5NJasgL08nxAy5w0r2h",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전 나무가 몇그루 있어도 안될 듯,",
+        "writer": "UgxVJuL_FvKW68Qz5ut4AaABAg.8ns5NJasgL08w_ZLbbS2KI",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그다음엔 저 (비속어)",
+        "writer": "UgwAGO4AWdv-pKzCi4Z4AaABAg.8nryO-QmFuy8o-45xfSLBS",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 그림은 값을 매길 수 없습니다.",
+        "writer": "Ugwkq0lUERuU8nRis1J4AaABAg.8nrwRxBFa8I8nzez2B1XP3",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난, 프린트인줄, 알았는데, 난 이때까지 뭐한(혐오표현)",
+        "writer": "UgwpGVfdMFmxEU0KBaJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 WoW임, 근데 나두 밑그림 없이 그리는뎅 근데 나는 망작은 있어두 작품은 없음",
+        "writer": "UgyTqgbPxiVjbyB3X3F4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와앙, 나도 밑그림 없이 그리는데. 그래서 망치는거구나.",
+        "writer": "Ugzf9TbU6OmSFMQjUSN4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아줌마는요 미술대회도 갈수있네.",
+        "writer": "UgxkY7leGqHLqIyNws94AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 그림의 액수는 90000000000000000000000000000000000000000경 입니다",
+        "writer": "Ugzt2apWuy1Byt6_ZDl4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오른손아 뭐하니,",
+        "writer": "UgygczNJ81LjRVe5YIx4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 예전( )인가 그떼 본것같은데, 아닌가",
+        "writer": "Ugy8GFdj55HXkk2yoi14AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "리얼 신의손",
+        "writer": "UgxIjtjo8gECK753Z_d4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 화가다",
+        "writer": "Ugz32fa7fRhh7sz8hSJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실화냐, 나도 저것의 반의 반의 반의 반만 잘 그렸으면",
+        "writer": "UgzLk4xHhPePg0PQusV4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오우 미르스띤,",
+        "writer": "UgyHE5zVZ5Oamvv08wJ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 레알이죠 너무신기 하네요",
+        "writer": "UgwYicMoNUdfwIinnH54AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저라면 그리다가 던져버림요",
+        "writer": "Ugz7f9V3UyGwO6od-RZ4AaABAg",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 저도 그렇군요",
+        "writer": "Ugzf9TbU6OmSFMQjUSN4AaABAg.8nru0NFOier8nrv_IwrGwL",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 안망침",
+        "writer": "Ugzf9TbU6OmSFMQjUSN4AaABAg.8nru0NFOier8ntMJ6vDPuU",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸른허늘 그러면 안망처요",
+        "writer": "Ugzf9TbU6OmSFMQjUSN4AaABAg.8nru0NFOier8nxTBPE9vuz",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "푸른허늘 그러구나 자신감 어디서든 뿜뿜하는 모습 보기좋다 앞으로도 안마쳤으면",
+        "writer": "Ugzf9TbU6OmSFMQjUSN4AaABAg.8nru0NFOier8nxefSG95mL",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 저도,",
+        "writer": "Ugzf9TbU6OmSFMQjUSN4AaABAg.8nru0NFOier8r1F7buLGhF",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋아요 눌렀어요",
+        "writer": "UgxkY7leGqHLqIyNws94AaABAg.8nrtcdhJnww8ns1qeiErk2",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구걸 (비속어)이네",
+        "writer": "UgxkY7leGqHLqIyNws94AaABAg.8nrtcdhJnww8ns4ryVPmqe",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기도하는(이름) 아 , 그렇군요",
+        "writer": "Ugzt2apWuy1Byt6_ZDl4AaABAg.8nrsrsO32J88nruXXll_NO",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니에요 살수 없어요 너무 잘그려셔",
+        "writer": "Ugzt2apWuy1Byt6_ZDl4AaABAg.8nrsrsO32J88ns1y_SQ5Ae",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "9999그레이엄 으로하죠 경은 작은 단위에 속하죠 전체단위에서 보면요",
+        "writer": "Ugzt2apWuy1Byt6_ZDl4AaABAg.8nrsrsO32J88nwtzhM8ByY",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20등 이에요",
+        "writer": "Ugwzvvwd3gt14_mYDOp4AaABAg.8nrmLx3M-H68nrtUVLGuQP",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "15등 이에요",
+        "writer": "Ugzjr9F8lRlIMe-mdZl4AaABAg.8nrlaqbqOF68nrtRunc8XJ",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "11등 이에요",
+        "writer": "UgxGL9XueGwy2OIQ4kx4AaABAg.8nrlVVXTWZf8nrtOhnO4Uw",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 1등 축카축카",
+        "writer": "Ugwt93n6WgW9GrGXWad4AaABAg.8nrlRlFpGQ38nrs6OtoszV",
+        "write_date": "2019-10-24",
+        "url": "https://www.youtube.com/channel/UC0PsUG07plnP_uQQS9djFVQ",
+        "parent_url": "https://www.youtube.com/watch?v=CNzLPJ4HLes",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

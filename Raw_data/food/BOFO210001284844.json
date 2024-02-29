@@ -1,0 +1,708 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001284844",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOFO210001284844"
+    },
+    "text": [
+      {
+        "content": "3살 된 애기들 부터 오늘 내일 하시는 할머니도 좋아하실 핫도그",
+        "writer": "UgxS-qzACn4pTOovZHJ4AaABAg",
+        "write_date": "2021-01-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 다들 왤케 귀여워 눈에서 굴러도 끄떡 없을거 같아 다들",
+        "writer": "UgwQldZrsVi53o16B-N4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 다들 턱선이 있었네요",
+        "writer": "UgwAviwu5Zd2crKOgNp4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 나오는 영어노래 제목 뭔가요 많이 들어본거이긴 한데",
+        "writer": "Ugz0hJsfL81nNfwjhoF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소스 너무적게뿌린다 저거는 촤아아아 뿌려야하는데 한방울도 안떨어뜨리려고 아끼네",
+        "writer": "UgzUBgNfw-sJEG9dTTt4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아우 진짜 맛있겠다 진짜 핵꿀맛",
+        "writer": "UgxlUQtkQL_53Cpr8uZ4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 감사합니당헿, 동심을 잃지않은 5살아이의미소",
+        "writer": "UgzeRRrJmhH0SebdrYx4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 니들 놀이기구 왔으면 좀타야지.. 먹기만 해.. 아님 핫도그 털어먹던지하지",
+        "writer": "UgyvfY9cDpxmZ1jxUgh4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설탕 불호",
+        "writer": "UgyTDekORzZ2OF9cjLl4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구꺼에여 (본능적으로) 나.",
+        "writer": "UgxrVWBngT31O-xUj3x4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "촤아 한입 먹으면 슈욱 혀서 맛있쪙",
+        "writer": "UgyRwT-qzkoGhKpm8d94AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현 오린이다 귀엽",
+        "writer": "UgxxBaJQJJDC7o6iL8Z4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 해맑아서 보기좋다",
+        "writer": "UgwRSo1_C9CKlndmjbh4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 설탕",
+        "writer": "UgzJA1UXXlo2OUI88Rh4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분들은 무슨 음식을 드시던지간에 다 맛있게 드시고 복스럽게 드시는것 같네 뭔가 같이 밥먹으면 음식 별로 안먹어도 보는것만 봐도 배부르고 행복할듯",
+        "writer": "Ugyqx-TvmCHbxRXoACd4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 뚱뚱하다",
+        "writer": "UgxWfZeuq9rk1hdP09p4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 나온 브금 Bobby McFerrin Don t worry be happy 입니다",
+        "writer": "UgwOPiQsMWYNabtcifF4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이형 감사합니다 할때 귀엽네",
+        "writer": "Ugz4Xgr-OIr5UOHqtxd4AaABAg",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혼자밥먹을때 보면 외롭진않아요. 밥먹다 웃을일없을때 보면 웃음이납니다.",
+        "writer": "Ugw70EawFxbtDpjKGSJ4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀이동상 간식의 꽃은 개인적으로 회오리 감자라고 생각합니다",
+        "writer": "UgyXLujt1bKubU9wJ_h4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫도그는 기본입니다. 기본에 충실한 네 분이라 참 좋네요.",
+        "writer": "UgzL-z2BZF9PARNT-UR4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫도그 하면 부산인데 설탕케찹으로 먹는 방식 군침돈다",
+        "writer": "UgxOCXAqqAYqh_CfuUV4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀이공원에서 회오리감자 먹는다고 1시간 넘게 돌님",
+        "writer": "Ugz1ZBqb6PeEFSMA2Xp4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김민경 핫도그먹는거 귀여워",
+        "writer": "UgzYi2_qOeL_676ZURB4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런거 사먹으면 보통 다식어있음",
+        "writer": "UggPxeeT-DLMVHgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마요네즈가 없네",
+        "writer": "UghBZCe4mLHrVHgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이십끼형 약간 만득이 핫도그랑 잘어울린듯",
+        "writer": "UghCSJvcPDRqdngCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순도 100 행복의 웃음",
+        "writer": "Ugh4VNifUJ7qzHgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 김민경 저옷입으니깐 눈사람같아 귀여워",
+        "writer": "UgiGKaOd7xKlnHgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설탕뿌린핫도그 한번도 안먹어봤는데 먹어보고싶다",
+        "writer": "UghV-QrFHchI6HgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 몇화에여",
+        "writer": "UgzwmjzhGaiup8-qbxl4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들좋은데 진짜건강걱정된다",
+        "writer": "UgwHN916Q3znvgNGptN4AaABAg",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보면서 무의식적으로 같이 입벌림",
+        "writer": "UgifRmbinZO95ngCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말로 행복해보여",
+        "writer": "UgjjxJYRi_8T0XgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무귀여웤 넷다",
+        "writer": "UghHmPKfhK6XkngCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끝날때쯤에 나오는 브금좀 알려주세요",
+        "writer": "UgjstOYYQmoiaXgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상이 크긴하다 7인가 그쯤이니까",
+        "writer": "UgirmVkLcPx-uHgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현이 먹은 어묵바맛있어보이네,",
+        "writer": "UggWXRGVTsycZngCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 김준현 케찹뿌려달라할때 조올귀 서준이같애",
+        "writer": "UgiWlWOPnVpXCHgCoAEC",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와씨 핫도그 먹고싶어서 휴게소가면 무조건 먹어야지 하는데 정작 어묵을 포기못해서 결정장애 옴,",
+        "writer": "Ughh2mq0A8_JtngCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기 놀이동산 어디에여",
+        "writer": "UgjVFsO7i4dLwXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런거는 와진짜맛있어 이건아닌데 먹는순간 진짜행복",
+        "writer": "Ughwv35_rWcPzngCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 넘 귀엽닼",
+        "writer": "Ugh-iU6XugQvt3gCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 유민상 어디 모자르나 벼",
+        "writer": "Ugjfx0GPmV6kwngCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저기가 어디지 월미도",
+        "writer": "UghdFUVIdwUaxHgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리는 저 울퉁불퉁한거 못난이핫도그라고하는데",
+        "writer": "UgiGim-QvqdrHXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 몰랏는데 키 크다",
+        "writer": "UghnVyC-KWG6_HgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만득이 꿀맛임, 만득이 설탕 묻히고 케첩 뿌리면 3개는 뚝딱",
+        "writer": "UgjjUpM76ePE8XgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜왤케 귀엽지",
+        "writer": "UghLM4Bh5h8xOXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 진짜 해맑다.",
+        "writer": "UggRaqE8nna_BXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 드립보소 인간이 만든게 맛있대",
+        "writer": "UggOEzYouHmhangCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빅뱅바라기 그럴땐 둘다먹죠",
+        "writer": "Ughh2mq0A8_JtngCoAEC.8JMpfnV5vtj8MH6dAVqPOf",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빅뱅바라기 둘다먹으면 고민해결(찡긋",
+        "writer": "Ughh2mq0A8_JtngCoAEC.8JMpfnV5vtj8RZHfvdnx6e",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼옷에 케찹엄청흘림, 1시간뒤에 도착해서 맛있는거많이못먹음 출발할때 다들 김밥나라에서 참치김밥2줄포장해서 한줄씩 나눠먹으면서 출발하는거아님",
+        "writer": "Ughh2mq0A8_JtngCoAEC.8JMpfnV5vtj8Vgfnql-Zm4",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 휴게소가면 핫도그 너무 먹고싶엌케찹 완전 많이 뿌려서",
+        "writer": "Ughh2mq0A8_JtngCoAEC.8JMpfnV5vtj9-kXvhFC5bm",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 완정 공감,",
+        "writer": "Ughwv35_rWcPzngCoAEC.8HXDXRf_X8E8W52aysSbVz",
+        "write_date": "2017-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 먹는거 귀여운데 왜그러세요, 악플달지맙시다..",
+        "writer": "Ugjfx0GPmV6kwngCoAEC.8H0uo-juJ6Z8IFCZFRkqya",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남준이온다남주면 전 0으로 알고있는데, (기분 나쁘시면 죄송해여)",
+        "writer": "UghnVyC-KWG6_HgCoAEC.8G9_obTyXBC8ZVV52zjHXE",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "I LOVE 캣.. 이십끼형 5이구 김준현 0 문세윤 178입니당",
+        "writer": "UghnVyC-KWG6_HgCoAEC.8G9_obTyXBC8Z_xrxM7HGy",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐김준현도 0이나되요 되게크네",
+        "writer": "UghnVyC-KWG6_HgCoAEC.8G9_obTyXBC8b1BHwp6Ug-",
+        "write_date": "2018-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫도그는 빵먼저먹고 소시지먹는게 진리임",
+        "writer": "UgjAiuiVzOWn03gCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 넘 귀엽다",
+        "writer": "UghJflB9UKQT93gCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 와중에 김준현 어묵바 떨어질까봐 걱정한 1인",
+        "writer": "UgjQWqB9z8t0PXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "4명다 커엽다",
+        "writer": "Ugg2apHnHXNIvXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹는모습 보기좋다",
+        "writer": "Ugij1DHLBPZrzXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어묵맛있겠다, 침꼴각,",
+        "writer": "Ugjz72d2dw2kHngCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀이동산가면 나도 핫도그 먹어야긋당 맛있어보이네",
+        "writer": "UggElZdJBqCd9HgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상보고 핫도그 먹고싶은1인",
+        "writer": "UgiPHj7rj9TaHXgCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설탕이랑 케챱 귀엽다는 뭐야",
+        "writer": "Ugh3iuq8OPagpngCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 디즈니를보는거같지,",
+        "writer": "Ugi-zhy1iriTangCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫도그 먹고싶다",
+        "writer": "UggPCzCAn9F5n3gCoAEC",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김주현도 귀엽당",
+        "writer": "UgjnPP-lIuMimngCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 짱 구여워",
+        "writer": "UghAO9x4Ax06A3gCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫도그안에 소세지 너무 귀여워요",
+        "writer": "UgiS4N7phaUNEHgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국민간식 핫도그",
+        "writer": "UgifbrzCakt9yngCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소시지가 짜면 못먹겟던데,",
+        "writer": "UgjAiuiVzOWn03gCoAEC.8B1Og79mEJn8DIpqz6Mwo-",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끝부분 잡는게 불안함",
+        "writer": "UgjQWqB9z8t0PXgCoAEC.89rMjCCK9fT8FfS5prRkTX",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디바 딱이야 입니다",
+        "writer": "Ugio5oo7erN7_3gCoAEC.854ZAPNzQml7-dmKCCAi7n",
+        "write_date": "2016-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설탕 너무 귀여워요",
+        "writer": "Ugh2YjO7BFfT4XgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 제일 귀여워요",
+        "writer": "Ugjb_LX7b9ZVV3gCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫도그집 아주머니 너무 귀여워요",
+        "writer": "Ugg4YIDfUxYrJXgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 단합봨",
+        "writer": "UggesPRsYVAGmXgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "핫도그씨 너무귀여워요",
+        "writer": "Ugj2YcllaiWAoXgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 너무귀여워요",
+        "writer": "UgiUnsV75ituaXgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무귀여워요",
+        "writer": "UghxrkWJB5I4OXgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무귀여워요",
+        "writer": "UghC-YlEXV4QRngCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 너무 귀여워요",
+        "writer": "Ughx4fo7OLr7_HgCoAEC",
+        "write_date": "2015-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=Ir-izno4l-I",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

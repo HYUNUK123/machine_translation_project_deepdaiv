@@ -1,0 +1,436 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001659945",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001659945"
+    },
+    "text": [
+      {
+        "content": "조이야 까꿍 우루루까꿍 도리도리 짝짝꿍해봐 오늘은 (이름)엄마좋아",
+        "writer": "UgzGU1qX99rr2iEtO5V4AaABAg",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이야 오늘은 (이름)엄마 개그재밌어 오늘은",
+        "writer": "UgyfnVqS3VcGGqNaH854AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는 울도 넘 좋아요 사랑해요 건강하게 자라라,",
+        "writer": "UgyznFZCDDC_aKRk0bl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보수록 넘귀여워요.",
+        "writer": "UgwH-giJ7awVNutgyIl4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효림씨가 밝아서 아기가 똑같이 밝은거같아요",
+        "writer": "UgwpI-9BdTXG6a4N_IB4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 가족 넘 좋아요 마음 변하지 마시고 항상 노력하며 행복하시길",
+        "writer": "UgyHbaXMYK-NaO2IX3p4AaABAg",
+        "write_date": "2021-09-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 도리도리하는모습 수미선생님 하고 똑 같아요 남편분도 마음이 너무좋아보여요 행복하시길 응원합니다",
+        "writer": "UgzOMiiivgBevRNEFT94AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)빠 (이름)씨 생각해서 좀더 멋지게 옷신경써서 입고다니세요. 젊어보이게 ,",
+        "writer": "UgxRbROJRuY4v_jZC5F4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)네랑 비교되네 조이는 아빠도 함께 돌봐주고 할머니도 자주 오시는데.",
+        "writer": "Ugw6tJjy-3Nnka4KdzR4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 조이를 너무 너무 좋아 합니다",
+        "writer": "UgwiDQNXjkgFUQwnQQl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머리 빡빡 미는 (비속어)들과는 다른 (이름) 누나다.",
+        "writer": "Ugw1IotBL9SStvH2mDd4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소가된 아빠 왜 이렇게 재미 있냐",
+        "writer": "UgxcpfEfrO4y4PJQRih4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이는 참 행복하겠네요 , 너무 사랑하고 사랑받는 이쁜 가족이네요",
+        "writer": "UgycoUoerNjvtytY41N4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 진짜 대박 좋은 엄마 멋진 여자네요",
+        "writer": "UgzuHsFXo1nE5nzNTxN4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이순둥이 여자앤거 티나는 여우짓이나 까탈스러운것도없고 남자애마냥 극성부리지도않고 알아듣는듯한 눈빛기분좋음웃음 매력조이",
+        "writer": "Ugxs7mUJmheY3joGOw14AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이가 좀 하영이 같네",
+        "writer": "Ugz3HkGK4-JLNRW8jnB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름) 울음서 수퍼맨이돌아왔어요",
+        "writer": "UgwHRmSalfc4AsQPIJJ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) (이름)육아(울음마.)",
+        "writer": "UgxwZ2PjCXrXy6VFRwJ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨를 봐야되는데 소유진음성때문에 보지못하고 채널 돌림니다 지금티브에서 재방중인데 소유진땜에 슈돌을못보네",
+        "writer": "Ugzw8CWa1jbgmqT14hN4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무보기좋아요요즘 조이보는 낙으로",
+        "writer": "Ugzrjm_-vBim4l7YhZN4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참 다정한부부. 참 좋은 부모입니다",
+        "writer": "Ugx6kacSRJ8HQBNyPYx4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두분사랑가득한모습숨기지마세요 이뻐죽겠어요",
+        "writer": "UgxEUWZi-TeUHEFrz714AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 사는 집 같은데 도우미를 왜 안쓰지, 살림 육아 2개 모두 할필욘 없을텐데",
+        "writer": "Ugxp8powC5NOdzLFd4l4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름) 사람보는눈있어 며느리 잘고르셨네요.",
+        "writer": "Ugy11wDAW7w1jFfoe714AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제가 다 기분이 좋네요",
+        "writer": "Ugz_t_tVxecKlluuJC54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편분 귀티나네요효림씨 결혼잘한듯행복하세요",
+        "writer": "Ugy6TzH7Ecwz5H5AYI54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "두부부가 행복해보이세요 (이름) 귀엽고 계속나와요",
+        "writer": "Ugz01-xUuKyzVJdPB154AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 가식스런 연기같다 자연 스러운모습 보야주길 아빠는 듬찍함",
+        "writer": "UgyfHNAjGaYHpiCYw994AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 연기자보다 엄마이길 선택한듯, 너무 이쁘게 아기키울라고 애쓰고노력하는듯, 쪼은옴마라서 조(이름)할듯",
+        "writer": "UgzwR4xD_uYcsId7qIp4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아닠 절대 안 그럴 것처럼 생기셔섴 소분장 조이가 아니라 제가 빵터졌네욬아낰",
+        "writer": "Ugw9zzhcruPXexON7hJ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 울줄 알았소",
+        "writer": "Ugy21UGpouQ9IogmJwh4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경완 효과인가, 아님 도경완 바통 터치 후 도경완 같은 분을 모셔온 건가,",
+        "writer": "UgzHAxcv05FLIzGC8ol4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 가족도 재밌겠다",
+        "writer": "UgzUxkOAgr6PS5QwzA54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도우미 쓰는데 방송에는 안보여주겠죠",
+        "writer": "Ugxp8powC5NOdzLFd4l4AaABAg.9MYAUjAxKQn9MapySjN0tl",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물건도 아니고 고르긴 뭘 골라요 결혼할 사람이야 같이 살 당사자가 찾는(혐오표현),",
+        "writer": "Ugy11wDAW7w1jFfoe714AaABAg.9MWpklt56b39MXT7MbdATB",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "koyukiny 시간낭비하고 뭘따져...그냥표현이 틀릴수도있지 .",
+        "writer": "Ugy11wDAW7w1jFfoe714AaABAg.9MWpklt56b39PwhRKPa02K",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으이궁 좋은눈으로 바라보시길바래요 본인이 가식으로사니 남도 가식으로 보이는거겟죠 남을 비꼬지맙시당",
+        "writer": "UgyfHNAjGaYHpiCYw994AaABAg.9MVWSy_79f69MVqShQK6at",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 이쁘기만 하구마 뭐시 가식이에요 다 진짜구마 보질마던지 악플 달지맙시다",
+        "writer": "UgyfHNAjGaYHpiCYw994AaABAg.9MVWSy_79f69MWT-W_YII2",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가식적인 모습으론 안보이고, 원래 성격이 어린 아이를 좋아하고, 해맑으신거 같응데요, 어른들 카메라나 사람앞에서 체면 체르느라고 아이에게 저렇게 못대하거든요,",
+        "writer": "UgyfHNAjGaYHpiCYw994AaABAg.9MVWSy_79f69MZzfSp87DP",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애기가행복해서 웃는데 가식이면어떻냐",
+        "writer": "UgyfHNAjGaYHpiCYw994AaABAg.9MVWSy_79f69PpMg9br-KS",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신알롱 좋은 의미로 말한건데, 악플로 보이는 건가요 도경완 자체가 노력하는 아빠상이라, 저분도 되게 노력하시는 분이라 생각한건데",
+        "writer": "UgzHAxcv05FLIzGC8ol4AaABAg.9MUMSn4i2eK9MaV09i4mBk",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도경환이 여기왜나와",
+        "writer": "UgzHAxcv05FLIzGC8ol4AaABAg.9MUMSn4i2eK9PvqiEeBn_k",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 눈은 엄마 닮았는데 웃을 때 보면 전체적으론 아빠 닮은 것 같음 결론은 조이 넘 귀엽다구",
+        "writer": "Ugwr3are5a59mc3AVyl4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아기많이낳고 행복하게 사세요.",
+        "writer": "Ugw9DOcHuJqvDQEe3yh4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복한 가족들",
+        "writer": "UgzlpmHwElz-E4YAbKB4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "효림씨 애교도 많구 아가한테도 넘 좋은 엄마네요",
+        "writer": "Ugx1CuVmAXPsz-o0BOZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)씨 넘 좋은 엄마네요,",
+        "writer": "UgzV5hH5fqNAM_I7Ls54AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조이 너무 예쁘고 귀여워요.",
+        "writer": "Ugx7T8BNIom9_1Txg014AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 넘 귀여워요 조이",
+        "writer": "UgxLiUmEoapnnH8Y5CZ4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃는게 완전 (이름) 할머니던데요",
+        "writer": "Ugwr3are5a59mc3AVyl4AaABAg.9MTz2XcFJu59MUMCSeWkUl",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밝은 기운이 너무 보기 좋네요 아기 정서에 아주 좋은 영향을 줄껍니다",
+        "writer": "UgzV5hH5fqNAM_I7Ls54AaABAg.9MJKhUQsl2v9MZKqLFIVOA",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 행복하게 보여요 시엄마도 좋어시고요 짱입니다 시집잘갔네요 보기좋아요",
+        "writer": "UgzV5hH5fqNAM_I7Ls54AaABAg.9MJKhUQsl2v9NPHmp9EeVt",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너는멋져 싶었어요 근데 진짜 제가 직접 만나고 싶은 마음",
+        "writer": "UgzV5hH5fqNAM_I7Ls54AaABAg.9MJKhUQsl2v9P25sb9upo4",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=UAEXmwCbfsE",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

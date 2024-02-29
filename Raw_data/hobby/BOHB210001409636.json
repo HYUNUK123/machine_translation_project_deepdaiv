@@ -1,0 +1,548 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409636",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409636"
+    },
+    "text": [
+      {
+        "content": "트리밍된 사진 한 장만 저장 하고 싶다면 수동으로 하기 1. 사진 보정을 다 마치고 Crop Tool 선택 2. 크롭 툴 모드를 W X H X Resolution 선택 3. 증명 여권 등 트리밍 하고 싶은 사이즈 적용 (예 2.5cm X 3cm 300pxin) cm 단위를 적으면 cm 단위로 트리밍이 적용 됩니다 4. 트리밍하고 JPG등 (이름) 파일로 저장 트리밍된 사진 한 장만 저장 하고 싶다면 액션으로 하기 1. 제공해드린 증명사진의 액션파일 다 펼쳐보기 (예 증명12장(4R) 펼치기) 2. 보여지는 액션 히스토리 중 Crop 바로 밑에 있는 Set Selection 앞에 체크 박스 체크 해제 3. 다시 플레이 하면 크롭(트리밍) (비속어)고 경고창이 나타남 4. Stop 눌러서 (이름)면 이후의 액션이 실행 되지 않음 5. JPG등 (이름) 파일로 저장",
+        "writer": "UgwLzNTNj-p48Y5l9qF4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 자료 대단히 감사드립니다. 그런데 저는 잘 작동이 안되네요 피부보정에서는 선택 명령은 현재 사용할 수 없습니다 라고 나오고 증명사진에서는 복사 명령은 현재 사용할 수 없습니다 라고 나옵니다 눈이 꺼진 레이어도 없고 Background 레이어도 있는데 작동이 되지 않습니다. 어떻게 하면 좋을까요 도와주세요 감사합니다",
+        "writer": "Ugzpp8mrJ5lMYj9Q7Ux4AaABAg",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 혹시 제 프로필 사진처럼 도형에 서서히 퍼지는 블러를 적용하는 방법을 다음 포토샵 강의로 만들어 주실 수 있나요",
+        "writer": "UgzNyEYDy8-rpHr41a94AaABAg",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "항상 잘 보고 있습니다. 혹시 액션 사용 후 크롭 뒤에 엔터를 누르면 선택 명령은 현재 사용할 수 없습니다. 라고 나오는데 어떻게 해야 할까요",
+        "writer": "UgzHkNVQfjc1LjKT24J4AaABAg",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유익한 영상 감사합니다 ) 따라해보려고 하는데 액션을 눌러도 창 밑에 실행 버튼(삼각형)이 뜨지 않는건 어떤 문제일까요",
+        "writer": "UgzxtSY8mB-dAhJoOS94AaABAg",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최근에 구독했습니닷 . 혹시 GTQ 포토샵 예제들도 강의해주실수있나요 1번2번3번4번 이런식으로 같이 하는 영상이요",
+        "writer": "UgyEKnKHTCTTc31u67x4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈도우 포토샵인데 액션파일을 더블클릭하면 포토샵에 액션파일이 안들어가는건 왜그런걸 까요 유익한 영상을 활용못해서 너무 속상하네요",
+        "writer": "UgzIN0cv6CjgK1aVxEd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 선생님. 별개의 질문인데 저는 상세페이지에 (이름)를 넣으면 계속 깨집니다 픽셀단위가 높은 (이름)에서 보정하고 선명도도 한번만 클릭하는데도 그렇게 저장하고 옮기는데도 깨지는 느낌이 많이 듭니다 어떻게 하면 깔끔하게 (이름) 보정과 깨짐없이 할 수 있는지 알려주시면 감사하겠습니다",
+        "writer": "UgwbR1oV3kSNm3GIPr14AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질문이 있습니다 transform(cmdT)를 선택하면 바운딩 박스라고 하죠 사각테두리 영역이 선택되어 그걸로 크기나 회전등 바구는건데 최근 제 포토샵에서 그게 안보이네요 cc2021인데요 이거 오류일까요 너무 답답하네요 흑",
+        "writer": "UgzlzqcLtm8NWMKKXXd4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (이름) 정말 매번 느끼지만 신이십니다. 존경해요 이렇게 자유자재로 툴을 (비속어)어드시니 독학 열심히 따라하겠습니다...",
+        "writer": "UgyVxnouuGRhoOOZs4l4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 유익해요 감사합니다 ...",
+        "writer": "Ugw5VlT-9IzLRAiutqN4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "증명사진 12장 엔터하면 영상과 같이 나오지 않고 트림한 사진 한장만 나오면서 the command copy is not currently abilable. 문구가 아오면서 continue or stop 버튼아 나옵니다. 해결방법 부탁드립니다.",
+        "writer": "UgzMWeD32KlciRBG34h4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 선생님 책보면서 공부하고있는사람입니다 주제와 다르지만 궁금한게 있어서 여쭙겠습니다 watch v2eX3aZgmeCE 이 썸네일에 빨간눈 어떻게하는지 간단하게 알려주실수있나요 정말궁금한데 어디에도 없어서요",
+        "writer": "Ugzq_G3tdLNq4-8klOF4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액션실행할때 선택불가 복사불가 이런식으로뜨는건 왜그런건가요 윈도우 쓰고있습니다",
+        "writer": "UgyQm8va1ZopsgfxN4B4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사히 잘 봤습니다",
+        "writer": "UgzmWsoMFOsAPwlDX_F4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와대박대박 감사합니다마침 증명사진이 필요했어여",
+        "writer": "UgxTo3ehWgUpxgtBA3B4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진심 꿀팁",
+        "writer": "UgzE_yckaG3wOOW8YpN4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현직 사진관 알바생입니다. 영업비밀 내려주세요",
+        "writer": "Ugx0JNtRKg251kbdbtV4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오홍 또 새로운 포토샵 강의가 나왔네요..",
+        "writer": "Ugx8QcoPuZUd5n6-E9p4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐음, 버전이 달라서 기능이 없거나, 또는 한글판 유저를 생각 못하고 뭔가 언어때문에 발생하는게 아닐까 싶기도 하네요 영문판 최신 포토샵으로 테스트가 가능하다면 해보시겠어요 ( 이게, 일부 사용자들한테만 나타나는 문제 인거 같은데 제가 컴터를 (비속어) 않는 이상 원인을 찾기가 힘드네요 또르륵,",
+        "writer": "Ugzpp8mrJ5lMYj9Q7Ux4AaABAg.9TTSZ0TxvtK9TUERCCjUk2",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 저는 2021 버전입니다. 그래도 답변 주셔서 감사합니다",
+        "writer": "Ugzpp8mrJ5lMYj9Q7Ux4AaABAg.9TTSZ0TxvtK9TUEhbPYuGk",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후음, 강좌랑 같은 버전을 사용하고 계시네요 뭐가 문제일까요, 간혹 액션에서 한글판에서는 작동이 안되는 경우가 있긴 하거든요 정품 쓰시면 포토샵은 언어팩을 하나의 프로그램에 여러개 설치가 가능해요 영문판도 설치하시고 포토샵의 환경설정(ctrl K)에서 언어를 영어로 변경한 뒤 재실행 하시면 언어 변경이 쉽게 가능하니까 영문판으로도 테스트 한 번 해보세요.",
+        "writer": "Ugzpp8mrJ5lMYj9Q7Ux4AaABAg.9TTSZ0TxvtK9TUF9ptUvny",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 영문판으로도 해봤는데 똑같은 문구가 나옵니다. 아깝네요 감사합니다",
+        "writer": "Ugzpp8mrJ5lMYj9Q7Ux4AaABAg.9TTSZ0TxvtK9TWXOVlV4NE",
+        "write_date": "2021-10-16",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "색상이 들어간 동그란 형태의 도형 만들기 2. 레이어 마스크 씌우기 3. 원형(Radial) 그라디언트로 레이어 마스크 적용하기 레이어 마스크만 잘 이해하고 있으면 저런류는 다 만들 수 있어요 ) 마스크 적용할 때 꼭 브러쉬 뿐 아니라 그라디언트 툴로도 할 수 있어요.",
+        "writer": "UgzNyEYDy8-rpHr41a94AaABAg.9SuU30LHbv99Sv7endmeWy",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 감사합니다...",
+        "writer": "UgzNyEYDy8-rpHr41a94AaABAg.9SuU30LHbv99Sv7uNsOHWF",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후음, 이게 되는 분들은 잘되고 안되는 분들도 있던데 혹시 레이어 패널에 Background 레이어가 없거나 눈이꺼진 레이어가 있는 상태에서 작업하신건 아닐까요 위의 두 가지 조건은 꼭 충족이 되어야 액션이 에러없이 실행이 된답니다",
+        "writer": "UgzHkNVQfjc1LjKT24J4AaABAg.9ShfmZe_ZGs9Si6JVAQ2D2",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 제 사진만 불러와서 바로 액션 실행을 했습니다",
+        "writer": "UgzHkNVQfjc1LjKT24J4AaABAg.9ShfmZe_ZGs9SiAZ_7Hi7S",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후으음, 그럼 혹시 모르니 ctrl J 해서 하나 더 복사하고 고대로 다시 실행해 보세요 실행할 땐 그룹펼쳐서 보이는 대제목을 선택하고 플레이 해보시고요..",
+        "writer": "UgzHkNVQfjc1LjKT24J4AaABAg.9ShfmZe_ZGs9SiAg8vC0oJ",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우음, 버튼 자체가 완전 없는 상태인건가요 아니면 있긴 있는데 비활성화 인건가요 ( 비활성화라면 증명 액션 그룹을 펼쳐보면 4개의 액션이 있어요 거기서 하나의 제목을 선택하면 플레이 버튼이 활성화 됩니다.",
+        "writer": "UgzxtSY8mB-dAhJoOS94AaABAg.9SXvGtDLtun9SajFXaIJqo",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반가워요 GTQ 관련 강좌는 딱히 없네요 나중에 라이브 등을 통해서 한 번 소개해드릴 수 있도록 하겠습니다 사실 손만 빠르면 누구든 딸 수 있는 나름 쉬운 자격증이에요 ).",
+        "writer": "UgyEKnKHTCTTc31u67x4AaABAg.9SMX8P1LHG29SNpQYs97jB",
+        "write_date": "2021-09-19",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연결 프로그램이 포토샵으로 안되어 있으면 그럴 수 있어요 만약 더블클릭해서 바로 안불러 진다면 포토샵에서 직접 불러 올 수 도 있어요 ) 1. 포토샵에서 액션 패널 띄우기 2. 액션 패널 우측 상단의 옵션 아이콘을 클릭하고 Load Action 눌러서 불러 오면 됩니다 )",
+        "writer": "UgzIN0cv6CjgK1aVxEd4AaABAg.9SHIcXcW7Rh9SHJ40E-fH6",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우음, 해상도 ppi 설정은 어떻게 되어 있으신가요 사진 자체의 해상도도 확인해 보세요 원본 자체가 문제가 없다면 이론적으로 해상도가 높은 (이름)를 낮은 캔버스에 가져왔을 때 깨져보이진 않아요 아울러 혹시 모르니 JPG등의 일반 (이름)로 저장했을 때도 화질저하가 생기는지도 확인해 보시고요 )",
+        "writer": "UgwbR1oV3kSNm3GIPr14AaABAg.9SGV1mBe-ZL9SHDq7n0b93",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 ctrl T 누르시면(맥에서는 cmd T) 프리 트랜스폼 박스가 활성화 돼요 혹시나 바운딩 박스가 (이름)다면 캔버스 가득 (이름)가 채워져 있는 상태에 여백이 안보여서 가려지는 경우도 있답니다 화면을 축소해서 확인해 보세요 )",
+        "writer": "UgzlzqcLtm8NWMKKXXd4AaABAg.9SFf6Q6hV-b9SGDcLqwaJF",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니에요 저도 모르는거 투성이랍니다 ) 그래도 같이 알려주며 재밌게 공부해 봐요",
+        "writer": "UgyVxnouuGRhoOOZs4l4AaABAg.9SFNhNKtsyH9SGD5yHcs8p",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이왕 공부하는거 즐기면서 재밌게 공부하세요",
+        "writer": "Ugw5VlT-9IzLRAiutqN4AaABAg.9SAmzP4kAib9SBtPFtiK37",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진 보정 하는 단계에서 아래와 같은 현상이 없어야 해요 ) 1. 눈이 꺼진 레이어가 있는 경우 2. Background 레이어가 없는 경우",
+        "writer": "UgzMWeD32KlciRBG34h4AaABAg.9S2j7V4G2ol9S39V2dKDbW",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 감사합니다. 다시해 보겠습니다",
+        "writer": "UgzMWeD32KlciRBG34h4AaABAg.9S2j7V4G2ol9S8PoqDlLS2",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "charley Park 혹시 해결 되셨나요 저도 똑같은 현상인데 해결이 되지 않네요",
+        "writer": "UgzMWeD32KlciRBG34h4AaABAg.9S2j7V4G2ol9TTRNOUd74P",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 죄송합니다만 위의 두가지가 다 해당이 없는데도 복사명령은 현재 사용할 수 없습니다 라고 나오네요 혹시 이유를 알려주실 수 있으실까요 감사합니다",
+        "writer": "UgzMWeD32KlciRBG34h4AaABAg.9S2j7V4G2ol9TTRVVAsrRJ",
+        "write_date": "2021-10-15",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "원그리기 2. Outer Glow 레이어 스타일 적용하기 (혐오표현) 원하시면 (혐오표현)원에 (혐오표현) 글로우 적용해 보세요 효과를 더 극대화 하고 싶으면 원안에 작은 원을 하나 더 넣고 그 원은 흰색으로 하면 됩니다 (아주 밝은 구간은 흰색으로 보이기 때문이에요)",
+        "writer": "Ugzq_G3tdLNq4-8klOF4AaABAg.9S1fojGAfnl9S3EGyGCOUf",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진 보정할 때 레이어에 눈이 꺼진 레이어가 있는 경우나 Backgroud 레이어가 없으면 그런 경고창이 나타나요 )",
+        "writer": "UgyQm8va1ZopsgfxN4B4AaABAg.9S1IQey-TjA9S1VTdaoqc4",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 답변감사합니다 이번에는 복사명령이 안되네요",
+        "writer": "UgyQm8va1ZopsgfxN4B4AaABAg.9S1IQey-TjA9S1_hdRr8Nw",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진 하나 file open 해서 불러 오신 다음 강좌와 똑같이 보정을 해보세요 (레이어 순서 똑같이) 그리고 해보시고 문제 없다면 다시 본인의 스타일대로 하면서 어디가 (비속어)지 비교해 보세요 ) 다시 말씀드리지만 레이어 패널에 보이는 레이어중 Background 레이어가 없거나 눈이 꺼진 레이어가 있으면 경고창이 뜹니다",
+        "writer": "UgyQm8va1ZopsgfxN4B4AaABAg.9S1IQey-TjA9S3FAEs2r7X",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 답변너무감사드립니다",
+        "writer": "UgyQm8va1ZopsgfxN4B4AaABAg.9S1IQey-TjA9S3WVbdmU3l",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힘나는 댓글 고마워요 ) 재밌게 공부하세요",
+        "writer": "UgzmWsoMFOsAPwlDX_F4AaABAg.9S0pfLe5zc29S0qlxikw-G",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야호 증명사진 해결 )",
+        "writer": "UgxTo3ehWgUpxgtBA3B4AaABAg.9S0Y90WV5u19S0qBmux1hc",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 사진이 없네요, 하핫. 어디 막히는부분있었는데 다시해보고 댓글로 물어봐두 될까요 (이름)닌 오류가 나서요. 다시 해볼게요.",
+        "writer": "UgxTo3ehWgUpxgtBA3B4AaABAg.9S0Y90WV5u19S1YfGIwAhd",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 혹시나 액션 실행하고 경고창이 뜨는 거라면 레이어 패널에 Background 원본 레이어가 존재해야함 레이어 패널에 눈이 꺼진 레이어가 없어야함 위 두개를 지켜서 해보세요 )",
+        "writer": "UgxTo3ehWgUpxgtBA3B4AaABAg.9S0Y90WV5u19S3FLYbGAP1",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 복사 명령은 현재 사용할 수 없습니다, 등으로 흠. 안되서 .다시 해보렵니다 원본레이어있었고 눈다 활성화되어있는데,흠.",
+        "writer": "UgxTo3ehWgUpxgtBA3B4AaABAg.9S0Y90WV5u19S5PPNQ4kdn",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후음, 계속 오류뜨면 나중에 액션 실행버튼 누르기전의 전체 패널 다 보이게 해서 캡쳐하시고 제 메일로 한 번 보내주세요 확인해 드릴게요 )",
+        "writer": "UgxTo3ehWgUpxgtBA3B4AaABAg.9S0Y90WV5u19S5ZgcqJDnf",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 전(비속어)네욤, 다시해보고 캡쳐올릴게요.... 될때까지 해보렵니당 역시 우디짱",
+        "writer": "UgxTo3ehWgUpxgtBA3B4AaABAg.9S0Y90WV5u19SBzMiQQBcJ",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "증명사진 예쁘게 만들어 보세요 야호 )",
+        "writer": "UgzE_yckaG3wOOW8YpN4AaABAg.9S-JTX7K8Jt9S0pqqYwKD-",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사진관에서 쓰는 액션 파일좀 나에게 주게,",
+        "writer": "Ugx0JNtRKg251kbdbtV4AaABAg.9S-HX8GkznI9S0pn6XTzce",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금만( ) 더 하면 100강 채울 수 있겠네요 달려라 )",
+        "writer": "Ugx8QcoPuZUd5n6-E9p4AaABAg.9S-BogQoQ-x9S0pOjiBypU",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 크 달려랏.. 우디쌤 파이팅..",
+        "writer": "Ugx8QcoPuZUd5n6-E9p4AaABAg.9S-BogQoQ-x9S1eGWdDVvM",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우, 이거슨 진짜 넘나 유용한 강의랑 자료에요 (이름) 멋져효 글고 옅은하늘색 짱 잘어울리세요.",
+        "writer": "UgywdWW-R_Lt_NfEZY54AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 그런데 마지막에 무조건 증명사진 사이즈로 고정해놓으셨다고 하는데 여권용 사이즈로는 어떻게 변경하나요",
+        "writer": "UgwIwipN6Db6CEOigXB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 토요일에 혼자하려다가 실패해서 사진관에서 찍었는데",
+        "writer": "Ugx-gCtk_A-HmDlw24J4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 감사합니다. 요즘 (이름) 강의보고 포토샵 입문 했습니다. 강의 너무너무 좋아요...",
+        "writer": "UgwGFqMfIzYc15XCzlV4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 정말 소름돋는게 이력서에 필요한 증명사진 집에서 혼자 찍어볼까 생각했었는데 마침 이런 강의가, 복받으세요 (이름)....",
+        "writer": "UgwMNMdjtV8M_zrni514AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 감사해요",
+        "writer": "UgzE6ocxIJZ8CfWE9uB4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조금만 인물 보정해도 사진이 확 살아난답니다 컬러증명사진 재밌게 만들어 보세요 _ 아참 고마워요",
+        "writer": "UgywdWW-R_Lt_NfEZY54AaABAg.9Rzxj9dwOfH9S0pCaNlv3B",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "증명사진은 증명 사진 사이즈에 맞게 여권은 여권 사이즈에 맞게 트리밍 설정해뒀어요 해당 하는 액션 선택하고 플레이 (비속어)면 알아서 됩니다 )",
+        "writer": "UgwIwipN6Db6CEOigXB4AaABAg.9Rzmi3_fQhA9S0p2ABkc_K",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 돈, 주면 더 잘 찍어 주겠죠 다음엔 집에서 셀프로 만들어 보세요..",
+        "writer": "Ugx-gCtk_A-HmDlw24J4AaABAg.9RzkFfiRxUH9S0ox-jsydd",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로도 계속 같이 공부해봐요 )",
+        "writer": "UgwGFqMfIzYc15XCzlV4AaABAg.9RzjylLgdUp9S0osr2xpBQ",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "때마침 강좌가 올라왔군요",
+        "writer": "UgwMNMdjtV8M_zrni514AaABAg.9RzcTdVMsuJ9S0ocCgacK6",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우야호 짝짝짝 )",
+        "writer": "UgzE6ocxIJZ8CfWE9uB4AaABAg.9RzbQ9Yeyzc9S0oanMe47o",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=4IpHWhVLFZU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

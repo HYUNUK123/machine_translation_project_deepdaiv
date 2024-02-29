@@ -1,0 +1,668 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001672421",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001672421"
+    },
+    "text": [
+      {
+        "content": "새벽 2시55분 마니자 찾는 클라스 (반사회적용어)",
+        "writer": "Ugx6OsMFhXSKiAsDhsx4AaABAg",
+        "write_date": "2021-10-29",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지하아이돌 출(이름) 그런지 아 개웃겨 진짜",
+        "writer": "Ugz1RPsHUbbLEjayZQp4AaABAg",
+        "write_date": "2021-10-22",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분 (이름)이 왜 자냐고 해서 자기 이른시간이라고 생각하실수도 있는데 저때 새벽 2신가 3시였어요",
+        "writer": "UgxUj7OYanJLcClt4Wd4AaABAg",
+        "write_date": "2021-10-22",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)덕을 질투 한다는 댓이 왤케 웃기냐",
+        "writer": "UgxHn9topmyEW0osUKF4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)의 마네쟈가 너무 찰져서 거의 매일 보러옵니다",
+        "writer": "Ugzd6MymJhDGrQjppfF4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "러브라이브는 8년째 파고있습니다( )",
+        "writer": "UgxRHLpF2bmRGjSMEsR4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 와구텽이 손뺙치면서 찾아(비속어)음 좋겠다,",
+        "writer": "UgxCQmcBLHB5gZmY1ZN4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "킹익들은 피지컬적인거 제외하고도 다 킹익인 (이름) 있는거 같다,",
+        "writer": "UgziLVtUSZEpVzk5tJ14AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 볶음밥 원조 맞네.",
+        "writer": "Ugxb6x45DnD1UNYbCUt4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "칭찬으로 마무리 스킬",
+        "writer": "UgwvSvWVgZA7MT-30EV4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 맨날 방송 잔잔할 때 오셔가지고는 형님 이러면서 발로하자고 조르고 말걸고 자기랑 놀아달라고 하는 그런 모습. 귀엽습니다 하하",
+        "writer": "Ugy250PEdqe1gIaMFQh4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뢴트 그는 찐이다",
+        "writer": "UgyGZ2-wvz_tjNB1JRZ4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매니저 자리",
+        "writer": "UgxLOEWFm_qC_xgxYhV4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아아, 찌꺼기 이맛이야,",
+        "writer": "Ugz3huhns4fmMLX5W0F4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁두 줘",
+        "writer": "UgwchNQbuQq9YLwpx4J4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜는 진짜를 알아본다",
+        "writer": "Ugy3d4g3iC0PQLgwI-t4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)(반사회적용어) 숨김없이 솔찍한 (비속어)덕이 멋져보입니다. 화이팅 오(이름)들 샤워는 적어도 3일에 한번씩이(반사회적용어) 건강을 위해 하세요 .. 코로나 조심 음침하고 더러운 영역에서 솔찍함과 선한 마음으로 양지에 영역으로 나와준 (반사회적용어) ((혐오표현) (비속어)타쿠)분들 응원해요 ...",
+        "writer": "Ugza5mzGmQUkU8pdmRp4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "떨고가 아니라 떠들고",
+        "writer": "Ugw5nfqIQRWGGWbF3vF4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마니쟈의 빈자리를 노리는 풍신과 길햇님송이",
+        "writer": "Ugy6Pyq8RUqgtDySQN94AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(짝짝) 뢴마네쟈님 최고...",
+        "writer": "UgxEX_zS7VWCamdIuhZ4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 볶음밥은 꽤 고급 식재료가 들어갔군",
+        "writer": "UgxgrjxciJct6c0T0794AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간만에 잘 먹고 갑니다.",
+        "writer": "Ugzvg62VEpOrs6AV3gN4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현 300만 유튜버에 등장하는 성우라 이말이야",
+        "writer": "Ugx_-Ow3Yz9ylii3d9Z4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히키킹 그와중에 히키킹이 대신 하겠스무니다 (비속어)",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마니쟈 라고 부르니까 많이 자러갔자너",
+        "writer": "UgyMud_-0u5BRRguRx54AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양 시켜줘",
+        "writer": "UgylHksC7htQZw3PZfN4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 아이돌이요 네, 저도 그렇게 생각합니다 뢴트님, (이름) , (이름)이 고멤2기 종료했을때 놀란님한테 전화해서 약올렸던거 생각난다 비정규직,이라며 (이름) 정말 왁굳텽 사랑함",
+        "writer": "Ugz6iKiteVfgxnfiZm14AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기 볶음밥 맛있네, 네 찌꺼기 라구요",
+        "writer": "UgzC_hQXwJdXxn-0kqF4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평일 새벽 3시에 안깨어있다고 뭐라하네 형 진짜 (반사회적용어)",
+        "writer": "UgzH4y_1NntHLKVXvR94AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 뢴님 찐이네",
+        "writer": "UgxQKBBeIqRFGG6wfdF4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새벽 2시 54분에 매니저 호출하는 블랙엔터악덕오너",
+        "writer": "Ugy4JigOZ33esFWWi054AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진정한 프로듀서",
+        "writer": "UgzTN7TTcZVZA9aJvq94AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스이나 음해.",
+        "writer": "Ugz-FQ54xosbMxbOL7Z4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그는, 진짜야,",
+        "writer": "UgzPBQYX1xs6nfsHRBN4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "팬치들 직무유기",
+        "writer": "Ugy9M-LT8ZF7gOHQbP94AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 열심히 분석하신다",
+        "writer": "UgzbMygGA5IKA4OUM2Z4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "길햇님송이는 아이돌 됐자네",
+        "writer": "Ugy6Pyq8RUqgtDySQN94AaABAg.9Q0lwEQk8-R9SjVvejAx4s",
+        "write_date": "2021-10-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마네쟈의 자리를 노리는 건지마네쟈를 노리는건진 잘 모르겠구만요",
+        "writer": "Ugy6Pyq8RUqgtDySQN94AaABAg.9Q0lwEQk8-R9U--l0YJhyd",
+        "write_date": "2021-10-29",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히키킹 Hiki King VRChat VR챗 사륜안",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9Q2OsVZ7W_D",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 음성지원 진짜",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9Q2rKAtO1bp",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히키킹 Hiki King VRChat VR챗",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9Q9tz5341PQ",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우치하 일조크",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9QyiXqjP0xV",
+        "write_date": "2021-09-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히키킹 Hiki King VRChat VR챗 홀리 왁",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9To68fAG3HX",
+        "write_date": "2021-10-29",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히키킹 Hiki King VRChat VR챗",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9TqpYKGdWf_",
+        "write_date": "2021-10-29",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그걸 봤넼",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9U1sNfoBXVV",
+        "write_date": "2021-10-29",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그걸본걸 또 봄",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9UNm-OSDbI8",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 미치겠네",
+        "writer": "UgxbY7TmRQgJ7d8u3uJ4AaABAg.9Q0PrXY5CUM9UQicqK5gdZ",
+        "write_date": "2021-11-07",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그에게 주어지는 합격 목걸이",
+        "writer": "UgyMud_-0u5BRRguRx54AaABAg.9Q0PhGSS1Ri9Q5JIIbLzN3",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀란 그래도 (이름) 오디션장에서 스텝으로 일하고 있음",
+        "writer": "Ugz6iKiteVfgxnfiZm14AaABAg.9Q0LyzJU8kA9Q0hjIKGX1Y",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "12시쯤 되나 했더니 새벽3싴",
+        "writer": "Ugy4JigOZ33esFWWi054AaABAg.9Q0J7YXpSVL9TyEMrAGd8o",
+        "write_date": "2021-10-29",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 엔터는 저시간에 일하긴해",
+        "writer": "Ugy4JigOZ33esFWWi054AaABAg.9Q0J7YXpSVL9UNm5hVyXC2",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뻘하게 웃기네",
+        "writer": "Ugz-FQ54xosbMxbOL7Z4AaABAg.9Q0IXYWKkZZ9Q8O_c5yhIc",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "클립라이트는 우왁굳 아니면 일 못하는 수준인가여",
+        "writer": "UgyBDhB-UbzIPehpBJl4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 올라(이름),",
+        "writer": "UgxCNJSG46iqisKe05B4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 분 1차 탈,",
+        "writer": "Ugx2UCWqtw7FF0dcBrJ4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뢴은 진짜다 (비속어)",
+        "writer": "UgyhPXiEY9v0F7m4wI54AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형이 뢴트님의 아이마스6년경력을 진심으로 존중하는것같아서 (비속어)",
+        "writer": "UgxDkInzoBaUXddSfol4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그저 뢴 그는 뢴이다",
+        "writer": "Ugz1oT85ZsmgY6Z_YJl4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마니쟈는 많이자 깔깔",
+        "writer": "UgxEZCE0kr_f20ROoBF4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지하아이돌 이러네",
+        "writer": "Ugzfa7C2tsGp_1lOxRV4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁튜브에 이미 올라온거 아니노",
+        "writer": "UgzIh21t-zdaO6W-v894AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지하아이돌 (비속어) 진짜 뢴은 혼모노구나",
+        "writer": "Ugy-8l1P9zf126W0hJd4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뢴님의 아이마스 6년 경력은 사실상 드립처럼 느껴질 정도로 생방보면 정말로 대체불가능한 전문 고급인력이신 것을 여실히 볼 수 있다.",
+        "writer": "Ugyjvtkg45svcAoDA1J4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 0화 볶음밥 홍보 감사띠",
+        "writer": "UgxUBkolU9kEA8ijPmt4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌네 봤던거에도 불구하고",
+        "writer": "UgwP2QfWs6Apgn3fjKl4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할말이 많다, 럽라 아이마스시리즈 뱅드림만 6년이상 담궜는데, 나도 매니저 되냐고",
+        "writer": "UgwKdEzAC7t0vPjXVCV4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 파트너가 못 되는 (이름) 있잖아요. 누가 프로 방송인이라고 생각할까요 우왁굳 방송국 고정 출연자겸 보조자라고 생각하지",
+        "writer": "UgyPG7YtLqM7elXlJuJ4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "존중보단 그냥 신기해하는거 같은데",
+        "writer": "UgxDkInzoBaUXddSfol4AaABAg.9Q0EjqWT9Sz9Q5J9IWwccO",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜의 품격이 묻어있는 진짜 광기",
+        "writer": "Ugyjvtkg45svcAoDA1J4AaABAg.9Q0CU1UlKoK9Q0Hy84RYkx",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "참가자분들 나오실때마다 뒷조사해서 분석해오신거 웃기면서도 철저해서 좋음",
+        "writer": "Ugyjvtkg45svcAoDA1J4AaABAg.9Q0CU1UlKoK9Q0Qa3d-FIL",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (비속어)웃기네 뢴희열 사람보는눈 있네",
+        "writer": "Ugyjvtkg45svcAoDA1J4AaABAg.9Q0CU1UlKoK9Q1wfJoADwH",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제이콜 감사합니다.",
+        "writer": "Ugyjvtkg45svcAoDA1J4AaABAg.9Q0CU1UlKoK9Q3Oqcn1nfl",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀랍게도 로복도 조매력도 천양도 다 그렇게 시작했다",
+        "writer": "UgyPG7YtLqM7elXlJuJ4AaABAg.9Q0BeABDscX9QS3jONCZJC",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 모든게 거를게 없다",
+        "writer": "UgzXs6p6LtLzzjplPxZ4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하꼬 시절 떠올라 감정에 복 받친 뢴 ,",
+        "writer": "Ugx7Zz0WWMNticB3hMx4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 찌꺼기 다 줏어먹자",
+        "writer": "Ugx5yMnHsOgpbRIKbmR4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌꺼기 볶음밥 킹아",
+        "writer": "Ugz4SdD3PaTUhIGf_et4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고의 (비속어) 뢴",
+        "writer": "Ugy6Cyfh4wDgpUTDRCd4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찌꺼기 볶음밥 잘먹겠습니다.",
+        "writer": "UgwxyZVLhH8httMs1gt4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "컨셉이 가장 강한 사람의 컨셉 평가",
+        "writer": "UgyCY2ncSlvRbpJpJVZ4AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙쥬 까비",
+        "writer": "Ugx7Zz0WWMNticB3hMx4AaABAg.9Q0BTIXYueY9UNm7RKnc-j",
+        "write_date": "2021-11-06",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스이나 우매..",
+        "writer": "UgwxyZVLhH8httMs1gt4AaABAg.9Q0Aj_S6tDq9Q0Tf9Ja390",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBQ_wV4Xw3_woG5uOCTuuaw",
+        "parent_url": "https://www.youtube.com/watch?v=mZZb7-a-ap0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,868 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001237197",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBU210001237197"
+    },
+    "text": [
+      {
+        "content": "(이름)모자 어디서살수있나요",
+        "writer": "Ugy6A4A5a2Hordedqp54AaABAg",
+        "write_date": "2021-03-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘은 엄마랑 자야짘",
+        "writer": "UgyVGw_LPlPjDULNxl54AaABAg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕하면서 사진 찍는거 개별로 일면식도 없는데도 정뚝떨",
+        "writer": "UgwWyI5mjBzeFQJPBW54AaABAg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "법규날릴때 입은 바(반사회적용어) 뭐라고 부름",
+        "writer": "UgxxnTovlYGzbiJDjz14AaABAg",
+        "write_date": "2019-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 실화냐",
+        "writer": "UgziS5OrkMxapPoSLJp4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "키 작으니까 자래",
+        "writer": "Ugwzzta5KnL2zvw_qTR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분도 구름 벽지네요....",
+        "writer": "UgyxuiEvAikSIqDbBMJ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 잘돌렼깐닼",
+        "writer": "UgxSBP-utBT3bUTJbUR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 웃겨서 화나네요 싫어요 드리겠습니다",
+        "writer": "UgwSj-Gp8tChcu4tTTR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무웃기다곸 아 내 배",
+        "writer": "UgxgLhUJu7Kf6xVUTFB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구름벽지 음 뭔가 달라",
+        "writer": "UgxYk0VM7IIlI4DZc3N4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 청바지에 회색후드 항공점퍼 아보임 그렇상하진아느데",
+        "writer": "UgzVRxiC7gjDlIAy0bt4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)야 (반사회적용어)",
+        "writer": "UgxLYLX5JY_SJQGejmB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 모자 어디꺼임",
+        "writer": "UgyWnOiq4Q7FWINA20h4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스웩 지린다 진짜 와, 무서워서 지릴뻔.",
+        "writer": "UgwDcWZoEpACIEHYxdZ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분50초 브금 이름뭐에여",
+        "writer": "UgxZMQPEsSbvdIRAqYp4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대의 싱발 두켤레",
+        "writer": "Ugy-9zn2jWVKYeWDvSN4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호날두 andreas johnson glorious",
+        "writer": "UgxZMQPEsSbvdIRAqYp4AaABAg.8htIdGd-tZL8iUP8jyPcrc",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 (반사회적용어),",
+        "writer": "UgyU1bISgVAMcP1mds94AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 오늘 이분 영상 처음 보는데 몇 편 보다가이 영상 속 에서 와. 하는거 진짜 개터졌다 앜",
+        "writer": "Ugy_roH53L5lxRrCsiB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엿에서 개빵터짐",
+        "writer": "UgwYSdMt7i-UtKIoTCl4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대형 나 이거보고 구독하고 갑니다",
+        "writer": "UgyTf9Z7AbfTEuFov7F4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저희 누나랑 나이 똑같은데 소개팅 아아아 뭐래 화이팅입니다..",
+        "writer": "UgyHSC4RF7fk3WEXxtp4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스트릿과 캐쥬얼 패션 각각 정확한 뜻이 뭐죠",
+        "writer": "UgxtDW_UuJu7HRDjWyl4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "중간에 쩡대형 아, 개웃겨 비상구",
+        "writer": "UgzyW8d-YL02J4nbXhx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간Z 라는것이, 폭발했r",
+        "writer": "UgxqzqiQGnHEUQjMDbV4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 평가해달라고 어케해요",
+        "writer": "Ugz-jMhK0T2jit465054AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "퓨리흰색에 바지뭐입어요",
+        "writer": "UgwHfv-NYqRLa1Bl--t4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이31살 헐 20대중반으로봤는데 아무리만아도27정도",
+        "writer": "UgwqQNEwHWi0HFUj3Yx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크으 ,",
+        "writer": "UgzKuVIimo6fMcMOpzd4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돌려까기 잘하네",
+        "writer": "UgysmACh_EM0XaTSmz94AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 남자 키 167에 56키로인데, 총장79짜리 엄청 큰 셔츠 면티 위에 가디건처럼 입으면 이상한가요 키는 크는쥰.",
+        "writer": "UgwP6N6P2QzzZPrHFs14AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패왕색 ()",
+        "writer": "UgzZx9mtaE6kB2eZxGV4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 저분 탈모일수도있잖아요 (저도 20살에 m자탈모 심하게와서 고생중)",
+        "writer": "UgzTjeIBV0FYnJW7m8Z4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이태호 , 아니다",
+        "writer": "UgyHSC4RF7fk3WEXxtp4AaABAg.8gGiq9XEyqE8gGjTIyd0Pb",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대 형님 그리고 (이름) 초 브금 옛날 드라마 유령에 나온 브금같은데 미공개 음원으로알고있는데 맞나요",
+        "writer": "Ugzboe2FiJIzn3NdI4B4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 너무웃겨,",
+        "writer": "UgyCg8QTWcRbIORFw6F4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음에 나온 애 우리학교 애임 맨날 삭. 제 욕 하려다가 일부로 순화시킴 아들급 반어법 오지네",
+        "writer": "UgxX2npB0qpeHj0G-fl4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대가 저 분을 평가하는 건 마치 한국의 평범한 래퍼가 넴을 평가하는 것과 같다",
+        "writer": "UgyJ5RX8GP0o08-NIPp4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 점점재밌어진다",
+        "writer": "Ugz9EspRuQGGKaIr3kB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형, 아들급맞아,",
+        "writer": "Ugyp8_uwWDpnofzDGSd4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡(이름) 아더에러 보셨습니까 신상 메종키츠네랑 콜라보한거, 이쁜데 메종키츠네 베이스라 (반사회적용어)입니다.",
+        "writer": "UgxmUAsdlwMUEuLsKhl4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해요",
+        "writer": "UgyRAVtfqtCiZKEH0up4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신흥고 인가요",
+        "writer": "UgzeTgibvnpqndmoSbt4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대 웃기네 특별히 구독 취소해줌",
+        "writer": "UgzfOtpPbnC6pAh-x4J4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 머리작은사람들 부럽네 난7에머리길이 세로28이다 .비율망임 다리만길다",
+        "writer": "Ugyose6RryMixplK34F4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "배경지적하는거 (비속어)",
+        "writer": "UgwtjPGl2irT3QLq0ih4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 브금 뭔가요",
+        "writer": "UgxdQCeSmdE0G1cl4H54AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 대학 모델과나 패션디자인과(반사회적용어) 나오심",
+        "writer": "UgzJcnmd-FIm1qzHnkx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구름 벽지",
+        "writer": "UgyNmhYBegtI9Va-2sR4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브금 뭔가요",
+        "writer": "UgwzkauWC5pZSWI4rtF4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니무슨 허세가 가득차 넘쳐흐를정도네 장면에서 물먹다가 피식해서 흘러나왔다,",
+        "writer": "Ugyp8J0JAotvvFmN4Et4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저방에기운으러 이제 곧 거울깨질듯",
+        "writer": "UgyV5dkd3hH_qphsTyt4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "강민규 아녀 andreas johnson의 glorious 입니다",
+        "writer": "Ugzboe2FiJIzn3NdI4B4AaABAg.8ejwXLSVXDB8iUP59kaZ6Q",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 주 중학생 이심",
+        "writer": "UgxX2npB0qpeHj0G-fl4AaABAg.8ehH2nqqOPP8ejkKdoxm5_",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치킨 인천 임",
+        "writer": "UgxX2npB0qpeHj0G-fl4AaABAg.8ehH2nqqOPP8ejm70hpWJ2",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니도 인거 같은데 인천 학교 어데고",
+        "writer": "UgxX2npB0qpeHj0G-fl4AaABAg.8ehH2nqqOPP8hsslU-R2tj",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔소린지 해석좀요",
+        "writer": "UgxX2npB0qpeHj0G-fl4AaABAg.8ehH2nqqOPP8i-sKCp_myI",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스트릿 이부터 스트릿패션 진짜 몰라서 스트릿만 보면 욕질 스트릿에는 비니 아닌가 왜저러눈지 노이해",
+        "writer": "UgyJ5RX8GP0o08-NIPp4AaABAg.8eh8aLX7plf8icXs988Rju",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벗겨죠 어디 지역 신흥고 말하는거에요",
+        "writer": "UgzeTgibvnpqndmoSbt4AaABAg.8egyD4F-cLt8gORECO6mJ3",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "프사 니 남친구독누르면 우간다 지역이요",
+        "writer": "UgzeTgibvnpqndmoSbt4AaABAg.8egyD4F-cLt8gWfT1HtnRg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청주 신흥고 있는디",
+        "writer": "UgzeTgibvnpqndmoSbt4AaABAg.8egyD4F-cLt8gnMojti2yg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서섹 이샠기가 더웃기네",
+        "writer": "UgzfOtpPbnC6pAh-x4J4AaABAg.8egt9l2jP3g8f8sPR7gw8s",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Interior Designer 키 다리긴거 부럽다,",
+        "writer": "Ugyose6RryMixplK34F4AaABAg.8egsnebo8Z28f6v31lFVdC",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞뒤바꿔서 178만 되도 좋겠다 지금몸에,",
+        "writer": "Ugyose6RryMixplK34F4AaABAg.8egsnebo8Z28i4lOirJ3HN",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몆이평균임 님키에 그정도면 평타아님",
+        "writer": "Ugyose6RryMixplK34F4AaABAg.8egsnebo8Z28kDhbGdI5Tt",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이문형 andreas johnson glorious",
+        "writer": "UgxdQCeSmdE0G1cl4H54AaABAg.8eggDf2-5rD8iUP6rE_elJ",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개그로 바꾸세욬아 자랰",
+        "writer": "UgwaPIrBmMLCuP_b1994AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비도 오고 그래서 쩡대TV 많이 시청해주세요 하하하이제 주말이네요 .. 다들 즐거운 주말 보내세여",
+        "writer": "UgwnYI_xa41iyXmW1Bh4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패평보다 집정리가 먼저",
+        "writer": "Ugz34Mz1aVWSzyIOzNl4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 구름벽지인데 설마,",
+        "writer": "UgwUeWG9Zyp-2sv5PSB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 (반사회적용어)가 나왔어",
+        "writer": "UgwuMwtq23AqY6VtWxl4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 트레이닝바지 정보좀",
+        "writer": "UgzRJfEMWM2E8lIIOqJ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "됬 됐은 구별하자 쫌",
+        "writer": "UgyuzaiZ7VuNPmMO-5h4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 벽지 나만 익숙함",
+        "writer": "Ugxj8ReuCmUcKs9W_8t4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개 순화해서 말해줬어 형",
+        "writer": "UgyKlR7-96OUhWafHrl4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 형 말투 진짜 좋아,",
+        "writer": "Ugw2QrgIAoD3tUx9dGp4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 할말이없다,",
+        "writer": "UgyV2okzEQDz13WyoDJ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포즈만 간지임",
+        "writer": "Ugy4cSpGYy3xoBvERPZ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현우진이랑 동갑이네",
+        "writer": "Ugx2ognyPVNsauLaWpd4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포즈 멋있긴하네",
+        "writer": "UgwnGEqJqo5C23RulqB4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 장면에서 와우 하고 일어나는 리액션",
+        "writer": "UgyNzrbB2CnQBnZ3_4t4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 진짠줄",
+        "writer": "Ugw4ckA5CLaWN1Md3MV4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매직을 합시다 라고 하는데 사진으로 답해버리는 그는 도데체,",
+        "writer": "Ugwe7L9AysyNM4j6zBp4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카파, 지렸,",
+        "writer": "UgxGlc1sxbl0EzhToPJ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 웃겨",
+        "writer": "UgxxtLgds_wKXhNK8NJ4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "패션TV쩡대 쩡(이름) 1분 50초에 나오는 브금 뭔가여",
+        "writer": "UgwnYI_xa41iyXmW1Bh4AaABAg.8efEy3gY_uj8htIerzbH95",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보황봉 그게 머죠 가르쳐줘요",
+        "writer": "UgwUeWG9Zyp-2sv5PSB4AaABAg.8ef8WTAt1iD8eghkhD2yBH",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이해 해 보 렸다",
+        "writer": "UgwUeWG9Zyp-2sv5PSB4AaABAg.8ef8WTAt1iD8ejvtDMFqs4",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자자 진정하세요 원본을 보신 분들이라면 거의 벽지가 비슷하다 못해 똑같은 걸 보실 수 있습니다.",
+        "writer": "UgwUeWG9Zyp-2sv5PSB4AaABAg.8ef8WTAt1iD8k58YAywmoO",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이성준 됬 됐은 구분할 필요조차 없음",
+        "writer": "UgyuzaiZ7VuNPmMO-5h4AaABAg.8ef2Yb3cWdy8f_aW1dN_jy",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "종로구건물주한창슥 됬은 없는 말인데 구별해야지",
+        "writer": "UgyuzaiZ7VuNPmMO-5h4AaABAg.8ef2Yb3cWdy8faCyomVQdo",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ".구독3번좋아요9번눌러주삼 매직 말하고나서 사진에 손가락이 엿이에요",
+        "writer": "Ugwe7L9AysyNM4j6zBp4AaABAg.8eeuOfu2XyB8jqDsydbu1_",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쩡대형 모자 예쁜데 어디껀지 아시는 분 계신가요",
+        "writer": "Ugx62cjng9sRz43RHnN4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 제목으로 왜 쳐요 개별론딩",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 퍽팔.",
+        "writer": "UgwQy78sDSMearKSGNh4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형 요즘 유튜브 폭풍성장하는거보니까 좋네 10만 가야지 형",
+        "writer": "UgxJKCt-5-xrnETeOGF4AaABAg",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김고냥 그려봐여",
+        "writer": "Ugx62cjng9sRz43RHnN4AaABAg.8eet5WUXucQ8fg9Rr_YBCh",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "홍정표 비꼰거같은데,",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8eesxUAjkqp",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국어 17점인거 티내네",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8eeukxbFzpM",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다른의미로 (반사회적용어),",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8eexh53ZPG2",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임시언 그따구로 말해야되나 약간 눈치가 없는거같긴해도 말이 심했다",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8eh4T4yfnMQ",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임시언 반박을해",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8ehENDAF7WN",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임시언 그니까 반박을 해보라고 진짜 욕밖에 못하냐",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8ehHTchbGH9",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송도현 니도 국어 17점이냐 반박해욕하지말구",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8ehJw0iUmpf",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "송도현 웅",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8ehLDStw_3e",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웅 니가 더 별론딩",
+        "writer": "Ugz45CY63FROtPxjBVx4AaABAg.8eeqq28m9aW8ldG1No4fVb",
+        "write_date": "2018-10-15",
+        "url": "https://www.youtube.com/channel/UCexnMWt_GyyAIkLCn7x36nw",
+        "parent_url": "https://www.youtube.com/watch?v=fWShwNZ6QmU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

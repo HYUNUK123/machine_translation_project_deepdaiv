@@ -1,0 +1,844 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001640686",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001640686"
+    },
+    "text": [
+      {
+        "content": "웃지님 영상은 그냥 다 봐요 다 재밌어",
+        "writer": "UgxtT075ebuxTwEh0MV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "과로사 팬들 많네",
+        "writer": "UgxtT075ebuxTwEh0MV4AaABAg.8uz9q9w0TrS8ymtyknpfss",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식인 괴물과 착한 거인 그리고 소녀와의 크기 계산이 잘못된거 같은데, 분명히 착한거인은 한손으로 소녀를 움켜쥘정도의 크기인데 처음 도시에서 등장했던 자동차와 중간에 식인 괴물들이 가지고 노는 자동차와의 크기비가 안맞는거 같음. 특히 이장면 전혀 말도 안되는 비율임",
+        "writer": "UgwL4gFHkob4o8FvPid4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 우리집에 책으로 있던건데 지금도 있나",
+        "writer": "UgyYNbcD5XEECMKxMhN4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 어릴때 책으로 재밌게 보고 영화도 재미있었는데",
+        "writer": "Ugxc_avQoeAbAe0yvxZ4AaABAg",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌게 본영화",
+        "writer": "UgwwwFH4BOaS3_R3kQh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 옛날에 본것같은데 다른채널인가",
+        "writer": "UgxbRvcfHWFysLkJWb94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 초반부에 고양이 계 캡틴마블 구스 고양이 배우 아닌가 .",
+        "writer": "Ugz-hDC0JPImQtjYlNV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 잭더자이언트킬런줄",
+        "writer": "UgzCEq0V2--z-FQXPA14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐 이거 영화 제목이 뭐예요",
+        "writer": "UgyBVRuPlFRMmYIMG9V4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스티븐 스필버그 감독 영화에 항상 출현하는 마크 라이런스 배우 연기도 잘하고 얼굴이 참 푸근하고 좋음",
+        "writer": "UgwQwyxJwz3l76OW_wF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 고등학교 때 나쁜 (비속어) 한테 (비속어) 당한 적이 있어요 마치 거인들이 BFG를 괴롭히는 것처럼",
+        "writer": "UgzGZD3iTyHvpS9F7PR4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하빕 50년후",
+        "writer": "Ugz7a77KoZ_4X08MRWd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 예쁘네",
+        "writer": "UgyhPTxiI89nzPMbE4R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저괴물할아버지의일진진짜 임어딜왕딸 시켜 내가죽여버릴꺼야",
+        "writer": "UgyH8loxqdghIZzmmml4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 잘 봤었는데 또 보네요 (반사회적용어) 감성으로 봤었는데 중3이 되서 보니까, 왠지 다른 느낌이네요.",
+        "writer": "UgwyDSVSRuoWE3_dUJ14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 로알드 달 작가의 BFG였네요.",
+        "writer": "Ugy81qlVKBPR-5zH3oF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 성인 버전도 만들어서 영국 군인들이 로켓포 같은걸로 거인들 사냥한뒤 영국여왕이 유괴사건에 대한 성명발표하고 훈장수여식 하고 엔딩 나오는 것도 재밌을거 같은데,",
+        "writer": "Ugz6f2AzT-aDKjHyg0x4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어...이거학교에서 봄..",
+        "writer": "Ugzm3tmrPxoQdzURB3R4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그냥 잡아 먹혔어도 재밌을거 같은데",
+        "writer": "Ugy-fKyvHzBjf15xncJ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저이거 봤어요. 진짜 재밌어요.",
+        "writer": "UgxZRAVSwImeJTup3_h4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영화 한 2년 전. 에 봤는디 감동적임",
+        "writer": "UgyLqt0rW4PBM3CS_ot4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순간 괴물보고 (반사회적용어)인줄",
+        "writer": "UgwwrC06OU3II2xp88B4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이리틀자이언트 입니당",
+        "writer": "UgyBVRuPlFRMmYIMG9V4AaABAg.8uwzO5tcFtK8uwzfuSqj53",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레우치우 hii",
+        "writer": "UgyH8loxqdghIZzmmml4AaABAg.8uJ3K5_PcTW8xPT5P6xX5r",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "발꼬락꼼지락 hii",
+        "writer": "Ugy-fKyvHzBjf15xncJ4AaABAg.8uEwLQprz_J8xPT8iYEQid",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "경미 hii",
+        "writer": "UgxZRAVSwImeJTup3_h4AaABAg.8uEN2mIVFFd8xPTBUOKDJc",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이리틀자이언트 입니당",
+        "writer": "UgyDnfMy3W34bnMzdT94AaABAg.8uDDN-0bnho8uDDmMtorI_",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로알려주시는거 감사드려요 구독좋아요 드리고가용",
+        "writer": "UgyDnfMy3W34bnMzdT94AaABAg.8uDDN-0bnho8uDEkFK4ZJ9",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐가자꾸 착한괴물(이름)야, 애초에 납치를왜해",
+        "writer": "UgxjrC-3_l8dUhLaRAF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 이거 BFG 아닌가 이색 명작인데",
+        "writer": "Ugyaf3TCwgaiu4I57uB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "16년전쯤에 본 책제목이 기억나네, 내친구 꼬마거인 선꼬꺼 같은 느낌,",
+        "writer": "UgwuV4FutNndBK45Srd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 왜 이렇게 소리가 같힌듯이 나오지",
+        "writer": "UgzcoUp4wvxnR_xOrAt4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이거, 티비로 결제해서 봤는데,실수로 자막말고 더빙판봤었음,",
+        "writer": "UgzAAms4CfDzW6MrwuJ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠의요정 올레 르(비속어)에가 생각나는 영화",
+        "writer": "UgxJDLcjliINal7RJ-t4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 거인할베 어디서 본듯 톰행크스주연의 스파이 브릿지에서 (반사회적용어)스파이로 출연했던 잔잔했던저음의 목소리와 무표정했던 (반사회적용어)스파이 저 거인할베와 넘 흡사 그리고 (이름) 넘 젬남 근데 (반사회적용어)들 보기에는 쬐메 난해할수도",
+        "writer": "Ugys9UP_meyTFFZhAYV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먼가 웃기넼",
+        "writer": "UgwXlEPw-nQO5ueVHwl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사람 지나갈때 슈와악 하면서 숨는거 나만멋있냨",
+        "writer": "Ugz-dp3xSvRME7Ah3Vh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안떨어지냐, 나같았음 발버둥치다 떨어져 중상은 입을듯",
+        "writer": "UgwwObPo7Mzu6ksdGpd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괴물이 (비속어)라니",
+        "writer": "UgzsrWRdbrcdpRiaNcV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집에서 TV보고있다가 봐봤었는데 처음에 여자가 다리를 뛰면서 그러던데 괴물들이 잡아먹는줄 알았음",
+        "writer": "UgyLYeBHm76U9-qS6Bh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 저이거 봤는데 어 리틀 자이언트 였나 어쨌든 그랬어요 존잼",
+        "writer": "Ugxnz1xxGbQ0Nsp9aAN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 책으로도 보고 영화는 3번은 봤는데 다시봐도 재밌더라구요",
+        "writer": "UgzppZJw5btq4LVd4Wd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃지형 사랑해 항상 잼게보고있어",
+        "writer": "Ugzn8xDw77TgCoBgm-J4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어, 우리집에 있는 책이랑 내용이 같네",
+        "writer": "Ugx4El81-jLsuoPojzx4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너만 멋있으니까 베개로 만들어서 잘때 안(비속어)라",
+        "writer": "Ugz-dp3xSvRME7Ah3Vh4AaABAg.8u4F2FgEyVx8vLYKwZ4pfW",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "BFG(Big Friendly Giant)임 해석하자면 큰 친근한 거인",
+        "writer": "Ugxnz1xxGbQ0Nsp9aAN4AaABAg.8u3o82D0wm18uBVv-9UU-q",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이리틀자이언트로 리메이크됐음",
+        "writer": "Ugxnz1xxGbQ0Nsp9aAN4AaABAg.8u3o82D0wm18uCFs3Tpdzd",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문정키 제가 이걸 해외에서 봐서 몰랐네요 죄송합니다",
+        "writer": "Ugxnz1xxGbQ0Nsp9aAN4AaABAg.8u3o82D0wm18uDAdkxuHcu",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "J 아는척하다 쪽다파네",
+        "writer": "Ugxnz1xxGbQ0Nsp9aAN4AaABAg.8u3o82D0wm18wYjW9VVGvf",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "21 저게 아는척이냐 알려주는(혐오표현)",
+        "writer": "Ugxnz1xxGbQ0Nsp9aAN4AaABAg.8u3o82D0wm197WEKr1ljy_",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) thanks virjin.",
+        "writer": "UgxWcqIHbQicosRlRft4AaABAg.8u1CzbFXwTv8u3EiqKiiHn",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 거인들을 죽여줘 엘렌. 너는 거인으로 변(이름) 죽여줘",
+        "writer": "Ugwj75-cXyzNojrH_K94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지 오디오가 잘못됐나 멀리서 이야기하는거 같아요 웃지님",
+        "writer": "UgzCNkCwv9wEwYJ6Dkl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넷플릭스에 있네요 이거보고 찾아서 봤어요 착한거인(이름)가 행복하길,",
+        "writer": "UgzVBw2QYWBVmmjqGCl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 제목이 뭔데",
+        "writer": "UgwZv8dBYRMXq-RjFRB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 재미있겠다",
+        "writer": "Ugyt0VbSZOOl06YNDih4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 (비속어)입니다 별점에 절대속지마세요",
+        "writer": "Ugz1vWwtG2ViE2-wd4J4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영화",
+        "writer": "UgywSYDu9taNT106vwt4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 진짜 재밌음",
+        "writer": "UgxXvL7_LgTwaP5y3G54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 오우야,",
+        "writer": "UgyXtqqEbNHZgNmCJOF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 책으로 3일전에 봤는디영화도 있네",
+        "writer": "UgwxEVlgQ0JCYf5evRN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저는 이거 책으로 먼저 봤었는데 책이 더 재밌어요 영화 보기 전에 책으로 보는거 추천해요 책 보면서 배경 상상하는게 훨씬 재밌음",
+        "writer": "Ugyc8rK3MaZJcDA_amZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날에 만화로 봤던기억이 있는데무슨날인지 특선 만화로 티비에서 해줬던거 같음썩은 오이만 먹는 거인나팔같은거로 자는 아이들에게 꿈을 불어너주었던거 같음",
+        "writer": "Ugx_tm1QJzvRX8PTkd94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목이 뭐에요",
+        "writer": "UgyPww9-eIo0v_-IufN4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Utzi는 itzy의 팬이 되고 itzy",
+        "writer": "Ugx4wrJs74ULbkVXoq14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그니까 제목이 뭐냐",
+        "writer": "Ugwyl_46mAbdtOJoOwR4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이리틀자이언트 입니당.",
+        "writer": "UgzLbaoEg8IYKv-YgV14AaABAg.8tzmb7pZivd8tzrnX31koy",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)때 봤던거 같은데 아직도 기억남",
+        "writer": "Ugyc8rK3MaZJcDA_amZ4AaABAg.8tzPy5qSck38uDEFVoeUho",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "책제목이 BFG아닌가여",
+        "writer": "Ugyc8rK3MaZJcDA_amZ4AaABAg.8tzPy5qSck38uGP1kzHWqK",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이리틀자이언트 입니당",
+        "writer": "UgyPww9-eIo0v_-IufN4AaABAg.8tzDhfEt2d48tzanStap2U",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) hii",
+        "writer": "UgyPww9-eIo0v_-IufN4AaABAg.8tzDhfEt2d48xPT9iGmTN5",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이리틀자이언트 입니당",
+        "writer": "Ugwyl_46mAbdtOJoOwR4AaABAg.8tyJoqJuZYv8tyJvGaTRk2",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "UTZI웃지 아따메 빠른답변 감사합니다",
+        "writer": "Ugwyl_46mAbdtOJoOwR4AaABAg.8tyJoqJuZYv8tyKGy8a8IN",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주인공 남자로 봤는데 여자",
+        "writer": "Ugx4dU8FyqY43s_p_G54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)형 안녕",
+        "writer": "UgyjERSI1SOiiKuuTZh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이번 닮았다",
+        "writer": "UgzLfdoIVJwf1qf8nWp4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "구독은 스타로드 라고 하는줄",
+        "writer": "UgxtHwgalA_OAUttygB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 2016년 개봉한 영화인데 왜 다들 어릴때 봤었다고하시지 미래에서 오셨나, .",
+        "writer": "UgwgZIKKB_LJ1LuX3w54AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃지님 이번영상 목소리 음질이 낮네요",
+        "writer": "UgxBnKRVkDue0UQL5dd4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "cgv단독개봉은 실수였죠.",
+        "writer": "UgwejpSHroXsS8fknqp4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오랜만에 뵙는데 마지막 인사말의 말투가 조금 바뀌셨군요.",
+        "writer": "Ugze0bq65c_glNkEUc94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 만화로 봤던 기억이 있는디 아주 어렸을적에",
+        "writer": "UgwfMB64-a_3b13RBo94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "괴물 아조띠 따랑해요",
+        "writer": "UgyVPGYmrMMLMqjDVId4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 소설로도 있는데 둘다 너무 좋음",
+        "writer": "UgxUvFcmTRI5xW6DK_F4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디서 봤었는데 재밋슴다",
+        "writer": "UgyFQfekP8HlTy_gz594AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왜 고기 안먹어 맛있는데,",
+        "writer": "Ugw3L7SRHW5IwfwHvbF4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 업뎃",
+        "writer": "Ugzc55J1bFuHQBWgOhZ4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이가 재미있음",
+        "writer": "Ugw0aXiQRxFrsDZNSYB4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웃긴지식 웃지횽 이제 슬슬 시동 거는거야 기대할껭.",
+        "writer": "UgyiW52EavS1YWpNzy94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 오예.............",
+        "writer": "UgzSbLeBxfRqsaT9Bf94AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나이대가 어(반사회적용어)분인가보죠",
+        "writer": "UgwgZIKKB_LJ1LuX3w54AaABAg.8twINziRUYX8twV8yeE2DC",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 윈래작품 리매이크 한 거라서 그럴거에요",
+        "writer": "UgwgZIKKB_LJ1LuX3w54AaABAg.8twINziRUYX8twXfBRBdJk",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 좀",
+        "writer": "UgyVPGYmrMMLMqjDVId4AaABAg.8tw8fcB-xA18w-LFcCfNNd",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고기는 언재나 올아요.",
+        "writer": "Ugw3L7SRHW5IwfwHvbF4AaABAg.8tw3Gn9_vVn8u14qp6ZDW8",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "승현 kolingarsiyasixvidio",
+        "writer": "Ugw0aXiQRxFrsDZNSYB4AaABAg.8tw0z3c0Z4-91MBYtRB5Hb",
+        "write_date": "2020-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 옛날에 봤던건데,",
+        "writer": "Ugw7WDF0T85aBb7dX1F4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아(이름) 겁나재밌는데 다시생각나게 해주어서 감사함니다 웃지님",
+        "writer": "Ugw7TM2nHH6p198BTVh4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 엄청 오랜만에 보네요 한번 더 봐야겠어요",
+        "writer": "UgyawlgH7MCrqTfwgI14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야한꿈은 어떤 썎갈로 보일까 정말 궁금해.",
+        "writer": "UgxKUrP5CS3rr1NjfIl4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 tv에 무료방송 하던디",
+        "writer": "Ugx_514lWBCDLoS4uUV4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매날보고있는데 넘모잼있따",
+        "writer": "Ugw9LwEFMI3Psgo6iil4AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 내가 (반사회적용어) 1학년때 봤던건데",
+        "writer": "Ugy5F_hYt7pnFK5CtX14AaABAg",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정육점 불빛색.",
+        "writer": "UgxKUrP5CS3rr1NjfIl4AaABAg.8tvxw1RiAdl8twKGWR2pbK",
+        "write_date": "2019-11-15",
+        "url": "https://www.youtube.com/channel/UCLIgl1OnHngMxYkkNJ-uO5w",
+        "parent_url": "https://www.youtube.com/watch?v=wfxl3aiXGDs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

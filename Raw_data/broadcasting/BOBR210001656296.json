@@ -1,0 +1,604 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001656296",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001656296"
+    },
+    "text": [
+      {
+        "content": "나은이보다 사랑스러운 아이를 본적이 없다 너무 사랑스러운 나은이 최고",
+        "writer": "Ugw8MLtyXwEa1HVkj3d4AaABAg",
+        "write_date": "2021-11-09",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건우(윤후)야 이 할머니가 사랑. 한단다 우리똥 (비속어)",
+        "writer": "UgxzJI3twVu5cay7VmN4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거누야 나은아",
+        "writer": "UgyGDN0yqKK1QmOYK7t4AaABAg",
+        "write_date": "2021-02-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "투어에서 (이름)들이 자꾸 말거니까 불편한것 좀봐 내리니까 훨씬 편안하게 다니자나",
+        "writer": "Ugy3y3-HZNgtE4CSI1p4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 슈돌 개국 공신 추블리 삼둥이 다음 프로그램이 재미가 떨어지기 시작했는데, 건나블리가 캐리 정말 보배같은 존재임",
+        "writer": "UgzsU-UZWP2R-K6G1Kl4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후는 제일 귀엽고 나은이는 너무 예뻐",
+        "writer": "UgzDMRzYEydCakqKBAV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 나은이 나또도 먹을줄 알아여 오구오구 이뻐라 건후는 밥도 잘먹어 역쉬 먹건후 귀여워라",
+        "writer": "UgzdZNSrqgy3rJ0lb7F4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑스럽다 나은아 건후야. 빨리 슈돌에서 만나길 바라.",
+        "writer": "UgxcY8MskEiDeFgDE594AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠지 진우가 저 영상의 건후모습과 똑 같을것 같아요",
+        "writer": "UgyAmCrC9SBbCsXeMDV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 아빠얼굴이,",
+        "writer": "UgxKurKs6VbjfPK0-Hp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "lecker 뭐야 팍주호씨도 독일어 쓰시네",
+        "writer": "UgyFEDRNsTmYe2Y_Wht4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌하면 생각나는 5대 (이름)네 사랑이 쌍둥이 (이름) 서언이 5남매 재시 재아 설아 수아 시안이 윌벤져스 윌리엄 벤(반사회적용어) 건나블리 나은이 건후",
+        "writer": "UgzbGXPJk6eGNPuC2qJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후랑 나은이 보고싶다, 슈돌에 빨리 나왔으면 좋겠다, 진우도 보고싶다,",
+        "writer": "Ugx70LhFVd90Ss6t_pB4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "울 순둥이 엄마가 있으나 없으나 울지도 않는 예쁜 우리나라의 보배중의 보배",
+        "writer": "UgwhJ9ORaAQPiWply5x4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "매 번 본 거 또 봐 도 건 후 한 테 푹 빠 저 산 다",
+        "writer": "Ugxb8kblGqb1NZiCz4V4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 모닝운동으로 런지, 역시 다르다",
+        "writer": "UgxaCoNrqPPvF6tL2Nl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 나또 좋아하는데",
+        "writer": "UgyiSO-_1twNTQMAYrx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 보고싶다 언제 나오니",
+        "writer": "UgzSluV-nHTCu3ajo9h4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리.그리고 진우. 언제 돌아오나요오오",
+        "writer": "UgzPAPKfS-yoZAle6fR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일본나토 맛있어요 발효식품 짱 기요미",
+        "writer": "UgxSkUmrpBN5mDwimwV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 한국 왔다는데 언제 나올꺼야 우엥 너무너무너무너무 보고싶어",
+        "writer": "UgwsE0hl35rdvQ4s_YJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 나은이 때문에 예능이란거 본다, 그것도 전혀 보지않았던 슈돌을, 나은이는 사랑그자체다국보같은 아이,",
+        "writer": "Ugx6GhONDvdeCEiEyVt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 발성 발음이 유니크한 매력이 있음 역시 스위스 하이브리드라 턱 구조가 유럽형이라 그른가",
+        "writer": "UgxdlwkVKnMmnvTTzWl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이는 엘사가 되고싶은 평범한 여자아이가 아니라 진짜 엘사인듯",
+        "writer": "Ugyf-3USMg25dNj2BCh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응아앜 넘 귀여워서 벽 부셧음",
+        "writer": "Ugxd-LOg-yrePfisHUt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리 넘 보고 싶다요 이쁜이들 잘지내고 있겠죠건후 말하는거 듣고 싶어요",
+        "writer": "UgwoTNlvpvmOqn-ETG54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엘사가 인간으로 태어났다면 나은이가 아니였을까",
+        "writer": "Ugyf-3USMg25dNj2BCh4AaABAg.98A0woOVJUz9ED_MfXjBrI",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이는 엘사보다 성숙한 안나느낌,",
+        "writer": "Ugyf-3USMg25dNj2BCh4AaABAg.98A0woOVJUz9KBFIqK56ny",
+        "write_date": "2021-03-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리 보고싶다",
+        "writer": "Ugz2AO_7I835XAVoZx14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)의 인간극장으로 바뀐 후부터 슈돌 안 봄. 대체 무슨 낯짝일까",
+        "writer": "UgzTJo-cjmKu8UVQQcN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 13키로 너무놀랍닼옹골찬가봐",
+        "writer": "UgyIzPA-Yotj91g35Qp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 나은아 너무너무 보고싶어 사랑해",
+        "writer": "Ugxk7myp_62xpTa-v7R4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에이 옛날거자나. 귀국했나 했더니 아니야",
+        "writer": "Ugzaio9XCmqGE00R5094AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계속 모음집 올려주세요 짜란다짜란다 케이비에스",
+        "writer": "Ugxwgfz3PD8PGwB_zyx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kbs 고마워. 건후나은이 너무 보고파",
+        "writer": "Ugz1sLepcirKQuoZNXZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑흑 건후랑 나은이 다시 보고싶어 제발 셋째가 좀만 더 크고나서 3남매가 나왔으면 좋겠다",
+        "writer": "Ugy5BBowWz5X5CDgYDx4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 미공개 영상 풀어주세용",
+        "writer": "UgwLM44kSxJlRt89hdR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금은 나왔어요.......",
+        "writer": "Ugy5BBowWz5X5CDgYDx4AaABAg.97kujkvLsbk9FfJ3ie6B9f",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수도 없이 돌려 보고 있네요 빨리 오세요 한국이 더 안전하네유",
+        "writer": "UgxLVkVUQjzNYabuPVh4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄마 아빠 나은 사이에 찌부짜부 된 건후 사랑이 넘쳐서 뚝뚝 떨어지는 가족 부럽따",
+        "writer": "UgzXEsojHR--ZTAqu5t4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후 너무 그리워요. 보고싶어요 진짜",
+        "writer": "UgzrhniyrVvzZlpSxqZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "거누 나은이 사랑해",
+        "writer": "UgxkCjuAjb6Ng1HGaR14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후야 보고싶다",
+        "writer": "Ugy4Ygkw011ZMnoZ9DN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 아가들 보고싶다 미방분 풀어주세요,",
+        "writer": "Ugx0VgPs8VJN3R9trfR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후보고싶어 건강하게 잘자라고 있지 빨리보는날이 오기를",
+        "writer": "UgyYiPYujmuB-1HeZZ14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 나은이가 추호를 잘키웠어,",
+        "writer": "UgzsDuk7ql2-PLJTXp54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아악아악아악 너무 좋아",
+        "writer": "UgwU9ZPgkYgTQNiSU6p4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 우울하고 침울한 이 기분 곰곰히 생각해 보니 나은이의 밝고 활달한 모습을 못 보기 때문 이라는 사실을 알았네요. 언제나 웃음과 미소를 만들어 주는 나은이와 함께 건나파블리 또 샛째 아가 모두 함께 빨리 보고 싶어요.",
+        "writer": "UgyRjC_Q8PUwwdgj1QR4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고싶어 애기덜아",
+        "writer": "UgwbToFQ2SnOdba1O1d4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옛날 방송분은 이미 충분히 맨날 보고 있으니가 미공개본 풀어주세요오오",
+        "writer": "UgyZhBqILGM0NGHNJZt4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리 보고싶다, . 얘들아 건강하게 있다가 보자",
+        "writer": "Ugxv1oWwtdFA4Fovgqp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1빨리 코로나가 끝나서 한국으로 빨리 들어오면 좋겠다 건나진블리일라나",
+        "writer": "UgwDY3TkX6wu8BU23yZ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "슈돌은 진짜 윌벤이랑 건나없으면 시청률 1",
+        "writer": "Ugz90Th1h3UiG92nIiN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 매일매일 보고 또보고 하니까 외울정도가 됬는데, 미공개본 풀어줘요",
+        "writer": "UgyZhBqILGM0NGHNJZt4AaABAg.97cWIMK5Z_F98Q4qxvUVD8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캡틴파추호에 아가들 조금 나온걸로 버티는중",
+        "writer": "UgyZhBqILGM0NGHNJZt4AaABAg.97cWIMK5Z_F991nhqPo8up",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국 들어왔대요",
+        "writer": "UgwDY3TkX6wu8BU23yZ4AaABAg.97c8JIfvjAC98Okj_ADats",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보고싶다 보고싶다, 너무너무 보고싶다,",
+        "writer": "UgzFaVC1_IweWMdPJEN4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 너무 보고싶다 아가 아가한 모습 보니뭉클 진짜 이쁘다",
+        "writer": "Ugw4m22f7oPydFrvNtp4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에는 리본머리띠 없었는데 에 리본머리띠 다시 생겼네 지금은 건후가 막내가 아니라는,",
+        "writer": "UgzPj1PfZbRg13cu2JJ4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건나블리도 보고싶고 태어난 동생도 보고싶다 이름도 성별도 궁금하다",
+        "writer": "UgzCy8SJXQVrMI1QL2B4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 이거올려주셔서 감사합니다",
+        "writer": "UgzACd5LQ7Xt7bOTxS54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 진짜 돌아온줄 알앗어요",
+        "writer": "UgyEMly1rRdYBdFmgHl4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 자꾸 이런거 올립니까 다시 돌아온줄 알고 심장 철렁한다구요.",
+        "writer": "UgwSGWm6A1bXi2Ozwd54AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그리고 셋 제 건강하고 빨리 돌아와",
+        "writer": "UgwDYksJ4MO4H3rXgI94AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 슈돌 에는 건후 랑 나은이 인 빠질 수 업조",
+        "writer": "UgwIm_WKf8m4OWS34lV4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이 건후 영상에 댓이 왜이렇게 없지 보고싶다 귀요미들 코로나 항상 조심하고 셋째도 보구싶구 다음에 꼭 만나자 건나블리",
+        "writer": "Ugy-OMl0QiMXpaj9wll4AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나은이랑 건후 오랜만에 보네요.건후야 나은아.아프지 말고 남동생이랑 사이좋게 지내야해. 언니가 응원할게.사랑해. 나중에 두번째 남동생이랑 건강하게 돌아와줘.",
+        "writer": "UgxBclTjeOcFR7OoEq14AaABAg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셌째 성별은 남자애에용",
+        "writer": "UgzCy8SJXQVrMI1QL2B4AaABAg.97YFA--sceB97YGTHuQdTY",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이름은 진우(Elyseen)라고 하네요.",
+        "writer": "UgzCy8SJXQVrMI1QL2B4AaABAg.97YFA--sceB97YlY5moA66",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고나래 그렇군요..",
+        "writer": "UgzCy8SJXQVrMI1QL2B4AaABAg.97YFA--sceB97YouyhDUA8",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "캡틴 파추호에 나와요.",
+        "writer": "UgzCy8SJXQVrMI1QL2B4AaABAg.97YFA--sceB97moH0IVR-I",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건후랑 (비속어)같이 생김 보이는부분만 보면",
+        "writer": "UgzCy8SJXQVrMI1QL2B4AaABAg.97YFA--sceB9ED_bQqjMEN",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빠지면 안돼지요",
+        "writer": "UgwIm_WKf8m4OWS34lV4AaABAg.97YBSxm3nX197bmqF4ysL2",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 그래으면 좋겟네요",
+        "writer": "UgxBclTjeOcFR7OoEq14AaABAg.97Y9bNrlUX097YBxS0IEsg",
+        "write_date": "2020-11-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=FLB0P54fPa8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

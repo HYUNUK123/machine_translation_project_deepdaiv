@@ -1,0 +1,996 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001284517",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOFO210001284517"
+    },
+    "text": [
+      {
+        "content": "김준현 라면 못끓이네",
+        "writer": "UgxhA8-EVa_Lha1q-EV4AaABAg",
+        "write_date": "2021-09-26",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당뇨땜에 못먹는데 그나마 대리만족함",
+        "writer": "UgyMfccPiopYvkZyFSt4AaABAg",
+        "write_date": "2021-09-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나도 모르게 침이,",
+        "writer": "Ugw8gfx9RzV7M9Bck2V4AaABAg",
+        "write_date": "2021-09-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "점점 더 민경(반사회적용어)은 체격이 밀리지 않음 듬직함, 뚱 4의 완전체가 되어간다",
+        "writer": "UgzJDdaROzbUYQmnXsB4AaABAg",
+        "write_date": "2021-08-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코로나 끝나면 대식가들 모아 엠티(반사회적용어) 가자 라면 4개 기본 먹는 사람 들 중 추첨으로",
+        "writer": "UgymLSmiEfE27qfkYxF4AaABAg",
+        "write_date": "2021-08-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본 촬영이 있기때문에 밥마는거 안됩니다 가득이요",
+        "writer": "UgzGq_vGEQPIxmhxVdl4AaABAg",
+        "write_date": "2021-08-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김(이름) 먹방 유툽하면 좋겠당",
+        "writer": "UgyFduNO5LeYDqcKY-V4AaABAg",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현은 뭘먹어도 저렇게 추잡스럽게 먹냐, 땀추잡 게걸 식욕 뚝 떨어짐 시청률저하",
+        "writer": "Ugyzv3wkFSWGW9YyqTh4AaABAg",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여러분 이거 아침입니다",
+        "writer": "UgwYinDCC5hwxSPSzGp4AaABAg",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 뚱뚱랜드 개웃겨",
+        "writer": "Ugwe5-vW_JObM_Badxp4AaABAg",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적으로 유민상 팬입니다 (이름)집은 식당같네요",
+        "writer": "Ugy6i0s9A8GMnW5c-ox4AaABAg",
+        "write_date": "2021-06-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누구 집인데 쪼글쪼글 비 불러서 사골곰탕 끓이게 지긋지긋하게",
+        "writer": "UgzF3slM8lQMxSdrGvB4AaABAg",
+        "write_date": "2021-06-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 김(이름)이 집에서 많이 해먹어본거 티가 나는게 간단하면서 맛을 올릴방법은 기가막히게 다 캐치하고 있는게 너무 좋음",
+        "writer": "Ugz015kcy7f_HQwapzB4AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크, 라면 일부러 좀남겨서 밥이랑먹는거, 진리지,",
+        "writer": "Ugy7OKQuFWvJPhk9ZrN4AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어으진짜 맛있겠다.....",
+        "writer": "UgzbzUM1neBWeBy9Fzl4AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 살 너무 쪘다",
+        "writer": "Ugz2j39wkQ369MDKuPt4AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안그래도 존재감 없는데",
+        "writer": "UgzJDdaROzbUYQmnXsB4AaABAg.9Pr4IjGXo5m9QlgTVmIxlV",
+        "write_date": "2021-08-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 국그릇이 내가 들어도 저리 작아보일까",
+        "writer": "UgwwD710EDbqPRx1IZ94AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김프로의 헬스키친을 만들어보면 어떨까 싶다. 다른 댓글에서 말하는 인생식당도 좋고. 주방이 사실 상당한 중노동이라니까 김프로는 주방일로 요리뚱을 하면서 살을 빼는 컨셉.",
+        "writer": "Ugyev9Vfsws1WkvGzA94AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 4명이서 라면 4개라니 많이 참았네 라면은 인원수 1이 국룰인데",
+        "writer": "UgzW18RuBtqdGzaArHF4AaABAg",
+        "write_date": "2021-05-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남걱정이 제일 쓸대없다는데 , 준현이형 걱정됨",
+        "writer": "UgyAqw2jXjILlngS-MJ4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전야제도 라면 뒷풀이도 라면이면 어쩝니까",
+        "writer": "Ugxose4OBiOSBOKL24B4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준현(이름) 살 좀 빠지셨네",
+        "writer": "Ugye0RErLujiQ9AWPZ54AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 실망입니다 면을 끊어먹다니,",
+        "writer": "UgzLzQ7CUluGLaHgQFV4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장염인데 라면 끓입니다",
+        "writer": "UgxH9k-pL_rdc8FjMhZ4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상은 직장잃어서 그러나 진즉에 편 (반사회적용어)인척 하지말지",
+        "writer": "Ugx8OJz5_XhscIVFo-J4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "새삼스런 말이지만 진짜 다들 너무 맛있게 드셔 절대 먹으면 안되는데 라면이 땡기네",
+        "writer": "Ugw4aGFYXqOBdJCBLm14AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼겹살에 (반사회적용어)찌개 시켯는데 지금 라면먹으려고 물끓임",
+        "writer": "UgwI505vRtPS-4JBD_p4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면 그릇이 작아보이는 매직",
+        "writer": "UgzC65VJR3rpU1doGvZ4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어째 그릇이 작아보이네.",
+        "writer": "Ugy4Y6CQRPCghkN9V6J4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주유소에서 터졌네",
+        "writer": "Ugy0fCnehKTo7E-vuDB4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 딴 건 모르겠는데 진짜 라면 (반사회적용어)는 먹방 불법이다 지금 물 올렸다 다이어트는 내일부터",
+        "writer": "UgxGJJMtmiT-IBlnMyR4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금 AM 이라고 (반사회적용어) 유튭AI",
+        "writer": "Ugxg1mF3QTShLKX_MWN4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저4분중에 고지혈증 고혈압 당뇨 비만 2명이상은 골고루 있을듯. 먹방도 건강하게 하시기바랍니다.",
+        "writer": "Ugwgk5WhPVo-5YcU6Q14AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유민상 착하다 흥해라",
+        "writer": "UgzMrjhZl4MooDS6c2l4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 미쳤다",
+        "writer": "Ugy2ZAsiQbLR5Dq-m754AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의자좀 튼실한걸로 바꿔주세요, 불안해보여요",
+        "writer": "Ugza5foMwaHwnMvoG4p4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물 올리러 갑니다",
+        "writer": "UgzIdJN4q4hLil7L5eB4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나만 먹어서 미안",
+        "writer": "Ugz9bTfZ3IQNTQFBnOB4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아냐 넘 좋았어",
+        "writer": "UgxJo2trebRfxv8S8qh4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 이제 속 괜춘해",
+        "writer": "UgxXujJkEeiz0ClpW6R4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 난 또 배고프지",
+        "writer": "UgyICfu7PNIVl_30-Ox4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 김준현 살 너무 많이 쪄서, 민상이 형이랑 나눠먹기로 한 고봉밥 혼자 땀흘리면서 다 말아서 두그릇으로 만들어서 먹는데, 와, 정말 너무 먹는다, 라는 생각들더라. 나 찐 팬인데 와, 오래 하시려면 운동뚱을 하시든 뭔가 관리를 좀 하셔야될 듯.",
+        "writer": "UgzQlcPSORWT3WbcMG94AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면에 후추 나도 한번해봐야겠땀",
+        "writer": "Ugxm_iGOxvcRpDI0RBh4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기가 알아서 하겠지만 김준현은 심각한데",
+        "writer": "UgziEHmC659BZHFid8d4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "물이 좀 많고 푹 익은거 같은데,",
+        "writer": "UgwwUtsRKJkeNCNjl5Z4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보다 라면 끓였음 다이어트는 내일부터하겠습니다,",
+        "writer": "UgwNjgVT3Kko6-vOul14AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김프로 면치기는 진심 명품이다",
+        "writer": "Ugx60b0nWI0M6LlVFjx4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이랑 막둥이 너무 귀욥잖옼",
+        "writer": "UgwAtk_CWz4XAj8IvWR4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥말기 금지 잠시후 밥 가득이요",
+        "writer": "Ugxu9bxzvdKBR2CKi5t4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 라면먹방이 제일 괴로워",
+        "writer": "UgwS6zGQp0Nbjur9QEd4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면은 맛있는데 면은 은근 배불러서 3개 밖에 못 먹고 밥 말아야 함",
+        "writer": "UgyTCtfFhtOG_Ieb2_Z4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "식전, 에피타이저, 라면,4 개,",
+        "writer": "UgwmDXkm205-htmFQe94AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 라면을 이러케 맛나게 먹다니 먹고싶다",
+        "writer": "UgxuQDxGbb3kBDQ3QdN4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이 오빠집은 코미디티비에서 사줘라",
+        "writer": "UgxgnTc7QQtd6mx0phx4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코미디tv서 사줬을껄",
+        "writer": "UgxgnTc7QQtd6mx0phx4AaABAg.9KbRFZOIx0-9Ot23inDR81",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이마 개넓다",
+        "writer": "UgxgnTc7QQtd6mx0phx4AaABAg.9KbRFZOIx0-9OzkIDCBHPz",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "first snow 왜 쓸데없이 외모비하 발언을 하시나요.",
+        "writer": "UgxgnTc7QQtd6mx0phx4AaABAg.9KbRFZOIx0-9P-7CRV09SN",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "first snow 응 내가 이마가 좀 넓어",
+        "writer": "UgxgnTc7QQtd6mx0phx4AaABAg.9KbRFZOIx0-9PCUCLBEcsZ",
+        "write_date": "2021-07-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "플라시보 효과인지도 모르겠지만 어쨋든 스프 넣는 타이밍 잘 쓰고 있습니다",
+        "writer": "Ugyd-9auQa10xsP0eat4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면 한봉지 밥 한그릇은 그냥 입가심인가,",
+        "writer": "UgxCfVwO-yVq25WnZa94AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤에 시청금지 밤에보면 배고파저셔 라면먹음",
+        "writer": "UgxOFcuzEZHN8vGe4pZ4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현은 별로 안는데 먹는게 참 느리단 말이지 면은 목 하이패스던데 뭔가신기",
+        "writer": "UgyceIBqICWQysRNRVN4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "상표 가렸는데 푸나면 이네",
+        "writer": "UgzT9BiVRNiIjUxzWF94AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현은 먹어도너무많이먹어 욕심내서 다른멤버들은 그렇게까지안먹는데 먹는게 뭐자랑같이 보기도그래서 잘안본다",
+        "writer": "UgyDB7SigpemD05RcOp4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 드넓은 식탁 위에 저 조꼬미 (반사회적용어) 그릇이 저 멀리 중앙에 맛녀석들, 다이어트 하나,(반사회적용어) 각 1그릇씩 딱 옆에 끼고 드셔야쥬.",
+        "writer": "Ugybz0nI-pew83AF56t4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저거 라면 종류 뭐에요 신라면",
+        "writer": "UgxcsLXho0ISRx3Emq54AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛 없어진 신라면, 이네,",
+        "writer": "UgwPzFMmq0JGQ9g00KJ4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 민경이는 저들의 먹성을 따라올수가 없어",
+        "writer": "Ugx1k4_X4NRxuhkKKVV4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가득이요 주유소냐 아웃꼉 꺄르르뽀르르",
+        "writer": "UgyT8K1sCmvxg42Y5SB4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위에 보니 아이들에게 무료 봉사하는 선한 영향력 가게들 나오네요 이런 곳들도 찾아 알려 주시고 가서 맛나는 먹방 좀 해주세요 주위 사람들이 널리 알 수 있도록",
+        "writer": "UgwZcwUdJiJlOBBChtV4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜케 귀엽냐",
+        "writer": "Ugxwd4l0nFL30HRSSVN4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 4명이서 4개만 먹나,",
+        "writer": "UgyKk37uPa3CZUxzkyd4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유산소 타면서 보면 가장 재밌고 즐거운 방송... 맛녀석들 덕분에 7개월간 매일 유산소 재밌게 타고있어요",
+        "writer": "Ugz6HEY7Dsv98gMe3-h4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민경(반사회적용어) 유튭에서 전 라면먹고 밥말아먹을양이아니에요. 그릇까지 먹을기세",
+        "writer": "UgzJ98jqmYDF6uPzmBN4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 님들은 걱정 안됨 팬이 맞긴 한가 심각하게 쪘는데 저게 눈에 안 들어오고 먹는것만 들어오나 봄",
+        "writer": "UgzbWz3XXAquKOaJeL14AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어쩌라고 마 먹는 방송인데 작작 먹으라면 어쩌라는 거야",
+        "writer": "UgyDB7SigpemD05RcOp4AaABAg.9K_fPl_8LE69KaDFmpOkW_",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 여자는 별로더라,",
+        "writer": "Ugx1k4_X4NRxuhkKKVV4AaABAg.9KZhV8oORyU9QrJj9aT57V",
+        "write_date": "2021-09-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김프로 진짜 천천히 먹는구나",
+        "writer": "UgxfsJCQN9_IuVPdDbx4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면은 농심이 진리..",
+        "writer": "UgyfnN4kA8zaYBgnaoV4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면이 날키웠는데 아직도 안질림",
+        "writer": "Ugzu8QwIvjTqBHV_7Ol4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 댓글에 준혁이라고 연타 실수루 올렸다가 혼났네요 오타라고 해주면 고마운데 제 실수죵 그래둥 (이름)에 찐사랑입니다항상 건강하세용",
+        "writer": "Ugyk85DVNuSQ_-n2Mc94AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "솔직히 준현의 건강이 걱정됩니다.",
+        "writer": "Ugzk_o8OJDYFMuYQujx4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 라면 안먹는데 이거는, 먹고싶다",
+        "writer": "Ugydf0xf9sLL79Xi4494AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "할까 말까 할때는 하라고 했지만 먹을까 말까 할 때는 먹지말라던데역시 음식에 진심인 뚱4들_",
+        "writer": "UgwytIurGqSK-jg5GGh4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세윤이 준현이 보다 몸무게 더 나가더니. 요즘은 덩치도 더 커진것 같네",
+        "writer": "Ugz-7Jndy0oqEjvj9-54AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥 말아 먹는 것 금지, 대단하군,인내력 테스트,",
+        "writer": "Ugw9asGQrmgu5QdSnLN4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세 나오지 않았음 좋겠습니다",
+        "writer": "Ugx2jnPOtCuQL6oVSQ54AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사실 이번화에서 저게 제일 맛있어보였다",
+        "writer": "UgyHTIbv14hf5xEGsaN4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤만 살는 먹방 유민상 김민경 김준현 감 겁네 죽었음 말도 없고 먹고 자고 휴 맛녀 이제 재미없음",
+        "writer": "UgzW97X8eJtd_GRXcZ94AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운동뚱 댄스뚱 따로 하는데 김프로는 본방에서 요리뚱 하시네",
+        "writer": "Ugz5Gw95FROtXxbVk4t4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "약간 꼬들면 같은데, 참 맛나보여요.새벽에 보다니",
+        "writer": "UgyCREne3LUtBW2TEtN4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "준현형님 먹는모습 오래보고싶습니다 운동뚱 하시죠 형님",
+        "writer": "UgzDSd9A7gxuVYfuuHF4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이형 집이 익숙한",
+        "writer": "UgwJbUddR5GeZvIRzqh4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "떨 궜 네",
+        "writer": "Ugx6VN4p4N3n9R3q61B4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이형이 커진것인가 준혀니형이 작아진것일까",
+        "writer": "UgwsFMpih4BB2iekFE94AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹방계의 강백호",
+        "writer": "UgxfsJCQN9_IuVPdDbx4AaABAg.9KXhF0Qn6UJ9QjIxwEkqPJ",
+        "write_date": "2021-08-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태어나서 라면 3만개 먹었는데 아직도 안질리네요 요즘은 2개 젊었을 땐6개 한끼에 나이 53 키 170 몸무게 80 당뇨와 혈압은 없네요",
+        "writer": "Ugzu8QwIvjTqBHV_7Ol4AaABAg.9KXeK9hvIG29Pm2qq67UQN",
+        "write_date": "2021-08-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일부러 다 말아버렸네 라는 느낌이에요",
+        "writer": "Ugx6VN4p4N3n9R3q61B4AaABAg.9KWNB6PqUTr9K_sHasbOgD",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "작아질일은 없고, 민상이형이 커진듯",
+        "writer": "UgwsFMpih4BB2iekFE94AaABAg.9KWMhy_ofm19KWVs-5UKr4",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이 뚱대지일뿐 하는짖까지",
+        "writer": "UgwsFMpih4BB2iekFE94AaABAg.9KWMhy_ofm19KqgaQMODsl",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주녀니형 살뻐졌다구 얘기했었어여 민상이형은 또 살이 좀 올랐가구 했어영 힝 건강해야 우리 형덜",
+        "writer": "UgwsFMpih4BB2iekFE94AaABAg.9KWMhy_ofm19L94cG_RCEi",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면 밥 말아 먹으면 배부르던데 아직 멀엇군.",
+        "writer": "Ugxf0ztFNnjPYfc-1Jh4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이형 왜케 아파보이지",
+        "writer": "Ugzjb0LMtUQDxf6ITS54AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히밥이랑같이하면 안되요",
+        "writer": "UgyWhhAA6-fj0ufiQ7B4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야밤에 보니 라면이 먹고 싶구나,",
+        "writer": "Ugz9ofVXvxbR64_Rckx4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 주녀니행님 이렇게나 다들 넋놓고 보는데 요리뚱이나 먹방뚱 안하십니까",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 왜 밤에 고문이다 고문",
+        "writer": "UgzamSOMeLi32Tkc9Dh4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "위 (소화기관) 밍업 을 워밍업 오타로 잘못본건지 진짜 오타인지 나만 햇깔리는가",
+        "writer": "UgzvzJEVkLpyWOvrUOV4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "라면 안먹은지도 오래됬는데, 간만에 대리만족하구가요",
+        "writer": "UgzMtVFSOQ1ISGLCqBd4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민경언니 머리 늠 이쀼댱",
+        "writer": "UgwrZ95ZYRcRCYnxIVJ4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밤 열신데 나도 라면에 밥말아먹고싶다",
+        "writer": "UgyUEfYUmkONpw5RJoZ4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐, 안 될 건 알고 있었지,",
+        "writer": "UgzfdDvi_AWG64b774h4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민상이형네서 라면 대하 대게 넣고 안묵나여",
+        "writer": "UgzX2bY8gtZhDEFAhaJ4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뚱4 라면먹방은 기본 조회수 100만부터 시작이짘",
+        "writer": "Ugw4MBAWytL0bCsqGJR4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "47초 못참지",
+        "writer": "Ugw_bvTIlaFPJx4g3k54AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요리뚱 진짜 좋은 생각인 것 같아요 주녀행님 꿈이 작은 가게 차리는 거라고 하시기도 했고",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg.9KW4byLowuN9KWBglb8dLt",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "먹방뚱은 맛있는 녀석들과 뭐가 다를게 없지 않나요",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg.9KW4byLowuN9KYIODOXRN0",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러네 김주년의 인생식당 가자",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg.9KW4byLowuN9KYPll04mFh",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "건강을 생각하면 지금도 120 150으로 됐는데 좀 위험해 님들아",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg.9KW4byLowuN9K_BROGCFY_",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인정해안해 생각해보니 맞네요. 김프로 오래오래 보려면 역시 운동 같이 몸 움직이는 프로하는게 낫겠죠.",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg.9KW4byLowuN9KcXWMNAjf0",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래뚱 어떰 노래 잘하기도 하고 살빠질 정돈 아니(반사회적용어) 운동도 될듯",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg.9KW4byLowuN9KerDHFVF9h",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한잔뚱은 조금 그렇고 요리뚱이 좋을 것 같슴다",
+        "writer": "UgyCEEdKGVWJnvXTjqh4AaABAg.9KW4byLowuN9KicZELH6Ka",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=uDKCyUq5cEQ",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

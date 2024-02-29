@@ -1,0 +1,564 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001283958",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOFO210001283958"
+    },
+    "text": [
+      {
+        "content": "벼농사라니 그럼 나는 이럴까 조직의 벼농사를 담당하는 벼논조입니다(feat 송중기)",
+        "writer": "UgwMg_mWawpcgpve9ih4AaABAg",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "압구정 백화정이면 갤러리아 일텐데 거기 인테리어는 개선에서 하는데",
+        "writer": "UgxYLGzreMz5i0DBSIl4AaABAg",
+        "write_date": "2021-03-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야.덩마나 너 왜그러는겨",
+        "writer": "Ugzxiq9RmCm2zj7oBIJ4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛있는 녀석들 평생 해주세요..",
+        "writer": "UgxAqlVAdz_xCVttfiB4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 캐릭터는 자네 가 없으면 시작을 몸햌",
+        "writer": "UgzMlbMcFQpCqXG7_kF4AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 벼농사 이야기하는데 왠 민방위마크 민방위랑 농사랑 뭔 관곈데 새마을마크가 정상 아님 지덕체, 일부러 새마을마크 안넣는거임 무슨 재난상황도 아닌데 민방위 마크라니, 제작진이 의돈가 정부 눈치보는건가",
+        "writer": "UgxZMhzkAet8SRcTbd14AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야 덕만아 왜그러는겨",
+        "writer": "UgyW1Mm5w-FGCV9KT814AaABAg",
+        "write_date": "2020-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "독도랑 울릉도는 왜 안그려져있죠",
+        "writer": "Ugx-3zvVRIiBzw_D35J4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유학 크루즈로 간다는거 듣고 진짜 아무말이구나 했다",
+        "writer": "Ugy78lEipKm_k_LLllt4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국산벼농사 너무웃기닷",
+        "writer": "Ugyd7CXHzB-IQ96FE1N4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유학을 크루즈 타고",
+        "writer": "UgyhsmXOI6-qkLPoTFR4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문(이름) 정말 잼나요",
+        "writer": "UgynDShaNOxtIASmc-94AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김준현 꽁트 전 입술 달싹거리면서 인테리 하는거 넘 웃겨요.",
+        "writer": "Ugzltg7HocF7GoAX5Ph4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤 유상민이 캐리하는 방송",
+        "writer": "Ugz2_aSoSw2D6V79WkB4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번회 예슬 작가 부분에서 겁내 웃겼었는데, 그장면은 안나오려나요",
+        "writer": "UgylmR390xuECH3-tFp4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 예언하는되여 네분다 흥합니다",
+        "writer": "UgyH1TXRhaSqV_HRAop4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤형님 흥해라 최고",
+        "writer": "UgzuRTvk8ACUULGKOfh4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크루즈 타고 유학",
+        "writer": "UgwNGIjBQgj1EpACutN4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "욕심맛고 식탐많은 문세윤이 꼴보기싫어 채널 돌리는 프로.",
+        "writer": "UgzcGfPk-cJpL0two-14AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사 벼농사 말장난은 장도연양세찬 꽁트에서 나왔던 소재",
+        "writer": "UgzrjmZnspMthd91u014AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청담동 50층 아파트인가 그거 생각나네",
+        "writer": "UgzTqvXMV9oZAvdEu8B4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샹이횽도 틀린말은 아님 실제로 납품용으로 많이 나가는것중에 이름 젤라또 이러는경우있음",
+        "writer": "UgwobbcPxVRNKVRz1U14AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 덕만이개그 최고예요. 밑도 끝도없는 매력.",
+        "writer": "Ugz5_XoJ7pQOIbKNjhl4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사 벼농사 이거 코빅 love is 뭔들에서 먼저 나옴",
+        "writer": "Ugym4yeMvGwIKMB5U3l4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국산 벼농사",
+        "writer": "UgwzJDSRccK17bRlN_B4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3명다 문세윤한테 묻어간다, 김준현도 별로,문세윤이다살리지",
+        "writer": "UgyHX-xVYoRkjxQuH6Z4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 멋지게 쿨하게 계산하는 모습 보기 좋았어요 멀리 외국에서 한주도 빠짐없이 애청하고있는 맛있는 녀석들 왕팬이에요 먹방으로 큰 기쁨 주시는 분들은 네분밖에 없는거 같아요 거기다 꽁트까지, 정말 시간 가는줄 모르게 봅니다 늘 응원할게요.",
+        "writer": "UgwdVPK1Fnj7mLPPC254AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덕만이 넘 부담되셨나 동진",
+        "writer": "UgzsDG11cVKXeo2Hc714AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛녀석 오래오래 봤음 좋겠어요",
+        "writer": "UgyyjsnsiaDYSsoPPWx4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "젤라또 고깃집 본젤라또행",
+        "writer": "UgwA1lcqmG2T00x6PnF4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "덕만이 너무 좋아",
+        "writer": "UgzZ69llhAUeq0xTs-V4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문세윤 유상민이 캐리하고 두명은 얹어가기임 그나마 김준현리 엠씨 포지션으로(반사회적용어) 잇는데 나머지 한명은",
+        "writer": "UgyHX-xVYoRkjxQuH6Z4AaABAg.8qrKyS5xtsU8r-A6RW9Rx0",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김태훈 유상민,",
+        "writer": "UgyHX-xVYoRkjxQuH6Z4AaABAg.8qrKyS5xtsU9GHWsvsomDZ",
+        "write_date": "2020-12-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민경언니 겨울이라 살이 좀 오르신건가 억지로 안먹어도 괜찮으니까 건강관리 하면서 드셨으면",
+        "writer": "UgwWM-eYld_bcNie4qR4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 요즘 호감",
+        "writer": "UgxfEYSm2OFlR_rHjyd4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피에프창 인가",
+        "writer": "UgxpbFsNJRWuvp9rPQx4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한입만 감당 하실수있겠냐고 물었습니다.",
+        "writer": "UgyDk09QMFx9UDyTTZR4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "벼농사저런 드립은 어떻게 생각하는거",
+        "writer": "UgxvqxIx1N9Bwa-lTyh4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사에서 벼농사로 바꿔버리는 문선생클라스",
+        "writer": "UgyFhw1TGrRxH3Lf9gd4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문(이름)은 먹는것도 열심히 웃기는것도 젤 잘하시는듯",
+        "writer": "UgzLw_lvu0on18YjoG94AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 콩트는,",
+        "writer": "UgwrrCpi4sctA4Djfpd4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코피 뜬금포로 웃김",
+        "writer": "Ugx6FDp0xdj7PgN9ltV4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "변호사 벼농사 센스 오진닼",
+        "writer": "UgzizAjIjgMpaIEwcMJ4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "WE ALL LIE 꽁트에 약한 김프로 문선생 칭찬햇",
+        "writer": "UgzDxYv8CLIw5-lhE7t4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맛녀석 정도면 대한민국 상위층이지",
+        "writer": "UgynbE6KcaLuM-JmrMl4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꽁트하는거 너무 재밌어",
+        "writer": "UgygJpV0mO0UcMaacvd4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민경(이름) 계산하느라 수고했어욤",
+        "writer": "Ugwix3T6slIVIVASJdp4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금전 본방사수 잼나게 봤어욤",
+        "writer": "Ugx3YD31LfSN_GBjoH14AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "코피 창피하냐",
+        "writer": "UgxDmjWgvNe4ygep95x4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 맛있는녀석들 하면 빼놓을수없는 아무말콩트 언제나 재밌음 유학을 크루즈",
+        "writer": "Ugz0uNQrE0H2Lv280d94AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇케 쳐드시는데 살이안쪄요 끝까지 개걸스럽게드시는데",
+        "writer": "UgwWM-eYld_bcNie4qR4AaABAg.8qoh8frnnog8qq2z8xqE98",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최영필 말이 심하시네요. 그런뜻에서 적은 댓글이 아니었는데",
+        "writer": "UgwWM-eYld_bcNie4qR4AaABAg.8qoh8frnnog8qq4FIQF95M",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최영필 말뽄새봐라 넌 니 인성 걱정이나야해야겠다",
+        "writer": "UgwWM-eYld_bcNie4qR4AaABAg.8qoh8frnnog8qsF6RBByWU",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초면에반말하는댁인성도 합니다",
+        "writer": "UgwWM-eYld_bcNie4qR4AaABAg.8qoh8frnnog8qvbcANXM0B",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "억지로먹긴, 맛녀석글 일주일 내내 쵤영하나,",
+        "writer": "UgwWM-eYld_bcNie4qR4AaABAg.8qoh8frnnog8r-A1qkk8U6",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "삼장법사 코빅에서 따라한거임",
+        "writer": "UgxvqxIx1N9Bwa-lTyh4AaABAg.8qoMTLbutZS8qs2HCxZKhY",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국선 벼농사래욬",
+        "writer": "UgxvqxIx1N9Bwa-lTyh4AaABAg.8qoMTLbutZS9KvRI0ukF2r",
+        "write_date": "2021-04-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "임대현 저 말이 아무말 중에 젤 웃긴데",
+        "writer": "Ugwv_gtuUqYxYcQpJ2F4AaABAg.8qoL_RyOlJn8r7MYeRGmza",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저 멘트 코빅서 장도연 (이름) 콩트에서 나왔던 멘트죠 (이름)는 변호사로 듣고 소개팅나왔는데 알고보니 벼농사 하는 양(이름)",
+        "writer": "UgzizAjIjgMpaIEwcMJ4AaABAg.8qoEVZbghsw8qureTiKxqs",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사랑해요뫗 아, 역시 개그맨들 센스가 대단하네요",
+        "writer": "UgzizAjIjgMpaIEwcMJ4AaABAg.8qoEVZbghsw8qut4OsXpHz",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "장 먼계산",
+        "writer": "Ugwix3T6slIVIVASJdp4AaABAg.8qoDFMhBmDB8qoFeILOZbr",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "민경(이름)이랑 또누구에요",
+        "writer": "Ugwix3T6slIVIVASJdp4AaABAg.8qoDFMhBmDB8qq9IQflwSd",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "콩트는 문세윤 최고,",
+        "writer": "Ugz-45PJCkGoyHtcift4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 왕이 된 남자 같은 사극 드라마에 카메오로 출연했으면 좋겠다 주막에서 캐릭터로 궁궐에서 기미상국으로",
+        "writer": "UgzJ5b5gqHRP7ZaEZTh4AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 본방사수",
+        "writer": "UgxJvdvqL4ZF80468y14AaABAg",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는 이십기형",
+        "writer": "Ugz-45PJCkGoyHtcift4AaABAg.8qoCWr4ZaN48qtiCMf5nRb",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "idenia 기미상궁.",
+        "writer": "UgzJ5b5gqHRP7ZaEZTh4AaABAg.8qoCLu6srB28qoNYeXnce3",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한입만으로 왕은 강제 다이어트",
+        "writer": "UgzJ5b5gqHRP7ZaEZTh4AaABAg.8qoCLu6srB28qvx7_7u1kx",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기미상궁으로 한입만",
+        "writer": "UgzJ5b5gqHRP7ZaEZTh4AaABAg.8qoCLu6srB28r1pZOmj4pP",
+        "write_date": "2019-10-10",
+        "url": "https://www.youtube.com/channel/UCsOW9TPy2(반사회적용어)kqCchUHL04Fg",
+        "parent_url": "https://www.youtube.com/watch?v=oARPJg-9Qt8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

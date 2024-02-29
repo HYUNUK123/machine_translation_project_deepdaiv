@@ -1,0 +1,940 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001679828",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001679828"
+    },
+    "text": [
+      {
+        "content": "태초님 귀엽닼",
+        "writer": "UgyrQxXzGiw2w8CWthJ4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다시 봐도 썸넬 둘 다 너무 커엽",
+        "writer": "UgxDZoC4oVHhUhIdDTl4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어몽어스는 이미 추리 게임이 아닌 지 오래다",
+        "writer": "UgxDW0uHnFaJuvJKjwB4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는야 평화주의자",
+        "writer": "UgyikN4GXWrAs8-gJPx4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 정말 공감간다즐겁게 보고가요",
+        "writer": "Ugx-iFbKczNOyTYAd714AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 기뻐한다.",
+        "writer": "Ugw9dC9D7WeWXmeI0JJ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머니의 마음이 느껴졌다,",
+        "writer": "UgzIZEQeQsocEbXCbq94AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공혐은 인(이름)",
+        "writer": "UgxwWiVavbWpLCsH18J4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 눈치 빠른 꼬맹이(편노)는 싫어",
+        "writer": "UgxUrbsZ-VlsFnjQKRh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초님 노쇼 그날 어몽한다 하신게 이거였구나",
+        "writer": "UgxGskIk4gd8hqsAg0t4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초님 귀여우셔",
+        "writer": "UgzxKFj_PdVL5ZN1jOJ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편노님 너무 좋다 ,",
+        "writer": "UgwwC4Rmo3YmcC6X_Fd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견인마 살자희",
+        "writer": "Ugz8SyhIRqkUcGymIDJ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "...(뉴비는 힘들어",
+        "writer": "UgzR8xIjHQaVpKU07Sh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "13시간 전.",
+        "writer": "UgyOkRViHrP5nWXjUYp4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어몽어스 합방인줄알았는데 육아방송이였네요",
+        "writer": "UgzSjQIgoxG1f9L8SFd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공파님 되로 주고 말로 받았네",
+        "writer": "UgwxAHAXUJLL3yTxhZt4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "얼마나 빡쳤을지 안봐도 알듯",
+        "writer": "Ugxo4mTaLB0uwIY1KHJ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니에요 시리즈도 재미있었는데 이번엔 응애어스네요.",
+        "writer": "UgyH3mF3IDMf-ukTvvF4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잇설님 캐릭터 너무 예뻐,",
+        "writer": "UgxTT7derB6ClKUQ-6B4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 착한 나머지, 죽이지 모테,",
+        "writer": "UgyNfWC3sR0ur7S3dfd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태날두가 누구에요",
+        "writer": "UgxiiqiCBGrRKF5_07V4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 썸네일 뭔가 맘에든다",
+        "writer": "Ugydz1FXuLP6b--lInV4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫임견임 첫번째 임포스터는 견자희가 국룰임을 뜻하는 견자성어",
+        "writer": "Ugx2gJKrz-BLmXhySI54AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일님 (이름) 캐릭터 개잘살림",
+        "writer": "UgywJBmtfKBaWroNjxt4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 물속에서 봅니다",
+        "writer": "UgzHyoB7WPWdKsYXW4N4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 해냈다 마지막까지 레게노네 육아어스 성공적 마무맄",
+        "writer": "Ugwu3Q5QHpLPvnwhla14AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갈통이 있네요 (난저러지 말아야지)",
+        "writer": "UgyKAfKRn-tBkOlZ5xl4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 자희누나 욕이 시원시원해서 뭔가 좋아 참지않고 걍 뱉어버리는게 귀여움",
+        "writer": "UgyFAsFKK1F4QGwvZzR4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "극한의 츤 데레 인가요",
+        "writer": "UgyA9Rdst5aSxB9Wrct4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)마 견자희",
+        "writer": "UgxayVskJ-BV8sz-BMJ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), .",
+        "writer": "Ugwenh_245wqc2vdNmh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편노의 한마디",
+        "writer": "UgyMVeIx8YJfceHD43B4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태날두님은 태초마을의 초보 트레이너인가",
+        "writer": "UgysS0mEbQrz3xhucjp4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공혐은, 과학입니다, ((비속어) 웅장한 브금)",
+        "writer": "Ugz_Ohz-xe3MGxWhzUR4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초님 귀여어",
+        "writer": "UgwXomGUUpiqdm31X214AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서로 더블킬 스타트 미루다가 짐",
+        "writer": "UgwfWL46IQnovgwV7wt4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 (이름)네요,",
+        "writer": "UgyegfzdiK-4rcoC8yV4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이렇게 해서 견자희 여왕 폐하께서는 태초위 공을 높이 여기사 그가 살던 마을 이름을 태초마을이라 개명하셨다.",
+        "writer": "Ugyn-JdRj_IkufhYm_F4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘의 교훈 간디도 공혐은 못 참아",
+        "writer": "UgxnRFGx-VA5fSDl04F4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫판견은 국룰이자너",
+        "writer": "Ugzn0CjSG76h7v_PfRF4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇다, 태초는 진짜 태초였다,",
+        "writer": "Ugw5VeLdfaD_1lyxEFZ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사보타지 사용법은 오른쪽 산소 쪽에서 죽이면 원자로 사보타지 쓰고 왼쪽 원자로 쪽에서 킬하면 산소 울리고 보통 다 그렇게 씁니다 훈수 아니에요 훈수라고 생각되면 삭제할게요",
+        "writer": "UgxHdfJd7HeSK5w6q-l4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 닉넴이 (이름) (혐오표현)마 견자희 아침부터 웃네요",
+        "writer": "UgztqQj4UvF7aejIoEh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초님 캐릭터는 귀여운데 왜",
+        "writer": "UgyKI-Of8DpVFvgQgWd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 해냈다.",
+        "writer": "Ugzfq1p1G5E5NSmO3yp4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 다른 유튜브의 음성변조에 이어서 겁나 웃었네",
+        "writer": "UgzeNHNQ7mDYuvwAom54AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 뒤에 (이름) 계시넼",
+        "writer": "UgxNFpKQII2kRpUXL3l4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아앗, 포상 너무조아욧",
+        "writer": "UgwUzwndCeuvLpa14ql4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 생일이 3월 12일인데 기대가되지 않네여",
+        "writer": "UgwfCojB4G1JAR9Wrkt4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편노님 짱똑똑하다",
+        "writer": "UgypRRZIEdqddhrtyKF4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영상 잘 봤어요",
+        "writer": "UgxeUYKF3cCJE87y5Yt4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초 약간 둘리같다",
+        "writer": "Ugxc1kwn4p432dosBad4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 너무 커여워요",
+        "writer": "Ugzi0UgqS7m9J1SgGAh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초님 (비속어)미 (비속어)",
+        "writer": "UgzfH-0YIt7d1Z6pt1d4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이사람들 다 스트리머 해도될꺼같에, 목소리 다 좋은거봐,",
+        "writer": "UgyGg0d1HF6w3UWWCWF4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잇설님 스트리머하시면 잘할듯 끠끠에 필적하는 강자가 등장한거 같다",
+        "writer": "UgxaW1lf-Z1j3WHWVyJ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트위치 쳐보면 방송 하셔요,",
+        "writer": "UgxaW1lf-Z1j3WHWVyJ4AaABAg.9KS1R1axpgm9KSB2_D_QxM",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대놓고 죽인 시체들 사이에서 밴트쇼 하는거 왜이렇게 웃기냐",
+        "writer": "Ugy5Wk6CMB5VDfZT5g54AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편노님 진짜 브레인이네,",
+        "writer": "UgxLYneQLBv34UfecXV4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편노의 한마디 편노님 어몽어스 잘하시더라구요",
+        "writer": "UgyQhX1BjmKY31QMkMV4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초님 댕청한데 제일 귀여웡....",
+        "writer": "UgyuGcWEGyd1BJC6UwZ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잇설님 인트로에서 끠끼님의 기운이,",
+        "writer": "Ugy9NqbSZwzVPZCEv8Z4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잇설님 목소리 양아지 닮았네",
+        "writer": "Ugx0sNVktcT5bYpAOap4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘의 킬포 순수하게 행복한 태초님",
+        "writer": "UgzP17xbBf9wsynyb054AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 공동부 견동부 분들 너무 귀여우셔,",
+        "writer": "UgzwbOky3D309l81MzJ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "데자뷰 이런 기분 느껴본 적 있어",
+        "writer": "UgxuBagQOsKgGai9cUd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)(혐오표현)마견자희 살의가 느껴진다",
+        "writer": "Ugz9mWNKVMmMFOXonEp4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 어몽어스가 아니라 태초님 둥가둥가 같은데",
+        "writer": "UgyT6vdqNbKzYkeFNTN4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 바로 동정메타희망편",
+        "writer": "UgyhUfwoiq58OMj-Kcd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이건 태초님이 캐리했다",
+        "writer": "UgxLXTXYp3rsVbO3ozh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잇설님 캐릭터 이쁘시당",
+        "writer": "UgzNbgbNW4KZBml45sV4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초님 내기빵 노쇼하시더니 임포스터도 노쇼를 하시네",
+        "writer": "UgxHPiPyuR7zfcl2vgl4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), 자희에요,",
+        "writer": "UgyASd_FVLz0VpVhL1B4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 해냈다",
+        "writer": "Ugw9RDFgMGfZEqFk4mh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 시작 간디공혐은 못 참지, 손주가 대학교 입학해서 좋아하는 할머니",
+        "writer": "UgzkgQd_IxRHZmAQvSR4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그저 태",
+        "writer": "UgzMMFtZz83GUVPMO654AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 뭔가 감동이다",
+        "writer": "Ugxd5mlOrpHZdMLnbCZ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇네 빵이 아니라 죽이었네",
+        "writer": "UgxiTpB01ZezT53D7lt4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저 생일인데 영상 올려줘서 고마워요, 학교가기 전에 영상 보고있어요 감사합니다,",
+        "writer": "UgyB-KvkQWKNbAvVQIh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 이번 편은 태초님 성장일기인거죠",
+        "writer": "UgzhN5-CHA11GHSEmSN4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첫판 국룰 (이름) 폭발 불살루트 선언 근데 공혐은 못참치",
+        "writer": "UgyoHLxvsHGrR4NT34F4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이게 뭐야",
+        "writer": "UgwqPxdT6kMJ9PblUO94AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편노의 한 마디 문 닫혔길래 저도 같이 기뻐하고 있었는데 갑자기 저도 썰어버리시더라구요 엌",
+        "writer": "UgyDlD8zkQMfpc6Nq_B4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 나학교가야돼",
+        "writer": "UgxGVuVAc7Z65tePPfN4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 귀여운거 아니냐구",
+        "writer": "UgzXNEv9glFdimS9bVR4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공파낄 그만큼 공혐을 못 참으신다는 (혐오표현)",
+        "writer": "UgwKDw7LcQnAIO3SrFR4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 답답함(혐오표현)이 느껴 진다,",
+        "writer": "Ugzx4E2uXj3FeCOfDi94AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견자희 간디처럼 사람도 안 죽여. (한편 문명에서는) 간디 순순히 금을 넘기면 유혈사태는 일어나지 않을 겁니다.",
+        "writer": "UgznN7gy1O9VD6Z5dKN4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "공파님에 대한 깊은 살의 청(혐오표현) (이름)",
+        "writer": "UgyjkdYdSPdTrvAsgcd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 앙마들,",
+        "writer": "Ugzf02Fm0Czyb0EQ4KV4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 (비속어)",
+        "writer": "Ugwb8hkrBp-C9tY4Hkl4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "태초뉨께서는 어몽어스를 모르시니깐 그럴수도 있죠 제가 임포스터입니다.. 간디도 공혐은 못 참는다 감격이다, 어라라,",
+        "writer": "Ugwd3kHLQNmX8dwsrl54AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘의 아침은 견스튜디오부터,",
+        "writer": "UgzYlML2GpRApr31_aN4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교가기전에 (이름) 봐야징.",
+        "writer": "Ugxjkpu23mEYrYw7EIx4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마이크 키고 말하는거",
+        "writer": "Ugy3Fi0T62ZoNSrT5YB4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트위치 선정 가장 무서운 협박",
+        "writer": "UgzCMhZZFRz9cFVK50B4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침부터 상쾌해지는 견스튜디오",
+        "writer": "UgydDQLOgLIkZfbu2r94AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어몽어스는 태초님처럼",
+        "writer": "UgxAEvO65ih-VVxdPNZ4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 짜히님 넘모좋고",
+        "writer": "UgzaN2uV5v-isivZqe94AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "국밥 같은 공(깃)밥 든든하다",
+        "writer": "UgzeftSH3D8O-JhNxY94AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 닉네임",
+        "writer": "UgxgkGYpJn4ybgzH-914AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 잣같은 등교를 (이름)의 영상과 함께 할수있다니, 기분이 좋네요",
+        "writer": "UgxFiDyXHko-kO2E9wN4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이래서 견동부에 눈치없는 사람이 들어오는순간, (크흠,)",
+        "writer": "Ugy1QQND2fEn5rNkjfl4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시(이름) 오늘도 so sweet한 우결입니다",
+        "writer": "UgzAokyDgLvOIjRE3Hh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아침을 맞이하는 견스튜디오 넘모조코",
+        "writer": "Ugw7RdaUqWZkPwMvhi14AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결자해지형 임포스터 (이름) 든든하다 잇갈통... 태초의 벤트쇼 개장 간디도 못 참는 공혐 경)우리 태초가 사보타지 했어요(축",
+        "writer": "UgxSnjLsHm_LoyvEZZh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 짜희누나 너무 귀여워, 나 주거어어어",
+        "writer": "UgwUpVFJivucJazYiZN4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교 가기전에 목숨 걸고 보는중",
+        "writer": "UgzFzXJiZ52E0-K016p4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ",죽, 죽이면 클날거 ,같은데요오,",
+        "writer": "UgzNOIPAkrngqEgG0z54AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "본격 태초키우기 게임",
+        "writer": "UgyAnwNdxcSmEv53bsB4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 견튜브는 수업총 치기 직전에 봐야 제맛이지.,",
+        "writer": "UgymZO_fymIrpY6zbdB4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 왠 비공개 댓글이 5개지",
+        "writer": "UgzMOnz1tmPyi0ElWJd4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일부터 답답이 때문에 극대중인 견(이름)이 보인다,",
+        "writer": "UgyL8nngRkO8BsNarT94AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "견하오늘도 아침은 견스튜디오로 시작.",
+        "writer": "UgyIfbGwvfmtgGHwpI14AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "드디어 일빠",
+        "writer": "UgybN8-RUuUnbtrxP8N4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCBvkQFBskQR9NeOoDYR8ckA",
+        "parent_url": "https://www.youtube.com/watch?v=MmBPUtWljT8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001675632",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001675632"
+    },
+    "text": [
+      {
+        "content": "쉽잖아 빌런",
+        "writer": "UgznEHywj8a4kD2UAKx4AaABAg",
+        "write_date": "2021-05-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 레전드였다 개 꿀잼",
+        "writer": "UgxyvmQTn4ikYDD7Wu14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브금때문에 진짜 영화장면같네",
+        "writer": "Ugy7T9ZTn4UGR1cVlQR4AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 (비속어) 재밌다 사랑해",
+        "writer": "UgzNoyqMStgjvjxr2l14AaABAg",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 복어 개레전드 각이었는데 (비속어) 어따두고 수류탄 날려서 말아먹네 (반사회적용어)낭비하고. 혐양 여전하고",
+        "writer": "UgyF13iXSHODKFF84Vh4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천양, 핵답답",
+        "writer": "UgyDpTGoxLtAy4TB2T14AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "3조면 나라 산다는 미개 침팬치 (반사회적용어),",
+        "writer": "Ugg8aLIT2XLdGXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진심 너무 재밌다",
+        "writer": "Ugg8Cs2osBwm83gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형은 최고야",
+        "writer": "Ugj3mS8YIU7JW3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "샷건만 쓰는것도 괘찮아 보이는데 원거리 공격이 힘들어 지니까",
+        "writer": "Ugh5BKFg-ApEf3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 밸런스좀 생각하고 바꾸세요 게속 죽내",
+        "writer": "UgjYWGqTkgL_IngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못보고 지나갈뻔했자냐 이거랑 나는군단이다 꼭꼭 보세요 전편 스킵없이 다보세요.....",
+        "writer": "Uggql8GjZe8tq3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 편집하나여",
+        "writer": "UgiWHpat6KLGUngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 개재밌다",
+        "writer": "Ughmm3QR4t6hFXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "만약에 좀 만 더 안쪽가고 저런 좋은 장소였으면 이겻을것같다",
+        "writer": "UgjEU1MjPipAfngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름) (반사회적용어) 문 못열게하고 대신에 13명 다시해서 (반사회적용어)컨테츠 하는데 그중 2명은 감염된걸 숨겨야하고 그러기위해서 (반사회적용어)를 돕거나 임의로 사람을 죽여야 하는컨셉으로 하는건 어떨까해요 감염된걸 들키면 죽으니까요 진짜 영화처럼 발암인간 사람이죠 아그리고 (반사회적용어)를 도와도 감염된사람은 어느정도 면역이 있긴하지만 부작용이 있어서 갑자기 (반사회적용어)로 변할때가 있고 이미 감염되있기때문에 (반사회적용어)에게는 공격당하지 않는다는 컨셉입니다. 감염됏지만 모든 무기사용가능 지능이 있는 (반사회적용어)인거죠 사람이기도 하고",
+        "writer": "UghOeclKKhMqJngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 총소리내지말라니까 계속내는 혐양",
+        "writer": "Ugg7GVvqjOLIJ3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히익 (비속어) 넘모넘모 무섭다",
+        "writer": "UghOeclKKhMqJngCoAEC.8SirVfYDP5B8TqxqOJO2aq",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 또 하는(혐오표현) 정말 재밌게 잘봤어 앙 (반사회적용어)띠",
+        "writer": "UgjZGVbe7lIiR3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혐양님, 왜그래요 요즘 잘한다 싶더니",
+        "writer": "UggABYCnnM4KeHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대기타는거 진짜미치겠닼 현웃터졌스트리머분들 한분빼고 진짜 다 애정합니다 원래 그분나와서 거를려했는데 (이름) 목소리랑 다른 스트리머분들 목소리만 나와서 믿고 봄",
+        "writer": "UggycskXhlRIiXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 존잼이엇닼",
+        "writer": "UggYVCHkawl67ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혐양 (반사회적용어)",
+        "writer": "UghQNvMLI3eocHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막은 쫌 아쉽네요, 한 10명 남을때까지 복어님 고지에다 꼴(이름) 자기장 좁혀질떄 정도 붙었음 더 쫄깃했을텐데 쫌 아쉽",
+        "writer": "UgiVyYIw_rEIYHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막판 개젬",
+        "writer": "UgjmJLK7KIYZiHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복어형 개멋있었는데 자기장이 안도와주네,",
+        "writer": "UgjBVrghYYOsI3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 아깝다.",
+        "writer": "UgjYtDO9bQ7dYngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번편 풀 버전으로 계속 보길 잘했다. 마지막 배수의 진, 진심 레(이름)다",
+        "writer": "UgjY0lq04N0U0XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 나는 (이름)다잼",
+        "writer": "UggitbgutZa4DngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 도네 뭔가요 그냥 3만4 200원을 저런식으로 표시하는건가,",
+        "writer": "Ugh_OVwTBvuBIngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 옆에 떨어지는 (반사회적용어) 있는데 아무도 눈치 못챔",
+        "writer": "UgiIuwmI5fCl4XgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "막판에서야 밸런스가 어느정도 괜찮아진게 아쉽, 초반부터 팍팍 너프시켰어야 했는데",
+        "writer": "Ugj6fj_9-f2VcngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니솔까 (반사회적용어)들이너무지능적이얔",
+        "writer": "UgjBZHp-bLTWfXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그 스트리머 한분이 누구에요.",
+        "writer": "UggycskXhlRIiXgCoAEC.8Sf0bPkSw3J8_kAcPJdJIV",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돗개 3만4천2백원인데 342잔어요 0빼면 그래서 342(삼사이)발음이 상하이랑 비슷해서 그래요",
+        "writer": "Ugh_OVwTBvuBIngCoAEC.8ScGp44p3pj8ScYP4JOaow",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어) 몰고 다니면서 레드존 들가면 재미날것 같은뎅",
+        "writer": "Ughs4kJEej4AtHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "마지막 설렛다",
+        "writer": "Ugh48hAudjWgMHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 컨텐츠 너무너무 잼있게 잘봤어요레전드 였어여마지막에 복어님 50명 다 잡았으면 진심 레전드였는데이번편 하이라이트편식으로 올리면 너무 좋을것 같아여(이름) 포함 모든분들 진짜 수고하셨어여",
+        "writer": "UghNUYAcGTO6EXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 복어형 그래도 30킬가까이함",
+        "writer": "UgjnU6XrezW5-ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 순서 (비속어)이야 알지 사랑해",
+        "writer": "UggGf1o4g1o4N3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복어 레전드 배수진",
+        "writer": "UgjPvnLJmTsW63gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개웃곀살짝 지루하다가 마지막 개복어 (반사회적용어)캐리",
+        "writer": "UgjDZ7ox0Dzdr3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순서멸시 오졌따",
+        "writer": "UghcF2F7TEgNCngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밸런스는 샷건이 제일 괜찮은거같네요.",
+        "writer": "UggfuGh9k2aygngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "더러운 (비속어)의 속셈 코뿔소경의 본목소리 개차갑다, 본목소리를 듣은 왁굳의 반응",
+        "writer": "Ugg8CaaJ5PpVLHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 서순 (비속어)이야",
+        "writer": "UgjubJ1cMXu6nHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 1편이 안올라와",
+        "writer": "UghlVlMDNc8SL3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수성엔 역시 좌황충,",
+        "writer": "UgibYL_q1RxB33gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 난또 그전에 못본게 잇는지 알고 재생목롱 엄청 뒤졋네",
+        "writer": "UgjPwghnVt1H5ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마 6화부터 올라온거, (반사회적용어)텽...",
+        "writer": "Ugh52E1WRIlfHHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설마 역순이야 이편도 재미있지만 군단 이 꿀잼 이얐슴",
+        "writer": "UggXN-Ra90p0EHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저번에 1vs100 (반사회적용어) 편이였나 거기서 (반사회적용어)에 몰려서 어쩔수없이 레드존으로 달렸는데 (반사회적용어)가 안죽었음궁지에 몰린 왁굳형 흑흑 귀여웡",
+        "writer": "Ughs4kJEej4AtHgCoAEC.8SbbCf8mia98Sd9a16PnfR",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기장 너무 아쉽당",
+        "writer": "UgjPvnLJmTsW63gCoAEC.8SbBNRYHTqd8wi9WRi97H-",
+        "write_date": "2019-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "권총샷건인데 샷건 희귀도를 높이는거징.",
+        "writer": "UggfuGh9k2aygngCoAEC.8SaX7i6_nLL8jmF9cNf0Sr",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "S.Y Kim 더러운 (비속어)라고 게임소개하고 왁굳한테 게임선물한 청자임",
+        "writer": "Ugg8CaaJ5PpVLHgCoAEC.8SaI24RUSEM8SahDgeMWhI",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "화려한 총질 화끈한 액션 블릿스톰 준 코뿔쏘경",
+        "writer": "Ugg8CaaJ5PpVLHgCoAEC.8SaI24RUSEM8SahNkqOYjb",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 다 본다고 밤샘,",
+        "writer": "Ugg8CaaJ5PpVLHgCoAEC.8SaI24RUSEM8SahZDw4_3W",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앙 생존자여띠",
+        "writer": "Ugixy6tyRXmGGXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=YV_ZlTXIDsY",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

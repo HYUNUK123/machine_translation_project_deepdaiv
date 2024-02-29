@@ -1,0 +1,548 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001678337",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001678337"
+    },
+    "text": [
+      {
+        "content": "(비속어) 진짜 옛날 옵치영상 숨은 보물이다",
+        "writer": "UgxSRcwzXif3JY_RKr14AaABAg",
+        "write_date": "2021-08-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)는대로 겁나 열심히 하는 엔지니어님 너모 귀엽자너",
+        "writer": "UgxDsmfLar0L0K09hNt4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 넘모 잘하고 귀엽다",
+        "writer": "UgyRj0usWtpGcTit67V4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거보니까 왜 예전 그 짤막하게 올라온 웹툰이 생각나지, 파쑤야.",
+        "writer": "UgyW6g_fmYa-6OIl_Ld4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어휴 접대 무새들 지들은 그냥 걸어가는것도 맞출자신 없으면서",
+        "writer": "UgwNc6Hps2b8WHz90bx4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지 개웃기넼왠지 죽을때마다 불쌍해 보여",
+        "writer": "UgjIsfc29uH4y3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁형 에임만큼은 잘한다 진짜 갓지니어 개웃겨",
+        "writer": "Uggkh5pbsMxEdngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그렇게 편집은되지 않았다고한다.",
+        "writer": "UghRbErGXOvEC3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 손 고문대회",
+        "writer": "UggPktp5DUhgxHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "친구랑 이거 하면서 에임 연습해야쥐",
+        "writer": "UgjC5Za1GX7KBHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 디게 웃곀 무빙잌",
+        "writer": "UghCwh49VnJyB3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 수고하셨어요",
+        "writer": "Ugj7CD_KYo3P93gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 컨(비속어) 대박 _",
+        "writer": "UgheOC8IUDvVV3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어떻게 하면 되루시우",
+        "writer": "UggFvvBCLuRh93gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 우리란 우리팟 잼나던데, 왜 켈 방송중에 말이 많을까요 왁굳 청자들 팟팅..",
+        "writer": "UghJ2kqe5jMvnXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 왁종오,",
+        "writer": "UgjjU-FfxaG0n3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁크리보솤이와중에 촐랑촐랑 엔지님 고생하셧",
+        "writer": "UgjLkueo_bSIl3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 요즘 GTA안올라오네",
+        "writer": "Ugjke2zls1vvHngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 에임봨 왜 심해에서 놀았던지 의문",
+        "writer": "UgjB07ysjgR7NngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 사랑해요",
+        "writer": "Ugh4bIEDYVZ0CXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우(이름) 방송 언재 하세요",
+        "writer": "UgihLd0f1995GngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 이적했는데 하얀 배경의 챗창 영상이 나오는지 몰겠따",
+        "writer": "Ugj9bZMhFqmqBXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유투브 열심히 안하네, 오버워치말고 GTA나 다른게임도 같이올려야지,",
+        "writer": "Uggt4kovZDcTe3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채팅창 지 자랑 컨텐츠래",
+        "writer": "UggCGzXmizNM9ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "모두들 수고하셨지만 그중 엔지님이 제일 수고하셨네요 파라 제자리로 돌아갈때 귀엽,",
+        "writer": "UgjnzGFQKkY-sngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죄없는 루시우는 관역이 됩니닼",
+        "writer": "Ugg9gNpOuU_c9ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 트레이서는 통편집이구나",
+        "writer": "UghxQyJ-G_rJfngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국 앞에꺼 다 편집,",
+        "writer": "UggtMogZUxbFxngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잌(이름) 서른안으로 고군분투,",
+        "writer": "Ugh6M9BQUp7BwngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정크렛 폭발 지뢰 위로 던져가지고 맞추기하면 이팩트도 좋고 공정성도 좋을꺼 같은데",
+        "writer": "UgiCwfOqtzFvKHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁만 잘쓰면 완벽한데",
+        "writer": "UginfJAs_WUN8HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 머릿속에 들어가 보고싶닼",
+        "writer": "Ugh19sSVchbjQ3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 조금만 잘못하면 훈수 폭격질인데 정신력이 버텨주지 못한거죠 머",
+        "writer": "UgjB07ysjgR7NngCoAEC.8I75OGA9mz28_6C7x5DwZ_",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전에 찍으셨던 영상이여서 그래요",
+        "writer": "Ugj9bZMhFqmqBXgCoAEC.8I6t6QOZNSB8I7ScRv_edX",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 아직까지 업로드 (이름) 말해본거예요",
+        "writer": "Ugj9bZMhFqmqBXgCoAEC.8I6t6QOZNSB8I7kv2FpLAq",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형이거 언제적거야, 솔직히 지각이 좀많이 심한거같다",
+        "writer": "UggmEvHu-mwUX3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이형 샷빨은 좋은데",
+        "writer": "UghAiBgMxuvPWXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루시우 무빙",
+        "writer": "UgjozVUSuvuI6XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 달달달달 드드드거림",
+        "writer": "Ugjbq3XwIzlmsHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 컨보소",
+        "writer": "UggYAZnY7YmXI3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무빙 미침",
+        "writer": "Ugjq_iIB3wyL5HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 무빙봨",
+        "writer": "UgijjwPtQl7XlngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "의문의 엔지고통",
+        "writer": "Ugiqhq907RLK5HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 수고하셨어옄 손가락 막 뒤틀려있는거 아니죠 (이름)도 좋은 컨텐츠 항상 감사합니다 구독하고 수시로 챙겨보고 있어요 엄청 재밌어요. 두분다 파이팅..",
+        "writer": "UggnfhcK2Ib2wngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 짱.",
+        "writer": "UgjcgmhToK-fbXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "놀란니의 똥꼬에임",
+        "writer": "UggE1fXR6KhReHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 경쟁전 팀운 안 좋아서 낮은 거다",
+        "writer": "Ugi-tssbu65lwngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "피하는 엔지님도 (이름)고 그걸 맞추는 (이름)도 (이름)고 꿀잼이네요",
+        "writer": "UgjI5RRiq9SAengCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 돌리배 사격대회 우승자인데 밸붕이라 과녁행인가",
+        "writer": "UggNbbY1zbGBY3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형이 이름값좀 하네여 진쩌 왁굳",
+        "writer": "UghoRVjeep02TngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지니어 아잌(비속어) 엔지니어님 수고하셨습니다",
+        "writer": "Ugi1Ca0BQVvxFngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜로봐주삼 진쩌는 애교로만 봐주시고,",
+        "writer": "UghoRVjeep02TngCoAEC.8I5lJ_Nuz3L8I5lOobjj0E",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁굳 멕꾸리 그자체 지리고 갑니다.",
+        "writer": "UggWnZEeGI3Fi3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님이 살리셨네 겁나 웃김",
+        "writer": "UghK126kESYpp3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 따끈",
+        "writer": "UggIyEd9vWbdPHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님목소리 꿀,",
+        "writer": "UgjO_ThakBBsXngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜 루시우 무빙봐 (비속어)",
+        "writer": "UghNhvvSE2_wungCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형 좀 빨리자",
+        "writer": "UgjfAiwaZHqO_XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 화이팅... 고생 하셨음..",
+        "writer": "UgjXqhHQzqZ3-HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "올림픽 개막 전에 찍었는데 올림픽 폐막 후에 올리시네",
+        "writer": "UgivDnnbz5R3NHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엔지님 너무 잘 도망다니셬",
+        "writer": "UgjJXjaKqgPKvHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)에 의한 (이름)을 위한 컨텐츠",
+        "writer": "UggN4SuZuBsNfHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "속이너무안좋아러 잠을못자",
+        "writer": "UgjSIR63ULCjYXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸석양이 .",
+        "writer": "UgjmpeyJFzum_ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 찍은지 꽤 된것같은데 이제서야 올라오네",
+        "writer": "UghysdFvlnWIC3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한조양궁대회는 몰(반사회적용어) 이거는 올림픽 개막 후에 찍은거 맞아요",
+        "writer": "UgivDnnbz5R3NHgCoAEC.8I5MV0M4_1E8I9FMbu6uMP",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 헤헷 안녕하십니까",
+        "writer": "Ughk_JPu5wduF3gCoAEC.8I5G3BTMRPX8I6jFXivpd7",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=NLJju6uZTaU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

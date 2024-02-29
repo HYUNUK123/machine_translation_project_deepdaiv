@@ -1,0 +1,620 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001662907",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001662907"
+    },
+    "text": [
+      {
+        "content": "남편 너무 잘만난듯",
+        "writer": "UgwVVmidif5DPGWZLbF4AaABAg",
+        "write_date": "2021-11-13",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "눈물난다, 어리고 여릴때 얼마나 힘들었을까",
+        "writer": "Ugwi3IK_OvRuYXhiA3l4AaABAg",
+        "write_date": "2021-10-28",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부부 외모 후덜덜",
+        "writer": "Ugze3PbcdY_sP0RMtRp4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직도 안티 걱정하는거 너무 안쓰럽다, 그때 괴롭힌 사람들 지금이(반사회적용어) 인스타(반사회적용어) 찾아가서 사과 메세지(반사회적용어) 보냈으면 좋겠음",
+        "writer": "UgybNotJP26jp10nsEF4AaABAg",
+        "write_date": "2021-08-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초등학교 3학년때 티비로 보면서 저렇게 이쁜 누나는 나중에 어떤 남자랑 결혼할까 생각했었는데 이 분이시구나,",
+        "writer": "UgwhOU_xL7b4K7NBYFt4AaABAg",
+        "write_date": "2021-07-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 너무 예쁘다, 결혼 잘 하셨어요 두분",
+        "writer": "UgyTygHEozNnSw1g5_h4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신혼이 다저러지 뭐 좋은 남편이라고 조금 더 살아봐야 안다",
+        "writer": "UgzNYiHcaVOAzyC_DK94AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 미연이누나를 너무 좋아해서 겜 닉넴들이랑 네이버계정 닉넴들 다 간미연 어쩌고에요",
+        "writer": "Ugy2jBHJA8-hUA3QVPx4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "응원합니다, 넘 보기 좋아요",
+        "writer": "UgzfNul_4Z2YTJGKZEN4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간미연 여전히 이쁘네",
+        "writer": "UgxKNiidMllOdCArnpF4AaABAg",
+        "write_date": "2021-05-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간미연이 싸이월드 시절에 내 생일날 생일축하한다고 방명록 남겨줬음, 진짜 얼굴보다 인성이 더 대단한 사람,",
+        "writer": "Ugwg8awb1ituzKlVRH54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "가스라이팅하는 남자 말고 자존감 높여주고 장점 찾아주는 남자하고 결혼하면 행복함.",
+        "writer": "Ugwuy2ylkiRUZCQ2HPt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게좋은남편이있다는건 그무엇과도바꿀수없는행복일듯 그간힘들었던보상인것같네요 행복하시길, (이름)",
+        "writer": "UgzM64cL9LplL82OaXZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신혼때 밥먹다 참 많이 했지, 안대써야돼 눈만 맞으면 그냥",
+        "writer": "UgzxDupBVsvkBxeq-7R4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복만 가득하세요",
+        "writer": "Ugwn_YoM-m_9S8yVirt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "보는 내가 다 행복하다",
+        "writer": "Ugy4qUHaepqpqzSCy-h4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간(이름)는 나이가 있을텐데도 어쩜저리 가식도없고 여리고 묵직하신지 요즘사람같지않아요 보기드문 인성을 가지신것은 분명해요.",
+        "writer": "UgxY-lK3uM26NV3TsFV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대학생때 재활원으로 봉사다녔는데 매년 오셔서 재능기부 콘서트 참여하시고 봉사하신다는거 들었어요 실제로도 6년전에 그재활원 콘서트에서 봤었는데 너무 미인이셨어요 실물이 진짜 예쁘셔서 놀랐다는 , 잘사셔서 보기조아용.",
+        "writer": "Ugxsw4lWdUdU_uVlusF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집도 있는그대로 같고 사는것도 꾸밈없어서 더 진정성 있어보임, 잘살듯",
+        "writer": "UgxkbJQ_YzcgFRXJYkt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남편분 진짜 멋있으시다",
+        "writer": "Ugxgsga_w_2i_mHoxlN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간미연누나 진짜 이뻤지",
+        "writer": "UgzDyZyrA_ZAQVOL5-d4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 부부네요.",
+        "writer": "UgzF0iTBDpcpQkL2gFl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기는 그냥 (비속어) 3이네요 다들 (비속어)같이 사랑스럽네",
+        "writer": "UgzCO6ug7UxM4IdbJ2x4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜케, 느낌이 갠적으로 남자 유심히 오래 지켜봐야할것같다",
+        "writer": "Ugz2S4IgXfw4Syl-bpB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자가 애교도 많을듯, 행복하세요",
+        "writer": "UgxX4vyFYVuyxslO3ht4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에궁 행복따블사세요 고생많았어요",
+        "writer": "UgyeHLCdU8DD3NjY3Nd4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당연한게 되지말길",
+        "writer": "Ugwx2AmzX4QzeS9UOLl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복하세요 두 분.",
+        "writer": "UgxbEdDh9KKyfgI-Ybh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간(이름) 행복했으면 좋겠다. 단지 남편이 변하지 않고 지금처럼만 ,",
+        "writer": "UgxUKbw8evbQoSFMSul4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인상이 순둥으로 바꼈네요. 방송 자주 나와요",
+        "writer": "UgzHeqRfAW287RRfV3h4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안티들 진짜 천벌 받아야함,",
+        "writer": "Ugy7UbyxoQpY0o-yKzB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여리고 착한 (이름)가 얼마나 힘들었을까요 같은학교 나왔는데 정말 착하고 순수했고 얼굴은 볼때마다 충격이였어요 너무 예뻐서요 좋은분과 결혼해서 너무 축하하고 어릴때 힘들었으니 앞으로는 (이름)래 행복하기만 하시길",
+        "writer": "UgzVduTarl7k2wUchvt4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끝까지 헤어지지않고 행복하게 살거같다.",
+        "writer": "UgxpBpRK9ti-gmskc8R4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연예인이라구 일부러 꾸미고 과장하는 연예인들보다 훨씬 이쁘고 공감이 가니 더 재밌어요 요즘 결혼들도 늦고 포기하는데 솔직하고 진솔하게 알콩달콩 시작하는 신혼 너무 보기 좋아요여잔 자기만족감이 최고의 행복인데 잘나고 상대 무시하는 남자 안골르고 날 존중해주고 늘 곁에 있어주고 사랑해주는 남자 골른 현명한 (이름)네요 효리언니처럼 늘 소소한 일상 속에 행복하세요",
+        "writer": "UgwWACVf8PBFydZ9r4l4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래듀 연예인인데 검소하게 소소하게 알콩달콩 행복하게 깨볶구 좋으다용",
+        "writer": "Ugw9kjR12LlGzV1ZJ6Z4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "선남선녀네 (비속어)존예들",
+        "writer": "UgysEJ0z01GBaJD8eop4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞는말 남이 아무리 날 싫어해도 내편 한명만 있으면 됨",
+        "writer": "UgxKHyOWgTQUqc7ASF94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 진짜 의외긴함. 집도 가구들도 너무 소(이름). 그동안 번돈이 적잖을텐데",
+        "writer": "UgzPkDUquVnrAZ8gaUh4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1세대 아이돌 불공정계약으로 활동에 비해 돈 많이 못벌었을거 같아용",
+        "writer": "UgzPkDUquVnrAZ8gaUh4AaABAg.9M-VtQikm9u9M1q9LZK2ma",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "걱정도 팔짜다",
+        "writer": "UgzPkDUquVnrAZ8gaUh4AaABAg.9M-VtQikm9u9M4lg_gDE8n",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "베복시절 기획사 (반사회적용어) (혐오표현)로 유명했던 곳이라서, 돈 정산 못받았다고 들었어요.",
+        "writer": "UgzPkDUquVnrAZ8gaUh4AaABAg.9M-VtQikm9u9TWb1vCSHO7",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어린시절에 느끼기에도 악플 안티 등, 유독 너무 심했던거같음 앞으로는 행복하기만 하셨음 좋겠다",
+        "writer": "Ugw7A1QPqsSuPVho8354AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런 남편도 있구나, . 빛같다고 할만 하다",
+        "writer": "UgxEde9bDGNZJq6dvuZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시집 잘갔네",
+        "writer": "UgxVdHwzoyha6Ffzvet4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "행복한일들만 가득하길",
+        "writer": "UgyvCm_EpEkeiffe78J4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안티들 다 결혼하고 애 낳고 살아서 이제 안티짓 안해요. 항상 행쇼해여 노래잘하는 (이름) 예전에 안티들 괴롭히는거보면 그때 당시에도 넘 심하다 싶긴했음",
+        "writer": "UgxjaTBxJDpQ4jqJd0B4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간(이름) 명일동 도로시 아이스크림 먹으러 왔었는데 기억하세요 넘 예쁘시던데 쑥스러워 씨(반사회적용어) 못 받았어요",
+        "writer": "UgxWKABgYGQevK_rIV54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘넘 좋아보여요... 두분 다 행복이 가득찬 얼굴",
+        "writer": "UgwR0Tj0b6Y6qtbuHEx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간(이름) 오랜만에 뵙네요 (이름)래 행복했음 좋겠습니다",
+        "writer": "UgxkNbaqWMtSF5wZLk54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또래랑 결혼한거 넘 보기좋다 이뻐요 파파라치 언니 맘편히 사세요",
+        "writer": "UgymvulduZCM0yao5ZV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간(이름) 이제 남생각 안해도됩니다. 그냥 즐기세요",
+        "writer": "UgyAYvzP6A1P2W6ns1F4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 간(이름)은 이뿌시고 악플의 시조새셔서 행복하게 지내시는거 보니 좋아영",
+        "writer": "UgzP096vMNME7HY3_IB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목뭐여, 무슨 힘든일있으셨나",
+        "writer": "Ugy-1jccJgxtKHVVvH94AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽다 둘다",
+        "writer": "UgxPfwCzPZ0eeFbDset4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "현실 신혼부부네요 두분 행복하세용",
+        "writer": "Ugxa1hwqq81oMXLLIs54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소박한 삶 보기좋네여 행복하세여",
+        "writer": "Ugz7adpBfHj5gEeqtpZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간(이름) 잘사는 모습 보니까 너무 좋네요. 남편이랑 방송 많이 나와서 돈 많이 벌어 넓은 집으로 갔으면 좋겠어요.",
+        "writer": "UgwP8ww-AX0XUdwQ8xl4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오글거려 좋네요 깨소금, 행쇼 베복 노래 친구들이랑 오락실노래방가서 많이 불렀어요.",
+        "writer": "UgzhfRjX8AdCSyL_E8h4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자분이 뭔가 귀엽네",
+        "writer": "Ugyjv6Ardq2Y6qu-Rat4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간미연 짱.",
+        "writer": "UgwjEsg6XtJgxJ6sI8t4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악플만 시조새 였나요 무대할때 욕하는 건 기본이고 머리채잡고 심했죠",
+        "writer": "UgzP096vMNME7HY3_IB4AaABAg.9LwsVit6IZb9LzdJC_sowg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나두 미연편",
+        "writer": "UgwK8lOQa5JbDFdeuCF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 내나이삼십년만에 간(이름) 예쁜게 깨달아져어요, 진짜 너무 예뻐요,",
+        "writer": "Ugy4AJcPKW4-k06vwlV4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부럽고 보기좋아요..",
+        "writer": "Ugzm9ZfYGEkIr29D2bx4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 알콩달콩 귀여워요 간(이름) 완전 똑순이 살림꾼이네요",
+        "writer": "UgwGxMy9jf1meBprM2Z4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알배(혐오표현)선먹고 싶네요",
+        "writer": "UgyOqgtLg8QHQrLB4yB4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 잠옷입고 요리하면 냄새밸텐데, 그냥 쭉 실내복인건가요",
+        "writer": "Ugzs5JDIB8JnJ0Sw7p54AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세월이기는 장사없다고, 간미연도 세월의 흔적이 보이네요 자연스러운거죠",
+        "writer": "UgyKp5lJR_kR5Ed_TuZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 응원해용",
+        "writer": "UgxgoLZCndN80zWIT5V4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "돈 많은줄 알았는데",
+        "writer": "Ugz1ZfpS86fvuQXJ4i14AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "문희준 (비속어)들이 얼마나 괴롭혔으면 안티 걱정하네",
+        "writer": "UgxIS6OVaZShZT7eItZ4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀엽고 너무 잘어울리네요.",
+        "writer": "Ugzq4By7V5w9AOQJYrF4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 너무 예뻐 보여요 항상 행복했으면 좋겠어요",
+        "writer": "UgzoB4fPcGWe7CzDJeN4AaABAg",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살이찌든말든 보기만좋고망",
+        "writer": "UgwBqzv4yjMsyvsi7_F4AaABAg.9LWmll88xBk9LuQ61EhCw3",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "살쪄봤자 44사이즈로 보임",
+        "writer": "UgwBqzv4yjMsyvsi7_F4AaABAg.9LWmll88xBk9M1R3ulO_vo",
+        "write_date": "2021-04-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "간미연 임신 축하합니다",
+        "writer": "UgwBqzv4yjMsyvsi7_F4AaABAg.9LWmll88xBk9OaUaNYPYQ9",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UCK1sVuXaDvJeNwl9noN5nOA",
+        "parent_url": "https://www.youtube.com/watch?v=5qLOZ0XJ9hs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

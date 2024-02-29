@@ -1,0 +1,628 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001637712",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOAN210001637712"
+    },
+    "text": [
+      {
+        "content": "고기꼇다고 입을 높이드는 봄이. 그걸또 캣치하시는 어머니. 둘다 멋지심.",
+        "writer": "Ugw6sm8_GSp9GOZ1rwZ4AaABAg",
+        "write_date": "2021-11-11",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머님 봄이보다 귀여우시면 어쩌자는겁니까",
+        "writer": "UgxeeDga5MNkNuNLC5x4AaABAg",
+        "write_date": "2021-08-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 동시통역사신가요",
+        "writer": "UgzuyT1y9WgGlXe6cMV4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한마디만 하면 대박인데,",
+        "writer": "UgwB4-gG0e-hoSDe_Ut4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 귀요미들과 힐링타임",
+        "writer": "UgzD8Io06WAzQD-rRFV4AaABAg",
+        "write_date": "2021-07-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 영상들 하나씩 다시 보고 있는 중인데 보면 볼수록 봄달래 (이름) 가정이 너무나 좋아욤.. 한분 한분마다 무지 궁금하네요, _ 오늘 영상에서 난닝구오빠 그동안 봄이한테 당했던 거 작고 귀엽게 복수하는 거 같이 보이네요 난닝구오빠도 아직 아기인데 듬직한 봄이 오빠한다고 늘 수고 많앙",
+        "writer": "UgyavvkDscM5hJq0FBV4AaABAg",
+        "write_date": "2021-06-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어머님 (비속어) 언어 통역사로 취업하셔도 될 듯,",
+        "writer": "UgzfUkiP5SavPMZhJ254AaABAg",
+        "write_date": "2021-05-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "순둥이 봄이 빼앗겨도 순둥순둥 너무 치명적이네요",
+        "writer": "UgzPwkA21WbWaYiK0ph4AaABAg",
+        "write_date": "2021-04-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에고, 이뻐라",
+        "writer": "UgzqLMp7GOYVDGh7pZh4AaABAg",
+        "write_date": "2021-03-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이의 딸 달래도 많이 예쁘지만 봄이를 보면 볼수록 힐링이 되고 기분이 참 좋아요.",
+        "writer": "UgxRHVouTGTRQX_ugMx4AaABAg",
+        "write_date": "2021-02-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이의 눈동자를 보니까 눈이 참 예뻐요.",
+        "writer": "Ugxy_pd-5FUSZsj1WAp4AaABAg",
+        "write_date": "2021-02-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이가 낑낑 대는 소리로 뭔가를 원하는거 같고 말은 하고 싶은데 계속 낑낑 대는 소리가 너무 귀엽네요. 봄이 얼굴 보니까 너무 예쁘고 귀여워요. 그리고 성격이 좀 착한거 같해요.",
+        "writer": "Ugxqb3HWlWSlHEcZUd54AaABAg",
+        "write_date": "2021-02-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낑낑 너무 귀여워요",
+        "writer": "UgxZtZSnB3w4H_pCkgN4AaABAg",
+        "write_date": "2021-02-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쫑알 쫑알 에고 귀여운 봄",
+        "writer": "Ugwj0A5PC9l_KpBDyOx4AaABAg",
+        "write_date": "2021-01-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대화가 정말 가능하네요엄마는 다 알아 봄이의 속마음을 뭐가 필요한지",
+        "writer": "UgwsDqgnDh5aVyeyA4d4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이는 귀여운데 말까지 잘하고",
+        "writer": "UgwGFGIJF-zdrgD8IfN4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "형아가 껌 뺏어갈때 완전 빵 터졌어요 그렇게 원하던 애원하던 껌을 단번에 뺐기는",
+        "writer": "Ugzo0khjxm_6NPnI8fV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어) 교감과대화 멋지네요 응원합니다",
+        "writer": "UgxWWgmfCfGSfL6aHON4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이젠 눈빛만 보면 알수있죵 간식 아니면 산책 둘 중 하나",
+        "writer": "UgwsDqgnDh5aVyeyA4d4AaABAg.913CEX2xtuU91C7SyCdAM6",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리 아들 옹알이 할때 보다 말이 더 많아요",
+        "writer": "UgwGFGIJF-zdrgD8IfN4AaABAg.9-r8GbQecTr9-vr2Xqk4CM",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명랑한 봄달래 BomiDallae you re welcome.",
+        "writer": "UgxBe_XNz9vekLG6TSR4AaABAg.9-o9tBDKean9-pWYnA1x7e",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오빠는 친구이자 적이랍니다시청해 주셔서 감사해요",
+        "writer": "Ugzo0khjxm_6NPnI8fV4AaABAg.9-aCgwTfUUd9-dp8fYJDhW",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 저는 자주 해요.. 뭐라 뭐라 자주 하는데 애들 표정은 뭐래 하는 표정하고 갸웃.이 많더라구요 _ 우(비속어) 하는 표정.. 너무 귀욤네요 특히 마지막에 둘리 사진. 너무 귀엽네요",
+        "writer": "UgxAXxeeDZKtJ_T10vF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아하대화를 저렇게도 하는군요 저도 해봐야 겠어요 구독 좋아요 누르고 가요 놀러오셔요 소통해요",
+        "writer": "Ugw1KKh6IzF8DMH2r1V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 좋은 교감 하십니다 언어는 틀려도 몸짓과 행동 눈빛 꼬리 흔들기 등으로 하는 언어 등등 반려견 사람들이 공부해야 할 많은 것들 있는 것 같습니다 봄과의 대화 참 좋아요13 응원 세게 드리고 늘 함께 할게요 대단히 감사 드립니다",
+        "writer": "UgzLy9PIiiqoaf4ynQV4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 댕댕이와 함께 있다보면 대화도 되는 봄이의 마음속을 단번에 알아차린 봄이 맘님최고최고 봄이 이빨에 낀 고기도 얼른 빼내길",
+        "writer": "UgxwqO_LSAMRN5PBht14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리아가랑 진짜로 대화할수 있으면 참 좋을텐데요",
+        "writer": "UgxDKSstlGMeUx9uZWJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방갑습니당 반려견과 소통하는 영상이군요 좋아요 12꾸욱. 앞으로 자주 소통하며 지내요",
+        "writer": "UgwPwic3Eu6fdFXsqZl4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄아 만두아빠는 못알아듣거따",
+        "writer": "Ugwl25gztTtDZb1f2jh4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대화가 귀여워요 봄이 너무 이뻐요",
+        "writer": "UgyjleCOrhaYDb80rq14AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "껌이 먹고 싶다고 표현할 줄 아는 (비속어) 어떻게 얻은껌인데 빼앗겼어요",
+        "writer": "Ugy5wYD1dVVQIdcbW1N4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 대화가 잘 되시는것 아닌가요. 봄이도 너무 귀여어요, 3종 꾸욱 누르고 갈께요. 이웃하고 소통해요 .",
+        "writer": "UgwJfr51MHDssERgApd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 하니깐 갸우뚱 봄이는 언제봐도 너무 귀여워요 봄이 껌 오(비속어) 가져가서 어떡해",
+        "writer": "UgyHyN7am61516IoIx54AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 정말 말하는거같아요끼융끼융 엄마랑 대화가 통하는 봄이 너무 사랑스럽네요",
+        "writer": "UgxmQQDFZVAa8ylo-PZ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 낑낑대는소리는 요구사항 있을때 그러죠 하도 들어서 익숙 소리에 따라 다 다르죠 말을하는 (비속어)들 (이름) 너무 귀여우심",
+        "writer": "UgwuxPMFLq_2-vE9GCF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 왔구나 대화,",
+        "writer": "UgwQoGeWkclWzGc8vgJ4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 애절하다개 으앙 너무 귀여워요",
+        "writer": "UgxkpQIW98-PXrTvDTF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 비슷하게 목소리 내시는거 넘 귀여우신거 아닌가용 봄이는 뭘 말하고 싶은걸까용",
+        "writer": "Ugyu4RRj-fq4MzhSC9V4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앜대화가 되네욬 쫑알쫑알 뭐라고하는건진 몰(반사회적용어) 사랑스러워요",
+        "writer": "UgzKtV90rQ-B4dDetlB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 재미지시네요",
+        "writer": "UgxmdRy2MOlTLh7cjY94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 봄이가 말이 많아졌어요 감사합니다",
+        "writer": "UgxAXxeeDZKtJ_T10vF4AaABAg.9-YHvawSJDR9-ZcZL58TjV",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 자주 놀러 오세요",
+        "writer": "Ugw1KKh6IzF8DMH2r1V4AaABAg.9-WFaagMuW19-ZcjGmh-ek",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 말씀 감사합니다. 응원 감사드려요 자주 놀러 오세요",
+        "writer": "UgzLy9PIiiqoaf4ynQV4AaABAg.9-UcARQMmu49-VwEZauAhG",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아직 까지는 간식 아니면 산책 이더라구요 감사합니다.",
+        "writer": "UgxwqO_LSAMRN5PBht14AaABAg.9-Ub9ruY9kE9-Vw5M7--D9",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그러게요 대화할 수 있으면 얼마나 좋을까요 울 아들은 요즘 개가 되고 싶대요",
+        "writer": "UgxDKSstlGMeUx9uZWJ4AaABAg.9-TaD6LZclt9-VuNTlBts0",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네에 방문해 주셔서 감사합니다 자주 소통해요",
+        "writer": "UgwPwic3Eu6fdFXsqZl4AaABAg.9-TPjZNBmXc9-VtlI1XU-0",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국 간식 달라는 만두는 쫑알쫑알 (이름)요 봄이는 겁나 쫑알 거려요",
+        "writer": "Ugwl25gztTtDZb1f2jh4AaABAg.9-TE8Cdvui79-VsgpyA3x3",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도레미네랑은 분위기가 많이 다르죠 봄이 말동무가 저희 밖에 없어서 감사합니다.",
+        "writer": "UgyjleCOrhaYDb80rq14AaABAg.9-T9sMrAopV9-Vt9Ft2PCW",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이도 오빠거 많이 없에 버려요 찢어서 감사합니다.",
+        "writer": "Ugy5wYD1dVVQIdcbW1N4AaABAg.9-T6Ctvm9qj9-VtIcNbymj",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자주 놀러 오셔요",
+        "writer": "UgwJfr51MHDssERgApd4AaABAg.9-T3J0ZUSHq9-Vw95J3910",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "서로 뺏고 뺏기고 하루 종일 투닥 거리면서도 안보이면 찾아요",
+        "writer": "UgyHyN7am61516IoIx54AaABAg.9-T1roUwWug9-VsvPVj2-Q",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 부쩍 말이 많아 졌어요 감사합니다.",
+        "writer": "UgxmQQDFZVAa8ylo-PZ4AaABAg.9-T1CrORRRh9-VvAwG8fD5",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 간식이 필요하면 찡찡거리고 나가고 싶으면 소리와 움직임이 더 커지더라구요 시청해 주셔서 감사해요",
+        "writer": "UgwuxPMFLq_2-vE9GCF4AaABAg.9-Sz7YrT5Ok9-VugStnhzg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청해 주셔서 감사합니다.",
+        "writer": "UgwQoGeWkclWzGc8vgJ4AaABAg.9-SwkXiR2ko9-Vunbgj9a7",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들 말을 모두 알아 들으면 얼마나 좋을까요",
+        "writer": "UgxkpQIW98-PXrTvDTF4AaABAg.9-SteG6VCZ79-VNun4JuFS",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이나이에 귀여우면 안되는 대영 봄이는 결국 간식아니면 산책 가자고 쫑알 거려요",
+        "writer": "Ugyu4RRj-fq4MzhSC9V4AaABAg.9-Ss5D-3YR69-Vth2lLJqa",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "결국 간식 달라 아니면 산책 가자, 더라 구요 감사합니다.",
+        "writer": "UgzKtV90rQ-B4dDetlB4AaABAg.9-Slfp8pNWz9-VspM7IJ0x",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 봄이가 말이 많아 지네여 감사합니다.",
+        "writer": "UgxmdRy2MOlTLh7cjY94AaABAg.9-Sku6gzN7C9-VwJBJzUzb",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래 가사처럼, 눈빛만 봐도 알수있잖아",
+        "writer": "Ugz3zNCBz_8zxof_o_t4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이가 대화를 하자고 하네요 우왕 귀여워 어쩜 레이가 봄이 소리 듣고 신기해하고 있습니다",
+        "writer": "UgyAdbw3W1TIV1abCnB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 동감요 저희 코코도 말해요 말대꾸도 하고 지 의사가 분명해요 봄이도 진짜 귀여워 죽겠네요 진짜 눈빛만 봐도 굳이 말 안하지 않아도 대화가 되는. 거 같아요",
+        "writer": "UgwrQFhxkoCdA9EkXLd4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "산책자주(비속어)니 좀덜하더라구요 혼자가아니더(반사회적용어) 불리불안증있더라구요 귀요미 잘보고가요 넘 귀여워요",
+        "writer": "Ugy-EsAq02qASdD5qa94AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대화하는고같궁눈빛만바두알구이것이 (이름)과의 교감성공아닙니까",
+        "writer": "UgxnyNW3fDw2qw6DJDF4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "애견계의 언어해석학장관으로 모실께요 3꾹 하고 갈께요",
+        "writer": "UgziH-KujLm_7whVd4R4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "봄이 눈이 정말 까망 콩같아요 귀여워라.. 분명 하고픈 말이 많을텐데",
+        "writer": "UgyUuNGvUDd5uX_WGTt4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이구 앙탈 부리는 목소리 같아요 같이대화를 하다니 봄이도 뭔가 확실히 반응하는거 같아요",
+        "writer": "UgzNxsp-JRNFYfIGCAB4AaABAg",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞습니다 요즘 바쁘신데 시청해 주셔서 감사합니다.",
+        "writer": "Ugz3zNCBz_8zxof_o_t4AaABAg.9-SjOeqMYpX9-VuxK0VTPN",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들 끼리는 서로 소통이 되나봐요 신기해라 감사합니다.",
+        "writer": "UgyAdbw3W1TIV1abCnB4AaABAg.9-SinFjWrHO9-VO3-fETi5",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지난 번 노무사 동영상 때 본 아기가 코코죠 요즘 말귀를 알아들어서 너무 (이름)고 이쁘고 기특해요 바쁘실 텐데 시청해 주셔서 감사해요",
+        "writer": "UgwrQFhxkoCdA9EkXLd4AaABAg.9-SfirflOs-9-VuECHpoFl",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명랑한 봄달래 BomiDallae 저 그 맘 알아요 저도 (비속어) 처음 키워 보면서 동물도 이렇게 감정이 있고 의사표현을 한다는 것에 너무 놀라고 동물을 보는 시각이 많이 바뀌었어요 봄이는 좋은 주인 만나 정말 좋겠어요",
+        "writer": "UgwrQFhxkoCdA9EkXLd4AaABAg.9-SfirflOs-9-VxxLtvL6i",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나는김튜브 KimTube 감사합니다",
+        "writer": "UgwrQFhxkoCdA9EkXLd4AaABAg.9-SfirflOs-9-W0Ox2Uls5",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시청해 주셔서 감사해요",
+        "writer": "Ugy-EsAq02qASdD5qa94AaABAg.9-SfMjN-pXx9-VurCfYXa9",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사해요 요즘 부쩍 말이 많아 졌어요 망고도 오랫만에 누나 봐서 엄청 좋아하죠",
+        "writer": "UgxnyNW3fDw2qw6DJDF4AaABAg.9-Sby0y6M7Y9-VvVgFMA9b",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 자주 놀러 오세요",
+        "writer": "UgziH-KujLm_7whVd4R4AaABAg.9-Sbxp97C-p9-VsyoLd3j1",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이들과 자유롭게 소통하면 대박 좋을텐데 감사합니다",
+        "writer": "UgyUuNGvUDd5uX_WGTt4AaABAg.9-SbOHRLrhd9-VNyqFPG79",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "명랑한 봄달래 BomiDallae 그러게 말입니다",
+        "writer": "UgyUuNGvUDd5uX_WGTt4AaABAg.9-SbOHRLrhd9-VQVxz5k2K",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주로 간식 종류나 산책가자는 말이죠 요즘은 밥 투정이 생겨서 밥먹으라고 하면 못들은척 도망가요",
+        "writer": "UgzNxsp-JRNFYfIGCAB4AaABAg.9-SZuNZUsHT9-VtZBlROw9",
+        "write_date": "2019-11-14",
+        "url": "https://www.youtube.com/channel/UCESC_GRUe4Z7-OOxk_AWm5Q",
+        "parent_url": "https://www.youtube.com/watch?v=rmfHj0FACkA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

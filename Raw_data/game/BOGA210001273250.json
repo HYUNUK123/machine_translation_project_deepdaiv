@@ -1,0 +1,540 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001273250",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOGA210001273250"
+    },
+    "text": [
+      {
+        "content": "친구랑 1시에 싸웠는데 도티 유튜브 덕분에 화해 했어요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo88ctrNlYHj8",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 상황극 잘한다",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo88es3Sf8Wxn",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 왜 아크만 죽어요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo88rqJdaNazM",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고정훈 맞아요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo88rqYCtI8GM",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도능은 왜 않해요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo891QBO(반사회적용어)InZ",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 짱",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo892VDmDYDPn",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 짱",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89AmY-GLWPB",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저심심할대 맨날 할게없어서 겜만 하는디 근데또 도티유트브 보니까 기분이 좋아져여......",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89IInNeduRS",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저심심할대 맨날 할게없어서 겜만 하는디 근데또 도티유트브 보니까 기분이 좋아져여......",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89IIoAINWoO",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저심심할대 맨날 할게없어서 겜만 하는디 근데또 도티유트브 보니까 기분이 좋아져여......",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89IIoVn8S0z",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "블래이즈의 막대져 (이름) 구독했어요샌드박스는 다 구독했어요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89JAEEuCPgt",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넹 (이름)",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89Kk4FghmD-",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 연기 쩔어, 하하",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89NelP1wH-F",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "손병민 힘네세염..저두 괴롭힘을,",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89TBoyUHIqY",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 (이름)",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89TaByaigOu",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 친하게 지낼게요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89VvAy5WDQ0",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네, (이름) 영상1개도 안빠졌어요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89jonuMSJem",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 연기 잘한다.",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89rc2cvrJrb",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "연기 잘한다",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo89uRRqPCb0r",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남자가 여자한테 패지는,",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8A32LyRK8iP",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 뜰님이 여잔데 , DDONG 는좀,",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8A7L89GDYZt",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박규빈 나김건민",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8AApNYP0UZc",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이윤정 누구 잘못본듯",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8AAu90DvZeo",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넘 재미져용..",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8ABkYOBc2S-",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 안령하세요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8AJf_qdNtwX",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 존경해요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8AJffDwWgrh",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싸움 걸땐 모가지 자르기",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8ALVmMmJshc",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8Xsyn_Mg9vy",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 댓글에 좋아요 왜이러냐,",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8Y-Ur3SjSJM",
+        "write_date": "2017-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV (이름) 저이 반에 가 한명 있어요. 그 친구는 착하고 이쁜데. 친구들이 잘 안놀아 주내요, 저가 그 친구를 도와주고 싶어요 요즘에 조금씩 저와 친해지고 있어요 그런데 다른애들이랑 어떻게 친해저야 하나 모르겠어요,",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8YrkhmQsoMF",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV 이럴땐 환상의동물 남친 여친이 있어야행",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8ZFjdda_tyX",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 그(이름) 말하네",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8ZL1ZiV4hVx",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "신이 꽃을 돼지로 만들 때 그리스신화의 키르케 인줄",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8_AOKhce4Sy",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV 넹 좋아요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8_QYrxrrOW0",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "힝, 어쩔수 없덩,",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8aGVQOb6m14",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), (이름)이 재일 불상해요,",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8er7B56K7mN",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌 어 요사랑해요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8gAEf2jjtsw",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8gzTQlnbqzC",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호 호랭님",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8hTgP_Wl09Z",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV 짱 재밌다.",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8jQhgC4VlSW",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8jRhNiOz-M9",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV 안녕하세요",
+        "writer": "UgiDfK_CHZc3l3gCoAEC.86tVD6jVZYo8jxP1nXXhLm",
+        "write_date": "2018-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왕 난무제한",
+        "writer": "UgjmwlQo2qfAUngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 처음부터 (이름) 맞았어",
+        "writer": "UghA287ypsjfGXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크윽, 58번좋아요 ,",
+        "writer": "UggzUgQhH6r4V3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺍 . 전 이런게 너무 졓아요 그래도 다른영상도 엄청 좋다는 역시(이름) 영상은 봐도봐도 질리지않아유.",
+        "writer": "UgjGh-k3aMGGRXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 형아한테 맞았는데 도티 영상 보니까 맞은게 싹 사라지네요 정말재밌어요",
+        "writer": "Uggxal1T_Vq3iXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앞으로 더 재밌게 해주세영.",
+        "writer": "Ugjmq1tG6PDsUngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 손이 모터 달렸나",
+        "writer": "UgifPaYh_ug1PngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "워프별빚 헐 형이랑도 친하게 지내세염",
+        "writer": "Uggxal1T_Vq3iXgCoAEC.86tV3eYhSmr86tVe9IO-FL",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 TV 네 감사합니당..",
+        "writer": "Uggxal1T_Vq3iXgCoAEC.86tV3eYhSmr86tWI3FHabA",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 맞는데 왜 가만이 있지",
+        "writer": "UggLZcOrdP1p53gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 유튜브꿀꿀",
+        "writer": "UghKwg0OYBXmJHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "29번째 좋아요는 내꺼.",
+        "writer": "UginU06iY0Zzm3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스낵비디오 꾸르잼",
+        "writer": "UggslbFs8Fcd4ngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으잉 30개의 좋아요",
+        "writer": "UgjBcd7Z_pHCsXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 짱",
+        "writer": "UghyvgyqcBdkTXgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팬..",
+        "writer": "UghUWvEgnVnvsHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도티 (반사회적용어)",
+        "writer": "Ugi7kLyN45xPS3gCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 불쌍해",
+        "writer": "Ugi5Br31U1Y5oHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8이라니..이름이 도티 인데 도티유트브를 본다",
+        "writer": "UgidfrhWRKoblngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 (이름) 멋져요.",
+        "writer": "Ughf3UuoticMbngCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저의 소원은 (이름)께서 댓글다시는 건데 이루어질리가, 없어유",
+        "writer": "UggBzYVuBeXETHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박박서준 뭔 이상한소리시지",
+        "writer": "UggBzYVuBeXETHgCoAEC.86tUz3fB82386tXxWvhXCd",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "20초 전...............",
+        "writer": "UgghUIRbVo1hZHgCoAEC",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 장기컨테츠 또 언제해요",
+        "writer": "Ugjp-chJE_HuAngCoAEC.86tUukk9aFo86tV8hIvlFZ",
+        "write_date": "2016-10-09",
+        "url": "https://www.youtube.com/channel/UChQ-VMvdGrYZxviQVMTJOHg",
+        "parent_url": "https://www.youtube.com/watch?v=b04ltZS4SHs",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

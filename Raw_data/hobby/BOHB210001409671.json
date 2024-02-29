@@ -1,0 +1,772 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409671",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409671"
+    },
+    "text": [
+      {
+        "content": "아, 정말 좋아요 를 안 누를 수가 없네요. 늘 감사드립니다",
+        "writer": "UgxqWlqQ0-eAvU8n2m94AaABAg",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 배우고 갑니다.",
+        "writer": "UgwodnbKFyvoeyD-orh4AaABAg",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예제파일 너무 감사해요...",
+        "writer": "Ugz1GoXlYoZll70alTF4AaABAg",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 강의 감사드립니다. 예제파일을 유튜브 채널아트에 사용해도 될까요",
+        "writer": "UgzL9aC8LLiP0ISSUfN4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 자료 감사합니다. 감사히 잘 쓰겠습니다.",
+        "writer": "Ugw4b64xjmyJu0SiMwJ4AaABAg",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 쓰겠습니다.",
+        "writer": "Ugx1hPt223jn4kiOJpV4AaABAg",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 급했는데 정말 도움이 되요 ..",
+        "writer": "Ugx9sfmhxHWrO6LuJ114AaABAg",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 항상 감사합니다 매일 도움받고있어요",
+        "writer": "UgyEIfj-bOPwMZwIU594AaABAg",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 얼른 만들어야겠어요",
+        "writer": "UgxlS6dMw7N-hYrkRCp4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "편집 할때 폰트가 이상해서 바꾸려하는데 가능한가요 편집기는 곰믹스입니당",
+        "writer": "UgzCuTuRaZfXrrIzFfB4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내 나름대로 한번 만들어봤어요",
+        "writer": "UgwkyiBjGM80j7hU76J4AaABAg",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 파일 감사합니당",
+        "writer": "Ugy9_vebjQOxHz5RGfx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 대박, 프리셋 2가지나 신경써주시고 우디쌤 주신 psd예제에 레이어이름 설정하신 것까지 너무 감동이예요",
+        "writer": "Ugyn5MKkDfKxE8lmbjB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포토샵 강의 이것 저것 듣다가 (이름)으로 정착했어요 보다보니 일러도 배워보고 싶고 욕심나요 크크 앞으로도 잘 부탁드려용 .",
+        "writer": "UgxPhoL2HSaNrxjswxJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "포토샵 cc 2019인가요",
+        "writer": "UgwZFFyenVsC6kcCT0R4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주행 26일차. 우디는 진짜 뭐 하는 사람이지, 학원 선생님도 한다던데 학원가서 배우고 싶네.",
+        "writer": "UgyBIliUxIUfyPs8Cmx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "430 (이름) 안녕하세용 오늘 수업도 너무 신경 많이 써주셔서 감사해요. 저렇게 기기마다도 사이즈가 다르게 해야 읽히는군요. 세세한 디테일까지 넣어주신 강좌 정말 감사해요...",
+        "writer": "UgzG1zorMNj7h6Toxbt4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예제 파일 너무 감사합니다..",
+        "writer": "UgyprKLpMlz_EfAUQNN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "복습 잘 하고 갑니다",
+        "writer": "UgzK3jhorJv0uPctiRR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고마워요 . 자주 오셔서 꿀팁 담아가세요.",
+        "writer": "UgxqWlqQ0-eAvU8n2m94AaABAg.9SojwPnRrwm9SpJMAtxW83",
+        "write_date": "2021-10-03",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반가워요 자주 오셔서 꿀팁 챙겨 가세요",
+        "writer": "UgwodnbKFyvoeyD-orh4AaABAg.9S1Z7jcaD6s9S3E4vJYfWo",
+        "write_date": "2021-09-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 채널 운영을 위한 포토샵 디자인 재생목록 보시면 더 많은 무료 유튜브 디자인 소스들도 있어요",
+        "writer": "Ugz1GoXlYoZll70alTF4AaABAg.9QXVGbn8OMG9QY2AZCY3nW",
+        "write_date": "2021-08-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 그럼요 채널 내 유튜브 채널 운영을 위한 포토샵 디자인 재생목록 확인해보셔도 자료가 있답니다 )",
+        "writer": "UgzL9aC8LLiP0ISSUfN4AaABAg.9PiT-r8orMu9PjpU_3ttiG",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "playlist listPLF3xwVWbSafyhmZkvi7jAozn6C5OmrnmK 요기 들어가면 더 많은 유튜브 디자인 자료와 강좌가 있답니다 )",
+        "writer": "Ugw4b64xjmyJu0SiMwJ4AaABAg.9PHqvtqVYhi9PKWUCmUdYE",
+        "write_date": "2021-07-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 관련 디자인이 필요하다면 채널에 있는 을 참고해 보세요 )",
+        "writer": "Ugx1hPt223jn4kiOJpV4AaABAg.9MxR-uDJOEi9Mxov0X1BcF",
+        "write_date": "2021-05-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야호 파일 잘 활용해 보세요 ).",
+        "writer": "Ugx9sfmhxHWrO6LuJ114AaABAg.9K9vP2EEYmD9KBo0jzQPr-",
+        "write_date": "2021-03-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 늘 고마워요 언제나 즐겁게 공부하세요.",
+        "writer": "UgyEIfj-bOPwMZwIU594AaABAg.9JfZzJ9KhtL9JgjgZ6Kc3e",
+        "write_date": "2021-02-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 열공을 시작하셨군요 _",
+        "writer": "UgxhLfB576yclRDIamV4AaABAg.9I746_P0utL9I7KwnTMHJA",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "야호 짝짝짝 )",
+        "writer": "UgxlS6dMw7N-hYrkRCp4AaABAg.9I-zoXmBB2H9I0cHTzMvH-",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그럼요 방법을 배우고 내 스타일대로 활용하는게 가장 좋은거죠 ).",
+        "writer": "UgwkyiBjGM80j7hU76J4AaABAg.9F3s95rlOy39F4GmzU5sE-",
+        "write_date": "2020-11-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 디자인 예쁘게 꾸며보세요",
+        "writer": "Ugy9_vebjQOxHz5RGfx4AaABAg.9DMAHVjtCEW9DNg5M6B-5U",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 다 퍼드리고 있답니다 _.",
+        "writer": "Ugyn5MKkDfKxE8lmbjB4AaABAg.9BnatEVih139BoqtPOQNy_",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크크 포토샵 맛집에 오셨군요 _ 차근차근 포토샵이 손에 익으면 일러스트레이터도 시작해 보세요 이미 많은 분들이 그렇게 하고 있답니다",
+        "writer": "UgxPhoL2HSaNrxjswxJ4AaABAg.9AsoJHmyHXu9AtMBYtUdAj",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 해당 강좌는 CC2019 버전을 사용했습니다",
+        "writer": "UgwZFFyenVsC6kcCT0R4AaABAg.9AFKBo0pMoQ9AGgcE2jB8G",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직업학교 선생님이 본업이다. 그치만 이번 달에 그만 두고 또다른 길( )을 나서려고 한다. 당장에 오프라인으로 보고 싶다면 언제가 될진 모르겠지만 서울에서 원데이 클래스 를 진행할것이다. 기회가 되면 꼭 보도록 하자.",
+        "writer": "UgyBIliUxIUfyPs8Cmx4AaABAg.99bHdpOla9C99cUXma4rnZ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 기기마다 보편적인 비율이 다르니 어쩔 수 없이 희생되는 디자인 영역이 있을 수 있어요",
+        "writer": "UgzG1zorMNj7h6Toxbt4AaABAg.9840pbLUFX-984Ansr2oS3",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소의 모든 강좌는 무료 예제파일을 제공하고 있답니다 .",
+        "writer": "UgyprKLpMlz_EfAUQNN4AaABAg.97ekkX-MKX297eq4UlEYBI",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으으, 오늘도 복습을 . 존경합니다 )",
+        "writer": "UgzK3jhorJv0uPctiRR4AaABAg.97eZvGqWGLS97epELwN418",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 좋은샘을 만나서 정말 열습히 하고 있어요",
+        "writer": "UgzK3jhorJv0uPctiRR4AaABAg.97eZvGqWGLS97fI8nViMNQ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "탭에서는 안전영역보다 더 조금 표시가 되네요 잘려나가요",
+        "writer": "UgwEbFGBOCSNTJfQyat4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "혹시 화질 좋게 저장하는 방법이 있을까요 Ctrl Shift Alt S 로 저장을 하고 지금 채널아트로 설정해봤는데 화질이 낮네요",
+        "writer": "UgzdhjYYCTwOqiUebfx4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예제파일 준비해주신거 너무 감사합니다 )",
+        "writer": "UgwO4gD7wJ485SNLAkN4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌍따봉을 날려드립니다 굿굿",
+        "writer": "UgzZWZVx8ifCSjD8cu14AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 깔끔하고 좋은 강의 감사합니다 ....",
+        "writer": "Ugx5-fDcNHJlrJ-BQPJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와웃꿀강의 감쟈합니당 바삭",
+        "writer": "Ugz5Sp40bJpce6kMvsh4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 주말에 채널아트 도전해 볼게요 감사합니다",
+        "writer": "Ugx_0qrUOZHU1T5JWUB4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "처음으로 영상을 연속으로 5번 돌려봤어요 다른 게 아니라, 나는 저 안에 도대체 뭘 넣어볼까 무언가 (이름)로 표현하는 것이 재미있게 느껴져 지금까지 배우고 있지만, 처음으로 머리가 멍해졌네요",
+        "writer": "UgwE-XnDOEkJjeLMIhR4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 고맙습니다..",
+        "writer": "UgxqWDuYh28bLAsfAX94AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 진짜 너무 좋은 강의다, 감사합니다",
+        "writer": "Ugx-gp3wqzSa5rifJFJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "채널마다 페이지 상단의 색상이 다르더라니. 그런(이름) 있었군요",
+        "writer": "UgxXbZifTzMlQkAk9394AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은자료 감사합니다 새해 복 많이 받으세요",
+        "writer": "Ugzz9bzrqXsZTBv5SMl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 ,완전 좋아요 바로 만들어서 적용했습니다. 언제나 좋은 강의 감사합니다. 새해 복 많이 받으세요",
+        "writer": "UgybJ9IJ3BkR1aYZ3UJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "도움이 많이 되었어요 감사합니다.",
+        "writer": "UgzxijqZdz8pritncWV4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 정보와 팁들 감사합니다 .",
+        "writer": "UgyYXpoJnT0LK8QxtJJ4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 강의를 활용해서 스마트스토어 심플하게 좀 꾸며보겠습니다. 심플이 귓가에 맴도네요",
+        "writer": "Ugws45IbPbyemm1bTwF4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 유튜버를 위한 로고 만들기도 올려주세요..",
+        "writer": "Ugy1GJEgszToHYanTfl4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름), 제가 로고는 일러로 만들고 포토샵에 옮겨서 png로 내보내서 채널아트로 설정했는데 계속 글씨나 화질이 픽셀이 보여서 (화질이 안좋아보여요.) 왜그런걸까요,",
+        "writer": "Ugy3uHzhUS5PwxL6m7x4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디바이스 마다 또는 같은 디바이스도 해상도 마다 조금씩 다를 순 있답니다 )",
+        "writer": "UgwEbFGBOCSNTJfQyat4AaABAg.97E7Is87l8x97EBOaOq1T6",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 어쩔 수 없이 유튭은 PNG로 업로드 해도 유튜브내에서 업로드 하는순간 화질저하가 일어 난답니다",
+        "writer": "UgzdhjYYCTwOqiUebfx4AaABAg.97BE640PdUN97Bey0MbCoI",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다 퍼드릴게용",
+        "writer": "UgwO4gD7wJ485SNLAkN4AaABAg.97B4yuv_CAm97BefQDraog",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쌍따봉 야호 감사합니다",
+        "writer": "UgzZWZVx8ifCSjD8cu14AaABAg.96bQBpaErjo96bZ5famikF",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반가워요 . 유튜브 디자인과 관련된 다른 강좌들도 많으니까 참고하시고 예쁜 채널 꾸미세요. 모든 강좌는 예제파일이나 완성 파일 다운로드도 있답니다",
+        "writer": "Ugx5-fDcNHJlrJ-BQPJ4AaABAg.96XMRSgmnNK96XoRjOlhfg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "첨부해드린 파일 활용해서 차근차근 멋지게 만들어 보세요 .",
+        "writer": "Ugx_0qrUOZHU1T5JWUB4AaABAg.95cxob6o4Wa95e0se25DyW",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 네 감사합니다",
+        "writer": "Ugx_0qrUOZHU1T5JWUB4AaABAg.95cxob6o4Wa95e68dD--l2",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하하 당장에 본인의 채널 아트를 꾸민다 생각하시면 아마 어떤 글자나 요소를 넣어야 할지 생각이 나실거예요 그리고 일단은 다 집어 넣은 다음 그 이후엔 뭐를 뺄지 를 생각해 보세요 ) 디자인이라는게, 넣는 건 쉽지만 빼는 게 문제랍니다 .",
+        "writer": "UgwE-XnDOEkJjeLMIhR4AaABAg.95_bnBwFIuy95b8UixNRAd",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 디자인은 빼는 게 더 문제다, 와, 디자인계의 최고 명언인 것 같습니다.. 또 한 번의 가르침을 얻네요 감사합니다 ..",
+        "writer": "UgwE-XnDOEkJjeLMIhR4AaABAg.95_bnBwFIuy95bJreew_o0",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "늘 감사합니다",
+        "writer": "UgxqWDuYh28bLAsfAX94AaABAg.94-J7eFTN3t94-lyZ4nrSN",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또 또 알려 줄게요 .",
+        "writer": "Ugx-gp3wqzSa5rifJFJ4AaABAg.94-FnSUSc9V94-lxPFVksB",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "호호 몰랐죠 ) 직접 설정할 수 있는 부분이 아니랍니다 유튜브에서 포인트 색상을 자동적으로 추출해서 상단 색상이 정해져요",
+        "writer": "UgxXbZifTzMlQkAk9394AaABAg.93xzfzaAosk93yslde3ipA",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고맙습니다 ) 새해 복 많이 받으시고 자주 정보 얻으러 오세요. 유튜브 관련된 강좌들도 정말 많이 있답니다",
+        "writer": "Ugzz9bzrqXsZTBv5SMl4AaABAg.93iVd0O3_CC93jFA3odplu",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 실 사용까지 하시고 . 열심히 하는 모습에 언제나 박수를 드립니다 짝짝짝 새해 복 많이 받으시고 내 년에도 우리 함께해요.",
+        "writer": "UgybJ9IJ3BkR1aYZ3UJ4AaABAg.939PVMwvxSq939XM9lecPP",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 당연하지요 감사합니다",
+        "writer": "UgybJ9IJ3BkR1aYZ3UJ4AaABAg.939PVMwvxSq93A2s1lNNNT",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브 관련 디자인 강좌가 많이 있어요 다른것들도 자료 얻어 가세요 .",
+        "writer": "UgzxijqZdz8pritncWV4AaABAg.92xHPlyCqOI93-vYFELPFQ",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목은 채널아트 지만 응용하면 다른 디자인으로도 얼마든지 만들 수 있답니다 ).",
+        "writer": "UgyYXpoJnT0LK8QxtJJ4AaABAg.92KZAH4689o92Mj5yPTt8s",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "심플 심플 응용해보는건 언제나 좋은 방법이랍니다 .",
+        "writer": "Ugws45IbPbyemm1bTwF4AaABAg.921IGESzutE9225SiamrX-",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오호 그거 괜찮네요 간단한 로고 만들 수 있는 프리셋을 만들어서 배포해 드려야겠군요. 감사합니다 )",
+        "writer": "Ugy1GJEgszToHYanTfl4AaABAg.90hsF_dPDtF90i8ZrGDbxf",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜브에 올리면 유튜브 자체에서 화질저하 현상이 일어나요 제 채널 커버아트도 보면 그렇게 쨍한 느낌은 아니랍니다 유튜브가 문제에요",
+        "writer": "Ugy3uHzhUS5PwxL6m7x4AaABAg.9-M-8fXKCKp9-MpkyKPbaX",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좋은 영상 감사합니다",
+        "writer": "UgxFbt6Qz6iwg4jRdzx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 좋은 강의예요. 답답했었는데 배워갑니다",
+        "writer": "Ugzqpeq1Ge7xqEtrFNd4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "직관적으로 알기 쉽게 알려줘서 잘배우고 갑니다",
+        "writer": "Ugxg66xViVJG4vpCeEV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 진짜 너무 멋쪄요 이런 좋은 파일 공유해주셔서 너무너무 감사합니다",
+        "writer": "UgxEue79R4Nkae2jnfZ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아, 너무 감사합니다 이 좋은강의를 왜 이제 알았을까요,",
+        "writer": "UgxTYZtUEoc6fBPhhXx4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "개인적으로 심플한 디자인이 호불호도 적고 안정적인것같아 좋아요 ) 오늘도 알찬강의 감사드려요 잘 배우고 갑니다 . 덧 ) 이번영상 인트로부분에 흰옷을 입은 (이름) 모습이 유독, 후광이 장난 아니셔서 (우왕 피부미남,)조명을 바꾸셨나 하고 이전영상을 다시보고 왔다는 3 하핫.",
+        "writer": "UgwWPWIwavaw8XHUJ194AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "앗, 아, 오늘 채널아트 만든다고 하루종일 고생했는데 이런 영상이 올라(이름)",
+        "writer": "UgwlNNZyKLLFyeSwLRJ4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유튜버를 위한이 아닌 나를 위한 우디.... 아 대박 강좌..... 진짜 실전 특공무술과도 같은 강좌 ... 진심 레알 최강.....",
+        "writer": "UgyNeZa7sOldRfY3zTB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋진 채널아트 만드세요 ..",
+        "writer": "UgxFbt6Qz6iwg4jRdzx4AaABAg.8zdMYYm5rs18zdWnf79cBC",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁜 채널아트 만드세요 ..",
+        "writer": "Ugzqpeq1Ge7xqEtrFNd4AaABAg.8xvMZ--KBlh8xvNe6t238Q",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "Ugxg66xViVJG4vpCeEV4AaABAg.8v8LdF4nSh08v8OiEWYxSB",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 ) 채널아트 예쁘게 꾸미세요.. 다른 유튜브관련 디자인 강좌도 많이 있으니까 참고해 보시구요.",
+        "writer": "UgxEue79R4Nkae2jnfZ4AaABAg.8v-9RSYPFtY8v-NisYBI41",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반가워요 ) 이제(반사회적용어) 알았으니 어디에요.. 앞으로 자주 만나요 우리",
+        "writer": "UgxTYZtUEoc6fBPhhXx4AaABAg.8u5Gv6wlG7E8u5aPELKj3u",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맞아요 디자인이 어여울 땐 심플한 디자인으로 역시 예리하세요. 없던 조명을 하나 구매 했는데 조명 세팅을 어째해야할지 몰라 인트로가 저 모양이네요 조금씩 조절해봐야겠어요.",
+        "writer": "UgwWPWIwavaw8XHUJ194AaABAg.8t-fxLvsUTz8tFohcRXru7",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "휴가 때문에 답변이 늦었네요 하루 더 일찍 알려 드렸어야 했는데 말이죠 예쁜 채널 아트 만드세요.",
+        "writer": "UgwlNNZyKLLFyeSwLRJ4AaABAg.8swcx7HtYRl8tFnlmkd7lQ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고맙습니다 ) 채널아트 예쁘게 응용해서 꾸미세요... 나중에 구경도 시켜주시구요.",
+        "writer": "UgyNeZa7sOldRfY3zTB4AaABAg.8swcOhvIa2z8tFnenl-pJJ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "롤스토리디자인연구소 채널아트 까지 건드리셨으니 이제 하나 남았네염 프로필도 언제 한번, 부탁 드리어용 헤헤레",
+        "writer": "UgyNeZa7sOldRfY3zTB4AaABAg.8swcOhvIa2z8tMciKnkDhQ",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 프리셋 만들 수 있으면 만들어 보겠습니다 ) 조금 어렵긴 하지만 일러 다루는 능력이 있으면 로고 만들기 강좌를 통해서 나만의 로고도 만들 수 있답니다.",
+        "writer": "UgyNeZa7sOldRfY3zTB4AaABAg.8swcOhvIa2z8tNwnyYZBor",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCL6y-MRePH3-qV2ClOoetkw",
+        "parent_url": "https://www.youtube.com/watch?v=CWU_punxnjo",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

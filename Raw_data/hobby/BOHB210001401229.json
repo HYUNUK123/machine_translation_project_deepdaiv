@@ -1,0 +1,180 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001401229",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001401229"
+    },
+    "text": [
+      {
+        "content": "강의 너무 재밌게 잘 들었습니다.",
+        "writer": "UgydRjMeNqWIhCSkQ8R4AaABAg",
+        "write_date": "2021-06-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일단 완강 완료, 그리고 복습하러 다시 출발,",
+        "writer": "UgytmgmH2VA0yXj_qqB4AaABAg",
+        "write_date": "2021-01-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "질문하나 드려요, 내용입력할 때 아무 입력 없이 ENTER 키를 누르면 이 한자가 엄청 나오네요 (혐오표현)값이라고하는데 어떻게하면 이 한자가 출력되지 않게 할 수 있을까요 scanf( n contents) getchar() , fputs(contents file) fputs( n file) 이부분에서 어떤것 때문에 내용입력없이 엔터를 치면 (혐오표현)값이 나오는지 궁금해요",
+        "writer": "UgyE7BuORqVQ7-X3fHV4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 나도코딩 c언어 완강하였습니다. 게임 만드는게 재밌어 보여 시간가는 줄도 모르고 수업 들었네요. 수업 너무 잘하시는 거 같아요. 이를 계기로 C 와 C 열심히 배워보도록 하겠습니다 감사합니다",
+        "writer": "UgwageTGJEYH2DdFL394AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이분 처럼 깔끔한 목소리톤과 진행 방식이 재미있고 편안하게 강의를 수료할 수 있게 도와주네여. NCA에 쓰잘데기 없는 분들 말고 이런 분을 넣어야 할텐데, 정부 교육관계자는 이런 분을 초빙하시는게 좋을 것 같습니다.",
+        "writer": "UgwuqH0571J1TXu1xGt4AaABAg",
+        "write_date": "2020-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "비밀번호를 정확히 치면 if (strcmp(p(비속어)word skehzheld ) 0) 에 들어가서 아래에 있는 스테이트먼트를 실행해야 되는데 바로 else로 들어가서 비밀번호가 틀렸다고 나와요. 그러면 if문이 제대로 작동 하지 않는다는거잖아요. 그래서 제가 디버그로 돌려봤어요. 비밀번화 확인 중, 이 찍히고 나서 if문으로 안 들어가고 바로 else로 들어 가더라구요. strcmp에 문제가 있는걸 까요 아래는 제가 작성한 코드 전부입니다. define _CRT_SEOURE_NO_WARNINGS include check the p(비속어)word if the p(비속어)word is correct read the file if not give a warning message include include define MAX 10000 int main(void) char lineMAXsave the variable from the file char contentsMAXinput to the file char p(비속어)word20p(비속어)word char cthe stars cover the p(비속어)word printf( Welcome to the Secret Journey n ) printf( Enter your p(비속어)word ) getchar() after Enter key it works getch() after every key it works int i 0 fflush(stdin) while (1) c getch() if (c 13) p(비속어)wordi n break else printf( ) p(비속어)wordi c c getch() i printf( n nchecking the p(비속어)word, n n ) if (strcmp(p(비속어)word skehzheld ) 0) printf( the p(비속어)word is correct n n ) const char fileName C Users Sue Desktop (이메일) FILE file fopen(fileName ab )if there is no a file create a file if there is afile append a file. n n ) while (1) scanf( n contents)reat util see the next line getchar()Enter( n) flush if (strcmp(contents EXIT ) 0) printf( closing the file n n ) break fputs(contents file) fputs( n file) fclose(file) else printf( wroing p(비속어)word.",
+        "writer": "Ugwvj3XSUq_mESRZrXt4AaABAg",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "c언어를 배우기위해 인터넷을 검색하다가 나도(이름)을 뵙게됬습니다. 10개의 강의를 하나하나 다 보고 다 했었습니다. 물론 중간에 막히는 부분이 있었지만 영상에 댓글을 달면 빠르게 해결해주시는걸 보고 감동했었습니다. 저는 이제 다른 강의를 찾아 공부를 하겠지만 나도(이름)을 잊지는 못 할 것 같습니다. 항상 건강하시길 바라겠습니다. 새해 복 많이 받으시고 사랑합니다. 새로운 강의가 올라온다면 돌아오겠습니다.",
+        "writer": "Ugz8hfuRJa3BNeOEfp14AaABAg",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이메일) 로 해서 파일을 생성하면 Nadocoding 소스파일이 있는 폴더에 메모장이 생성되는데 c 로 할경우에는 생성이 안되네요, c드라이브 주소 복붙해도 생성이 안되구요 혹시 해결방법 알 수 있을까요",
+        "writer": "Ugz-nVIrP4il48bub-54AaABAg",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "카폐 오셔서 프로그램 다운 오류좀 해결 해주세요",
+        "writer": "UgyiXoiWLU78JwFd-M94AaABAg",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "일단 좋은 강의 해주셔서 감사하다는 말씀드립니다. 재밌게 잘 배웠습니다. 새해 복도 많이 받으세요. 마지막으로 질문 2개만 드리고 싶습니다. 1) 비밀번호를 비교하는 구문에서 비밀번호가 무조건 (반사회적용어)다고 나옵니다. 코드를 한번 보시고 뭐가 문제 인지 가르쳐주시면 감사하겠습니다. include define MAX 10000 define은 안씀 int main(void) Get P(비속어)word O open X Fail char lineMAX 파일에서 불러온 내용을 저장 char contentsMAX 일기장에 입력할 내용 char p(비속어)wordMAX 비밀번호 char c 비밀번호 키값 확인 마스킹 printf( Secret diary Please enter a p(비속어)word n ) while (1) c getch() getchar enter이후 동작 getc 입력마다 동작 int i 0 if (c 13) 13 enter 종료 p(비속어)wordi 0 break else printf( ) p(비속어)wordi c i if (strcmp(p(비속어)word p(비속어) ) 0) 비밀번호 일치 printf( Welcome.. n ) char fileName d (이메일) FILE file fopen(fileName ab ) append if (file NULL) printf( Fail.. NULL) printf( s line ) printf( Keep writing Enter EXIT to stop n ) while (1) scanf( n contents) n n전까지 전부 읽음 getchar() n Flush처리 if (strcmp(contents EXIT ) 0) printf( EXIT.. n ) fputs(contents file) fputs( n file) Flush 상쇄 fclose(file) else printf( Wrong P(비속어)word.. n ) return 0 2) 어떤 함수에서는 return 0을 쓰시고 어떤 함수에서는 return 1을 쓰시는데 그 차이가 궁금합니다. 다시 한번 좋은 강의 감사드립니다 잘 배웠습니다.",
+        "writer": "UgxY4AL-v2xhy11oa-p4AaABAg",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다음은 무슨 강의인가요",
+        "writer": "UgwVhdU4nGrZp62r76B4AaABAg",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)에서 왔소 잘 부탁 드리겠소",
+        "writer": "UgxqtWECcqBV4PIu1Gt4AaABAg",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 나도코딩입니다 부족한 강의를 시청해주셔서 진심으로 감사드립니다. 처음으로 이런 강의를 만드는 과정에서 시행착오도 많이 겪고 모자란 부분도 스스로 많이 자각하고 있습니다. 그래도 열심히 강의를 들어주시고 질문 해주시는 분들이 계셔서 정말 행복하고 많은 보람을 느끼네요 계속해서 꾸준히 다양한 강의를 더욱 좋은 품질로 제공할게요. 응원 진심으로 감사드리고 사랑 가득한 명절 보내시길 바랄게요 감사합니다 .",
+        "writer": "Ugz8hfuRJa3BNeOEfp14AaABAg.8qps9uSC0eq8qpwP9ZCyn1",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "윈도우 버전에 따른 권한 때문에 그럴수 있어요. C 에 바로 파일을 만드는건 막혀 있을수 있으니 바탕화면이나 D 등 경로를 변경해서 진행해주세요 감사합니다. 벌써 여기까지 오셨군요..",
+        "writer": "Ugz-nVIrP4il48bub-54AaABAg.8q4QzhyJkA68q4VaIeOtei",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넵 감사합니다 자바를 먼저 하고와서 수월하게 넘어온거같아요. 이제 자료구조랑 알고리즘을 한번 훑어보려고하는데 자바와 씨중 어느걸로 보는게 이해하기에 수월할까요 .",
+        "writer": "Ugz-nVIrP4il48bub-54AaABAg.8q4QzhyJkA68q4WsMMG89G",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제발알려주세요 포인터가 어려울 수 있으니 자바 추천합니다",
+        "writer": "Ugz-nVIrP4il48bub-54AaABAg.8q4QzhyJkA68q4XJNL7OEg",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넵 감사합니다 .",
+        "writer": "Ugz-nVIrP4il48bub-54AaABAg.8q4QzhyJkA68q4c0yvWkUR",
+        "write_date": "2019-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "박민호 비슷한 현상이 있는 분들을 위해 남깁니다. 하나의 글자를 입력했는데 2번 이상 인지되는 경우가 있습니다. getch 는 1바이트 한글자씩만 입력받도록 되는데 2글자 이상이 입력되는 현상이 있어서 별표가 2번 이상 나타날 수가 있습니다. 이럴때는 c getch() 를 통해 1글자를 입력받고 그 다음줄에 getch() 를 통해 또다른 글자를 입력 받되 변수에 저장을 하지 않습니다. 이렇게 하면 2글자중 의미 없는 뒤의 글자는 skip 할수 있습니다. 더 정확한 원인 분석을 위해서는 2번째 이후 입력받은 글자들을 변수에 저장하고 아스키값 등을 통해 확인해보면 어떤 값이 있을 것이고 그 값이 입력된 경우는 무시하도록 하는 방법도 있겠네요 감사합니다.",
+        "writer": "UgyiXoiWLU78JwFd-M94AaABAg.8jdvA67lkRX8jio-yeQLFO",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안녕하세요 아직 정해지지 않았습니다. 커리큘럼을 고민해보고 시청자분들이 원하는 강의 수요조사도 해보고 결정할 예정입니다 C 심화 C 로 배우는 자료구조 알고리즘 자바 파이썬 정도 생각중입니다",
+        "writer": "UgwVhdU4nGrZp62r76B4AaABAg.8bibTtyEBeU8bic5k6SsGi",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지금도 어려운데 심화라니, 더 공부해야 되겠네요",
+        "writer": "UgwVhdU4nGrZp62r76B4AaABAg.8bibTtyEBeU8bijEYLsM42",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "답변이 늦었네요 환영합니다 제가 더 잘 부탁드립니다.",
+        "writer": "UgxqtWECcqBV4PIu1Gt4AaABAg.8bVejF4UK3F8bijNcpQo5K",
+        "write_date": "2018-10-18",
+        "url": "https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw",
+        "parent_url": "https://www.youtube.com/watch?v=xZP-ssNpQOU",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

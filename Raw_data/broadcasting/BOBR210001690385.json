@@ -1,0 +1,956 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001690385",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOBR210001690385"
+    },
+    "text": [
+      {
+        "content": "이젠 하다하다 낙제요원을 건드려 지긋지긋하다 진짜",
+        "writer": "UgwhrQK5L4oJkDqJ91h4AaABAg",
+        "write_date": "2021-11-02",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여주 착한역하는거 첨보는듯,",
+        "writer": "UgwqyCpEUnqgTMyNBER4AaABAg",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브루스 월리스형아는 쨩.",
+        "writer": "UgzOQ6WR5DmrNEtCrmx4AaABAg",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 누나 레드얼럿3 (반사회적용어)군 역할배우네요 이종격투기선수출신",
+        "writer": "UgyvszdRHZoCrwA2jhB4AaABAg",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방님과 함께라면 그 어느곳이든 평화롭다... 다만 시작과 끝만",
+        "writer": "Ugxt2L0SGKQXgykp8R14AaABAg",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "액션 영화 이런건 보기망설여지다가 결국 안보는데 이렇게 보면 보고싶단 마리야 마리야 넘모 잘보고가욧.",
+        "writer": "UgzS0k_j3Em7FkBtTjR4AaABAg",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "요즘 영화리뷰유튜버들 영악해져서 영화제목 안적어놓고 인트로 다 끝나고 리뷰시작할때쯤 몇초 보여주고 없애는게 트렌드인가",
+        "writer": "Ugy4iOaWmEvIGE5A5yN4AaABAg",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저 아들래미는, 어디선가 본것 같은디, 생각이,",
+        "writer": "UgzMSDVuqCQPpuKAKit4AaABAg",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여주인공 잘못 뽑은쥴",
+        "writer": "UgwkiWkfHa-GgmSUn9p4AaABAg",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여자 데드풀에서 빌런으로 나온 여자 같음 이쑤시개 물던 여자",
+        "writer": "UgysIyaMbQ3B122LRex4AaABAg",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차량에서 3명을 다제압하고 왜 차를 놓고 도로를 뛰어가는걸까 애들 밖에다 놓고 혼자 차타고가면 편할텐데.",
+        "writer": "Ugww-TfsiUfzSf9Pfo14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 액션은 브루스 윌리스의 아들임 영화는 역시 부수고 폭발하는 맛이 있어야쥐유 잼나네",
+        "writer": "UgxLTyWxWp6NfTGuNxp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "목소리가 좋네요",
+        "writer": "Ugx1eDZqZLsIKlKAn654AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브루스 형님이 잡혔다는데서 이미 반전을 눈치챘습니다. 브루스 형님이 누구에게 잡힐리가 없지,",
+        "writer": "UgwL1Ao0nMWVgV-vq7p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일에 왜 홍구가있지",
+        "writer": "Ugwh0ji02nlPyeKpoyB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠망경을 올려라 리뷰 가능한가요",
+        "writer": "Ugwna7zD90sTyAcNrSR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머스탱 간지나네,",
+        "writer": "UgxqdvKRoUmcWA1a87Z4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번엔 cia야 저 (이름)는 nypd가 젤 잘어울린딩",
+        "writer": "UgzlW6yomdliEQ0JY1d4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "주말마다 한번에 보는 동방님 영상 언제나 좋은 밥 반찬 서포터 여인 매력적인데다 운전실력까지, _",
+        "writer": "UgzbOLhMJpAp4XqMPFZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "에잉 아직도 한참 남았는걸요",
+        "writer": "UgwhrQK5L4oJkDqJ91h4AaABAg.9UDjXopHHur9UE3bAn0lOj",
+        "write_date": "2021-11-02",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히이잌 그런가융",
+        "writer": "UgwqyCpEUnqgTMyNBER4AaABAg.9UAEZH06w9h9UBg1NqNsJD",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 진짜요 ..",
+        "writer": "UgyvszdRHZoCrwA2jhB4AaABAg.9U-LUxMsNqb9U-j_hu6v5T",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "껄껄껄 평화로운 시간보내시기 바라요",
+        "writer": "Ugxt2L0SGKQXgykp8R14AaABAg.9Tva5jZwNjB9TvdfJtJdy5",
+        "write_date": "2021-11-01",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헷 볼만하셨다니 다행이에요 가끔은 이런 영화도 볼만하기도해요",
+        "writer": "UgzS0k_j3Em7FkBtTjR4AaABAg.9TjV0bXwcsw9TkGPxgFdCT",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헿헿 (뜨끔",
+        "writer": "Ugy4iOaWmEvIGE5A5yN4AaABAg.9TfREq6f62B9TfTbG0iXtg",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 어딜까요",
+        "writer": "UgzMSDVuqCQPpuKAKit4AaABAg.9TfEc7HiXJl9TfjmCAJ5X7",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜요 ...",
+        "writer": "UgysIyaMbQ3B122LRex4AaABAg.9Tdeh5eizLN9TeouRB_YNT",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 너무 떨어지면 안된다하신게 아닐까요",
+        "writer": "Ugww-TfsiUfzSf9Pfo14AaABAg.9Td-jtiL59k9TdY6rIgYuN",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 퐝퐝터지는건 못참지융",
+        "writer": "UgxLTyWxWp6NfTGuNxp4AaABAg.9TcMqA9-PI_9TdWxwQub9x",
+        "write_date": "2021-10-25",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘게 봐주셔서 감사합니다",
+        "writer": "Ugx1eDZqZLsIKlKAn654AaABAg.9Tb29HZMtcH9TcLkC7Luf8",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오옷 한번봐볼게요",
+        "writer": "Ugwna7zD90sTyAcNrSR4AaABAg.9TZ_lrhL0lj9TZa_jIUbjd",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 정말 감사합니다",
+        "writer": "Ugwna7zD90sTyAcNrSR4AaABAg.9TZ_lrhL0lj9TZeXOn3Jyz",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "머스탱이 갓갓이긴하죠",
+        "writer": "UgxqdvKRoUmcWA1a87Z4AaABAg.9TZIj3_4Bj09TZ_rlW6iCV",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "밥시간에 리뷰시청은 꿀이지융 냠냠",
+        "writer": "UgzbOLhMJpAp4XqMPFZ4AaABAg.9TYQPFKft3R9TZc7GqW8SV",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "영화 리뷰(비속어)들은 제목을 위에 안띄우노",
+        "writer": "UgxVtlU3Ei55z_A9dE14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "훠우수뻘히얼렌딩의 여주인공 이다",
+        "writer": "UgzP6FjZieOJIDG1_oR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 항상, 낙제생들이 뛰어난 걸까,",
+        "writer": "Ugyn8BwZJ_0qym2KhWl4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "빡치게 하면 안된다니까.",
+        "writer": "UgzyiRauNDXSEeh4zV14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "제목이 뭐여요",
+        "writer": "UgzUDM6iJxQawnQcaix4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부르수 윌리스 친 아들이냐 남주 왤케 몬생깃노",
+        "writer": "UgxEVtgSynndtMNyCzN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌게 보고 갑니다",
+        "writer": "UgxLRN5ew8GeLQ806xZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "운전하는 형아,",
+        "writer": "UgxhmvrQDRkqxnuqHPx4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낙제기사의 영웅담",
+        "writer": "UgzPEMET6R8aDRGcRvF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한 때 최강도 결국 할배로 전락하고만다. 동네형들아 잘들어라. 니들도 곧 할배되면 나한테 쥐어터진다.",
+        "writer": "Ugxsncm4VXErc33silR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이것도 잘볼게요 감사합니다",
+        "writer": "UgzW6Pddx7YkD_CISbB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평화로운 고문실, 터졌습니다 브루스 형님이나 다른 유명한 배우들이 나이가 들어가고 주연이 아닌 조연으로 나오는게 아쉽고 슬프지만, 비중이 작아도 너무나 반갑습니다. 왠지 주말에 식스센스나 아마겟돈을 보고 싶네요 오늘도 잘보고 갑니다.",
+        "writer": "UgwyjTmokoV67P-6oax4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글 진짜 열심히 달아주시네용",
+        "writer": "UgzuEncDAAHg0arjzn54AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 뭔 데드풀 악당같이 생긴 여자가 치마 입고 설치고 있어 꼴 사납네",
+        "writer": "UgwLOU7Y6nMNTTDZcfZ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이젠 낙제급 사무직 요원까지 특수부대로 싸잡아 찐고생 바가지 뒤집어 씌우나요",
+        "writer": "UgwyIAgGW-KRBzuNNRN4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래도 cia문턱 까지 간거면 엄청난건데",
+        "writer": "Ugy6MQ8Ts67TR9P516V4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘도 믿고 보는",
+        "writer": "Ugw428GJusQ8B_OzfkF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초반영상쯤과 마지막에 포스터와 나옵니다",
+        "writer": "UgxVtlU3Ei55z_A9dE14AaABAg.9TXiV6vxU1R9TZcDzefen7",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 진짜요 ...",
+        "writer": "UgzP6FjZieOJIDG1_oR4AaABAg.9TX26T2Qulu9TZY1Nwg8Qr",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고보면 아버지가 아들이 위험해질까 막았던(혐오표현)요 그래서 아들은 더더 강력해진거구요",
+        "writer": "Ugyn8BwZJ_0qym2KhWl4AaABAg.9TWn_CxJKeo9TWoD7bj-Yh",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "익스트랙션 2015 입니다",
+        "writer": "UgzUDM6iJxQawnQcaix4AaABAg.9TVLVMoxTRh9TWMTnhpVBO",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "Ugw17Ha1WAXacyINJxR4AaABAg.9TVHrO6IarP9TWM9pUzYfN",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "못생겼다구요 진심",
+        "writer": "UgxEVtgSynndtMNyCzN4AaABAg.9TUzkHshEh89TYaR0kAU48",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 봐주셔서 감사합니다",
+        "writer": "UgxLRN5ew8GeLQ806xZ4AaABAg.9TUwk1pQObi9TWMGbtuuTI",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "히이잌 저도 무셔웠을거에요",
+        "writer": "UgxhmvrQDRkqxnuqHPx4AaABAg.9TUkYDv9-cb9TWLmDdIwJk",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헷 감사합니다 앞으로도 열심히 다뤄보겠습니다",
+        "writer": "UgzW6Pddx7YkD_CISbB4AaABAg.9TUD3fH6WMf9TUJiKKY72y",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평화로운 고문실은 역시 소리를 질러줘야되는데 안타깝네요",
+        "writer": "UgwyjTmokoV67P-6oax4AaABAg.9TU6zbnEfVQ9TUJdNF2hR1",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대냩 팩899 내",
+        "writer": "UgwyjTmokoV67P-6oax4AaABAg.9TU6zbnEfVQ9TcYAbFEX3i",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓글은 사랑과 소통의 공간이지융",
+        "writer": "UgzuEncDAAHg0arjzn54AaABAg.9TU1921qU2v9TUJ2lXNGLq",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 네",
+        "writer": "Ugz2sXeJjHC8oHiFk1J4AaABAg.9TU1-NO_ItH9TVN6yHeTOR",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헤헤 아버지가 아들은 위험하게 만들지 않게하기위한 큰그림이였던(혐오표현)요",
+        "writer": "UgwyIAgGW-KRBzuNNRN4AaABAg.9TTqs3olU2G9TUIsmcUHUR",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넹넹 낙제 경험으로 더더 벌크업된 주인공(이름)",
+        "writer": "Ugy6MQ8Ts67TR9P516V4AaABAg.9TTqrOop5QO9TUIobXNU2p",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헷 감사합니다 )",
+        "writer": "Ugw428GJusQ8B_OzfkF4AaABAg.9TTUan8uqoy9TTXX9XciZX",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "죽는것은 (이름)것이요 그후에는 심판이있다 히브리서9",
+        "writer": "Ugxa8-AUhA6rkhdOnll4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웬만해선 죽지않는 존 맥클레인 형사가 죽었,",
+        "writer": "UgzV-75sXUnKUBIeWvJ4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브루스 윌리스가 죽은 앤딩은 끝까지 설마설마 살아있겠지 싶었네요. 이런 영화에서의 브루스 윌리스는 다이하드가 떠오르다보니,죽는앤딩이 익숙치않네요",
+        "writer": "Ugzj5sLjgwqo7ioe73R4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다이하드인쥴 알았는데 아니네",
+        "writer": "Ugy4eSXi6MPcIoObbel4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뇌물을 안 먹였나 저렇게 실력이 좋은데 4번을 낙방하다닛... 어딜가나 썩어빠진 조직이 있습니다. 부르스행님과 아들의 합작 멋져요.",
+        "writer": "Ugw9naIPNcJQigOGOgh4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저런, 왜하필 세계에서 모르는 사람이 없는 브루스형 가족을 건드리다니, 저런 (비속어)한 악당들을 봤나,",
+        "writer": "Ugw-6yqZKtI82RqV6ft4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": ", 오늘은 시험 1일차",
+        "writer": "UgxQk-4BxVYl-WrmBoB4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이러니 은퇴하고도 R.E.D가되어 사건에 휘말리지",
+        "writer": "UgwVcuhhDFNPjhtzvfV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "맷집 최강 아빠 피지컬 최강 아들.",
+        "writer": "Ugyq8qp4hqHU6n3u8vF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쓰으와아즈으왕뉘이임은 쁘악취묜, 어쮜되놔용 핵무기터친 후의 모습이라고보믄 되놔여 사람 집 등 사물들은 다 타버려 재로 되어붜뤼고 방사능과 같이 무서운 분위기가 가시질 않는 죽음의 땅과 같은 상황이 되는권과요",
+        "writer": "UgzjSh4B0P87xTaSHAF4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악당들이 더 전문적이야 살아남을 수 있는 시대인데, 출신뿐만 아니라 DNA까지 조사해서 잘 보고 건드렸어야지 에헤이,",
+        "writer": "UgxpMUNpbaEre72yR6R4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교점심시간에 보기좋은 유튜버",
+        "writer": "UgwaUtgFm21DnjJ7pPV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스토리 끝이 씁쓸하지만 그래도 브루스 윌리스형님의 모습을 리뷰를 통해나마 볼수있어서 좋았습니다 감사합니다",
+        "writer": "UgwyZJFWP6Ba4cPZtOV4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악당 일냈다 진심 추카한다 동비형 매번 잼있어요 1등은 못하지만 감사합니다",
+        "writer": "Ugz-g5BHKIaBKBlXk6p4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "언제나 못소리 멋져요",
+        "writer": "UgwUic_HPc4ciycYcB94AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와우 오늘도 잘 보고 갈께요",
+        "writer": "UgwS-5yKrHZHmVfX8bp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낙제생 사무직 요원이 저정도면 현장직은 도대체 어느 정도야",
+        "writer": "UgyUxOgRMTvj8cOKERd4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "니 내 누군지 아나 하필이면 이건 뭐 다했어.",
+        "writer": "UgyW7EgbGrK1qk_golp4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "싸움 실력이 존 윅 같네",
+        "writer": "Ugwh1nVkdCnfT-3yAx14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하필이면 시리즈 공식 유튜브 채널",
+        "writer": "UgyJ0vLXIYq6HQWlA8x4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "넹넹 어기서는 죽더라구요",
+        "writer": "UgzV-75sXUnKUBIeWvJ4AaABAg.9TTOeOSebZ09TTXefXe8gt",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "안타깝게도 죽는게 옥의 티같았어요",
+        "writer": "Ugzj5sLjgwqo7ioe73R4AaABAg.9TTMS8pw5SD9TTOXczOVPB",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "인물만보면 그런지 알겠더라구요",
+        "writer": "Ugy4eSXi6MPcIoObbel4AaABAg.9TTLtUzjHhO9TTXgUB_8dI",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낙방의 (이름) 아버지라니, 서운하면서도 가족을 지키기위한 방법이였다는거에 짠하더라구요",
+        "writer": "Ugw9naIPNcJQigOGOgh4AaABAg.9TTL6zzci5p9TTXkYgxWl1",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "악당들이 동명인 다른사람이랑 착각한게 아닐까 의심하게되더라구요",
+        "writer": "Ugw-6yqZKtI82RqV6ft4AaABAg.9TTGyaTzqB_9TTXsyCdf9d",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내일은 시험2일차군요,",
+        "writer": "UgxQk-4BxVYl-WrmBoB4AaABAg.9TTGnFdD7LT9TTh3LVcnnX",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "둘이 잘어울렸는데 마지막 마무리가 아쉽더라구요",
+        "writer": "Ugyq8qp4hqHU6n3u8vF4AaABAg.9TTACJOYp5I9TTY9zmoJD5",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흐으음 헤헷",
+        "writer": "UgzjSh4B0P87xTaSHAF4AaABAg.9TT8566X1tf9TTYBrkC7xl",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "집밖을 나가는 순간 스치는 모든 인물들을 조심하게되지요",
+        "writer": "UgxpMUNpbaEre72yR6R4AaABAg.9TT7mJJ4_PP9TTYFRh9dGV",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교라면 고등학생이신가요",
+        "writer": "UgwaUtgFm21DnjJ7pPV4AaABAg.9TT7aafXQ-u9TTYIFIQe2_",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헤헷 만족해하(이름) 다행이에요",
+        "writer": "UgwyZJFWP6Ba4cPZtOV4AaABAg.9TT2l5NdmGo9TT_aWym7r0",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1등이 아니셔도 저를 항상 잊지않고 방문해주셔서 감사하게 생각하고있어요",
+        "writer": "Ugz-g5BHKIaBKBlXk6p4AaABAg.9TT05vBf64u9TT_ZIxVRBI",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엄흐낭 예쁘게봐주셔서 감사합니다",
+        "writer": "UgwUic_HPc4ciycYcB94AaABAg.9TSzbqWsi8h9TT_UO-f40F",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 오늘 날씨가 많이 서늘해졌네요 감기조심하세요",
+        "writer": "UgwS-5yKrHZHmVfX8bp4AaABAg.9TSw3-UJj5J9TTYh5OD2vo",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아버지 부탁으로 계속 낙제되었던거였지요",
+        "writer": "UgyUxOgRMTvj8cOKERd4AaABAg.9TSuH09WIOZ9TTYnD_2XYE",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사무 요원인줄 알았지만 만렙 요원이였지요",
+        "writer": "UgyW7EgbGrK1qk_golp4AaABAg.9TSsWl3iflS9TTYpwLrrJ8",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 정도면 만먹지 않을까요",
+        "writer": "Ugwh1nVkdCnfT-3yAx14AaABAg.9TSsQpDMbbh9TTYrj-GvVm",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 답글 감사합니다.",
+        "writer": "Ugwh1nVkdCnfT-3yAx14AaABAg.9TSsQpDMbbh9TTZihxgJPq",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크으으 감사합니다 )",
+        "writer": "UgyJ0vLXIYq6HQWlA8x4AaABAg.9TSs2fJLGKK9TT_Py40CmR",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "하필 건드려도 전설적인 요원 아들인 낙제요원을 건드렸댜",
+        "writer": "UgzrRCggI2RSAL9oEw14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재미있게 보고 가요. 좋은 영상 감사합니다.",
+        "writer": "UgweZUE8xhcalpSptg14AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 1분전이었네 좋아요가 너무 적어서 보니깐",
+        "writer": "UgySKQFmU6K9nG7sL2h4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이번 주제 (이름)네요",
+        "writer": "UgxB01yP9LPRMR_Rw1F4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘 볼게요",
+        "writer": "UgzrUZhcMaRJM5e1AZR4AaABAg",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낙제로 인해 더더 (이름) 주인공이였지요",
+        "writer": "UgzrRCggI2RSAL9oEw14AaABAg.9TSrl8OXzrO9TT_OnTLuwY",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오히려 더 자극 받아서 선천적인 재능을 다시 살린 케이스죠",
+        "writer": "UgzrRCggI2RSAL9oEw14AaABAg.9TSrl8OXzrO9TTxLykLLPc",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저도 감사합니다",
+        "writer": "UgweZUE8xhcalpSptg14AaABAg.9TSr3mhnd1p9TT_JnsApPE",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오늘 올라왔어요",
+        "writer": "UgySKQFmU6K9nG7sL2h4AaABAg.9TSqbWOe3Hr9TT_IYkjlKe",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "낙제된 (이름) 너무 뭉클하더라구요",
+        "writer": "UgxB01yP9LPRMR_Rw1F4AaABAg.9TSqO47aA1C9TT_FWhItfS",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동네비디오방 그러니까요",
+        "writer": "UgxB01yP9LPRMR_Rw1F4AaABAg.9TSqO47aA1C9TToRwFul61",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "감사합니다 )",
+        "writer": "UgzrUZhcMaRJM5e1AZR4AaABAg.9TSqGxFeds39TT_CohZ1zL",
+        "write_date": "2021-10-18",
+        "url": "https://www.youtube.com/channel/UCXvftM-43hGjGc1TA-8Y_IA",
+        "parent_url": "https://www.youtube.com/watch?v=PSogxPp36WA",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

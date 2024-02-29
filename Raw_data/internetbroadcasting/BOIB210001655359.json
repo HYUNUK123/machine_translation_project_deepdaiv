@@ -1,0 +1,996 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001655359",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001655359"
+    },
+    "text": [
+      {
+        "content": "저것은 이후 마봉맨이 됩니다",
+        "writer": "UgygW0zrvtroN_Hs0q14AaABAg",
+        "write_date": "2021-10-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 2호기는 군대 (이름)요",
+        "writer": "UgxUsrkkO9ZPH7vY0mN4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기만 5번째 보는중이다,",
+        "writer": "UgzopReG8xsQcfY9PLl4AaABAg",
+        "write_date": "2021-01-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 진짜 오래하셔서 맛가셧구나",
+        "writer": "UgxdcfMNlCsc-1_ZdCt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이제 한달도 안 남았엉",
+        "writer": "UgwZfbanXl_r5N0gpQB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "성장의 대가는 세 분의 피와 땀,",
+        "writer": "UgyXxd6Yj4vJk29z2MV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)는 정말 (이름)다",
+        "writer": "UgxtQhTlQ-XzYWLW1Ul4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 나도 잡혔어.",
+        "writer": "UgxZWbeSEjbUCEKhpsR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 님 레프트 너무 좋아 레프트는 유일하게 지누 님 것만 보잖음 자고 일어난 거 겁나 귀엽잖아,",
+        "writer": "UgxPNJZEr1i96CdeCdp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누2호기 소환해서 구조하는거 왜이리 웃기지",
+        "writer": "UgxRxQ2eg4AkixhqwKp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저(이름)면 정신나가지",
+        "writer": "UgwDwziK9PbbIiycRtB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "10시간이면 한번하고나서 침대누우면 개편하겠다",
+        "writer": "Ugw4JyIu7QsiSPy3c3h4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아니 나도 잡혔어",
+        "writer": "Ugzd94MVxtOMIlI5aXd4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)님은 저번에도 중간에 난입하시더니 이번에도 중간에 들어오시네",
+        "writer": "UgxhuNHcLObj6av1SZN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 (이름)이 레전드인데 다음을 기약해버리눼,",
+        "writer": "Ugyfx64W-WOoMelHwRt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작한지는 일차 플레이시간은 시간 잠안자면 2일째가아니야",
+        "writer": "Ugy0a1dnupB8gMvz8Dp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여행갔다온 기분일듯",
+        "writer": "Ugw4JyIu7QsiSPy3c3h4AaABAg.9GE4pvL5P-x9GE4ssCu4Ad",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "댓이 없네",
+        "writer": "Ugzd94MVxtOMIlI5aXd4AaABAg.9GDT-XKUroQ9GDT0T1HHuY",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 이왜진",
+        "writer": "Ugy8fXLFCmSUoAGjrbJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 J1NU 1호기 J2NU 2호기였네",
+        "writer": "UgyrgYaCSEI9_FyItux4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "실쨩 차비님 커여워",
+        "writer": "UgzimDXwlzfNOo3628V4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스포합니다 보기싫으신분들은 화이팅 이사람들 좀있다가 섬에 도착합니다",
+        "writer": "UgxTJj0vRNnrbK5UgMt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갈색머리 (이름)도 조은데 흑발도 치인다, ,",
+        "writer": "UgyV4FUDPWIzJ9qMAyd4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레프트 뒤에 (비속어) 울고있는거 커엽",
+        "writer": "Ugxv53H6gMYNjDRAAqN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 2호기..",
+        "writer": "Ugzsp6WTnds9c75-VF94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누가 둘, 행복함이 두배,",
+        "writer": "UgyGVaAzlKgX7jgcUzF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 2호기 개청순하다,",
+        "writer": "UgxEVwv3fJYmBELBsO54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 구하러 왔구나.. (이름) 2호기.. 썸네일 시작",
+        "writer": "Ugx2TlWe-XsdFJEVW7h4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑발지누 미쳤다",
+        "writer": "UgwYtg1_lRzkjCt2CBR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차비님 욕이많이 늘었네,",
+        "writer": "UgxgfMErzXxrhrnrW9N4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "J1NU랑 J2NU랑 차이 뭔데",
+        "writer": "UgztcJ5kiA6OyKWuvUp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)님 빼꼼",
+        "writer": "Ugyg6kfsWwaeG3CbNgt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "차비님 욕하는고 첨보는거가따 왠지",
+        "writer": "UgxLXKc3DAaF1d-4-m94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "굽은 나무의 그림자가 사랑스럽다",
+        "writer": "UgyDV3tP-UKZYrE9FXx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 두명, 한명은 제가 데려가죠,",
+        "writer": "UgxVKroDtOtM8gAACih4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 미인계 오반데",
+        "writer": "Ugz5V7QrBH5Tysx9oTh4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나쁜말 도배",
+        "writer": "UgxUlNc5qkr4KY1oakZ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(비속어)님 등장.. 헤드셋 끼고 듣고 있었는데 소름 돋음, 이유따위 없어,걍 소름 돋음",
+        "writer": "Ugy3RhhxSkJbKcxlm814AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "초에 카톡이 내꺼인줄 알았당",
+        "writer": "Ugz9jJ1kDmGEhLZyZ7R4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 2호기 3호기 만들어서 저희 집으로 배송 부탁해요",
+        "writer": "UgzVcAvJSEdHFvEwAx54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최고다 지누찡",
+        "writer": "UgwHkCJxGJ6EV-0qMj94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이집 번역기 나쁘지 않네",
+        "writer": "UgwF1YrBt_XY--VTr054AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑발누 후욱후욱, .",
+        "writer": "UgyK4Xg4CvV292H__1d4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 둘(이름), 후욱후욱을 두명한테, 후욱후욱",
+        "writer": "Ugw0e7UVi8r3C83mUrd4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세상 처량한 목소리야 왜 커여워",
+        "writer": "UgzTXaLIbjKziJCv84t4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "_ _ l Y (__)__) 고양이 전(비속어)..",
+        "writer": "UgxVufrE_znnE59mvyV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐야 모자로 다른 스트리머 세뇌하고 다니던 그 김지누는 2호였어 .",
+        "writer": "UgyW-7czMRZ3FZf6Dzp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자고 일어난 (비속어)님 등장",
+        "writer": "UgxqF10Mf8NJqKlYXUF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전체화면으로 보면 오른쪽 아래에 째려보는 지누가 있다는 사실을 지금 알았다,",
+        "writer": "Ugxwk0fzkhWJTLN2MFN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "래프트 글씨 옆에 (비속어)님",
+        "writer": "UgwbSQajhq8uOTu5b_p4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 대자뷰같은대 뭐지",
+        "writer": "UgxEYydrHnHAYPfYY0t4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자기전에 래프트를 보다 잤던 나 자고 일어나서 래프트를 본 나 그리고 계속 해서 래프트를 한 모자",
+        "writer": "UgwnxflmXx2aDyWNgVd4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 2호기가 진짜로 둘",
+        "writer": "UgxHGo7uu19yAjMLDA54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 지각생",
+        "writer": "UgwbSQajhq8uOTu5b_p4AaABAg.9GBe3mrSuym9GBuNfff3WT",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)멍처이 김똘복 바부 뭔데",
+        "writer": "UgxHm1IMsquQaaQu1N14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "느아쩐다 하이라이트 인가",
+        "writer": "UgxAGlAX9uRyj_hgbIJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "튜토리얼이 반인 게임,",
+        "writer": "UgyEM1pIQYdmwvTX8S54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냥발 승천한다 에잇싯8. 나쁜말 나쁜말",
+        "writer": "UgxNzkUE3gHiFh-u-_p4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레프트 2일차, 점점 (반사회적용어)들이 되간다",
+        "writer": "UgwnTL1QP_iLLcXrdHF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 이 썸네일은 못참지",
+        "writer": "UgzAJslyn_ynLAUOOz54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잘생겼누 2호 산죠...",
+        "writer": "UgwFovrMhNonIjev49Z4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "커엽누 지찹이 모두 공존하는 이번 썸네일 라나가 체고시다",
+        "writer": "UgzkZEEVjzGl29tHmTl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 2호기 뭐야, 그럼 누가 가장 잘생긴(혐오표현), 맙소사 하늘에 태양이 두 개라니,",
+        "writer": "UgxPRET_iENw79EeKbB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누 지누제곱",
+        "writer": "UgyR37V35nNsqFnXqkt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 상처 받지 말라고 (이름)이 자막처리 해주신 거봐",
+        "writer": "UgyG3r8Lw-X_KF1sXah4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 물려있는 사람 지누 지누를 구해주러온 사람 (이름) 서로 다른 인물이니 착각하지 마세요.",
+        "writer": "UgwrhNvTVDGS5nkg2uZ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1누와 2누",
+        "writer": "UgxBpmIobWcQatewFnh4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "J1NU 랑 J2NU라니,",
+        "writer": "UgxkMdIYD4SPRL6qFOx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "투지누는 못참지",
+        "writer": "UgwPv-ovAZmXDM-9owt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 배도라지 래프트 영상보고 이거 보니까 편안하다",
+        "writer": "Ugyuqad1ZjDaU9jy6Rl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 흑발 (이름) 2호기 미쳤다",
+        "writer": "UgwjphXNXulz1HfACwl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "흑발지누도 괜찮은걸,",
+        "writer": "UgzKSa7gN7dF8-5HUvV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "자고 일어난 (비속어) 귀여워.",
+        "writer": "UgweGz6t20e_Uwksc6R4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "G맨 2호기의 2호기",
+        "writer": "Ugxyzu35DRpb-niLqnd4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 미 새 라는 (이름)의 욕일지 걱(이름) 모자이크였을지 ,",
+        "writer": "UgyG3r8Lw-X_KF1sXah4AaABAg.9GB_sZJ_cKX9GEcWWzYzY6",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수 예,",
+        "writer": "UgwrhNvTVDGS5nkg2uZ4AaABAg.9GB_jYk_LWg9GBxND54GnS",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "알고보니 (이름)아니나도잡혔어.",
+        "writer": "UgwrhNvTVDGS5nkg2uZ4AaABAg.9GB_jYk_LWg9GIOtvA3OjQ",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "수 다른 멸치가 구해준거임",
+        "writer": "UgwrhNvTVDGS5nkg2uZ4AaABAg.9GB_jYk_LWg9GauoeHquEo",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다들 욕밖에 안하던걸 이렇게 잘 만들어주시다니 (이름) 리스펙",
+        "writer": "UgxwuOVimnXTpqjGLzl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 배에서 놀라시는 장면이 안나왔네 아쉽, 그래도",
+        "writer": "UgxGX4fFI8ZTvetSzYl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)이 두명이라고 더블스윗",
+        "writer": "UgwesndCSceDBUd21Q94AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 인트로에 (비속어)님",
+        "writer": "UgwXZHenouAOgw2JNfB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 이게 오는구나",
+        "writer": "Ugybj5zNPC_tbYmGUwp4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬보고 호다다다닥 달려옴",
+        "writer": "UgxDG2N5HMdn2Z1L3154AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "2호기 뭔데 본체보다 멋있음",
+        "writer": "UgweNSGas1GjBStZWVF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지누가 둘 나주거",
+        "writer": "UgzFxyEWwx0J6uNC3_N4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 저 표정으로 아니 나도 잡혔어 하면 개웃기겠네",
+        "writer": "UgwLCS4eY7vdEOH6wAx4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그래서 썸네일에 (이름) 머리 물고있는게 똘복님이죠",
+        "writer": "Ugy7XeNbjMJGAiS0j9p4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오프닝장면 RAFT 글씨옆에 (비속어)님 빼꼼하는거 귀여웡",
+        "writer": "UgzSDx3xM6yu76thpSB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 방송 진짜 되게 오래해서 신기했던 1인",
+        "writer": "Ugyik-ZhlY3EmdtYCON4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 , 썸낼 개잘생겼네 (비속어)",
+        "writer": "UgwCVc-btQra3hJdo9N4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좌진우 우진우 ,",
+        "writer": "UgzIEe8g68xBkB6Y4Ht4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부터 자세히 보시면 (비속어)님의 모습이 보이실겁니다",
+        "writer": "UgxEKz3J6q_Klanue1F4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(썸넬에 치여 죽은 트수입니다)",
+        "writer": "UgyodQpkbkoiuAaUoYl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "레프트 시간 개잘감 너무 재밋엉",
+        "writer": "Ugxnrwak7Wua7VKOoOt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "방금 키즈나 아이 2호기 등장 영상보고있었는데",
+        "writer": "UgyBfMOkcP6eo3aJ6vZ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방때 진짜 레전드였는데 결국 3호기까지 나올뻔 했던",
+        "writer": "UgxbNrAMQsu_e4zqZkd4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "고차비 지누 김똘복 조합너무 조으다 게임을 잘하면서 못하고 서로 사이좋은듯 하지만 은근히 콩가루인조합",
+        "writer": "UgzlH0Y9V3hv4iywvcR4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이때 레프트 생방 진짜 오랫동안하셔서 진짜 놀랐었음, 자고 일어나도 그가 있었어,",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방때 거의 1시간정도 걸렸었지",
+        "writer": "Ugy--WL9uND8qAHx8Wt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바로 오는 내인생 (이름)이 알면 시(비속어) 억장 와르르멘션이다",
+        "writer": "Ugy-H4nMQQEOI9qirLV4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "1분전은 못참지",
+        "writer": "UgwXqafHiizTi8BEjuh4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "조하조하 썸넬 조하조하",
+        "writer": "Ugz3KbuATECf5qNCLHt4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "32초전은 못참지",
+        "writer": "UgzP7RK0OGiMjZs5mVJ4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "8초전 못참지",
+        "writer": "Ugwqh2IWlxqhUI4C29h4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)2호기, (이름)이2명 (이름)이 2명이나 된다고 이건 못참지 아",
+        "writer": "Ugw9iTdtYqoevG779pB4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파밍게임 믿고 보는 조합 지찹똘 지1누랑 지2누",
+        "writer": "UgxM6Pdue4qEm-NXZE14AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)가 2명, 최고야,",
+        "writer": "UgzVEJUQuX-fqSjVRL54AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸넬 (비속어)누",
+        "writer": "UgwTJpRJ1kjLcOskXMl4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 뭐야 잘생겼어 () 김똘복님은 드디어 개가 된 것 인가,",
+        "writer": "UgyYyT_dwU6awPxkcMd4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "후욱후욱 썸네일 후욱후욱",
+        "writer": "Ugxgvp-L8A8afmDX7aF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "출근하는길에 뜨다니 (비속어)",
+        "writer": "Ugw6e2ij7at76oxOGAN4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김지누 2호깈",
+        "writer": "UgwlRrNeoR6akY7LkEF4AaABAg",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "잠을 안자면 2일차가 아니에요",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GBYFtRdfZH",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "시작한지는 2일차. 풉, 플레이 시간은 40시간.",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GBa8J7PxVW",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "김 프로즌하트 (비속어) 명언 하루의 시작과 끝은 일어나서 잘때까지이다",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GBbKZdPvSv",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "대겨미 김 차가운심장 (비속어) 애석하게도 이게임은 러스트. 나한테 심한말 하면 죽어버릴거야. 그리고 재현아,",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GBiSCETsWG",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 저날 레프트만 10시간 넘게 하셨죠",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GBoeGTqZH_",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그에겐 일상입니다.",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GBxhzpgIy-",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁예 시작한지는 일차 플레이시간은 시간 잠안자면 2일째가아니야",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GCFOJ_7ib7",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Daniel Callisaya Tapia 이젠 무(비속어)기까지 하는구나",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GCo2JC4ihF",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "moonreen일러레 꿈나무 문린 (비속어)해야죠",
+        "writer": "UgxvGuMF9gzUg6OddHF4AaABAg.9GBX3lKxYVn9GD-UF8mWXe",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "동탄역에(이름)만세하는사제와사귀는엄준식 섹지핫지",
+        "writer": "UgyYyT_dwU6awPxkcMd4AaABAg.9GBX0ovQ-P59GBa-pcaZ6a",
+        "write_date": "2020-12-17",
+        "url": "https://www.youtube.com/channel/UCJGww2K__Q3y-MtDi0XWH2w",
+        "parent_url": "https://www.youtube.com/watch?v=outJDuj3xYg",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

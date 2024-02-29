@@ -1,0 +1,836 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001409317",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOHB210001409317"
+    },
+    "text": [
+      {
+        "content": "대한민국인 미모가 돋보임 춤선도 이쁘다",
+        "writer": "Ugz3FQ7M3K2asFKmUHV4AaABAg",
+        "write_date": "2021-04-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "다섯분 다 이쁘시네요 한분만 소개좀",
+        "writer": "Ugyx2ayaEI2kk4ZtF0Z4AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "익숙한 동네다.",
+        "writer": "Ugw22lU_zXIz9J6lzH54AaABAg",
+        "write_date": "2020-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갠적으론 궁중의상 입고 추는 영상이 주로 나왔으면 더 멋스러웠을 것 같네요.",
+        "writer": "UgxkCU3_RAo4fuXmcCV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "웬지 모르겠는데 (반사회적용어)스러운 느낌이 드는 이유는 뭘까요",
+        "writer": "UgyRK_Qm079-kHNBFuB4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "좀 괴짜스럽기도 하고 웃기네요. 잘보고 갑니다",
+        "writer": "UgzTLjEQjzNeRoku5oV4AaABAg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여대생이 생긴게 여대가 있기때문이아닌가 남대는 없잖아 고로 여대생이란 칭호는 어떠한 이상한 의미부여가 아니기때문에 별상관없는거임",
+        "writer": "Ugy3jKFZU0Fc1k-yl9B4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤도 이쁘고 옷도 이쁘네요",
+        "writer": "UgxrYxaB-WqTVSAZvLV4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남미 꼭 가보고 싶은뎀 영상 재밌게 봤습니다.",
+        "writer": "UgwN3BuQdZseF9wkycJ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "헐, 완전이뻐요",
+        "writer": "UgyjdfCRUEnAkXht7PF4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "갑만에 멋진 영상 본당",
+        "writer": "Ugwc0LXH51blavyF0NZ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부채춤 대박",
+        "writer": "UgyfNOg7-5n-SeBB7Ex4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "음악선곡은 솔직히 미스, 넘 안어울린다",
+        "writer": "Ugy-QUtCuc4dgKL0ifR4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왜 (반사회적용어)공연같지",
+        "writer": "UgzS3KfvA9z055voIZ14AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부채춤한복 너무 촌스러운거 같은데, 혹시 (반사회적용어)에서",
+        "writer": "UgxgZpkPgTWgsRumCjZ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "계량한복 잘어울리고 예쁘네요 참잘했어요 짝짝짝",
+        "writer": "UgzGYxkZxko96ie7u9J4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스페인 관광청 홍보영상으로 써도 되겠다",
+        "writer": "Ugzsa8A2dz84yGRQJhZ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "는 스페녀 완승",
+        "writer": "UgyGbujNcAqHYo1Otkp4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 멋진도전 감사해요. 편집도 음악도 넘 좋네요",
+        "writer": "UgywPw5CL6vsAjjkODZ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "별거아닌동작을 완성하는데 얼마나 많은 시간이 걸렸을지, 대단해요",
+        "writer": "UgxomZc0bWb4bqrGSeZ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여대생x 대학생o",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래랑 춤이랑 매치가 안되는데 기왕하는거 전통음악으로 하지 그러셨어요,",
+        "writer": "UgzGl3mp3rw-tpc-phZ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 저 계속 나오는 자세는 뭐가 있는 건가요, 저 턱 괴는 자세,",
+        "writer": "UgzBf5ox3GsAT2jDSHB4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그와중에 지코노래랑 별로 안맞는것같은데,",
+        "writer": "Ugxr1gHoJiNCCFtW91l4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "평상복으로도 저렇게 만드니 이쁘네요",
+        "writer": "Ugw4UtzOPk9rixUF8rx4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "춤선이 너무 이쁘네요. 한국무용과신과 봐요. 선이 틀려요. 너무 예뻐요",
+        "writer": "UgzhadoYIRUEY55GFnZ4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋있고 귀엽다",
+        "writer": "UgxJMErQ_Wi1L(혐오표현)TE14AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "오 굿굿",
+        "writer": "UgyxtlpJKYMgjOLOMiV4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아 진짜 너무 귀엽다 멋있다",
+        "writer": "UgwgEUzRB8syDYaWMex4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "근데 무용과 치고는 다들 후덕하네요",
+        "writer": "UgzXMCldAqHgOY-TRGF4AaABAg",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여대부터 없어지면 자연스레 사라질단어입니다",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8dUxtcR2c1F",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 저는(비속어)입니다 그리고 여대가 만들어진 이유는 알고 말하는 건가 (반사회적용어)이 남자들보다 교육받을 기회가 부족해서 여대가 만들어진건데 없애긴 왜 없애 그리고 굳이 대학생이라는 말이 있는데 여대생이라고 해야 하나 성별을 강조하는 이유가 뭔데 그냥 남자든 여자든 대학생이라고 하자 남자한테만 남대생이라고 안 하고 대학생이라고 하니 말구",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8duXTnjVrgC",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "냥냥냥 아그래서 지금 여자 대학진학률이 남자보다 낮음 최근 본자료는 여자가 더높던데 왜 지금까지 여대가 존속하는지 게다가 여대에 로스쿨 의대 도입한지오랜데 교육의 열악함 여대 필요없는데 여대 있는게 사실이고 여대가 있으니 여대생이라고 부르는 사회가 있는겁니다 성신여대생연대생 이렇게 부르는 이유를 아직도 몰라요 (비속어)가 안굴러갑니까",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8erhpyC0Oqy",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "네 저는(비속어)입니다 그리고 뭐라노학교이름이 여중 여고는 봤어도 남중 남고는 못봤는데 남중 남고여도 중 고 이렇게만 하지 하나는 알고 둘은 몰라",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8fNy1bJbpVe",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여대가 왜생겼는지 말했더니 그럼 여대를 없애란다 공부못하게 해서 여대만들고 공부열심히했더니 필요없으니 없애란다",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8lQ1SpOTsLQ",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여대생도 맞는 표현 아닌가요",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8l_mdZboQI6",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정준영 여대생 남대생 여교사 남교사 여경 남경 여군 남군 여의사 남의사 여성변호사 남성변호사 오른쪽에 비해 왼쪽이 자주 쓰이는 이유가 뭐라고 생각하세요",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8lw4FvGz3ea",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 영상에 저 학생분들이 여대 학생이라는 정보가 어딨음 2. 그리고 여대 학생한테만 여대생이라고하나 여남공학 대학교다녀도 여자한테만 여대생이라고 하잖앜 3. 여대 학생이라고 쳐도 왜 굳이 여대 학생이란걸 여대생 이라는 단어로 알려줘야함 여남공학 학생이라고 여남공학대학생 이라고 안하면섴",
+        "writer": "UgziY0JwIZl6Dj9JU8d4AaABAg.8dCldtxTfEn8mmjSyjLtcg",
+        "write_date": "2019-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저이쁜 개량 한복 딸이랑 맞춰 입고 싶다. 너무 사랑 스럽다",
+        "writer": "UgzXfFtvKiOx56NfCAx4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "디자인이 한복보다는 기모노같은 느낌이드네요",
+        "writer": "UgxZxbSefqfqJPW0JUN4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해외여행 자주 다니는 여자는 걸러야 된다.",
+        "writer": "Ugxr93kRlXMOmYAuG0t4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왠지모르게 눈시울이 붉어졌다 이영상을보고 한국인인게 자랑스럽다고 느껴졌기때문이다",
+        "writer": "UgwAH2vOpFub1nNVkG94AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "학교다닐때 생각나네요 넘 예뻐요",
+        "writer": "UgwQf36XdL1nqGOmSoR4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우리나라의 한복 입고 멋진 춤사위 더 멋진걸요",
+        "writer": "UgxTtst7ffzAQDlfLlV4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꺄갸 우리 쌤이당",
+        "writer": "UgzkTs1rmawduX54_oB4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지코 artist 랑 너무 찰떡인거",
+        "writer": "UgyAgTFKas9PtWdrWHF4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우와 완전 멋져요... 한복이랑 메이크업 헤어 풀로 챙겨서 하신거 완전 멋집니다. 예뻐요 .",
+        "writer": "Ugyc4tG--dULeSJvCa94AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "미쳣네요, 진짜 춤추는 거 연결해서 찍은 여행 영상 중 베스트임,",
+        "writer": "UgzNubGmMXylFvyhQYJ4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쓰.할때 편집 너무 귀엽다",
+        "writer": "Ugx2Cv0Ig6rTNJ6eDfp4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 예쁘네요.",
+        "writer": "Ugy_UAf4y4cPf0HXqJN4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "노래가 아쉽다 아티스트다 이건가",
+        "writer": "UgwbtUfb-KF04mhlIZN4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부채춤 부분이 더 보고싶어지네요 이뻐요 첨에 사복입은 샷도 너무이쁨",
+        "writer": "UgxgqLmfcrEee7a8ipl4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크으 리스펙리수펙..",
+        "writer": "UgywfG3TcRjHUkFQNll4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "옷이 너무 이뻐요",
+        "writer": "UgwWstrj4eXhO7emDIN4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "크으 힙하다 힙해",
+        "writer": "UgzTxY4m5pM2R9x7y2N4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 궁금한 점이 있어 질문 남깁니다. 음악 저작권 문제는 어떻게 해결 하시는 지요",
+        "writer": "Ugw8_3cDDsA6fAZ8cdB4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "ACE WTF 뭐지이(비속어)은",
+        "writer": "Ugxr93kRlXMOmYAuG0t4AaABAg.8YH9P1GoeSW8Z7s6lMe1Fp",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭔 소린지, 그렇게 사시면 피곤하지 않으신,",
+        "writer": "Ugxr93kRlXMOmYAuG0t4AaABAg.8YH9P1GoeSW8_1DMWtHRHT",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 사상 가진 인간은 걸러야 된다.",
+        "writer": "Ugxr93kRlXMOmYAuG0t4AaABAg.8YH9P1GoeSW8anFK5vOWch",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해외여행도 못가본 놈은 걸러야 되네",
+        "writer": "Ugxr93kRlXMOmYAuG0t4AaABAg.8YH9P1GoeSW8b4UJYkT6xu",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Ryan Lee 아하 감사합니다",
+        "writer": "UgwAH2vOpFub1nNVkG94AaABAg.8YDxFVKPzDw8a3-Woqfz5x",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 너무 멋진 채널을 만났네요 와 어쩜, 말잇못,여러분 정말 제 사랑 드세요 어쩜 저렇게 이쁠 수가, 입을 막는, 앞으로도 질 부탁 드립니다( ) 영상도 예쁘고 여기 학생분도 예쁘고 걍 다 예뻐요 앞으로도 이런 영상 많이 올려주세요",
+        "writer": "UgwkAzkHqa6c-SVnkWd4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 여행의 마지막은 쇼핑",
+        "writer": "Ugwj_vRKUYygkRLibR94AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생활한복이랑 춤이 엄청 이쁘네요 잘보고갑니다",
+        "writer": "UgxwcfYUv58mSGXxAUh4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무좋은영상에 처음으로 유트브 댓글남기고갑니자 춤추믄모습들이 완전 아름다우세요..",
+        "writer": "UgxTUqtTm4YuWhI2tQ14AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어, 저기 나오는 부채 우리무용단부챈데,",
+        "writer": "UgyYJghnS7cCH5ebhO94AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "나의 것 우리의 것을 소중히 여기는 그 마음이 너무 멋지네요.",
+        "writer": "UgxhfdNpsl6hM1DAI014AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "몇몇 댓글들 왜이렇게 불편해하지 피곤하게 사시네",
+        "writer": "UgxfnBBopWyZ22VHy594AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국무용 하는 학생들인가본데, 저게 전통의상이라고 생각하는건지, 특히 상의는 바로옆에 나오는 일본여행영상의 기모노랑 프린팅 패턴이며 색상 톤이며 다른게 뭔지 모르겠다",
+        "writer": "UgxU2yBIaP19XwUovPN4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(반사회적용어)미 뿜뿜",
+        "writer": "UgzX0mdH92w4YXJk8qF4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "무용과 학생들이 모두 예쁠거라는 편견을 깨주신 여러분들의 용기에 찬사를 보냅니다",
+        "writer": "UgwoOj7aICgSAA26zup4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예쁘다고 말할수 없다 아름답다 말하리라",
+        "writer": "UgzZxVp05DTJGFScx7N4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해변가에 춤추는거 신경 안쓰고 바다구경 하는거보고 빵터졌어요",
+        "writer": "UgzPcTfFRCwc1xc_jjF4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "기분 좋은 영상이네요. 잘 보고 가요.",
+        "writer": "Ugx2S5nIqd77wc3D5I94AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생활 한복들 전통 한복들 부채 등등 다 챙겨가시다니. 춤선도 예쁘고 영상 편집도 훌륭하군요. 생활 한복도 예쁘다는 것을 실감합니다.",
+        "writer": "UgwIZ-Ybeq9lzCmrjih4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와, 아름답다 편집도너무잘하시고 다예쁘셔 춤선도,",
+        "writer": "UgzIiKkEl3AYaDEqPkJ4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "짐이, 얼마나 됐을까, 상상도 안된다",
+        "writer": "UgzL38aCb8FjbA3u6iR4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한국무용 최고..",
+        "writer": "UgwhkEcV6sQHSazlnrB4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토이 Lyon 한국에서 파는 생활한복이예요 저걸 왜 기모노랑 비교할 생각을 하지",
+        "writer": "UgxU2yBIaP19XwUovPN4AaABAg.8Wxm7skV6rR8WxqgjggIMK",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토이 Lyon (반사회적용어)",
+        "writer": "UgxU2yBIaP19XwUovPN4AaABAg.8Wxm7skV6rR8X219r4vRdG",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "토이 Lyon 대학생 이여",
+        "writer": "UgxU2yBIaP19XwUovPN4AaABAg.8Wxm7skV6rR8Y7V-cG1evL",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생활 한복이라고는 하는데 한복의 선과 무늬는 제대로 된것없이 일본 기모노 풍이 많이 나기는 하네요 저도 이분 말씀에 공감이 갑니다",
+        "writer": "UgxU2yBIaP19XwUovPN4AaABAg.8Wxm7skV6rR8Y8XIJBIVd5",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "전통의상이라고 말한 적도 없는데 에휴 참 그리고 요즘 생활 한복도 꽃무늬 있는거 많아요 무늬 있으면 무조건 기모노 어휴 어디서 그런 무식한 생각을,",
+        "writer": "UgxU2yBIaP19XwUovPN4AaABAg.8Wxm7skV6rR8YFBYp8n_n_",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "한복 전(비속어) (Lv 200)",
+        "writer": "UgxU2yBIaP19XwUovPN4AaABAg.8Wxm7skV6rR8dXKxvOUHwO",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "침대위에선광폭화 거울부터 보고 오시길",
+        "writer": "UgwoOj7aICgSAA26zup4AaABAg.8WxIJ3GR_oH8X5P3DCgBLH",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "당신의 무례함에는 관심을 주는 것조차 아깝겠네요.",
+        "writer": "UgwoOj7aICgSAA26zup4AaABAg.8WxIJ3GR_oH8XP7kB8qf_B",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아이고 자존감 (비속어),",
+        "writer": "UgwoOj7aICgSAA26zup4AaABAg.8WxIJ3GR_oH8_1DPPStjM2",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "천박한 댓글단 그 손가락이 대단합니다",
+        "writer": "UgwoOj7aICgSAA26zup4AaABAg.8WxIJ3GR_oH8hcFMbIJFlc",
+        "write_date": "2018-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무너무너무 예뻐요 와우 의상도 다 챙겨가셨네요, 현지에서도 이쁨 많이 받으셨겠네요, 잘봤습니다",
+        "writer": "Ugwc6ilbmJcTj3YSa-h4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "저렇게 폰 고정(비속어)구하면 누가 안쎄벼가나여, 외국은 조심하라카던디",
+        "writer": "UgwHHjKVgsVW6qCVpE54AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어디학교져 바로 찾아가야겠어요",
+        "writer": "Ugyps-aVgJceF0xWy5R4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "지코 뮤비보다 이게 더 이뻐요 진짜 리스펙합니다",
+        "writer": "UgwkZS5nW3WEKMhtVUp4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "뭐지, 후원으로 간 건가,",
+        "writer": "UgzH4tW764jNMECXuFN4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찍으신분진짜 잘찍으셨네요 존경합니다",
+        "writer": "UgySqn7uVliwhf7WV1B4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겁나 오글거리네,",
+        "writer": "UgywQPkXRyllwCf-PuR4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "치마가 뭔가 (반사회적용어)느낌인데. 용기가 대다나다",
+        "writer": "UgwJ-IvTlFMWOedUgF94AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "부채랑 의상이랑 다 챙겨간거에 리스펙이다 진짜",
+        "writer": "UgwHeHWY4F8heDJ2daV4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "멋진 여성분들 영상 대박이네요..",
+        "writer": "UgzaiY86hiwUMLvRAid4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그나저나 춤선 이뻐",
+        "writer": "UgwYE-z36Busbqd5ygJ4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이런 영상 제보 받으시는 건가요",
+        "writer": "Ugxl2YX21oLq8d-Lzwt4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 너무 멋있다....",
+        "writer": "UgyTmK9rknWFWthvpL14AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "스페인가보고싶다 학생분들 춤도 너무 아름다워요",
+        "writer": "Ugwqlacf_BobSsEKOiN4AaABAg",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "kjinkong 저는 너무 자랑스럽네요..",
+        "writer": "UgywQPkXRyllwCf-PuR4AaABAg.8WtW5m3fyNo8Wy3R8z2PYF",
+        "write_date": "2017-10-17",
+        "url": "https://www.youtube.com/channel/UCHS-3P-lLr-3kF79mxPFWVg",
+        "parent_url": "https://www.youtube.com/watch?v=51LiCqmz_A8",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}

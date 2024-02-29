@@ -1,0 +1,708 @@
+{
+  "SJML": {
+    "header": {
+      "identifier": "텍스트_구어체 말뭉치 구축_0001675828",
+      "name": "컨테이너 텍스트 인식을 위한 학습용 데이터셋",
+      "type": "0",
+      "source_file": "BOIB210001675828"
+    },
+    "text": [
+      {
+        "content": "파리에 이어 이건 또 뭐야",
+        "writer": "Ugz1tlEGCMADIfmSI2t4AaABAg",
+        "write_date": "2021-01-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "반푼을 저사람이라 부른 시절",
+        "writer": "UgyIDrmLOOJzZ9mPEKt4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁두없던시절 섬네일들",
+        "writer": "UgzTmlB72--quauwPwd4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "파리 게임 하나 봤다고 바퀴(반사회적용어) 게임까지 추천해주네 알고리즘",
+        "writer": "UgzSXfhJhK2hZObFsRh4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁카데미 보고 온사람 앙 (비속어)",
+        "writer": "UgzBlQPBnRASPLRVxSN4AaABAg",
+        "write_date": "2020-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠소 게임도 우왁굳이하면 재밌어보여",
+        "writer": "UgwF5ktPk7JNYPL5CS54AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "그때 프리즘스톤에 새뇌 당하셨던 (이름)이신가요",
+        "writer": "UgwncZ9IvbWNTTNiuTF4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "브금이 무슨 블랙스쿼드인줄 알았넼",
+        "writer": "UgyZ27BvagzxXGgO_p14AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "찾는(비속어) 있어서",
+        "writer": "Ugx_GDpi2SuufUyYMlR4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여캐하려고 방 계속 다(비속어)는거봐",
+        "writer": "UgwCPsslS1iLyuVxlqp4AaABAg",
+        "write_date": "2018-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "으 바퀴(반사회적용어) 화면에 날아오를때 기겁해서 움찔했다",
+        "writer": "UgzJf-OYWNa4fjcSO-h4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "루시우 같다 벽타기",
+        "writer": "UgydDcFSEMnSxWl_VPJ4AaABAg",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왤케 내가 간지럽냐",
+        "writer": "UghBFyDKPvgrsXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "청자랑 하는건 다 재밌는거 같아요",
+        "writer": "UghAHLUjphzoTXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "예전엔 조의아파트에 나오는 바퀴(반사회적용어) 살았으면 좋겠다고 생각헸는데",
+        "writer": "UgjVMeT6I8NcIHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현)보일때 지렸다",
+        "writer": "UgjWKCtx9aapFngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겨우 꾸역꾸역 다봄, 진짜 웃긴데 너무 (비속어)(비속어)임 .바퀴 날아올때는 진짜 흠칫거리면서 봄 ,",
+        "writer": "Ugi1hkA6sCzfWHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳형 사랑해.",
+        "writer": "UgjuFjCNhCq35HgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바지벘고 소러질러",
+        "writer": "UgiQF6lJddlrTXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바퀴(반사회적용어) 알낳을때 (비속어) 소리 같네",
+        "writer": "UgjywqdqzNmL-ngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "남 여 차이너무심하다",
+        "writer": "UgjGHjYR_AfELngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 컴으로 어떻게함",
+        "writer": "UgjxnKywISJVengCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "너무 답답해,",
+        "writer": "UgjbiFY95YM3zXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바퀴(반사회적용어)가 되서 생존하는걸 좀 보고싶었는데 사람플레이를 많(이름) 좀,",
+        "writer": "UggJRq1eKkyOiXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 돈주고 다운받아야되나요",
+        "writer": "UghxACcPeRUKqngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "게임 (비속어) 참신",
+        "writer": "UghueR1Y_iU6k3gCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이걸 왜 이제봤지 꿀잼",
+        "writer": "UggpIzed0ouiRHgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "설명 좀 읽어라 리얼 암걸리네",
+        "writer": "UgiZx79gHam7fngCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팬들 형형 하면서 말하는게 넘 귀여워,",
+        "writer": "UghkqtAmgXp4oXgCoAEC",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "꿀잼이네 꿀잼이야",
+        "writer": "UgjFiSrRoUwZjngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "난 바퀴(반사회적용어)를 집에다가 애완동물처럼 키워서 안징그럽다",
+        "writer": "Ugiw1JWMIaYod3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "소리가 넘 이야, 콘텐츠보다 귀 썩겠네, 이 겜은 귀와 눈이 넘 혐오스러워,",
+        "writer": "UgjvZW4ea4OIUXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(혐오표현) 보다가 밟혀죽은 바퀴(반사회적용어) 수 왁형이 컨(비속어)로 잡은 바퀴 수",
+        "writer": "UgipVDNZ8mtKlHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "또는 크흠(이름), 엣헴엣헴",
+        "writer": "UgjywqdqzNmL-ngCoAEC.8NYlFjdaFSG8Nug3szCZ2N",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "sky a 개념좀 챙겨라 언제봤다고 반말이니 어머어머 하여간",
+        "writer": "UgiZx79gHam7fngCoAEC.8LX9v-gSCsA8WShJMEtdyJ",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 이런 쿠소게임이 제일 재미있어요,",
+        "writer": "Ughs0Vw_3tJ6w3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 (비속어)",
+        "writer": "UghnkrEgJH6h7HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "와 이건 (비속어)이라못보겠네요",
+        "writer": "UghWJpwZn3eBHHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 팬이에용 사랑해요 항상 잘 보고있습니다",
+        "writer": "UghwFNsyjeRygngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "아까 댓글 많았던것같은데,",
+        "writer": "UgjAIlYott72yXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)은 그래도 잘하시는 것 같은데, 다른 유투버꺼 보니까 앉는 것도 몰라서 헤매던데,",
+        "writer": "UgipWr5yom26rngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여어어쒸이 쿠소겜전문 스트리머",
+        "writer": "UggAxYmFn6DhB3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우악굳님은 생방 어디서 하시나요",
+        "writer": "UggXuJJGYgD6ZngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "메인메뉴 때 브금 왜케 쓸데없이 긴장감넘침",
+        "writer": "UgjtrSxVOrsjyHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "최소한 키는 숙지하고 방송하자. 보는데 암걸린다",
+        "writer": "Ugjsk3SjH3eYRHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "귀여운 왁퀴(반사회적용어) 그림보고 들어왔더니 어지럼증을 안고 떠나간다,",
+        "writer": "UggQWn3EsQEJUngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "생방으로봣는데 꿀잼이엇음",
+        "writer": "UgjtjwZ8GLz_GXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름)영상 빠짐없이 다보는데 이건못보겟음 으악 (비속어) 발간지러",
+        "writer": "UgiDY0JhUOblS3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳은 시작전에 조작키 다가르쳐주는데 시청자가 다가르쳐줘야함",
+        "writer": "Ugha_Dk951rc7XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "어 프로필 사진 바뀌신건가",
+        "writer": "UggMxl2w8ETtm3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁굳은 쿠소게지..",
+        "writer": "UghgYq30S0qUbngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁 퀴(반사회적용어)",
+        "writer": "UgiDMovka67N1ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "궁금한게있는데요 (이름)은 어쩌다트위치로오신거에요 (이름)시는분 설명부탁드립니다 방송을 자주못봐서 모르겠네요",
+        "writer": "UggCF7v1uIQJFngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트위치에서 하십니다.",
+        "writer": "UggXuJJGYgD6ZngCoAEC.8KAti_GFk0G8KAyM8E86ia",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역재생 인코더 이형 그런거 못함. 천생이 그런듯,",
+        "writer": "Ugjsk3SjH3eYRHgCoAEC.8KAruvHq2KA8KAsyQmfvWL",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "우왁굳 키 724cm",
+        "writer": "Ugjsk3SjH3eYRHgCoAEC.8KAruvHq2KA8KBD2qrViTh",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "Twose27 어이구야",
+        "writer": "Ugjsk3SjH3eYRHgCoAEC.8KAruvHq2KA8LLNTMEa7hu",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역재생 인코더 진짜 그러길 바라지만, 그럴일은 없어요,",
+        "writer": "Ugjsk3SjH3eYRHgCoAEC.8KAruvHq2KA8N5lKxY120m",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "역시 모국",
+        "writer": "UggyAX08j05PVngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "끝까지 보려 했는데 바퀴(반사회적용어)라 중도포기, 개싫어",
+        "writer": "Uggq0AkF-JtV1ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "세스코가이게임을 좋아합니다",
+        "writer": "UgiRu1cb6_Owa3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "정말 재밌어여",
+        "writer": "UgjHcXjczAanfngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네인 너무 귀여운거 아니오 .",
+        "writer": "UgjUaQh--yQlPXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "썸네일 (비속어) 귀여웍긐",
+        "writer": "Ugg7vKFu54Ob_HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "누나 이뻐요.",
+        "writer": "UggnrnqShPQ3jHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "재밌긴하니까, 참고볼려했는데 못보겠다, 온몸이간지러워있는거같아",
+        "writer": "UgiGxQvgnJNGd3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여기다 쓸 말은 아니지만 자이언트라이브(이름)은 갑질 당하고 망명했던데 이 형은 어찌보면 선경지명이 있는거 같네. 트위치로 옮긴게 진짜 신의 한수였던거 같다.",
+        "writer": "UghLodwW7Ynqw3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "바퀴(반사회적용어) 열심히 잡는 모습이 귀여우시다",
+        "writer": "Ugj7kXPaXXI4P3gCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "왁형 채팅창 절대 안읽고 조작키같이 게임에 나오는 말 죽어도 안읽는 패시브 또터짐",
+        "writer": "UghMTkwFot3RQHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "여케 쓸때없이 몸매좋네",
+        "writer": "UgjjD5mPOSwT-HgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 이제 금발아니여도 좋아하네, 취향바꿨어",
+        "writer": "Ugi7u41lJCzjWngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "진짜 쿠소겜 쿠소",
+        "writer": "Ugg2QG6M-H805XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠소게도 이런 쿠소게가,",
+        "writer": "UggEhzBOSqRz3ngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "사스가 쿠소전문",
+        "writer": "UgiLQhyWOOHdpHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이 게임을 보고 바퀴(반사회적용어)에게 사람은 엄청나게 무서운 존재겠구나 생각하게 되어서 이제는 바퀴(반사회적용어)를 잡지않, 기는 (비속어) 다 뒤졌으면 좋겠다 (비속어)",
+        "writer": "UgjgdanBL_9MzngCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "겜 분위기가 더쉽을 바퀴(반사회적용어) 버전으로 보는 느낌",
+        "writer": "UgihOBU2meDSJHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "이거 보는 내내 온몸에 소름이돋고 괜히 근지럽고 (이름) 드네요, 바퀴(반사회적용어) 입장이면 좀 덜할 줄 알았는데 똑같애, 으으 더듬이 움직이는거 으윽 .",
+        "writer": "UghdNEjz_dTG7XgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "쿠소 많이 올라오네 기분이 너무 조와",
+        "writer": "UggHPtmn6YIqKXgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "(이름) 전 어릴때 바퀴벌래 많이봐서그런지 혐오감은 없는듯 지금은 본적이없다만",
+        "writer": "Uggq0AkF-JtV1ngCoAEC.8KAIk1ie5OG8KAe7tPr4ek",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "John Jal (이름)도 (비속어)리카 갑질 (비속어)으로 당했는데 청자분들한테 찡찡대면서 썰풀껀아니다. 더 더러운꼴 보기전에 가겠다. 라고 하셨음 갑질을 안당(이름)닙니다. 물론 오직 갑질때문에 간건아니고 트위치가 방송환경이 더 좋고 청자들반응도 좋아서 간겁니다.",
+        "writer": "UghLodwW7Ynqw3gCoAEC.8K9VVhLXeot8K9xRmKz2b8",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "John Jal 근데 이분은 유독 팬들 충성심이 높아서, 오히려 좋은결과가 되었, 큼큼, (이름)도 트위치로 옮겨오시길 바랬는뎀. 유튜브에서만 하실것같아 아쉽",
+        "writer": "UghLodwW7Ynqw3gCoAEC.8K9VVhLXeot8KAmQkjKf_q",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "유전자에 새겨진 본능인듯",
+        "writer": "UghMTkwFot3RQHgCoAEC.8K9JpBxHNmW8KBjs2j8_6N",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "해충(비속어)들인데 무슨소리임",
+        "writer": "UgjgdanBL_9MzngCoAEC.8K8vBvjgvGu8LXbiXHs1A9",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "셀비아 salvia 후엥,",
+        "writer": "UgjgdanBL_9MzngCoAEC.8K8vBvjgvGu8SuAJTOAt_8",
+        "write_date": "2017-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "엮씌 우웩굳은 쿠소다 이릏게 평가하고 시프요",
+        "writer": "UghHOTqRKE0nQHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "트위치 가봣는데 쉽구 편리하더라구여 생박 채팅에 좋앗어여 윽 바퀴벌래는 좋아질수가없네여",
+        "writer": "Ugge8MHDxeG-DHgCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      },
+      {
+        "content": "내가 1등으로봐서 1등으로댓글을 ....흐흐 좋았다",
+        "writer": "UghpcLihyURnongCoAEC",
+        "write_date": "2016-11-12",
+        "url": "https://www.youtube.com/channel/UCBkyj16n2snkRg1BAzpovXQ",
+        "parent_url": "https://www.youtube.com/watch?v=_saA3KfcoT0",
+        "source_site": "https://www.youtube.com/"
+      }
+    ]
+  }
+}
